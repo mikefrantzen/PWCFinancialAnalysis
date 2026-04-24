@@ -1,0 +1,934 @@
+                                                  Budget Summary
+Revenue vs. Expenditure Comparison
+The pie charts show the expenditure and revenue budgets for all Countywide funds. Note, percentages may not add
+due to rounding. The detail for these charts is displayed in the Combined Statement of Projected Revenues, Budgeted
+Expenditures, and Projected Changes in Fund Balance located on the next page.
+                                      FY26 Total County Revenue Sources
+                       (Note: Excludes Operating Transfers In and Non-Revenue Receipts)
+                                         FY2026 Total County Revenue Source
+                             (Note: Excludes Operating Transfers In and Non-Revenue Receipts)
+
+                                Use of Money & Prop                                                 Misc
+                                        1.1%                        Charges For Serv                1.5%
+                                                                         11.8%                                Other Localities
+                           Fines & Forfeit
+                                0.1%                                                                               1.1%
+
+                          Permits & Lic.
+                              0.9%
+
+                    Other Local Taxes_                                                                                                State
+                           7.0%                                                                                                       27.6%
+
+
+
+
+                                 [01-Insert FY26 Total County Revenue Sources Pie Chart]
+                                                                                                                                    Federal
+                                                                                                                                     4.8%
+                            Gen Prop Taxes
+                                44.2%
+
+
+                                                                $3,529,894,360
+                     [02-Insert FY26 Total County Budget by Category of Expenditure Pie Chart]
+                            \\ggfiles\OMB\2026 Budget\Charts and Graphs\Budget Summary\FY26 Adopted Graphs.xlsx
+                                                              All Funds Rev AreaBy Category of Expenditure                                                                       Page 1
+                       FY2026 Total County
+                                       (Note: Budget     By Category
+                                              FY26 Total County
+                                              Excludes Operating
+                                                                      Budget
+                                                                            of Expenditure
+                                                                 Transfers Out)
+
+                                                   (Note: Excludes Operating Transfers Out)
+
+                                                                                                                   Amortization &
+                               Education                                                                            Depreciation                             Payments to Local
+                                 61.8%                                                                                 0.2%                                      Agencies
+                                                                                                                                                                   0.2%
+                                                                                                                                                             Leases & Rentals
+                                                                                                                                                                  0.4%
+                                                                                                                                                   Capital Outlay
+                                                                                                                                                       0.8%
+
+                                                                                                                                                Internal Services
+                                                                                                                                                      2.1%
+                                                                                                                                           Contractual Services
+                                                                                                                                                   3.3%
+                                                                                                                                          Fringe Benefits
+                                                                                                                                               5.2%
+
+
+                                                                                                                                Purchase Goods &
+                                                                                                                                    Supplies
+                                                                                                                                     11.2%
+                                                                                                               Debt Service
+                                 Personal Services
+                                                                                                                  0.8%
+                                      14.0%
+
+                                                                     $3,887,842,507
+                                           \\ggfiles\OMB\2026 Budget\Adopted\Agency\03--Budget Summary\Expenditure summary pie chart (modified categories)
+                                                                                        BS1 All Funds Exp Cat                                                                             Page 1
+
+FY2026 Budget                                                                            34                                                                                       Budget Summary
+                                                                                                                     Budget Summary
+                                                  Combined Statement of Projected Revenues and Budgeted Expenditures for FY2026 Budget
+                                                                                                  Governmental Funds                                                                    Component Unit Funds                                                     Proprietary Funds                   Fiduciary &            Total
+                                                                           General                         Capital                           Special                              Adult                                                                 Enterprise              Internal            Custodial Fund         Adopted
+                                                                            Fund                        Project Funds                     Revenue Funds                       Detention Ctr.                         Education                            Fund                Service Fund               Type              Budget
+Net Positions
+Invested in Capital Assets, net of related debt                                              $0                                 $0                                  $0                                 $0                                 $0                   $55,598,000            $6,098,000                  $0          $61,696,000
+Restricted                                                                                   $0                                 $0                                  $0                                 $0                                 $0                   $39,729,000           $11,475,000        $222,750,000         $273,954,000
+Unrestricted                                                                                 $0                                 $0                                  $0                                 $0                                 $0                    $3,430,460           $61,436,653                  $0          $64,867,114
+Projected Fund Balance
+Non-spendable                                                                   $369,000                                  $0                            $21,000                                  $0                         $5,078,000                                  $0                    $0                     $0        $5,468,000
+Restricted                                                                     $9,998,000                                 $0                       $125,607,655                                  $0                       $242,816,000                                  $0                    $0                     $0      $378,421,655
+Committed                                                                    $147,441,000                        $69,324,980                                 $0                                  $0                        $36,799,000                                  $0                    $0                     $0      $253,564,980
+Assigned                                                                      $37,227,000                                 $0                                 $0                          $2,438,000                       $272,019,000                                  $0                    $0                     $0      $311,684,000
+Unassigned                                                                   $130,688,694                                 $0                          ($74,000)                         $23,827,860                       $237,878,391                                  $0                    $0                     $0      $392,320,944
+Total Fund Balances                                                        $325,723,694                       $69,324,980                      $125,554,655                          $26,265,860                      $794,590,391                            $98,757,460        $79,009,653           $222,750,000       $1,741,976,693
+Projected Revenues
+General Property Taxes                                                     $1,467,653,858                                 $0                         $92,605,480                                 $0                                 $0                                  $0                 $0                        $0     $1,560,259,338
+Other Local Taxes                                                           $238,549,813                                  $0                          $9,573,024                                 $0                                 $0                                  $0                 $0                        $0      $248,122,837
+Permits & Fees                                                                 $1,685,701                                 $0                         $28,570,246                                 $0                                 $0                              $8,000                 $0                        $0        $30,263,947
+Fines & Forfeitures                                                            $2,358,759                                 $0                               $614                                  $0                                 $0                                  $0                 $0                        $0         $2,359,373
+Use of Money & Property                                                       $31,342,200                                 $0                          $1,629,658                                 $0                         $3,828,566                          $1,337,500          ($12,000)                        $0        $38,125,924
+Charges for Services                                                          $14,269,793                                 $0                         $26,633,226                          $237,052                        $165,149,441                         $39,417,967       $169,599,365                        $0      $415,306,844
+Revenue from Federal Government                                               $26,326,381                                 $0                         $49,608,995                          $606,500                         $92,349,217                                  $0                 $0                        $0      $168,891,093
+Revenue from Commonwealth                                                   $103,600,257                                  $0                          $1,218,743                        $19,486,046                       $849,958,629                           $140,000                  $0                        $0      $974,403,675
+Revenue from Other Localities                                                  $9,999,898                        $23,000,000                                  $0                         $5,466,640                                 $0                                  $0                 $0                        $0        $38,466,538
+Miscellaneous Revenue                                                          $4,353,752                                 $0                           $176,017                             $62,020                        $44,944,000                           $570,000          $3,589,000                        $0        $53,694,790
+Non-Revenue Receipts                                                            $150,000                         $87,800,000                                  $0                                 $0                       $157,800,899                          $3,300,000                 $0                        $0      $249,050,899
+Total Revenues                                                           $1,900,290,413                     $110,800,000                       $210,016,004                          $25,858,258                   $1,314,030,752                             $44,773,467       $173,176,365                     $0       $3,778,945,259
+Budgeted Expenditures
+Salaries and Benefits                                                        $617,018,046                                 $0                         $41,757,255                        $52,240,331                                $0                          $10,623,482        $23,158,691                        $0      $744,797,804
+Contractual Services                                                           $60,516,421                        $4,000,000                         $18,017,364                         $2,614,456                                $0                          $10,303,581        $32,812,078                        $0      $128,263,900
+Internal Services                                                              $68,383,354                                $0                          $8,162,146                         $3,340,445                                $0                           $2,185,513          $566,549                         $0        $82,638,008
+Purchase of Goods & Services                                                 $103,286,015                       $141,235,347                         $70,825,560                         $6,851,036                    $2,280,073,279                           $3,542,952       $120,427,082                        $0     $2,726,241,270
+Capital Outlay                                                                  $8,663,071                                $0                          $9,764,908                         $4,060,000                                $0                           $7,660,034         $1,117,416                        $0        $31,265,429
+Leases & Rentals                                                               $12,181,277                                $0                           $472,436                           $221,496                                 $0                              $61,672         $1,692,088                        $0        $14,628,969
+Reserves & Contingencies                                                     ($12,375,750)                                $0                           $975,674                                  $0                                $0                                   $0                 $0                        $0      ($11,400,076)
+Amortization                                                                            $0                                $0                                  $0                                 $0                                $0                           $4,770,000                 $0                        $0         $4,770,000
+Debt Maintenance                                                               $31,523,935                                $0                           $240,585                                  $0                     $122,952,227                             $832,040                  $0                        $0      $155,548,787
+Depreciation                                                                            $0                                $0                                  $0                                 $0                                $0                           $2,241,136                 $0                        $0         $2,241,136
+Payments to Other Local Agencies                                                 $297,263                                 $0                          $8,550,017                                 $0                                $0                                   $0                 $0                        $0         $8,847,280
+Total Expenditures                                                         $889,493,632                     $145,235,347                       $158,765,945                          $69,327,764                   $2,403,025,506                             $42,220,410       $179,773,903                     $0       $3,887,842,507
+Excess (Deficiency) Of Revenues Over Expenditures                        $1,010,796,781                     ($34,435,347)                         $51,250,059                      ($43,469,506)                ($1,088,994,754)                               $2,553,057        ($6,597,538)                    $0       ($108,897,248)
+*Next     PageSources
+Other Financing – [03-Insert
+                      Uses   Combined Statement of Projected Revenues, Budgeted Expenditures and Projected Changes in Fund Balance for the FY2026 Adopted Fiscal Plan]
+Transfers In                                                                   $78,397,978                       $74,593,193                          $5,441,808                        $39,272,007                    $1,034,530,999                            $1,947,874             $499,271                     $0     $1,234,683,129
+Transfers Out                                                             ($1,092,069,197)                     ($23,891,371)                       ($73,129,569)                        ($2,232,801)                    ($39,509,048)                          ($1,777,167)          ($2,073,976)                    $0    ($1,234,683,129)
+Total Other Financing Sources (Uses)                                   ($1,013,671,219)                       $50,701,822                      ($67,687,762)                         $37,039,206                      $995,021,951                              $170,707         ($1,574,705)                    $0                     $0
+Excess (Deficiency) of Revenues Over
+Expenditures & Other Sources (Uses)                                         ($2,874,438)                      $16,266,475                      ($16,437,703)                         ($6,430,301)                     ($93,972,803)                            $2,723,764        ($8,172,243)                    $0       ($108,897,248)
+Projected Total Fund Balance, Ending                                       $322,849,256                       $85,591,455                      $109,116,952                          $19,835,559                      $700,617,588                           $101,481,225        $70,837,410           $222,750,000       $1,633,079,444
+Projected % Change in Fund Balance                                                 (0.88%)                             23.46%                           (13.09%)                           (24.48%)                           (11.83%)                             2.76%              (10.34%)                0.00%               (6.25%)
+Totals may not add up due to rounding.
+Note: Areas in which Fund Balance is Projected to Decline in Excess of 10% or Increase in Excess of 10% are Listed Below:
+1. The Capital Projects Fund is projected to increase 23.46% due to the accumulation of NVTA 30% revenue that are designated to complete future transportation and mobility improvements in the Capital Improvement Program.
+2. The Special Revenue Fund is projected to decrease 13.09% due to the Fire Levy which is budgeted to use $10.7 million of fund balance for replacement and purchase of apparatus as well as station improvements.
+3. The Adult Detention Center component unit is projected to decrease fund balance 24.48% due to capital equipment and facility upgrades and one-time hiring and retention bonuses to support recruitment and retention efforts.
+4. The Education Component Unit Fund is projected to decrease 11.83% due to the Schools' increassed expenditures within their Construction Fund to support upcoming capital projects. The FY26 Construction Fund budget is $242.6 million and represented a 935.94% increase
+   over the budget in FY25. Debt sold in a prior fiscal year and prior year contributions to fund balance will support the draw down of fund balance in FY26.
+5. The Internal Service Fund is projected to decrease 10.34% because the Medical Self-Insurance Internal Service Fund is budgeted to use $8.0 million of fund balance only in the event of maximum financial exposure of medical and dental claims.
+
+
+
+
+FY2026 Budget                                                                                                                                                       35                                                                                                                                               Budget Summary
+
+
+                                                                              \\ggfiles\OMB\Bud 26\Michael's Files\Adopted Agency Pages - Work Files\Budget Summary Work Files\1-Budget Summ - Combined Statement Projected Revenues and Expenditures.xlsx
+                                                     Budget Summary
+
+                            All Funds Summary of Revenues and Other Financing Sources
+                                     and Expenditures and Other Financing Uses
+                                                                                   FY24                 FY25                 FY26      %Change
+                                                                                 Actual              Budget              Budget
+
+         Fund Balance/Net Position, Beginning
+         Invested in Capital Assets                                         $68,444,000         $61,696,000          $61,696,000             0.00%
+         Restricted                                                         $39,584,000        $273,954,000         $273,954,000             0.00%
+         Unrestricted                                                       $63,839,000         $67,664,000          $64,867,114           (4.13%)
+         Fund Balances
+         Non-spendable                                                      $5,239,000           $5,468,000           $5,468,000            0.00%
+         Restricted                                                       $301,744,000         $385,209,000         $378,421,655          (1.76%)
+         Committed                                                        $196,638,000         $329,865,000         $253,564,980         (23.13%)
+         Assigned                                                         $245,341,000         $311,684,000         $311,684,000            0.00%
+         Unassigned                                                       $250,368,000         $250,137,000         $392,320,944           56.84%
+          Total Fund Balances                                          $1,171,197,000      $1,685,677,000       $1,741,976,694             3.34%
+
+         Revenues
+         General Property Taxes                                          $1,232,883,579       $1,420,195,953      $1,560,259,338            9.86%
+         Other Local Taxes                                                $242,986,108         $238,887,193        $248,122,837             3.87%
+         Permits & Fees                                                     $27,330,929          $29,187,781         $30,263,947            3.69%
+         Fines & Forfeitures                                                 $2,462,410           $2,358,759          $2,359,373            0.03%
+         Use of Money & Property                                          $128,181,176           $34,341,090         $38,125,924           11.02%
+         Charges for Services                                             $327,099,376         $378,179,177        $415,306,844             9.82%
+         Revenue from Federal Government                                  $118,567,202         $148,556,458        $168,891,093            13.69%
+         Revenue from Commonwealth                                        $229,533,118         $914,190,145        $974,403,675             6.59%
+         Revenue from Other Localities                                      $54,819,648          $15,235,398         $38,466,538          152.48%
+         Miscellaneous Revenue                                            $943,355,028           $28,750,377         $53,694,790           86.76%
+         Non-Revenue Receipts                                                $1,802,711        $214,773,479        $249,050,899            15.96%
+          Total Revenues                                               $3,309,021,286      $3,424,655,810       $3,778,945,259            10.35%
+
+         Expenditures
+         Salaries and Benefits                                            $638,824,184         $688,044,210        $744,797,804             8.25%
+         Contractual Services                                             $188,309,060         $207,457,012        $128,263,900          (38.17%)
+         Internal Services                                                  $67,809,136          $72,138,912         $82,638,008           14.55%
+         Purchase of Goods & Services                                    $1,969,677,027       $2,195,320,142      $2,726,241,270           24.18%
+         Capital Outlay                                                   ($13,561,098)          $39,646,086         $31,265,429         (21.14%)
+         Leases & Rentals                                                   $11,531,668          $13,079,995         $14,628,969           11.84%
+         Reserves & Contingencies                                           ($9,978,971)        ($9,495,898)        ($11,400,076)          20.05%
+         Amortization                                                         $5,755,845                  $0           $4,770,000                -
+         Debt Maintenance                                                   $40,133,110        $152,135,547         $155,548,787            2.24%
+         Depreciation                                                       $61,795,846           $2,158,713           $2,241,136           3.82%
+         Payments to Other Local Agencies                                     $7,373,614          $7,871,397           $8,847,280          12.40%
+          Total Expenditures                                           $2,967,669,422      $3,368,356,116       $3,887,842,507            15.42%
+          Excess (Deficiency) Of Revenues Over
+                                                                         $341,351,864          $56,299,694       ($108,897,248)        (293.42%)
+          Expenditures
+
+         Other Financing Sources Uses
+         Transfers In                                                    $1,104,162,383       $1,025,951,614      $1,181,259,969           15.14%
+  *NextTransfers
+        Page – Out
+                 [04-Insert All Funds Summary of Revenues  and Other Financing
+                                                      ($1,104,162,383)             Sources
+                                                                       ($1,025,951,614)     and Expenditures15.14%
+                                                                                         ($1,181,259,969)    and Other
+                                                  Financing Sources]
+          Total Other Financing Sources (Uses)                                        $0                   $0                  $0                −
+
+          Excess (Deficiency) of Revenues Over
+                                                                         $341,351,864          $56,299,694       ($108,897,248)        (293.42%)
+          Expenditures & Other Sources (Uses)
+
+          Total Fund Balance, Ending                                   $1,512,548,864      $1,741,976,694       $1,633,079,445           (6.25%)
+       *Next   Page
+        Note: Fund    – [04a-Insert
+                   Balance                Major
+                           for FY25 and FY26        Funds (General Fund & Education) Summary of Revenues and Expenditures]
+                                             is projected.
+         Totals may not add due to rounding.
+
+
+
+
+   \\ggfiles\OMB\Bud 26\Michael's Files\Adopted Agency Pages - Work Files\Budget Summary Work Files\2-Budget Summ - All Funds Summary of Rev and Financing
+
+
+
+
+FY2026 Budget                                                               36                                                           Budget Summary
+                                                                    Budget Summary
+Major Funds Revenue and Expenditure History
+The County has two major funds the County's General Fund and the Education Fund. The Education Fund is managed as a component unit by the Prince William County School Board.
+
+                                                             General Fund                                                          Education Fund
+                                                                                               % Change                                                               % Change
+Object (Account) Type                   FY24 Actuals       FY25 Budget        FY26 Budget                      FY24 Actuals       FY25 Budget        FY26 Budget
+                                                                                             FY25 to FY26                                                           FY25 to FY26
+
+Revenues
+General Property Taxes                $1,158,409,435     $1,337,579,358    $1,467,653,858           9.72%                $0                 $0                 $0               -
+Other Local Taxes                       $233,984,321       $229,587,193      $238,549,813           3.90%                $0                 $0                 $0               -
+Permits & Fees                            $1,783,641         $1,785,701        $1,685,701         (5.60%)                $0                 $0                 $0               -
+Fines & Forfeitures                       $2,452,575         $2,358,759        $2,358,759           0.00%                $0                 $0                 $0               -
+Use of Money & Property                  $62,473,321        $27,422,200       $31,342,200          14.29%       $16,578,676         $3,204,732         $3,828,566        19.47%
+Charges for Services                     $13,070,243        $14,124,359       $14,269,793           1.03%      $120,099,964       $150,027,925       $165,149,441        10.08%
+Revenue from Federal Government          $32,803,418        $25,303,550       $26,326,381           4.04%                $0        $85,745,330        $92,349,217          7.70%
+Revenue from Commonwealth               $151,886,691        $94,145,211      $103,600,257          10.04%                $0       $803,196,722       $849,958,629          5.82%
+Revenue from Other Localities             $9,528,642         $9,768,758        $9,999,898           2.37%                $0                 $0                 $0               -
+Miscellaneous Revenue                    $11,633,996         $3,745,707        $4,353,752          16.23%      $892,103,578        $20,026,000        $44,944,000       124.43%
+Non-Revenue Receipts                        $200,111           $320,000          $150,000        (53.13%)      $142,151,788       $170,883,479       $157,800,899        (7.66%)
+Transfers In                             $72,847,885        $69,700,469       $78,397,978          12.48%      $875,020,478       $953,039,692     $1,034,530,999          8.55%
+Total Revenues                        $1,751,074,279     $1,815,841,265    $1,978,688,390           8.97%    $2,045,954,484     $2,186,123,880     $2,348,561,751         7.43%
+
+Expenditures
+Salaries & Benefits                     $525,107,083       $569,875,322      $617,018,046           8.27%                $0                 $0                 $0              -
+Contractual Services                     $40,608,844         $53,643,662       $60,516,421         12.81%            $1,698                 $0                 $0              -
+Internal Services                        $50,821,614         $57,960,130       $68,383,354         17.98%                $0                 $0                 $0              -
+Purchase of Goods & Services             $80,130,666         $94,482,452     $103,286,015           9.32%    $1,711,693,027     $1,894,749,590     $2,280,073,279        20.34%
+Capital Outlay                           $12,764,066          $7,992,153        $8,663,071          8.39%                $0                 $0                 $0              -
+Leases & Rentals                         $10,522,500         $12,019,303       $12,181,277          1.35%                $0                 $0                 $0              -
+Reserves & Contingencies                 ($9,978,971)      ($10,471,572)     ($12,375,750)         18.18%                $0                 $0                 $0              -
+Amortization                                       $0                 $0                $0               -               $0                 $0                 $0              -
+Debt Maintenance                         $32,663,982         $35,175,546       $31,523,935       (10.38%)      $110,572,281       $116,177,041       $122,952,227         5.83%
+Payments to Other Local Agencies            $753,047           $321,397          $297,263         (7.51%)                $0                 $0                 $0              -
+Transfers Out                           $961,016,175       $988,327,178    $1,092,069,197          10.50%       $41,925,383        $38,411,857        $39,509,048         2.86%
+Total Expenditures                    $1,704,409,006     $1,809,325,571    $1,981,562,829           9.52%    $1,864,192,389     $2,049,338,488     $2,442,534,554        19.19%
+
+Net (Revenue Minus Expeditures)          $46,665,273         $6,515,694       ($2,874,439)     (144.12%)       $181,762,095      $136,785,392       ($93,972,803)     (168.70%)
+
+
+
+
+FY2026 Budget                                                                          37                                                                       Budget Summary
+                                          Budget Summary
+Summary of Changes from Proposed FY2026 Budget
+There were several changes between the County Executive’s presentation of the Proposed FY2026 Budget on February
+18, 2025, and the ultimate adoption of the FY2026 Budget by the Board of County Supervisors (BOCS) on April 22, 2025.
+
+
+Revenue Changes
+There were several changes that were presented at budget recap by the County Executive on April 8, 2025, including:
+   A reduction of the proposed real estate tax rate from $0.920 to $0.906 per $100 of assessed value. The lowered $0.906
+    tax rate forgoes $14,600,000 of general revenue compared to what would have been realized if the tax rate remained
+    at $0.920. The adopted rate represents a $273 or 5.59% average residential tax bill increase from the prior year.
+   An increase in revenue from the Commonwealth of Virginia totaling $2,300,000. This included $1,600,000 in State
+    Compensation Board funding for state supported local regional jail and constitutional officers, $600,000 for social
+    service staff support, and $100,000 to cover the Election’s Registrar salary and Electoral Board.
+   Approximately $300,000 in Fire Marshall position expenditures were supported by the general fund in the proposed
+    budget, but after review, these two positions are funded by Fire Marshall development fees. As a result, this increases
+    the resources available for the general fund.
+
+
+In addition, there were several changes discussed and approved by the BOCS at budget markup on April 15, 2025,
+including:
+   The business tangible personal property tax rate for computer equipment and peripherals was increased to the
+    advertised rate of $4.15 per $100 valuation. The previous rate was $3.70 per $100 valuation. The revenue impact is
+    projected to be a $17,995,500 increase in general revenue.
+   The personal property tax rate on vehicles was reduced from $3.70 to $3.50 per $100 of assessed value. The revenue
+    impact is projected to be a $13,100,000 decrease in personal property tax revenue from vehicles.
+   The food and beverage tax rate was reduced from 4% to 3%. The revenue impact is projected to be a $5,750,000
+    decrease in general revenue based on an implementation date of January 1, 2026 (half-year impact in FY26).
+   Revenue from interest on taxes increased $9,000.
+   The adjustments to the tax rates for computer equipment/peripheral, vehicle personal property and food and beverage,
+    along with the increase in interest on taxes resulted in a net revenue decrease for the County and Schools totaling
+    $845,500. This decrease impacts both the County and School budgets based on the revenue sharing agreement.
+
+
+Expenditure Changes
+There were several budget additions that were presented at budget recap by the County Executive on April 8, 2025,
+including:
+   Social Services Children’s Service Act (CSA) – An additional $1,020,000 of local funding and $1,980,000 of state
+    funding ($3,000,000 total) was added to address budget shortfalls for mandated services for Prince William County
+    (PWC) children who require foster care services, children with significant educational needs, and/or children who have
+    serious behavioral, intellectual, and/or developmental challenges. This increase is over and above the initial proposed
+    budget increase ($2,000,000) and brings the total CSA budget increase to $5,000,000. Of note: The $1,000,000 increase
+    during recap represents PWC’s portion given the state reimbursement rate (66% state/ 34% local cost sharing).
+   Circuit Court Clerk Land Records Management System – A total of $400,000 was added to expedite the replacement
+    of the land records management system from FY27 to FY26.
+   Noise Ordinance Enforcement – A total of $250,000 was added to enforce a noise ordinance presented to the Board
+    on March 18. 2025. This funding is comprised of consultancy services and/or staff training and equipment.
+   No Wrong Door Project Manager – A total of $147,293 was added to convert the No Wrong Door project manager
+    from a temporary employee to a permanent full time position (1.00).
+   Adult Detention Center (ADC) Hiring and Retention Efforts – A total of $1.5 million was added to assist with hiring
+    and retention of uniformed staff at the ADC, including a $3,000 retention bonus, increasing the hiring bonus to
+    $10,000, and recruitment and organizational development.
+
+
+
+
+FY2026 Budget                                               38                                             Budget Summary
+                                         Budget Summary
+   Fire Levy Apparatus Contingency – A total of $4.0 million was added to provide a 25% contingency for apparatus
+    replacements planned in FY26, due to steel and aluminum tariffs announced Spring, 2025. Any contingency not
+    needed in FY26 will revert to fire levy fund balance at the end of FY26.
+
+Additionally, there were several changes discussed and approved by the BOCS at budget markup on April 15, 2025,
+including:
+   Changes to School Transfer – As a result of the decrease in general revenue approved by the BOCS at budget markup,
+    the total transfer to PWC Schools decreased $483,880 compared to budget recap. The Schools’ share of general
+    revenue through budget markup is $991,609,044 based on the revenue sharing agreement. This is a $40,666,779
+    increase over the County transfer reflected in PWCS’ adopted budget which was presented to the Board on April 1,
+    2025.
+   Contingency Budget (Non-Departmental) – The contingency budget was reduced $500,000 from $2,000,000 to
+    $1,500,000. The FY2026 Budget remains in compliance with the Principles of Sound Financial Management which
+    requires a minimum budget of $1,000,000.
+   Occoquan Trails Maintenance (Parks and Recreation) – Recurring funding of $349,079 for Occoquan trails
+    maintenance (3.00 FTE) was removed from the budget.
+   Workers’ Compensation (Non-Departmental) – Recurring funding of $300,000 for workers’ compensation was
+    removed from the budget.
+   CIP – Existing Parks Improvements – Funding for existing park improvement projects was reduced by $2,500,000 per
+    year in FY27-29. There is no reduction in FY26. The resulting markup budget includes recurring funding of $2,500,000
+    per year for improvements at existing parks.
+   Police Vehicle Replacements – The proposed budget included $2,500,000 funded by the capital reserve to replace
+    a backlog of police vehicles overdue for replacement based on age and mileage. This funding was removed from the
+    FY26 budget and appropriated from the capital reserve in FY25 to take advantage of current vehicle pricing before
+    anticipated vehicle tariffs took effect in FY26 resulting in potentially higher prices.
+   Redevelopment/Assemblage Consultant Services (Economic Development) – A total of $250,000 in one-time
+    funding was added to the budget for redevelopment/assemblage consultant services associated with establishing
+    policies and procedures for assembling land parcels for economic redevelopment.
+   Williams Ordinary (Parks and Recreation) – A total of $130,000 in one-time funding was added to the budget for
+    Williams Ordinary historic preservation.
+   Therapeutic Recreation Programmer (Parks and Recreation) – A total of $103,000 was added to the budget for a
+    Therapeutic Recreation Programmer (1.00 FTE) in the Department of Parks and Recreation.
+   Trap, Neuter, Vaccinate, Release (TNVR) Program (Police) – A total of $48,000 was added to the budget for increased
+    program costs to implement a TNVR program at the Animal Services Center to address free-roaming cat colonies.
+   Swim Lane Rentals (Parks and Recreation) – A total of $30,000 was added to the Parks and Recreation budget to
+    provide swim lane rental space for local swim clubs. The budget is for increased lifeguard hours and purchasing lane
+    lines. This budget addition is supported by fee revenue at no net cost to the County.
+   Planning Commissioner Compensation (Planning) – A total of $13,000 was added to the Planning Office budget
+    to provide a 15% increase to Planning Commissioner compensation. Planning Commission member’s compensation
+    will increase from $800/month to $920/month. The Chair’s compensation will increase from $850/month to $977.50/
+    month.
+   Shift Principal Planner to Current Planning (Planning) – A new Principal Planner position (1.00 FTE) already included
+    in the FY2026 Budget was shifted from the Countywide Planning (formerly Long Range Planning) program to the
+    Current Planning program to help manage rezoning and special use permit caseloads. There is no additional cost due
+    to the position shift within the Planning Office.
+
+
+
+
+FY2026 Budget                                              39                                            Budget Summary
+                                                           Budget Summary
+Five-Year Budget Plan
+In 1988, the BOCS adopted a Financial and Program Planning Ordinance. A major focus of this ordinance is to present
+to the BOCS five-year revenue and expenditure projections during the annual budget process. This projection process
+helps the BOCS gauge the multi-year impacts of fiscal decisions and weigh the corresponding implications of tax rates
+and other revenue sources. The five-year budget plan shown below gives a picture of the general fund requirements from
+FY26-FY30. The projection is based upon the economic conditions and tax rates at the time this document was prepared.
+
+                                                            FY2026-2030 Five-Year Plan
+                                                                 FY2026                      FY2027                     FY2028                      FY2029            FY2030
+ Revenue and Resources
+ General Revenue                                        $1,732,673,500             $1,807,905,700              $1,889,734,014             $1,974,751,404        $2,063,873,884
+ Less Schools Share of General Revenue                   ($991,609,044)           ($1,034,664,432)            ($1,081,494,776)           ($1,130,150,228)      ($1,181,155,024)
+ County Share of General Revenue                         $741,064,456               $773,241,268                $808,239,238               $844,601,175         $882,718,860
+
+ County General Revenue                                   $741,064,456               $773,241,268                $808,239,238               $844,601,175         $882,718,860
+ Agency Revenue                                           $240,345,013               $241,865,054                $247,545,367               $259,257,308         $265,684,358
+ County Resources                                            $8,544,315                 ($1,436,646)               ($2,357,053)                ($2,434,822)        ($3,648,229)
+ Total County Revenue and Resources
+                                                         $989,953,784             $1,013,669,676             $1,053,427,551              $1,101,423,662        $1,144,754,990
+ Available
+ Expenditures
+ County Operating Expenditures                            $956,862,500               $976,524,302                $994,373,333             $1,015,136,145        $1,042,126,096
+ County CIP Expenditures                                   $33,091,285                 $36,974,594                $58,968,718                 $86,140,722        $101,639,730
+ Total County Expenditure (Operating
+                                                         $989,953,785             $1,013,498,896             $1,053,342,050              $1,101,276,867        $1,143,765,827
+ and CIP)
+
+ Available Capacity                                                     $0                $170,780                     $85,501                   $146,795            $989,163
+
+ Total General Fund Expenditures
+                                                      $1,981,562,829              $2,048,163,328             $2,134,836,826              $2,231,427,095        $2,324,920,850
+ (Including County Transfer to Schools)
+                                                        [05-Insert Five Year Plan Summary Table]
+ Totals may not add due to rounding.
+
+
+
+
+FY2026-2030 Five-Year Plan Assumptions
+The multi-year projections used to develop this five-year forecast have two distinct parts (Revenue and Expenditures),
+which are independently developed.
+
+
+Revenue                      \\ggfiles\OMB\5 Year Projection\Proj 2026\5 Yr Proj - FY26-30 - 2025-06-23 - 5-Yr Plan - Version 5 - Adopted (FINAL).xlsx
+
+Revenue forecasting begins with the work of the County’s revenue committee. For non-agency revenues, the committee
+provides a forecast based on historical trends, current economic conditions, and assumptions about future trends. These
+projections are refined throughout the fall and winter and finalized and used during the budget process. For additional
+detail concerning non-agency revenues, see the Revenues section.
+Agency revenues are projected by the Office of Management and Budget, in conjunction with the involved agencies.
+Assumptions about state revenues and local economic conditions are factored into the forecast of agency revenues.
+Historical trends are also an important part of the projection process. For additional details concerning agency revenues,
+see the Agency Revenue section of the summary titled General Fund Revenue and Resource Summary in the Revenues
+section.
+The following revenue assumptions are included in the adopted five-year budget plan:
+   Fiscal Year 2026 (Tax Year 2025) real estate tax rate of $0.906; a 1.4 cent reduction from the FY25 rate of $0.920.
+   Average residential tax bills are projected to increase $273 or 5.59% in FY26.
+   County/Schools general revenue agreement is maintained whereby the Schools receive 57.23% of general revenue
+    and the County government receives 42.77%.
+
+
+
+
+FY2026 Budget                                                                           40                                                                    Budget Summary
+                                          Budget Summary
+   The business tangible personal property tax rate for computer equipment and peripherals was increased from $3.70
+    to $4.15 per $100 valuation and the increased rate is maintained in the general revenue forecast within the plan.
+   The food and beverage tax rate was reduced from 4% to 3% in FY26 and the 3% rate is maintained in the general
+    revenue forecast within the plan.
+
+
+Expenditures
+Expenditure projections begin while the proposed budget is under development. A base budget is established for the first
+year. Any new initiatives begun in the first year are examined for their implications for future fiscal years and made a part
+of the projections. This part of the projection process is particularly useful in tracking the movement of new initiatives
+into the budget for future fiscal years. For summary information on new expenditures sorted by functional area see the
+Budget Highlights section in the Introduction and for detailed information see individual agency pages.
+The following expenditure assumptions are included in the adopted five-year budget plan:
+Employee Compensation
+   Fund merit and step (formerly year of service for sworn employees) adjustment increases in the following years: FY26-
+    3.0%; FY27-3.0%; FY28-3.0%; FY29-3.0%; FY30-3.0%. The cost in FY26 is $12.1 million.
+   Fund market adjustments for Adult Detention Center uniformed personnel and Sheriff sworn personnel in various
+    percentages depending upon rank totaling $2.8 million in FY26. These adjustments are the result of two independent
+    studies that examined County pay with other jurisdictions. These adjustments help maintain competitiveness between
+    PWC and other Northern Virginia jurisdictions.
+   Collective bargaining agreements with the Internation Association of Fire Fighters and PWC Police Association were
+    ratified in January 2024. The cost of negotiated compensation changes total $1.8 million in FY26.
+   Health and dental insurance increases $3.4 million (total for all health care providers) in FY26 with 10.0% annual
+    increases programmed in FY26-29.
+   Retiree health credit increases 1.0% in FY26 and a 5.0% increase is programmed for each year in FY27-30.
+   Virginia Retirement System (VRS) contribution rate of 15.89% in FY26 is unchanged. The same rates are programmed
+    each year for FY27-30.
+   401a Money Purchase Program is maintained at 0.50% in FY26-30.
+   Police, Fire and Rescue, Sheriff and Adult Detention Center sworn supplemental pension plan is maintained at 1.44%
+    in FY26-30.
+
+Reserves
+   Unassigned fund balance is maintained at 7.50% of general fund revenue.
+   Revenue stabilization fund reserve is maintained at 2.0% of general fund revenue.
+
+Education
+   Transfer general revenue to the Schools in compliance with the adopted revenue sharing agreement – 57.23%
+    Schools/42.77% County.
+   Gainesville High School debt funding for additional student capacity.
+   Class size reduction grant.
+   School Security program to enhance security at elementary schools in the County.
+
+Other Programmed Items
+   $500,000 is annually programmed in FY27-30 of the Five-Year Plan to accommodate future increases in utility, fuel,
+    and lease costs (FY27-$500,000; FY28-$1,000,000; FY29-$1,500,000; FY30-$2,000,000).
+   $1,000,000 is annually programmed in FY27-30 of the Five-Year Plan for existing technology contract escalations for
+    licenses, leases, and subscriptions.
+   Budgeted salary lapse and agency savings totaling $22.3 million is included in the base budget of agency’s operating
+    budget and is included in each year of the adopted Five-Year Plan. Primarily, this is a negative amount that reduces
+    each agency’s annual budget to account for position savings resulting from vacancies during the course of the fiscal
+    year.
+
+
+
+
+FY2026 Budget                                                41                                              Budget Summary
+                                          Budget Summary
+Capital Improvement Program (CIP)
+Over the next five years, the County’s capital improvement spending will focus on a variety of essential community en-
+hancements aimed at bolstering public safety, infrastructure, and community services. In the adopted Five-Year Plan, the
+FY25 expenditure spending of $12.5 million will grow almost 600% to $85.5 million by FY29. Below is a high-level overview
+of the Five-Year Plan investments in capital projects:
+
+   1. Public Safety Enhancements:
+       Facilities Upgrades: Significant investments are planned for the renovation and expansion of public safety facilities
+        such as the Judicial Center, new and rebuilds of Fire and Rescue Stations, and the Public Safety Training Center
+        (PSTC). These projects will ensure that County public safety infrastructure can meet future demands.
+       Equipment and Services: Additional funding is allocated for essential equipment at the public safety scenario-
+        based training facility and 911 call-handling systems to enhance operational efficiency and response capabilities.
+
+   2. Building and Facility Maintenance:
+       Ongoing Maintenance: Annual allocations are dedicated to maintaining Parks & Recreation facilities, and other
+        County buildings. This includes annual funding to ensure these facilities remain safe, functional, and accessible
+        to the community. Ongoing funding for maintenance prevents costly repairs and disruptions by keeping public
+        spaces in good working order, ensuring they remain safe and usable for the community.
+
+   3. Mobility and Connectivity:
+       Roadway Improvements and Parking: Investments in County’s roadways will improve transportation infrastructure.
+        Key projects include enhancements to intersections and the construction of new roadway sections and sidewalks
+        to support growing needs.
+
+   4. Community Services and Infrastructure:
+       New Facilities: New community service facilities, such as the Homeless Navigation Centers and Crisis Receiving
+        Center, will address evolving community needs by providing essential services and recreational opportunities.
+       Future Improvements: Funding is also set aside for future community improvements, ensuring capacity for
+        needed development and enhancement of community amenities.
+
+   5. Property Acquisition and Development:
+       Strategic Acquisitions: Land acquisitions, such as the McCoart Property, support public projects and community
+        enhancements, providing the necessary space for development and expansion. The Five-Year Plan includes debt
+        service payments to fund these acquisitions.
+
+Five-Year Plan Summary by Year
+   FY2026: Initial focus on facility maintenance, mobility, and the early phases of major projects.
+   FY2027: Continued investments in parks, mobility, and the expansion of public safety facilities.
+   FY2028: Significant spending on major projects such as the Judicial Center expansion and mobility referendum
+    transportation projects.
+   FY2029: Continued development of community facilities and infrastructure, with substantial investments in mobility
+    and connectivity.
+   FY2030: Continuation of major projects and preparation for future community improvements, reflecting the highest
+    level of annual expenditure.
+
+Overall, this capital improvement plan reflects the BOCS commitment to enhancing public safety, maintaining essential
+infrastructure, and providing valuable community services. By strategically allocating resources, the aim is to support a
+safer, more connected, and vibrant community for all residents.
+
+
+
+
+FY2026 Budget                                                42                                             Budget Summary
+                                                     Budget Summary
+CIP Debt Service and Operating Costs
+Expenditures associated with new debt service and operating costs are programmed in the CIP and Five-Year Plan for the
+following capital improvement projects:
+
+                                    Estimated Cost for New Debt Service & Operating for Capital Projects
+                          Project                         FY26          FY27           FY28          FY29          FY30           Total
+Countywide Space                                            $109,407    $1,468,875      $5,456,998   $10,445,121   $10,433,243    $27,913,644
+Devlin Road Widening                                             $0              $0      $313,328     $1,655,386    $2,650,138     $4,618,852
+Ellicott Street (Occoquan Connector)                          $7,566         $32,424      $31,603       $30,782       $29,960       $132,335
+Environmental Sustainability                                $293,856      $587,712       $587,712      $587,712      $587,712      $2,644,704
+Fire & Rescue Station 2                                          $0              $0            $0            $0            $0             $0
+Fire & Rescue Station 3                                          $0              $0      $222,058      $842,265      $820,934      $1,885,257
+Fire & Rescue Station 27                                  $2,099,477    $5,680,739      $6,819,054    $6,771,990    $6,724,926    $28,096,186
+Fire & Rescue Station 29                                         $0              $0            $0      $109,179      $106,414       $215,593
+Fire & Rescue Station 30                                         $0              $0      $731,756     $4,635,330    $7,655,925    $13,023,011
+Fuller Heights Park Expansion                                $13,274      $175,693       $794,032      $721,919      $707,591      $2,412,509
+Homeless Navigation Center-East                             $268,047    $3,187,289      $3,954,731    $3,902,915    $3,851,400    $15,164,382
+Homeless Navigation Center-West                              $87,750      $370,500      $4,361,725    $6,352,950    $6,344,175    $17,517,100
+Judicial Center Expansion                                 $1,094,068    $5,780,617     $10,340,017   $20,953,213   $23,825,377    $61,993,292
+Landfill Phase 4 Infrastructure                             $319,988    $1,417,500      $1,381,500    $1,340,625    $1,304,875     $5,764,488
+Neabsco District Park                                            $0       $132,005       $709,059      $754,529      $708,711      $2,304,304
+Neabsco Greenway                                             $22,123      $149,816       $616,180      $491,526      $483,158      $1,762,803
+Occoquan Greenway                                            $99,286      $201,766       $538,293      $527,177      $516,061      $1,882,583
+Old Bridge Rd-Gordon Blvd Intersection                           $0       $291,115      $1,247,082    $1,215,505    $1,183,928     $3,937,630
+Open Space and Accessibility Projects                       $372,123      $256,815       $326,660      $321,871      $317,083      $1,594,552
+PHNST-Powells Creek Crossing                                $210,172      $210,172       $900,733      $877,916      $959,384      $3,158,377
+Public Safety Training Center                                    $0     $2,112,966      $3,971,136    $3,901,516    $3,831,897    $13,817,515
+Real Estate CAMA Replacement                                     $0       $770,000       $770,000      $770,000      $770,000      $3,080,000
+
+Unallocated 2019 Mobility Bond Referendum Capacity               $0              $0            $0     $2,183,473   $11,535,790    $13,719,263
+
+                                  [06-Insert Table Here: Major
+                                                Total           CIP Projects
+                                                         $4,997,137          – 5-yr Plan
+                                                                      $22,826,004         Debt Svs $69,392,900
+                                                                                     $44,073,657   and Op Cost] $85,348,682      $226,638,380
+
+
+Other County Fund Categories
+The County’s Five-Year Plan is focused on the General Fund, in addition to the Capital Improvement Program and Internal
+Service Fund (the majority of each is supported by the general revenue) spending which represents approximately 85% of
+all budgeted FY26 expenditures. The remaining funds, including Special Revenue, Enterprise and Adult Detention Center
+are individually reviewed to assess the multi-year impact of revenue and expenditure decisions. For example, the Solid
+Waste (Enterprise) \\ggfiles\OMB\2026
+                    and Fire Levy Budget\Adopted\Agency\03--Budget
+                                      (Special Revenue) each have       individual multi-year operational budget plans that estimate
+                                                                   Summary\Major CIP Projects - 5-yr Plan Debt Service and Operating Cost
+revenues and expenditure costs to ensure initiatives are affordable over the long term. In addition, the Adult Detention
+Center receives a transfer amount from the General Fund that represents 60% of the agency’s total projected revenue.
+Any issues identified are addressed within individual agency budget pages as budget initiatives.
+
+
+
+
+FY2026 Budget                                                           43                                                 Budget Summary
+                                                        Budget Summary
+
+                                    Position Summary of Full-Time Equivalent Positions (FTE)
+                                                                  FY24              FY25         FY25        FY26        FY26                  FY26
+                                                               Adopted           Adopted     Off-Cycle       Shift        Add               Adopted
+                                                                  Total             Total     Position    Position    Position                 Total
+ Department/Agency                                            Positions         Positions Adjustments Adjustments Adjustments              Positions
+
+ Mobility, Economic Growth & Resiliency
+ Development Services                                            142.00             156.00               0.00              0.00     3.00     159.00
+ Economic Development & Tourism                                   20.00              30.00               0.00              0.00     1.00      31.00
+ Planning                                                         35.00              34.00               0.00              0.00     2.00      36.00
+ Public Works                                                    205.00             208.00               0.00              0.00     3.00     211.00
+ Transportation                                                   53.00              54.00               0.00              0.00     1.00      55.00
+ Subtotal                                                        455.00            482.00               0.00              0.00     10.00     492.00
+ Government Operations, Performance &
+ Innovation
+ Board of County Supervisors *                                     2.00               2.00              (1.00)             0.00     0.00       1.00
+ County Attorney                                                  34.00              34.00                0.00             0.00     0.00      34.00
+ Elections                                                        17.00              18.00                0.00             0.00     0.00      18.00
+ Executive Management                                             34.00              55.00                0.00          (20.00)     8.00      43.00
+ Facilities & Fleet Management                                   170.47             179.47                0.00             0.00     3.00     182.47
+ Finance                                                         206.00             190.00                4.00             0.00    10.00     204.00
+ Human Resources                                                  39.00              40.00                0.00             0.00     4.00      44.00
+ Human Rights                                                      6.00               6.00                0.00             0.00     0.00       6.00
+ Information Technology                                           95.00              95.00                0.00             0.00     0.00      95.00
+ Management & Budget                                              13.00              15.00                0.00             0.00     3.00      18.00
+ Procurement Services                                              0.00               0.00                0.00            20.00     2.00      22.00
+ Subtotal                                                        616.47            634.47               3.00              0.00     30.00     667.47
+ Health, Wellbeing & Environmental
+ Sustainability
+ Area Agency on Aging                                             34.00              35.00                0.00             0.00     3.00      38.00
+ Community Services                                              435.51             449.01              23.70              0.00     4.00     476.71
+ Housing & Community Development                                  27.00              29.00                1.00             0.00     3.00      33.00
+ Juvenile Court Service Unit                                       6.00               6.00              (6.00)             0.00     0.00       0.00
+ Library                                                         207.86             207.62                0.00           (0.06)     2.00     209.56
+ Parks & Recreation                                              444.14             442.44                0.00             0.00    10.75     453.19
+ Public Health **                                                  8.60               8.60                0.00             0.00     0.00       8.60
+ Social Services                                                 440.23             360.33                8.50             0.00    15.00     383.83
+ Virginia Cooperative Extension                                    7.71               8.19                0.00             0.00     0.00       8.19
+ Youth Services                                                    0.00              86.90                5.60             0.00     4.00      96.50
+ Subtotal                                                     1,611.05           1,633.09              32.80            (0.06)     41.75   1,707.58
+ Safe & Secure Community
+ Adult Detention Center                                          401.40             401.40               0.00              0.00     0.00     401.40
+ Circuit Court Clerk                                              55.00              55.00               0.00              0.00     2.00      57.00
+ Circuit Court Judges                                             16.00              16.00               0.00              0.00     0.00      16.00
+ Commonwealth's Attorney                                          74.00              82.00               4.00              0.00     8.00      94.00
+ Criminal Justice Services                                        50.50              52.50               0.05              0.00     2.00      54.55
+ Fire & Rescue                                                   779.70             819.70               4.00              0.00    33.00     856.70
+ General District Court                                            3.00               4.00               0.00              0.00     2.00       6.00
+ Juvenile & Domestic Relations District Court                      2.00               5.00               0.00              0.00     0.00       5.00
+ Police                                                          926.20             949.20               0.00              0.00    23.00     972.20
+ Public Safety Communications                                    123.00             123.00               0.00              0.00     3.00     126.00
+ Sheriff                                                         114.50             117.50               0.00              0.00     4.00     121.50
+ Subtotal                                                     2,545.30           2,625.30               8.05              0.00     77.00   2,710.35
+ Total FTE Positions                                          5,227.82           5,374.86              43.85            (0.06)    158.75   5,577.40
+* The department does not include the Board Chair, seven supervisors, and Board aides. All those positions serve at will.
+** There are five (5.0) FTEs in Public Health being reclassified to support community outreach activities in the FY26 budget.
+Note, detailed information on off-cycle, shift or added positions is included within individual agency pages.
+
+
+
+
+FY2026 Budget                                                                    44                                                   Budget Summary
+                                                                       Budget Summary
+                                                        FY25 to FY26 Full Time Equivalent New Position Change
+                                    FY2025 to FY2026 Full-Time Equivalent Position Change
+
+     90.00
+
+                                                                                                                                                                                                   77.00
+     75.00
+
+
+     60.00
+
+
+                                                                                                                                             41.75
+     45.00
+
+                                                                                   30.00
+     30.00
+
+
+     15.00                  10.00
+
+
+      0.00
+                 Mobility, Economic Growth &                       Government Operations,                                      Health, Wellbeing &                                      Safe & Secure Community
+                           Resiliency                             Performance & Innovation                                 Environmental Sustainability
+
+
+
+                                                                     158.75 FTE New Position Increase
+                Note: Detail concerning the position change is located in the Position Summary of Full-Time Equivalent Positions and in the agency
+                budget pages in this document. Off-cycle adjustments are not included in the chart.
+
+
+
+
+                                    Total Adopted FY2026 Position Change by Department
+                                                                                          FY2026 New Position FTEs by Department
+
+
+
+
+                                                                                                                                                                             Commonwealth's                   Executive
+                                                                                                                        Finance; 10.00                                        Attorney; 8.00               Management; 8.00
+
+
+
+                                                                                                                                                                                    Facilities &       Housing &
+                                                                                                                                                                                       Fleet          Community
+                                                                                                                         Community                       Youth                     Management;       Development;         Management &
+                                                                                                                                                                                       3.00              3.00              Budget; 3.00
+                                                                                                                        Services; 4.00                  Services;
+Fire & Rescue; 33.00                                                      Social Services; 15.00
+                                                                                                                                                          4.00
+                                                                                                                                                                                                   Circuit Court         Criminal Justice
+                                                                                                                                                                                                    Clerk; 2.00           Services; 2.00
+                                                                                                                         Human                                         Public Safety
+                                                                                                                        Resources;                                     Communicati
+                                                                                                                           4.00                         Area Agency on   ons; 3.00
+                                                                                                                                                                                                    General
+                                                                                                                                                          Aging; 3.00                               District                 Procure
+                                                                                                                                                                                                   Court; 2.00                ment
+                                                                                                                                                                                                                   Planning; Services;
+                                                                                                                                                                                                                      2.00     2.00
+
+
+
+   \\ggfiles\OMB\Bud 26\Michael's Files\Adopted Agency Pages - Work Files\Budget Summary Work Files\Total
+                                                                                              Development Proposed
+                                                                                                              Public FY26
+                                                                                                                     Works;Position ChangeEconomic
+                                                                                                                                            from FY25 FTE
+Police; 23.00                                                             Parks & Rec; 10.75 Graph
+                                                                                                 Sheriff; 4.00                                          Services; 3.00                    3.00     Library; 2.00
+                                                                                                                                                                                                                   Development &
+                                                                                                                                                                                                                    Tourism; 1.00
+                                                                                                                                                                                                                                    Transportation;
+                                                                                                                                                                                                                                         1.00
+
+
+
+                                                                                                    FTE Position Change
+
+
+
+
+FY2026 Budget                                                                                                    45                                                                                              Budget Summary
+                                     \\ggfiles\OMB\Bud 26\Michael's Files\Adopted Agency Pages - Work Files\Budget Summary Work Files\Total Proposed FY26 Position Change from FY25 FTE Graph
+                                       Budget Summary
+
+                             Summary of New Positions Established in FY2026
+                                                                                        Effective   Total FTE
+Department                             Position Title                                       Date      Added
+Development Services                   Fiscal Specialist                                7/1/2025        1.00
+Development Services                   Senior Inspector                                 7/1/2025        1.00
+Development Services                   Senior Planner (Zoning Administration)           7/1/2025        1.00
+Development Services Total                                                                              3.00
+Economic Development & Tourism         Marketing and Promotions Manager                 7/1/2025        1.00
+Economic Development & Tourism Total                                                                    1.00
+Planning                               Principal Planner                                7/1/2025        2.00
+Planning Total                                                                                          2.00
+Public Works                           Environmental Analyst                            7/1/2025        1.00
+Public Works                           Principal Engineer                               7/1/2025        1.00
+Public Works                           Scale House Operator                             7/1/2025        1.00
+Public Works Total                                                                                      3.00
+Transportation                         Deputy Director of Department (Transportation)   7/1/2025        1.00
+Transportation Total                                                                                    1.00
+Executive Management                   Climate & Resilience Manager                     7/1/2025        1.00
+Executive Management                   Community Violence Intervention Specialist       7/1/2025        2.00
+                                       Deputy Director of Communications (Executive     7/1/2025
+Executive Management                                                                                    1.00
+                                       Management)
+Executive Management                   Greens Building Manager                          7/1/2025        1.00
+Executive Management                   Senior Communication Analyst (Language Access)   7/1/2025        1.00
+Executive Management                   Senior Executive Assistant (BOCS Committees)     7/1/2025        2.00
+Executive Management Total                                                                              8.00
+Facilities & Fleet Management          Engineer                                         7/1/2025        1.00
+Facilities & Fleet Management          Fiscal Analyst                                   7/1/2025        1.00
+Facilities & Fleet Management          Principal Engineer                               7/1/2025        1.00
+Facilities & Fleet Management Total                                                                     3.00
+Finance                                Financial Regulatory Specialist                  7/1/2025        4.00
+Finance                                Fiscal Manager                                   7/1/2025        1.00
+Finance                                Principal Fiscal Analyst                         7/1/2025        2.00
+Finance                                Risk & Wellness Specialist                       7/1/2025        1.00
+Finance                                Senior Business Systems Analyst                  7/1/2025        2.00
+Finance Total                                                                                          10.00
+Human Resources                        Human Resources Manager                          7/1/2025        1.00
+Human Resources                        Senior Business Systems Analyst                  7/1/2025        2.00
+Human Resources                        Senior Education and Outreach Instructor         7/1/2025        1.00
+Human Resources Total                                                                                   4.00
+Management & Budget                    Fiscal Manager                                   7/1/2025        1.00
+Management & Budget                    Senior Fiscal Analyst                            7/1/2025        2.00
+Management & Budget Total                                                                               3.00
+Procurement Services                   Procurement Analyst                              7/1/2025        1.00
+Procurement Services                   Procurement Manager                              7/1/2025        1.00
+Procurement Services Total                                                                              2.00
+
+
+
+
+FY2026 Budget                                               46                                 Budget Summary
+                                      Budget Summary
+
+                             Summary of New Positions Established in FY2026
+                                                                                             Effective   Total FTE
+Department                              Position Title                                           Date      Added
+Area Agency on Aging                    Human Services Case Management Manager               7/1/2025        1.00
+                                        (Nutrition Manager)
+Area Agency on Aging                                                                         7/1/2025        1.00
+                                        Human Services Case Worker (Supportive Specialist)
+
+Area Agency on Aging                    Human Services Program Manager (NWD)                 7/1/2025        1.00
+Area Agency on Aging Total                                                                                   3.00
+Community Services                      Clinical Services Case Management Manager            7/1/2025        1.00
+Community Services                      Clinical Services Case Worker                        7/1/2025        3.00
+Community Services Total                                                                                     4.00
+Housing & Community Development         Affordable Housing, Development Loan Underwriter     7/1/2025        1.00
+Housing & Community Development         Senior Housing Program Analyst                       7/1/2025        2.00
+Housing & Community Development Total                                                                        3.00
+Library                                 Librarian                                            7/1/2025        2.00
+Library Total                                                                                                2.00
+Parks & Recreation                      Business Service Analyst / Contract Administrator    7/1/2025        1.00
+Parks & Recreation                      Historic Preservation Specialist                     7/1/2025        0.40
+Parks & Recreation                      Human Resources Analyst                              7/1/2025        1.00
+Parks & Recreation                      Maintenance and Operations Specialist                7/1/2025        1.50
+Parks & Recreation                      Maintenance and Operations Worker                    7/1/2025        1.50
+Parks & Recreation                      Principal Engineer                                   7/1/2025        1.00
+Parks & Recreation                      Recreation Assistant                                 7/1/2025        0.45
+Parks & Recreation                      Recreation Instructor - Advanced Specialty           7/1/2025        0.75
+Parks & Recreation                      Recreation Senior Assistant                          7/1/2025        0.60
+Parks & Recreation                      Recreation Senior Technician                         7/1/2025        0.50
+Parks & Recreation                      Recreational Senior Assistant                        7/1/2025        0.05
+Parks & Recreation                      Senior Fiscal Analyst                                7/1/2025        1.00
+Parks & Recreation                      Therapeutic Recreation Programmer                    7/1/2025        1.00
+Parks & Recreation Total                                                                                    10.75
+Social Services                         Administrative Specialist                            7/1/2025        2.00
+Social Services                         CES Information & Referral Specialist                7/1/2025        2.00
+Social Services                         Human Services Caseworker                            7/1/2025        2.00
+Social Services                         Human Services Manager                               7/1/2025        1.00
+Social Services                         Human Services Program Manager                       7/1/2025        1.00
+Social Services                         Human Services Specialist                            7/1/2025        2.00
+Social Services                         Senior Human Services Caseworker                     7/1/2025        1.00
+Social Services                         Senior Human Services Specialist                     7/1/2025        4.00
+Social Services Total                                                                                       15.00
+Youth Services                          Detention Specialist                                 7/1/2025        3.00
+Youth Services                          Registered Nurse                                     7/1/2025        1.00
+Youth Services Total                                                                                         4.00
+Circuit Court Clerk                     Deputy Court Clerk                                   7/1/2025        2.00
+Circuit Court Clerk Total                                                                                    2.00
+Commonwealth's Attorney                 File Clerk                                           7/1/2025        2.00
+Commonwealth's Attorney                 Paralegal                                            7/1/2025        2.00
+Commonwealth's Attorney                 Senior Assistant Attorney                            7/1/2025        4.00
+Commonwealth's Attorney Total                                                                                8.00
+
+
+
+FY2026 Budget                                              47                                       Budget Summary
+                                            Budget Summary
+
+                               Summary of New Positions Established in FY2026
+                                                                                                      Effective   Total FTE
+Department                                    Position Title                                              Date      Added
+Criminal Justice Services                     Domestic Violence Coordinator                           7/1/2025        1.00
+Criminal Justice Services                     Investigation Team Manager                              7/1/2025        1.00
+Criminal Justice Services Total                                                                                       2.00
+Fire & Rescue                                 Administrative Coordinator                              7/1/2025        1.00
+Fire & Rescue                                 Fire & Rescue Battalion Chief                           7/1/2025        1.00
+Fire & Rescue                                 Fire & Rescue Captain                                   7/1/2025        2.00
+Fire & Rescue                                 Fire & Rescue Lieutenant                                7/1/2025        5.00
+Fire & Rescue                                 Fire & Rescue Technician I                              7/1/2025       16.00
+Fire & Rescue                                 Fire & Rescue Technician II                             7/1/2025        6.00
+Fire & Rescue                                 Human Services Program Manager                          7/1/2025        1.00
+Fire & Rescue                                 Public Safety Resilience Behavioral Health Specialist   7/1/2025        1.00
+Fire & Rescue Total                                                                                                  33.00
+General District Court                        Senior Deputy Court Clerk                               7/1/2025        2.00
+General District Court Total                                                                                          2.00
+Police                                        Administrative Technician (Telephone Online             7/1/2025        1.00
+                                              Reporting Unit)
+Police                                        Human Services Supervisor (Victim Advocate)             7/1/2025        1.00
+Police                                        Master Police Officer                                   7/1/2025        1.00
+Police                                        Police First Sergeant                                   7/1/2025        2.00
+Police                                        Police Lieutenant                                       7/1/2025        1.00
+Police                                        Police Officer                                          7/1/2025       15.00
+Police                                        Police Sergeant                                         7/1/2025        1.00
+Police                                        Senior Human Services Caseworker (Death                 7/1/2025        1.00
+                            Next Page – [08-Insert Summary of Full Time Equivalent Positions (FTE)]
+                                              Investigator)
+Police Total                                                                                                         23.00
+Public Safety Communications             Public Safety Telecommunicator                         7/1/2025              2.00
+                      Next Page – [07-Insert FY25 to FY26 Full Time Equivalent Position Change]
+Public Safety Communications             Public Safety Telecommunicator (Teletype Warrant       7/1/2025              1.00
+                                              Operator)
+Public Safety Communications
+                    Same PageTotal
+                               – [10-Insert Total Adopted FY26 Position Change by Department]                         3.00
+Sheriff                                       Sheriff's Deputy                                        7/1/2025        4.00
+Sheriff Total                                                                                                         4.00
+                                        Last Page – [09-Insert FY26 New Position Table]
+Total New FTE Positions in FY26                                                                                     158.75
+
+The table above provides an overview of the new positions added in FY26 across various County agencies. Each entry
+includes the department name, the classification position name, the start date, and the number of Full-Time Equivalents
+associated with the position type. This table offers a concise summary of the newly established roles that are integral
+to enhancing service delivery to the community. Detailed information regarding the justification and service impact for
+new positions, their financial costs and impacts, and other relevant specifics can be found in the specific agency pages
+of this document. For example, pages 341 & 343 detail the new positions added to Fire & Rescue and page 363 shows
+information on new Police positions.
+
+
+
+
+FY2026 Budget                                                     48                                         Budget Summary
+                Budget Summary
+
+
+
+
+FY2026 Budget         49         Budget Summary
+

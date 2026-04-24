@@ -1,0 +1,211 @@
+fiscal_year,scenario,block,line_item,amount_usd,basis,source_key,notes
+FY2027,base,schools_transfer,57_23_pct_of_general_revenue,1034664432.11,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2028,base,schools_transfer,57_23_pct_of_general_revenue,1081494776.21,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2029,base,schools_transfer,57_23_pct_of_general_revenue,1130150228.51,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2030,base,schools_transfer,57_23_pct_of_general_revenue,1181155023.81,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2031,base,schools_transfer,57_23_pct_of_general_revenue,1234461715.87,extrapolated,PWC-BUD-FY26-REV,FY31 GR base extrapolated at 4.51%/yr (FY29-FY30 adopted-plan growth). Schools share = 57.23%.
+FY2027,base,public_safety,gf_personnel,327909641.28,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 4.00%/yr"
+FY2027,base,public_safety,gf_nonpersonnel,108777717.54,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 3.50%/yr"
+FY2027,base,public_safety,fire_levy_operating,99055281.74,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2028,base,public_safety,gf_personnel,341026026.93,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 4.00%/yr"
+FY2028,base,public_safety,gf_nonpersonnel,112584937.65,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 3.50%/yr"
+FY2028,base,public_safety,fire_levy_operating,104998598.64,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2029,base,public_safety,gf_personnel,354667068.01,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 4.00%/yr"
+FY2029,base,public_safety,gf_nonpersonnel,116525410.47,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 3.50%/yr"
+FY2029,base,public_safety,fire_levy_operating,111298514.56,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2030,base,public_safety,gf_personnel,368853750.73,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 4.00%/yr"
+FY2030,base,public_safety,gf_nonpersonnel,120603799.84,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 3.50%/yr"
+FY2030,base,public_safety,fire_levy_operating,117976425.44,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2031,base,public_safety,gf_personnel,383607900.76,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 4.00%/yr"
+FY2031,base,public_safety,gf_nonpersonnel,124824932.83,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 3.50%/yr"
+FY2031,base,public_safety,fire_levy_operating,125055010.96,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2027,base,general_government,gopi_megr_gf,151220797.78,committed,PWC-BUD-FY26-EXP,"Growth 3.50%/yr over FY26 $146,107,051"
+FY2027,base,general_government,non_departmental_gf,49767844.59,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2027,base,community_services,hwes_gf,303507149.80,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2028,base,general_government,gopi_megr_gf,156513525.71,committed,PWC-BUD-FY26-EXP,"Growth 3.50%/yr over FY26 $146,107,051"
+FY2028,base,general_government,non_departmental_gf,51509719.15,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2028,base,community_services,hwes_gf,314129900.05,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2029,base,general_government,gopi_megr_gf,161991499.11,committed,PWC-BUD-FY26-EXP,"Growth 3.50%/yr over FY26 $146,107,051"
+FY2029,base,general_government,non_departmental_gf,53312559.32,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2029,base,community_services,hwes_gf,325124446.55,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2030,base,general_government,gopi_megr_gf,167661201.58,committed,PWC-BUD-FY26-EXP,"Growth 3.50%/yr over FY26 $146,107,051"
+FY2030,base,general_government,non_departmental_gf,55178498.90,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2030,base,community_services,hwes_gf,336503802.18,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2031,base,general_government,gopi_megr_gf,173529343.63,committed,PWC-BUD-FY26-EXP,"Growth 3.50%/yr over FY26 $146,107,051"
+FY2031,base,general_government,non_departmental_gf,57109746.36,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2031,base,community_services,hwes_gf,348281435.26,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2027,base,debt_service,total_principal_plus_interest,153192809.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2028,base,debt_service,total_principal_plus_interest,161363914.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2029,base,debt_service,total_principal_plus_interest,171711276.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2030,base,debt_service,total_principal_plus_interest,176021071.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2031,base,debt_service,total_principal_plus_interest,175419137.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2027,base,pension_opeb,vrs_employer_contribution,76017760.00,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 4.00%/yr. Already embedded in department personnel lines -- informational.
+FY2027,base,pension_opeb,supplemental_pension_police_fire_sheriff,6888960.00,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2027,base,pension_opeb,401a_money_purchase,2392000.00,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2027,base,pension_opeb,health_dental_insurance_employer,57200000.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=base uses 10.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2027,base,pension_opeb,retiree_health_credit,3150000.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=base. Embedded in personnel -- informational.
+FY2028,base,pension_opeb,vrs_employer_contribution,79058470.40,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 4.00%/yr. Already embedded in department personnel lines -- informational.
+FY2028,base,pension_opeb,supplemental_pension_police_fire_sheriff,7164518.40,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2028,base,pension_opeb,401a_money_purchase,2487680.00,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2028,base,pension_opeb,health_dental_insurance_employer,62920000.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=base uses 10.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2028,base,pension_opeb,retiree_health_credit,3307500.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=base. Embedded in personnel -- informational.
+FY2029,base,pension_opeb,vrs_employer_contribution,82220809.22,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 4.00%/yr. Already embedded in department personnel lines -- informational.
+FY2029,base,pension_opeb,supplemental_pension_police_fire_sheriff,7451099.14,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2029,base,pension_opeb,401a_money_purchase,2587187.20,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2029,base,pension_opeb,health_dental_insurance_employer,69212000.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=base uses 10.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2029,base,pension_opeb,retiree_health_credit,3472875.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=base. Embedded in personnel -- informational.
+FY2030,base,pension_opeb,vrs_employer_contribution,85509641.58,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 4.00%/yr. Already embedded in department personnel lines -- informational.
+FY2030,base,pension_opeb,supplemental_pension_police_fire_sheriff,7749143.10,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2030,base,pension_opeb,401a_money_purchase,2690674.69,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2030,base,pension_opeb,health_dental_insurance_employer,76133200.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=base uses 10.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2030,base,pension_opeb,retiree_health_credit,3646518.75,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=base. Embedded in personnel -- informational.
+FY2031,base,pension_opeb,vrs_employer_contribution,88930027.25,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 4.00%/yr. Already embedded in department personnel lines -- informational.
+FY2031,base,pension_opeb,supplemental_pension_police_fire_sheriff,8059108.83,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2031,base,pension_opeb,401a_money_purchase,2798301.68,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2031,base,pension_opeb,health_dental_insurance_employer,83746520.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=base uses 10.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2031,base,pension_opeb,retiree_health_credit,3828844.69,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=base. Embedded in personnel -- informational.
+FY2027,base,capital_paygo,cip_cash_financed,36974594.00,programmed,PWC-BUD-FY26-SUMM,FY27 County CIP Expenditures per Adopted Five-Year Plan.
+FY2028,base,capital_paygo,cip_cash_financed,58968718.00,programmed,PWC-BUD-FY26-SUMM,FY28 County CIP Expenditures per Adopted Five-Year Plan.
+FY2029,base,capital_paygo,cip_cash_financed,86140722.00,programmed,PWC-BUD-FY26-SUMM,FY29 County CIP Expenditures per Adopted Five-Year Plan.
+FY2030,base,capital_paygo,cip_cash_financed,101639730.00,programmed,PWC-BUD-FY26-SUMM,FY30 County CIP Expenditures per Adopted Five-Year Plan.
+FY2031,base,capital_paygo,cip_cash_financed,115000000.00,extrapolated,derived,FY31 extrapolated at approximately 13% growth (trailing 3-yr growth rate from FY28-30 was 14-46%; using conservative 13% YoY over FY30).
+FY2027,low,schools_transfer,57_23_pct_of_general_revenue,1034664432.11,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2028,low,schools_transfer,57_23_pct_of_general_revenue,1081494776.21,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2029,low,schools_transfer,57_23_pct_of_general_revenue,1130150228.51,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2030,low,schools_transfer,57_23_pct_of_general_revenue,1181155023.81,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2031,low,schools_transfer,57_23_pct_of_general_revenue,1234461715.87,extrapolated,PWC-BUD-FY26-REV,FY31 GR base extrapolated at 4.51%/yr (FY29-FY30 adopted-plan growth). Schools share = 57.23%.
+FY2027,low,public_safety,gf_personnel,326333152.62,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 3.50%/yr"
+FY2027,low,public_safety,gf_nonpersonnel,107726725.10,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 2.50%/yr"
+FY2027,low,public_safety,fire_levy_operating,99055281.74,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2028,low,public_safety,gf_personnel,337754812.96,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 3.50%/yr"
+FY2028,low,public_safety,gf_nonpersonnel,110419893.23,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 2.50%/yr"
+FY2028,low,public_safety,fire_levy_operating,104998598.64,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2029,low,public_safety,gf_personnel,349576231.42,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 3.50%/yr"
+FY2029,low,public_safety,gf_nonpersonnel,113180390.56,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 2.50%/yr"
+FY2029,low,public_safety,fire_levy_operating,111298514.56,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2030,low,public_safety,gf_personnel,361811399.51,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 3.50%/yr"
+FY2030,low,public_safety,gf_nonpersonnel,116009900.32,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 2.50%/yr"
+FY2030,low,public_safety,fire_levy_operating,117976425.44,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2031,low,public_safety,gf_personnel,374474798.50,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 3.50%/yr"
+FY2031,low,public_safety,gf_nonpersonnel,118910147.83,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 2.50%/yr"
+FY2031,low,public_safety,fire_levy_operating,125055010.96,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2027,low,general_government,gopi_megr_gf,149029192.02,committed,PWC-BUD-FY26-EXP,"Growth 2.00%/yr over FY26 $146,107,051"
+FY2027,low,general_government,non_departmental_gf,49046571.48,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2027,low,community_services,hwes_gf,299108495.46,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2028,low,general_government,gopi_megr_gf,152009775.86,committed,PWC-BUD-FY26-EXP,"Growth 2.00%/yr over FY26 $146,107,051"
+FY2028,low,general_government,non_departmental_gf,50027502.91,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2028,low,community_services,hwes_gf,305090665.37,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2029,low,general_government,gopi_megr_gf,155049971.38,committed,PWC-BUD-FY26-EXP,"Growth 2.00%/yr over FY26 $146,107,051"
+FY2029,low,general_government,non_departmental_gf,51028052.97,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2029,low,community_services,hwes_gf,311192478.68,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2030,low,general_government,gopi_megr_gf,158150970.81,committed,PWC-BUD-FY26-EXP,"Growth 2.00%/yr over FY26 $146,107,051"
+FY2030,low,general_government,non_departmental_gf,52048614.03,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2030,low,community_services,hwes_gf,317416328.25,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2031,low,general_government,gopi_megr_gf,161313990.22,committed,PWC-BUD-FY26-EXP,"Growth 2.00%/yr over FY26 $146,107,051"
+FY2031,low,general_government,non_departmental_gf,53089586.31,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2031,low,community_services,hwes_gf,323764654.82,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2027,low,debt_service,total_principal_plus_interest,153192809.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2028,low,debt_service,total_principal_plus_interest,161363914.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2029,low,debt_service,total_principal_plus_interest,171711276.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2030,low,debt_service,total_principal_plus_interest,176021071.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2031,low,debt_service,total_principal_plus_interest,175419137.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2027,low,pension_opeb,vrs_employer_contribution,75652290.00,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 3.50%/yr. Already embedded in department personnel lines -- informational.
+FY2027,low,pension_opeb,supplemental_pension_police_fire_sheriff,6855840.00,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2027,low,pension_opeb,401a_money_purchase,2380500.00,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2027,low,pension_opeb,health_dental_insurance_employer,55120000.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=low uses 6.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2027,low,pension_opeb,retiree_health_credit,3150000.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=low. Embedded in personnel -- informational.
+FY2028,low,pension_opeb,vrs_employer_contribution,78300120.15,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 3.50%/yr. Already embedded in department personnel lines -- informational.
+FY2028,low,pension_opeb,supplemental_pension_police_fire_sheriff,7095794.40,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2028,low,pension_opeb,401a_money_purchase,2463817.50,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2028,low,pension_opeb,health_dental_insurance_employer,58427200.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=low uses 6.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2028,low,pension_opeb,retiree_health_credit,3307500.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=low. Embedded in personnel -- informational.
+FY2029,low,pension_opeb,vrs_employer_contribution,81040624.36,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 3.50%/yr. Already embedded in department personnel lines -- informational.
+FY2029,low,pension_opeb,supplemental_pension_police_fire_sheriff,7344147.20,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2029,low,pension_opeb,401a_money_purchase,2550051.11,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2029,low,pension_opeb,health_dental_insurance_employer,61932832.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=low uses 6.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2029,low,pension_opeb,retiree_health_credit,3472875.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=low. Embedded in personnel -- informational.
+FY2030,low,pension_opeb,vrs_employer_contribution,83877046.21,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 3.50%/yr. Already embedded in department personnel lines -- informational.
+FY2030,low,pension_opeb,supplemental_pension_police_fire_sheriff,7601192.36,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2030,low,pension_opeb,401a_money_purchase,2639302.90,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2030,low,pension_opeb,health_dental_insurance_employer,65648801.92,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=low uses 6.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2030,low,pension_opeb,retiree_health_credit,3646518.75,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=low. Embedded in personnel -- informational.
+FY2031,low,pension_opeb,vrs_employer_contribution,86812742.82,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 3.50%/yr. Already embedded in department personnel lines -- informational.
+FY2031,low,pension_opeb,supplemental_pension_police_fire_sheriff,7867234.09,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2031,low,pension_opeb,401a_money_purchase,2731678.50,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2031,low,pension_opeb,health_dental_insurance_employer,69587730.04,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=low uses 6.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2031,low,pension_opeb,retiree_health_credit,3828844.69,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=low. Embedded in personnel -- informational.
+FY2027,low,capital_paygo,cip_cash_financed,36974594.00,programmed,PWC-BUD-FY26-SUMM,FY27 County CIP Expenditures per Adopted Five-Year Plan.
+FY2028,low,capital_paygo,cip_cash_financed,58968718.00,programmed,PWC-BUD-FY26-SUMM,FY28 County CIP Expenditures per Adopted Five-Year Plan.
+FY2029,low,capital_paygo,cip_cash_financed,86140722.00,programmed,PWC-BUD-FY26-SUMM,FY29 County CIP Expenditures per Adopted Five-Year Plan.
+FY2030,low,capital_paygo,cip_cash_financed,101639730.00,programmed,PWC-BUD-FY26-SUMM,FY30 County CIP Expenditures per Adopted Five-Year Plan.
+FY2031,low,capital_paygo,cip_cash_financed,115000000.00,extrapolated,derived,FY31 extrapolated at approximately 13% growth (trailing 3-yr growth rate from FY28-30 was 14-46%; using conservative 13% YoY over FY30).
+FY2027,high,schools_transfer,57_23_pct_of_general_revenue,1034664432.11,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2028,high,schools_transfer,57_23_pct_of_general_revenue,1081494776.21,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2029,high,schools_transfer,57_23_pct_of_general_revenue,1130150228.51,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2030,high,schools_transfer,57_23_pct_of_general_revenue,1181155023.81,committed,PWC-BUD-FY26-REV,Schools share = 57.23% of General Revenue base (2013 Agreement).
+FY2031,high,schools_transfer,57_23_pct_of_general_revenue,1234461715.87,extrapolated,PWC-BUD-FY26-REV,FY31 GR base extrapolated at 4.51%/yr (FY29-FY30 adopted-plan growth). Schools share = 57.23%.
+FY2027,high,public_safety,gf_personnel,331062618.60,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 5.00%/yr"
+FY2027,high,public_safety,gf_nonpersonnel,110354206.20,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 5.00%/yr"
+FY2027,high,public_safety,fire_levy_operating,99055281.74,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2028,high,public_safety,gf_personnel,347615749.53,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 5.00%/yr"
+FY2028,high,public_safety,gf_nonpersonnel,115871916.51,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 5.00%/yr"
+FY2028,high,public_safety,fire_levy_operating,104998598.64,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2029,high,public_safety,gf_personnel,364996537.01,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 5.00%/yr"
+FY2029,high,public_safety,gf_nonpersonnel,121665512.34,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 5.00%/yr"
+FY2029,high,public_safety,fire_levy_operating,111298514.56,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2030,high,public_safety,gf_personnel,383246363.86,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 5.00%/yr"
+FY2030,high,public_safety,gf_nonpersonnel,127748787.95,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 5.00%/yr"
+FY2030,high,public_safety,fire_levy_operating,117976425.44,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2031,high,public_safety,gf_personnel,402408682.05,committed,PWC-BUD-FY26-EXP+COMP,"FY26 base $315,297,732 grown 5.00%/yr"
+FY2031,high,public_safety,gf_nonpersonnel,134136227.35,committed,PWC-BUD-FY26-EXP+BLS-CPI,"FY26 base $105,099,244 grown 5.00%/yr"
+FY2031,high,public_safety,fire_levy_operating,125055010.96,committed,PWC-BUD-FY26-EXP,"Fire Levy is a special-revenue fund (not GF), but station operations are contractual once approved. Included in committed-expenditure envelope per CBA provisions."
+FY2027,high,general_government,gopi_megr_gf,153412403.55,committed,PWC-BUD-FY26-EXP,"Growth 5.00%/yr over FY26 $146,107,051"
+FY2027,high,general_government,non_departmental_gf,50489117.70,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2027,high,community_services,hwes_gf,307905804.15,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2028,high,general_government,gopi_megr_gf,161083023.73,committed,PWC-BUD-FY26-EXP,"Growth 5.00%/yr over FY26 $146,107,051"
+FY2028,high,general_government,non_departmental_gf,53013573.59,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2028,high,community_services,hwes_gf,323301094.36,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2029,high,general_government,gopi_megr_gf,169137174.91,committed,PWC-BUD-FY26-EXP,"Growth 5.00%/yr over FY26 $146,107,051"
+FY2029,high,general_government,non_departmental_gf,55664252.26,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2029,high,community_services,hwes_gf,339466149.08,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2030,high,general_government,gopi_megr_gf,177594033.66,committed,PWC-BUD-FY26-EXP,"Growth 5.00%/yr over FY26 $146,107,051"
+FY2030,high,general_government,non_departmental_gf,58447464.88,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2030,high,community_services,hwes_gf,356439456.53,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2031,high,general_government,gopi_megr_gf,186473735.34,committed,PWC-BUD-FY26-EXP,"Growth 5.00%/yr over FY26 $146,107,051"
+FY2031,high,general_government,non_departmental_gf,61369838.12,committed,PWC-BUD-FY26-EXP,"Admin & support, contingency, countywide insurance, unemployment; grown with operating inflation."
+FY2031,high,community_services,hwes_gf,374261429.36,committed,PWC-BUD-FY26-EXP,"Health, Wellbeing & Environmental Sustainability: includes Social Services, Community Services, Library, Parks & Rec, Public Health, Housing, Youth Services."
+FY2027,high,debt_service,total_principal_plus_interest,153192809.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2028,high,debt_service,total_principal_plus_interest,161363914.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2029,high,debt_service,total_principal_plus_interest,171711276.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2030,high,debt_service,total_principal_plus_interest,176021071.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2031,high,debt_service,total_principal_plus_interest,175419137.00,committed,PWC-BUD-FY26-DEBT,Grand total from FY26 Adopted CIP Debt Service schedule (existing + new CIP issuances + admin). Tranches itemized in debt_service_schedule.csv.
+FY2027,high,pension_opeb,vrs_employer_contribution,76748700.00,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 5.00%/yr. Already embedded in department personnel lines -- informational.
+FY2027,high,pension_opeb,supplemental_pension_police_fire_sheriff,6955200.00,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2027,high,pension_opeb,401a_money_purchase,2415000.00,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2027,high,pension_opeb,health_dental_insurance_employer,59280000.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=high uses 14.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2027,high,pension_opeb,retiree_health_credit,3150000.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=high. Embedded in personnel -- informational.
+FY2028,high,pension_opeb,vrs_employer_contribution,80586135.00,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 5.00%/yr. Already embedded in department personnel lines -- informational.
+FY2028,high,pension_opeb,supplemental_pension_police_fire_sheriff,7302960.00,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2028,high,pension_opeb,401a_money_purchase,2535750.00,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2028,high,pension_opeb,health_dental_insurance_employer,67579200.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=high uses 14.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2028,high,pension_opeb,retiree_health_credit,3307500.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=high. Embedded in personnel -- informational.
+FY2029,high,pension_opeb,vrs_employer_contribution,84615441.75,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 5.00%/yr. Already embedded in department personnel lines -- informational.
+FY2029,high,pension_opeb,supplemental_pension_police_fire_sheriff,7668108.00,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2029,high,pension_opeb,401a_money_purchase,2662537.50,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2029,high,pension_opeb,health_dental_insurance_employer,77040288.00,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=high uses 14.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2029,high,pension_opeb,retiree_health_credit,3472875.00,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=high. Embedded in personnel -- informational.
+FY2030,high,pension_opeb,vrs_employer_contribution,88846213.84,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 5.00%/yr. Already embedded in department personnel lines -- informational.
+FY2030,high,pension_opeb,supplemental_pension_police_fire_sheriff,8051513.40,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2030,high,pension_opeb,401a_money_purchase,2795664.38,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2030,high,pension_opeb,health_dental_insurance_employer,87825928.32,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=high uses 14.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2030,high,pension_opeb,retiree_health_credit,3646518.75,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=high. Embedded in personnel -- informational.
+FY2031,high,pension_opeb,vrs_employer_contribution,93288524.53,embedded,PWC-BUD-FY26-COMP,VRS 15.89% held flat (FY26 Adopted Five-Year Plan assumption). Covered payroll FY26 proxy $460M; grown 5.00%/yr. Already embedded in department personnel lines -- informational.
+FY2031,high,pension_opeb,supplemental_pension_police_fire_sheriff,8454089.07,embedded,PWC-BUD-FY26-COMP,1.44% held flat per Adopted Five-Year Plan. Already embedded in public_safety personnel -- informational.
+FY2031,high,pension_opeb,401a_money_purchase,2935447.59,embedded,PWC-BUD-FY26-COMP,0.50% held flat per Adopted Five-Year Plan. Embedded in personnel -- informational.
+FY2031,high,pension_opeb,health_dental_insurance_employer,100121558.28,embedded,PWC-BUD-FY26-COMP,10%/yr programmed in Adopted Plan (scenario=high uses 14.0%). Cumulative 5-yr cost $74.36M. Embedded in fringe benefits -- informational.
+FY2031,high,pension_opeb,retiree_health_credit,3828844.69,embedded,PWC-BUD-FY26-COMP,5%/yr growth FY27-30 (Adopted Plan); scenario=high. Embedded in personnel -- informational.
+FY2027,high,capital_paygo,cip_cash_financed,36974594.00,programmed,PWC-BUD-FY26-SUMM,FY27 County CIP Expenditures per Adopted Five-Year Plan.
+FY2028,high,capital_paygo,cip_cash_financed,58968718.00,programmed,PWC-BUD-FY26-SUMM,FY28 County CIP Expenditures per Adopted Five-Year Plan.
+FY2029,high,capital_paygo,cip_cash_financed,86140722.00,programmed,PWC-BUD-FY26-SUMM,FY29 County CIP Expenditures per Adopted Five-Year Plan.
+FY2030,high,capital_paygo,cip_cash_financed,101639730.00,programmed,PWC-BUD-FY26-SUMM,FY30 County CIP Expenditures per Adopted Five-Year Plan.
+FY2031,high,capital_paygo,cip_cash_financed,115000000.00,extrapolated,derived,FY31 extrapolated at approximately 13% growth (trailing 3-yr growth rate from FY28-30 was 14-46%; using conservative 13% YoY over FY30).

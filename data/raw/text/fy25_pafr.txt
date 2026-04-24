@@ -1,0 +1,616 @@
+                Neabsco Commuter Parking Garage
+
+
+
+
+                   FY2025
+POPULAR ANNUAL
+FINANCIAL REPORT
+ For the Year Ended June 30, 2025
+                                                                                                                                        Department of Finance
+                                                                                                                                         1 County Complex Court
+                                                                                                                                         Prince William, VA 22192
+                                                                                                                                                     703-792-6700
+                                                                                                                                               pwcva.gov/finance
+
+
+Board of County Supervisors*                                           We are pleased to present the Popular Annual Financial Report (PAFR)
+                                                                       of the County of Prince William, Virginia (the County), as of and for
+Deshundra Jefferson                                                    the fiscal year ended June 30, 2025. The PAFR is derived from the
+Chair At-Large                                                         information in the Annual Comprehensive Financial Report (ACFR),
+                                                                       which is prepared in conformity with accounting principles generally
+Kenny A. Boddye                                                        accepted in the United States of America and can be accessed at
+Vice Chair Occoquan District                                           pwcva.gov/department/finance/finance-and-revenue.
+Victor S. Angry
+                                                                       The ACFR includes more than 300 pages of detailed County financial
+Neabsco District
+                                                                       statements, notes, and schedules and is available on the County’s
+Andrea O. Bailey                                                       website or by contacting Prince William County Department of
+Potomac District                                                       Finance. Copies of the PAFR can be picked up at the Information Desk
+                                                                       in the Atrium of the James J. McCoart Building or at any Prince William
+Margaret Angela Franklin                                               Public Library.
+Woodbridge District
+                                                                       The PAFR provides a broad overview of the Prince William County
+Tom Gordy                                                              Government’s financial operations for the fiscal year (July 1, 2024 –
+Brentsville District                                                   June 30, 2025) and focuses solely on the County’s governmental and
+                                                                       business-type activities.
+Yesli Vega
+Coles District
+                                                                       The PAFR condenses financial information and therefore does not
+Bob Weir                                                               comply with generally accepted accounting principles. Additionally,
+Gainesville District                                                   the financial data of the Prince William County School Board and the
+                                                                       Adult Detention Center, and activity from services provided by County
+* As of June 30, 2025                                                  agencies to other County agencies, are omitted.
+
+
+
+
+Table of Contents
+Profile of the County. ................................................................................................................................................. 2
+
+FY 2025 County Revenue Resources......................................................................................................................... 3
+
+FY 2025 County Expenses........................................................................................................................................... 4
+
+FY 2025 Capital Improvement Program................................................................................................................... 5
+
+FY 2025 Net Position – Primary Government.......................................................................................................... 6
+
+10-Year Snapshot. ....................................................................................................................................................... 7
+
+FY 2025 Tax Rates........................................................................................................................................................ 8
+
+Summary...................................................................................................................................................................... 9
+
+
+                                                                                                                                              pwcva.gov/finance
+Profile of the County | 2
+
+
+
+                                                                      Population                                   508,109 Persons*
+
+                                                                      No. of Households                            158,395 Households*
+
+                                                                      No. of Students                              90,709 Students ***
+
+                                                                      Citizens with a Bachelor’s                   45.0%**
+                                                                      Degree or Higher
+
+                                                                      Median Household Income                      $129,527**
+
+                                                                      Distance from D.C.                           35 Miles
+
+                                                                      Dulles International Airport                 16 Miles
+
+                                                                      Ronald Reagan National                       18 Miles
+                                                                      Airport
+                                                                     * Per Prince William County GIS Demographer Q2 2025 estimates.
+                                                                     ** Per U.S. Census Bureau’s 2024 American Community Survey
+                                                                     *** P
+                                                                          er official September 2024 (FY2025) student enrollment count for all
+                                                                         Prince William County Schools
+
+
+                                                                     Prince William County is located in Northern Virginia,
+                                                                     approximately 35 miles southwest of Washington, D.C.,
+                                                                     and encompasses an area of 348 square miles, of which
+                                                                     18.8% is federally owned land. As the second most
+                                                                     populous jurisdiction in Virginia, Prince William County
+                                                                     has an estimated 508,109 residents and 158,395
+                                                                     households (PWC GIS Demographer, Q2 2025).
+
+Prince William County is almost 7.6% of the greater Washington-Metropolitan region’s population, which stands at nearly
+6.4 million persons, according to the 2020 U.S. Census data. Prince William’s location in the Metropolitan Washington, D.C.
+area and the availability of excellent transportation options in the region are a catalyst for growth in the County, which
+continues to provide numerous economic advantages.
+
+Within the County’s boundaries are the independent cities of Manassas and Manassas Park and the incorporated towns of
+Dumfries, Haymarket, Occoquan, and Quantico. The cities and towns elect their mayors and councils but rely on the County
+government for some of their services.
+
+Our County
+The County exercises local governing powers granted to it by the Virginia General Assembly. Since 1972, the County has
+operated under the County Executive form of government, as provided in Section 15.2-500 et seq. VA Code Ann. The governing
+policy-determining body of the County is an eight-member Board of County Supervisors (Board). Residents in each of the
+County’s seven magisterial districts elect one member of the Board to serve a term of four years. The eighth member of the
+Board, elected at-large by County residents, serves a four-year term as the Chair. The Chair and the current members took
+office in January 2024, following an election held on November 7, 2023, and will serve until December 31, 2027. The Gainesville
+magisterial district supervisor took office on November 14, 2025, following a special election held on November 4, 2025, due
+to a vacancy created by the unfortunate passing of Supervisor Bob Weir.
+
+The County provides a full range of local government services, including police, fire and rescue, court administration, education,
+planning, development, libraries, parks, recreational and tourism services, health and social services, public improvements,
+and general administration. The County’s School Board and Adult Detention Center both have a financial benefit/ burden
+relationship with the County and are reported as discretely presented component units, with the School Board issuing their
+own separately audited financial statements. A legally separate water and sewer service authority, Prince William Water,
+provides sanitation services. User charges and bond financings are the primary funding sources for Prince William Water’s
+operations and capital needs. Prince William Water is solely responsible for its outstanding debt and is not a component unit
+of the County. Readers should refer to the County’s ACFR for additional information.
+                                                                                  FY 2025 County Revenue Resources | 3
+
+
+
+    Total Revenues | $2.2B
+     *Amounts are expressed in thousands
+
+0                               20                         40                          60                               80                                 100
+
+
+
+
+    Revenues by Sources                           FY 2025                              FY 2024                                   FY 2023
+                                     Taxes     $1,609,077 (74.07%)                      $1,475,870                               $1,330,679
+
+       Intergovernmental Revenues               $363,327 (16.73%)                           $394,389                                 $430,024
+
+        For Use of Money & Property              $79,499 (3.66%)                            $67,088                                  $18,553
+
+                 Charges for Services            $74,283 (3.42%)                            $65,863                                  $60,726
+
+            Permits, Fees & Licenses             $28,490 (1.31%)                            $27,313                                  $24,928
+
+                      Other Revenues             $13,592 (0.63%)                            $19,275                                  $20,752
+
+                   Fines & Forfeitures           $3,954 (0.18%)                              $2,453                                   $1,927
+
+                       Total Revenues              $2,172,222                          $2,052,251                                $1,887,589
+
+
+
+    Tax Revenues by Sources                       FY 2025                              FY 2024                                   FY 2023
+                            Real Estate        $1,002,132 (62.28%)                          $941,486                                 $868,571
+
+                    Personal Property           $354,389 (22.02%)                           $291,398                                 $228,713
+
+            Business, Professional &
+                                                 $41,413 (2.57%)                            $38,922                                  $34,636
+              Occupational Licenses
+
+                            Local Sales          $99,421 (6.18%)                            $95,687                                  $93,246
+
+                                     Other       $83,837 (5.21%)                            $82,259                                  $78,967
+
+                     Consumer Utility            $14,722 (0.92%)                            $14,658                                  $15,408
+
+                          Recordation            $13,163 (0.82%)                            $11,460                                  $11,138
+
+                  Total Tax Revenues               $1,609,077                          $1,475,870                                $1,330,679
+
+          Real Estate Collection Rate                96.9%                                   96.7%                                    99.7%
+
+
+
+
+    Total Intergovernmental Revenues | $363M (including $86M from local revenues)
+                                State Revenue: $174M
+
+                               39.44%           24.91%           11.90%          14.09%                  4.94%           4.37%                  0.35%
+                               General        Community          Health &      Public Safety            Judicial      Public Works              Other
+                             Government      Development         Welfare
+
+
+
+                              Federal Revenue: $103M
+
+                                45.58%        23.62%              18.56%          8.14%                  2.82%               0.99%               0.29%
+                              Community       Health &          Public Works     General              Public Safety          Other              Judicial
+                             Development      Welfare                          Government
+FY 2025 County Expenses | 4
+
+
+
+    Total Expenses | $2.1B
+     *Amounts are expressed in thousands
+
+0                               20                    40                      60                       80                       100
+
+
+
+
+     County Expenses by
+      Operational Area                        FY 2025                         FY 2024                       FY 2023
+
+                             Education      $913,177 (44.19%)                      $859,370                  $685,309
+
+                          Public Safety     $457,308 (22.13%)                      $432,308                  $386,346
+
+                     Health & Welfare       $208,331 (10.08%)                      $176,365                  $155,569
+
+                 General Government
+                                            $115,786 (5.60%)                       $105,212                  $138,072
+                      Administration
+
+           Community Development             $90,587 (4.38%)                       $153,371                   $77,383
+
+      Parks, Recreational & Cultural         $82,788 (4.00%)                       $67,606                    $36,130
+
+                          Public Works       $69,467 (3.36%)                       $22,925                   $144,493
+
+         Interest on Long-Term Debt          $49,708 (2.41%)                       $46,135                    $43,134
+
+              Judicial Administration        $44,575 (2.16%)                       $39,350                    $32,976
+
+                         Business Type       $34,949 (1.69%)                       $31,186                    $31,271
+
+                  Total Governmental
+                                               $2,066,676                     $1,933,828                    $1,730,683
+                            Expenses
+
+
+
+    The County’s Primary Government net position increased by $56M in fiscal year 2025. During fiscal year 2025, the County
+    experienced a $133M increase in tax revenues, driven mainly by an increase in real estate tax revenues from $941M in
+    fiscal year 2024 to $1,002M in fiscal year 2025. The increased assessed value of property continues to push real estate tax
+    revenues higher during fiscal year 2025. Increased levels of support received from both the state and federal governments
+    coupled with gains in investment market values helped to mitigate the impact of the rising costs of vital services provided
+    by the County. These outcomes are attributable to a more positive real estate market than the County has experienced over
+    the past few fiscal years, with residential real estate values, which make up 67.7 percent of total assessments. Commercial
+    and industrial values increased by 40.6 percent, while apartment real estate values were relatively flat year over year.
+
+    The County continues to monitor the economic impacts of the increasing inflation, having hit a 40-year high in recent months,
+    and the possibility of a recession on the horizon. Despite the looming possibility of a recession, the County continues to
+    maintain a healthy standing by continuing to receive a AAA bond rating from Fitch Ratings, a Aaa bond rating from Moody’s
+    Investors Services and AAA bond rating from Standard & Poors Global Ratings for over a decade, allowing the County to
+    continue to secure long-term financing to fund County and Schools capital projects following the Board’s appropriated Capital
+    Improvements Plan (CIP). Additionally, the County continues to maintain compliance with the Board adopted Principles of
+    Sound Financial Management, building adequate reserves to safeguard the County from unanticipated economic shocks or
+    catastrophic events.
+                                                                                            Capital Improvement Program | 5
+
+
+            At the end of fiscal year 2025, the total reporting entity had invested $2,972M in a broad range of capital assets, including
+            land, buildings, improvements, machinery and equipment, library collections, infrastructure, right-to-use assets, and
+            construction in progress. Accumulated depreciation and amortization remained stable between fiscal years 2025 and 2024.
+            More details about the County’s capital assets are presented in Footnote 8 in the ACFR.
+
+            Major Capital Assets
+            This year’s major County capital asset additions included the following:
+
+            • The County’s capital project activities for fiscal year 2025 included $73M expended for building and improvement sites and
+              $7M for equipment.
+
+
+
+            45 CAPITAL PROJECTS | $237.17M Authorized
+                                                                      $89.92M Spent-to-date as follows:
+                      Parks and Libraries (26 Projects)
+
+                34.72%
+                                                                                                             $44.41M Authorized
+    0
+                $15.42M Spent          20                        40                           60                        80
+
+
+
+
+                    Public Safety (5 Projects)
+
+                26.32%
+        0                                        20                        40                           60
+                                                                                                             $72.23M Authorized   80
+
+
+
+                $19.01M Spent
+
+                    Technology Infrastructure (2 Projects)
+
+                73.32%
+                                                                                                              $1.77M Authorized
+        0                                             20                        40                           60                               80
+
+
+
+                $1.30M Spent
+
+
+                    Community Development (8 Projects)
+            0
+                57.06%                      20                        40                           60                        80
+
+
+                                                                                                             $85.18M Authorized
+                $48.59M Spent
+
+                    Public Works (5 Projects)
+
+0
+                97.56%            20                        40                         60                         80                    100
+
+
+
+                                                                                                              $3.32M Authorized
+                $3.24M Spent
+
+
+                    Other (3 Projects)
+            0                               20                        40                           60                        80
+
+
+
+                7.79%                                                                                        $30.26M Authorized
+                $2.36M Spent
+ FY 2025 Net Position – Primary Government | 6
+
+
+ TOTAL ASSETS/
+ DEFERRED OUTFLOWS OF RESOURCES | $2.412B
+                                                                                                                                          DEFERRED
+                                                                                                                                        OUTFLOWS OF
+                                                          INVESTMENTS                             PROPERTY & EQUIPMENT                   RESOURCES
+                                                              $21M                                       $940M                             $181M
+
+
+
+
+ 0                     20                           40                                 60                             80                             100
+
+
+
+                             CASH                             RECEIVABLES                                                         OTHER ASSETS
+                            1,095M                              $129M                                                                $46M
+
+                                                                         ASSETS BY TYPE                  FY 2025           FY 2024      FY 2023
+                                                                       (in $000s)
+
+                                                                                                  Cash   $1,095,039        $1,064,368   $1,105,774
+
+                                                                                       Investments        $20,726           $24,735      $28,725
+
+                                                                                        Receivables      $128,841          $138,895     $155,906
+
+                                                                         Property & Equipment            $939,733          $876,460     $798,876
+
+                                                                                       Other Assets       $46,791           $22,537      $46,583
+
+                                                                                        Total Assets     $2,231,130        $2,126,995   $2,135,864
+
+                                                                          Deferred Outflows of
+                                                                                                         $180,772          $125,989     $144,041
+                                                                                    Resources
+
+
+ TOTAL LIABILITIES/
+ DEFERRED INFLOW OF RESOURCES | $2.198B
+     SHORT-TERM DEBT                                     LONG-TERM DEBT                                                      OTHER LIABILITIES
+         $145M                                              $1,536M                                                              $295M
+
+
+
+
+ AMOUNTS                                                                                                                                     DEFERRED
+ OWED TO
+ 0                     20                COMPONENT40UNITS                 COUNTY 60                                   80                           100
+
+                                             $963M                         $573M                                                           INFLOWS OF
+EMPLOYEES &                                                                                                                                 RESOURCES
+ VENDORS                                                                                                                                       $78M
+   $144M                                                                  LIABILITIES BY
+                                     0      20           40       60           80           100
+
+
+
+                                                                              TYPE                       FY 2025           FY 2024      FY 2023
+                                                                       (in $000s)
+                                                                          Owed to Employees &
+                                                                                                          $143,840          $130,246     $127,622
+                                                                                     Vendors
+
+                                                                                    Short-Term Debt       $144,889          $138,099     $132,562
+
+                                                                                    Long-Term Debt       $1,535,971        $1,427,299   $1,339,645
+
+                                                                                    Other Liabilities     $295,272          $333,123     $554,052
+
+                                                                                    Total Liabilities    $2,119,972        $2,028,767   $2,153,881
+
+                                                                             Deferred Inflows of
+                                                                                                          $77,823           $64,775      $84,669
+                                                                                     Resources
+
+                                                                            Net Position/Deficit         $214,107          $158,442      $41,355
+                                                                                                                                      10-Year Snapshot | 7
+
+
+
+  Percentage of Total Real Estate Revenues
+     5.30%                           3.43%                          5.34%                            3.24%                            4.76%                          2.76%
+
+
+13.33%                                                        15.07%                                                           24.81%
+
+                    2016                     77.94%                                 2020                     76.35%                                  2025                    67.67%
+
+
+
+
+                                           Residential             Commercial & Industrial                    Apartments             Other
+
+                                                                                          2016           2020           2025
+
+                                               Residential                               77.94%       76.35%          67.67%
+
+                                               Commercial & Industrial                   13.33%       15.07%          24.81%
+
+                                               Apartments                                 5.30%        5.34%           4.76%
+
+                                               Other                                      3.43%        3.24%           2.76%
+
+
+
+  Assessed Value of Taxable Real Property
+  Residential                                                                                     Apartments
+                     2016                  2020                 2025                                               2016                 2020               2025
+                    $42.0B                $48.8B               $72.2B                                              $2.9B                $3.4B              $5.1B
+
+  Commercial & Industrial                                                                         Vacant Land & Other
+                     2016                  2020                 2025                                               2016                 2020               2025
+                     $7.2B                 $9.6B               $26.5B                                              $1.7B                $2.1B              $3.0B
+
+
+  Average Home Sale Price                                                                         Population
+
+
+         $374,970                   $452,945                    $642,182                          2020
+                                                                                                   467,935
+                                                                                                           2021
+                                                                                                            482,204
+                                                                                                                    2022
+                                                                                                                     492,576
+
+           2016                         2020                        2025                          2023
+                                                                                                   491,693
+                                                                                                           2024
+                                                                                                            496,322
+                                                                                                                    2025
+                                                                                                                     508,109
+                                                                                                  Prince William County represents 7.6% of the Washington-Metropolitan region’s
+                                                                                                  population, which stands close to 6.4 million persons according to the 2020 U.S.
+                                                                                                  Census American Community Survey data.
+
+
+  Unemployment Rates                                                                              Personal Property Assessments
+  Prince William County
+                                                                                                   2016       $5.0B           2020       $6.9B          2025       $30.8B
+    2016       3.7%             2020       9.6.%           2025        2.9%
+  Virginia
+
+
+    2016       4.3%             2020       8.2%            2025        3.5%
+  Nationally
+
+
+    2016       4.9%             2020       11.1%           2025        4.1%
+  Prince William County’s labor market retained a relatively healthy profile during FY
+  2025, highlighted in part by an unemployment rate that remained low at 2.9%, the
+  same as at the end of the prior fiscal year.
+FY 2025 Tax Rates | 8
+
+
+
+Tax Rates—Five-Year Comparison
+Real Estate Taxes (per $100 of assessed value)
+
+                                FY 2025    FY 2024     FY 2023     FY 2022    FY 2020
+                  Base Rate      $0.9200    $0.0966      $1.0300    $1.0300    $1.1150
+
+         Fire & Rescue Levy      $0.0720    $0.0720      $0.0750    $0.0750    $0.0800
+
+    Mosquito & Forest Pest
+                                 $0.0025    $0.0025      $0.0025    $0.0025    $0.0025
+        Management Fee
+
+
+
+Personal Property Taxes (per $100 of assessed value)
+
+                                FY 2025    FY 2024     FY 2023     FY 2022    FY 2021
+              General Class      $3.7000    $3.7000      $3.7000    $3.7000    $3.7000
+
+        Heavy Equipment &
+                                 $3.7000    $3.7000      $3.7000    $3.7000    $3.7000
+                Machinery
+                 Mining &
+                                 $2.0000    $2.0000      $2.0000    $2.0000    $2.0000
+       Manufacturing Tools
+
+              Mobile Homes       $0.9200    $0.0966      $1.0300    $1.0300    $1.1150
+
+    Computer Equipment &
+                                 $3.7000    $2.1500      $1.6500    $1.6500    $1.5000
+              Peripherals
+
+  Research & Development         $1.0000    $1.0000      $1.0000    $1.0000    $1.0000
+
+
+
+Other Taxes—Motor Vehicle License Fees (per $100 assessed value)
+
+                                FY 2025    FY 2024     FY 2023     FY 2022    FY 2021
+                    Vehicles     $33.00     $33.00       $33.00     $33.00     $33.00
+
+                Motorcycles      $20.00     $20.00       $20.00     $20.00     $20.00
+
+
+
+Solid Waste Management Annual Fee
+
+                                FY 2025    FY 2024     FY 2023     FY 2022    FY 2021
+               Single-Family     $75.00     $75.00       $70.00     $70.00     $70.00
+
+                Townhouse        $67.50     $67.50       $63.00     $63.00     $63.00
+
+               Mobile Home       $60.00     $60.00       $56.00     $56.00     $56.00
+
+  Multi-Family (Apartments
+                                 $50.19     $50.19       $47.00     $47.00     $47.00
+          & Condominiums)
+  Business/Non-Residential
+   (per SFE where a SFE = 1.3    $75.00     $75.00       $70.00     $70.00     $70.00
+                       tons)
+
+
+Storm Water Management Annual Fees
+                                FY 2025    FY 2024     FY 2023     FY 2022    FY 2021
+               Single-Family      $52.26     $47.50       $44.08     $44.08     $44.08
+
+                 Townhouse        $39.20     $35.63       $33.06     $33.06     $33.06
+
+  Multi-Family (Apartments
+                                  $35.63     $35.63       $33.06     $33.06     $33.06
+          & Condominiums)
+  Business/Non-Residential
+         (per 2,059 sq.ft. of     $52.26     $47.50       $44.08     $44.08     $44.08
+          impervious area)
+                                                                                                  Summary | 9
+
+
+
+                                                Summary
+
+The County’s Fiscal Plan is adopted annually by the Board.
+Their decisions are guided by the County’s Strategic
+Plan and the Comprehensive Plan. The Strategic Plan is
+adopted every four years and updated annually during
+the budget process and establishes the goals and long-
+term vision of the community to guide policy and fiscal
+decisions of the Board. The adopted strategic goal areas      Government Finance Officers Association
+are: Education, Environment, Government, Mobility,
+                                                                       Certificate of
+Quality of Life, Safe & Secure Community, Service Delivery,
+and Smart Growth. The Comprehensive Plan is a general
+                                                                       Achievement
+guide to the location, character, and extent of proposed              for Excellence
+and anticipated land use, including public facilities.                 in Financial
+                                                                        Reporting
+The Board adopts the Budget on or before May 1 each
+year. In conjunction with the Fiscal Plan, the County also                 Presented to
+
+prepares a six-year Capital Improvement Plan, which is         County of Prince William
+also adopted by the Board of County Supervisors. The                   Virginia
+budget directs the allocation of resources for use among
+the functional areas. The budget is a guiding document             For its Annual Comprehensive
+                                                                           Financial Report
+for the Prince William County Government, while the                  For the Fiscal Year Ended
+accounting of actual revenues and expenditures is
+                                                                           June 30, 2024
+provided in the ACFR. Click here to view.
+
+
+                                                                       Executive Director/CEO
+         Fire & Rescue System Rehab Vehicle
+
+
+
+
+                                  Finance
+
+
+Prince William County, Virginia
+          Department of Finance
+         1 County Complex Court
+         Prince William, VA 22192
+                     703-792-6700
+             pwcva.gov/finance
+

@@ -1,0 +1,169 @@
+county,fiscal_year,metric,value,unit,source_key,notes
+# Stage 3b — Peer-County Panel for Non-DC CAPEX Spillover Benchmarking
+# Prince William County Fiscal Risk Model. Built 2026-04-18.
+# Fiscal years are calendar years for BPS (Census BPS is calendar-year),
+# FY ending June 30 for VA APA Comparative Report (Exhibit B local revenue).
+# All values are nominal USD unless noted. n_observations is county-year.
+#
+# Metric keys:
+#   residential_permits_units     = total housing units authorized (BPS)
+#   residential_permits_valuation = total valuation authorized (BPS, USD)
+#   residential_permits_1unit     = 1-unit buildings (BPS)
+#   residential_permits_5plus     = 5+-unit buildings (BPS)
+#   fy_real_property_tax          = FY real-property tax revenue collected (VA APA Exhibit B)
+#   fy_pp_general_tax             = FY personal property general (includes DC computer equip)
+#   fy_other_local_taxes          = FY other local taxes (includes BPOL, meals, recordation, etc.)
+#   fy_permit_privilege_fees      = FY permits, privilege fees, regulatory licenses revenue
+#   fy_total_local_revenue        = FY total local revenue
+#   loudoun_dc_assessed_value     = Loudoun data-center AV (commissioner of revenue, tax year)
+#   loudoun_residential_av_change = Loudoun single-family-home assessed-value change YoY
+#
+# --- Loudoun County, VA (FIPS 51107) ---
+# Regulatory event: 2025-03-18 by-right data-center elimination (CPA + ZOA).
+# Predecessor debates 2022-2024 tightened approval cycles; event horizon Q2 2025.
+Loudoun,2019,residential_permits_units,2875,units,CENSUS_BPS_co1912y,"Source: U.S. Census Bureau, Building Permits Survey, year-end 2019 county file"
+Loudoun,2020,residential_permits_units,2493,units,CENSUS_BPS_co2012y,"Year-end 2020 county file"
+Loudoun,2021,residential_permits_units,2099,units,CENSUS_BPS_co2112y,"Year-end 2021 county file"
+Loudoun,2022,residential_permits_units,2330,units,CENSUS_BPS_co2212y,"Year-end 2022 county file"
+Loudoun,2023,residential_permits_units,1781,units,CENSUS_BPS_co2312y,"Year-end 2023 county file"
+Loudoun,2024,residential_permits_units,3317,units,CENSUS_BPS_co2412y,"Year-end 2024 county file; pre-event peak with grandfathering rush"
+Loudoun,2025,residential_permits_units,1561,units,CENSUS_BPS_co2512y,"Year-end 2025 county file; FIRST FULL YEAR POST-EVENT — 53% YoY drop"
+Loudoun,2019,residential_permits_valuation,533409971,USD,CENSUS_BPS_co1912y,
+Loudoun,2020,residential_permits_valuation,450623564,USD,CENSUS_BPS_co2012y,
+Loudoun,2021,residential_permits_valuation,474627026,USD,CENSUS_BPS_co2112y,
+Loudoun,2022,residential_permits_valuation,438768729,USD,CENSUS_BPS_co2212y,
+Loudoun,2023,residential_permits_valuation,352240117,USD,CENSUS_BPS_co2312y,
+Loudoun,2024,residential_permits_valuation,458878826,USD,CENSUS_BPS_co2412y,
+Loudoun,2025,residential_permits_valuation,272655636,USD,CENSUS_BPS_co2512y,"-40.6% YoY"
+Loudoun,2019,residential_permits_5plus,23,buildings,CENSUS_BPS_co1912y,"5+-unit (multifamily) building count"
+Loudoun,2020,residential_permits_5plus,17,buildings,CENSUS_BPS_co2012y,
+Loudoun,2021,residential_permits_5plus,20,buildings,CENSUS_BPS_co2112y,
+Loudoun,2022,residential_permits_5plus,32,buildings,CENSUS_BPS_co2212y,
+Loudoun,2023,residential_permits_5plus,25,buildings,CENSUS_BPS_co2312y,
+Loudoun,2024,residential_permits_5plus,25,buildings,CENSUS_BPS_co2412y,
+Loudoun,2025,residential_permits_5plus,31,buildings,CENSUS_BPS_co2512y,"Multifamily partially offset SF decline"
+Loudoun,2023,fy_real_property_tax,1109347543,USD,VA_APA_FY23,"Exhibit B Local Revenue line"
+Loudoun,2024,fy_real_property_tax,1226321452,USD,VA_APA_FY24,"+10.5% YoY"
+Loudoun,2023,fy_pp_general_tax,805332084,USD,VA_APA_FY23,"Dominated by DC computer equipment"
+Loudoun,2024,fy_pp_general_tax,921586862,USD,VA_APA_FY24,"+14.4% YoY"
+Loudoun,2023,fy_other_local_taxes,237592496,USD,VA_APA_FY23,"Includes BPOL"
+Loudoun,2024,fy_other_local_taxes,283444730,USD,VA_APA_FY24,"+19.3% YoY"
+Loudoun,2023,fy_permit_privilege_fees,24350515,USD,VA_APA_FY23,"Building permits + licenses"
+Loudoun,2024,fy_permit_privilege_fees,29284973,USD,VA_APA_FY24,"+20.3% YoY — rush to submit ahead of Feb 2025 grandfather deadline"
+Loudoun,2023,fy_total_local_revenue,2391718421,USD,VA_APA_FY23,
+Loudoun,2024,fy_total_local_revenue,2736875183,USD,VA_APA_FY24,"+14.4% YoY"
+Loudoun,2025,loudoun_dc_assessed_value_tax_year,42300000000,USD,LOUDOUN_ASSESS_TY2025,"Data-center AV TY2025; +78.7% vs TY2024 $23.7B"
+Loudoun,2024,loudoun_dc_assessed_value_tax_year,23700000000,USD,LOUDOUN_ASSESS_TY2024,
+Loudoun,2026,loudoun_dc_assessed_value_tax_year,59067000000,USD,LOUDOUNTIMES_TY2026,"+39.63% vs TY2025 per Commissioner of Revenue"
+Loudoun,2025,loudoun_residential_av_change,-0.032,fraction,LOUDOUNNOW_TY2025,"TY2025 residential AV -3.2% per Commissioner (driven by condo/townhouse softness)"
+Loudoun,2026,loudoun_residential_av_change,0.0122,fraction,LOUDOUNTIMES_TY2026,"TY2026 single-family with utilities +1.22%; townhouses +0.61%; condos -0.51%"
+#
+# --- Prince William County, VA (FIPS 51153) ---
+# Regulatory events: 2022-12 Digital Gateway CPA vote; 2023-12-12/13 DG rezoning
+# approvals; 2026-03-31 VA Court of Appeals invalidation; 2026-04-15 non-appeal vote.
+# This file captures baseline through 2025 (pre-event for the April 2026 signal).
+Prince William,2019,residential_permits_units,1474,units,CENSUS_BPS_co1912y,
+Prince William,2020,residential_permits_units,1438,units,CENSUS_BPS_co2012y,
+Prince William,2021,residential_permits_units,2189,units,CENSUS_BPS_co2112y,"5+-unit spike 843 units"
+Prince William,2022,residential_permits_units,1616,units,CENSUS_BPS_co2212y,"CPA vote late-2022"
+Prince William,2023,residential_permits_units,1492,units,CENSUS_BPS_co2312y,"DG rezoning approvals Dec; full year still soft"
+Prince William,2024,residential_permits_units,1418,units,CENSUS_BPS_co2412y,
+Prince William,2025,residential_permits_units,1340,units,CENSUS_BPS_co2512y,"Pre-event baseline for April 2026 shock"
+Prince William,2026,residential_permits_units,98,units,CENSUS_BPS_co2601y,"January 2026 only; court ruling March 31"
+Prince William,2019,residential_permits_valuation,245702844,USD,CENSUS_BPS_co1912y,
+Prince William,2020,residential_permits_valuation,249217355,USD,CENSUS_BPS_co2012y,
+Prince William,2021,residential_permits_valuation,331969940,USD,CENSUS_BPS_co2112y,
+Prince William,2022,residential_permits_valuation,324958283,USD,CENSUS_BPS_co2212y,
+Prince William,2023,residential_permits_valuation,247920225,USD,CENSUS_BPS_co2312y,
+Prince William,2024,residential_permits_valuation,245367192,USD,CENSUS_BPS_co2412y,
+Prince William,2025,residential_permits_valuation,254585107,USD,CENSUS_BPS_co2512y,
+Prince William,2023,fy_real_property_tax,880836000,USD,VA_APA_FY23,
+Prince William,2024,fy_real_property_tax,971814000,USD,VA_APA_FY24,"+10.3% YoY"
+Prince William,2023,fy_pp_general_tax,222771000,USD,VA_APA_FY23,
+Prince William,2024,fy_pp_general_tax,274376000,USD,VA_APA_FY24,"+23.2% YoY; DC computer equipment driver"
+Prince William,2023,fy_other_local_taxes,230931000,USD,VA_APA_FY23,
+Prince William,2024,fy_other_local_taxes,240179000,USD,VA_APA_FY24,"+4.0% YoY"
+Prince William,2023,fy_permit_privilege_fees,24928000,USD,VA_APA_FY23,
+Prince William,2024,fy_permit_privilege_fees,27313000,USD,VA_APA_FY24,"+9.6% YoY"
+Prince William,2023,fy_total_local_revenue,1522342000,USD,VA_APA_FY23,
+Prince William,2024,fy_total_local_revenue,1759650000,USD,VA_APA_FY24,"+15.6% YoY"
+#
+# --- Stafford County, VA (FIPS 51179) ---
+# Regulatory event: 2025-10-21 ZOA tightening (500-ft setback, tree preservation,
+# 10-year noise evaluations); grandfathering limited.
+Stafford,2019,residential_permits_units,913,units,CENSUS_BPS_co1912y,
+Stafford,2020,residential_permits_units,964,units,CENSUS_BPS_co2012y,
+Stafford,2021,residential_permits_units,977,units,CENSUS_BPS_co2112y,
+Stafford,2022,residential_permits_units,759,units,CENSUS_BPS_co2212y,
+Stafford,2023,residential_permits_units,541,units,CENSUS_BPS_co2312y,"-28.7% YoY"
+Stafford,2024,residential_permits_units,361,units,CENSUS_BPS_co2412y,"-33.3% YoY — trough"
+Stafford,2025,residential_permits_units,450,units,CENSUS_BPS_co2512y,"+24.7% YoY recovery; event in Oct means 2026 captures bulk of effect"
+Stafford,2019,residential_permits_valuation,231118431,USD,CENSUS_BPS_co1912y,
+Stafford,2020,residential_permits_valuation,238166543,USD,CENSUS_BPS_co2012y,
+Stafford,2021,residential_permits_valuation,271889115,USD,CENSUS_BPS_co2112y,
+Stafford,2022,residential_permits_valuation,241886343,USD,CENSUS_BPS_co2212y,
+Stafford,2023,residential_permits_valuation,148581496,USD,CENSUS_BPS_co2312y,
+Stafford,2024,residential_permits_valuation,127471125,USD,CENSUS_BPS_co2412y,
+Stafford,2025,residential_permits_valuation,148135211,USD,CENSUS_BPS_co2512y,
+Stafford,2023,fy_real_property_tax,199500074,USD,VA_APA_FY23,
+Stafford,2024,fy_real_property_tax,218801067,USD,VA_APA_FY24,"+9.7% YoY"
+Stafford,2023,fy_pp_general_tax,57777041,USD,VA_APA_FY23,
+Stafford,2024,fy_pp_general_tax,64263364,USD,VA_APA_FY24,"+11.2% YoY"
+Stafford,2023,fy_total_local_revenue,386218840,USD,VA_APA_FY23,
+Stafford,2024,fy_total_local_revenue,404724591,USD,VA_APA_FY24,"+4.8% YoY"
+#
+# --- Fauquier County, VA (FIPS 51061) ---
+# Regulatory event: 2023-12-14 comp-plan amendment restricting DC to 2 districts —
+# characterized as strictest in Northern Virginia.
+Fauquier,2019,residential_permits_units,202,units,CENSUS_BPS_co1912y,
+Fauquier,2020,residential_permits_units,197,units,CENSUS_BPS_co2012y,
+Fauquier,2021,residential_permits_units,248,units,CENSUS_BPS_co2112y,
+Fauquier,2022,residential_permits_units,203,units,CENSUS_BPS_co2212y,
+Fauquier,2023,residential_permits_units,247,units,CENSUS_BPS_co2312y,"Event Dec 2023"
+Fauquier,2024,residential_permits_units,286,units,CENSUS_BPS_co2412y,"+15.8% post-event; no deterrent"
+Fauquier,2025,residential_permits_units,417,units,CENSUS_BPS_co2512y,"+45.8% year 2 post-event"
+Fauquier,2019,residential_permits_valuation,75166716,USD,CENSUS_BPS_co1912y,
+Fauquier,2020,residential_permits_valuation,59107105,USD,CENSUS_BPS_co2012y,
+Fauquier,2021,residential_permits_valuation,99128951,USD,CENSUS_BPS_co2112y,
+Fauquier,2022,residential_permits_valuation,113431030,USD,CENSUS_BPS_co2212y,
+Fauquier,2023,residential_permits_valuation,141452538,USD,CENSUS_BPS_co2312y,
+Fauquier,2024,residential_permits_valuation,101882418,USD,CENSUS_BPS_co2412y,
+Fauquier,2025,residential_permits_valuation,159573077,USD,CENSUS_BPS_co2512y,
+Fauquier,2023,fy_real_property_tax,139851452,USD,VA_APA_FY23,
+Fauquier,2024,fy_real_property_tax,145304067,USD,VA_APA_FY24,"+3.9% YoY — post-event muted"
+Fauquier,2023,fy_pp_general_tax,42081846,USD,VA_APA_FY23,
+Fauquier,2024,fy_pp_general_tax,39942651,USD,VA_APA_FY24,"-5.1% YoY"
+Fauquier,2023,fy_total_local_revenue,245091590,USD,VA_APA_FY23,
+Fauquier,2024,fy_total_local_revenue,249792391,USD,VA_APA_FY24,"+1.9% YoY"
+#
+# --- Culpeper County, VA (FIPS 51047) ---
+# Regulatory event: 2022-2024 ongoing AWS rezoning litigation (6 landowners sued
+# 2022); Red Ace Data Center rezoning approval in 2024 (partial reversal signal).
+Culpeper,2022,residential_permits_units,306,units,CENSUS_BPS_co2212y,"Litigation announced 2022; small-county filter so earlier years not in BPS panel"
+Culpeper,2023,residential_permits_units,294,units,CENSUS_BPS_co2312y,"-3.9% YoY"
+Culpeper,2024,residential_permits_units,425,units,CENSUS_BPS_co2412y,"+44.6% YoY"
+Culpeper,2025,residential_permits_units,366,units,CENSUS_BPS_co2512y,"-13.9% YoY"
+Culpeper,2022,residential_permits_valuation,103274571,USD,CENSUS_BPS_co2212y,
+Culpeper,2023,residential_permits_valuation,71534286,USD,CENSUS_BPS_co2312y,
+Culpeper,2024,residential_permits_valuation,136693655,USD,CENSUS_BPS_co2412y,
+Culpeper,2025,residential_permits_valuation,152730600,USD,CENSUS_BPS_co2512y,
+Culpeper,2023,fy_real_property_tax,36221367,USD,VA_APA_FY23,
+Culpeper,2024,fy_real_property_tax,38930398,USD,VA_APA_FY24,"+7.5% YoY"
+Culpeper,2023,fy_pp_general_tax,31371711,USD,VA_APA_FY23,
+Culpeper,2024,fy_pp_general_tax,33509384,USD,VA_APA_FY24,"+6.8% YoY"
+Culpeper,2023,fy_total_local_revenue,107093466,USD,VA_APA_FY23,
+Culpeper,2024,fy_total_local_revenue,111130175,USD,VA_APA_FY24,"+3.8% YoY"
+#
+# --- King George County, VA (FIPS 51099) ---
+# Control county — modest DC presence, no overlay-reversal event.
+King George,2019,residential_permits_units,155,units,CENSUS_BPS_co1912y,
+King George,2020,residential_permits_units,165,units,CENSUS_BPS_co2012y,
+King George,2021,residential_permits_units,232,units,CENSUS_BPS_co2112y,
+King George,2022,residential_permits_units,161,units,CENSUS_BPS_co2212y,
+King George,2023,residential_permits_units,170,units,CENSUS_BPS_co2312y,
+King George,2024,residential_permits_units,155,units,CENSUS_BPS_co2412y,
+King George,2025,residential_permits_units,93,units,CENSUS_BPS_co2512y,"-40% YoY; confounder — note King George annexation and general NoVA softening"
+King George,2023,fy_real_property_tax,26047126,USD,VA_APA_FY23,
+King George,2024,fy_real_property_tax,28507967,USD,VA_APA_FY24,"+9.4% YoY"
+King George,2023,fy_total_local_revenue,64990186,USD,VA_APA_FY23,
+King George,2024,fy_total_local_revenue,67006306,USD,VA_APA_FY24,"+3.1% YoY"

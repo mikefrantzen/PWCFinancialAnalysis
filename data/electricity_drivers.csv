@@ -1,0 +1,18 @@
+driver,point_estimate_share_of_recent_increase,low,high,unit,dc_attributable_point,source_key,notes
+# Stage-electricity decomposition of the 2022-2026 Dominion Energy Virginia
+# residential rate-increase envelope (approximately +$480-$660/year on a 1,000 kWh
+# typical Virginia residential customer; point +$550/year). Rows sum to 1.00 at point.
+# DC-attributable column is a sub-share of the row; summed across rows it represents
+# the total DC-attributable portion of the envelope (approximately 30%).
+# Built 2026-04-18 for /research/electricity_cost_decomposition.md and report section 10.5.
+natural_gas_reset_2022_russia_ukraine,0.20,0.15,0.30,fraction,0.00,eia_today_2022volatile,"Henry Hub 2021 $3.82 -> 2022 $6.38 -> 2025 $3.52/MMBtu; driven by Russia-Ukraine LNG displacement; non-DC driver"
+q1_2026_middle_east_hormuz,0.03,0.01,0.08,fraction,0.00,iea_omr_apr2026,"Feb 28 2026 Hormuz closure; reopened ~Apr 14 2026; material globally but mostly post-2026 bill impact; confirmed via IEA OMR and Dallas Fed"
+pjm_capacity_auction,0.25,0.18,0.35,fraction,0.12,pjm_bra_2025_26,"RTO clearing $29/MW-day (2024-25) -> $269.92 (2025-26) -> $329.17 (2026-27 cap) -> $333.44 (2027-28 cap); Dominion zone cleared at zonal cap $444.26 in 2025-26; DC sub-share concentrated in Dominion zone uplift"
+transmission_buildout_nova,0.12,0.06,0.18,fraction,0.11,dominion_irp_2024,"$10-15B Dominion transmission plan 2025-2030; largely DC-load-justified; JLARC estimated $7-15/month by 2040"
+generation_capital_cvow_gas_solar_battery,0.08,0.04,0.14,fraction,0.03,dominion_irp_2024,"CVOW rider + new gas + solar + battery; VCEA-mandated share not DC-attributable; DC-accelerated share ~3%"
+grid_inflation_materials_labor_transformers,0.15,0.10,0.25,fraction,0.02,eia_today_materials_2024,"Transformer lead times 20wk (2021) -> 80-120wk (2024); transformer unit prices roughly doubled; macro inflation"
+residual_storms_ev_ratebase_reliability,0.17,0.10,0.25,fraction,0.02,pjm_ll_2025,"Winter Storm Elliott CP penalties; EV rider; rate-base general growth; PJM reliability-rule changes; primarily non-DC"
+# Checks:
+# Sum of point shares: 1.00
+# Sum of DC-attributable points: 0.30 (approximately 30%)
+# Range on DC-attributable: 0.20 (low) to 0.45 (high)

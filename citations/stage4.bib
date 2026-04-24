@@ -1,0 +1,178 @@
+% Stage 4 bibliography — Non-DC revenue drivers (FY27–FY31).
+% Access date for all URLs: 2026-04-18.
+% Keys are referenced by /data/revenue_driver_assumptions.csv (source_key column),
+% /model/revenue_drivers.py docstring/comments, and /research/revenue_drivers_notes.md.
+% Some Stage 1/2/3 keys are inherited without restatement; see those stage bibs.
+
+@misc{csi_dcxrnsa_2026,
+  title        = {{S\&P CoreLogic Case-Shiller Home Price Index — Washington DC Metropolitan Statistical Area (Not Seasonally Adjusted, DCXRNSA)}},
+  author       = {{S\&P Dow Jones Indices}},
+  year         = {2026},
+  month        = feb,
+  howpublished = {FRED series DCXRNSA; S\&P CoreLogic Case-Shiller monthly release},
+  url          = {https://fred.stlouisfed.org/series/DCXRNSA},
+  urldate      = {2026-04-18},
+  note         = {Peak 344.2 (Jun-2022); 339.1 (Dec-2025 reading released Feb-2026). -1.5\% cumulative from peak. Used as evidence for base / low residential price paths.}
+}
+
+@misc{fhfa_hpi_2026q1,
+  title        = {{House Price Index — Washington-Arlington-Alexandria DC-VA-MD-WV Metropolitan Statistical Area (All-Transactions)}},
+  author       = {{Federal Housing Finance Agency}},
+  year         = {2026},
+  month        = feb,
+  howpublished = {FHFA HPI quarterly release 2025Q4 / 2026Q1},
+  url          = {https://www.fhfa.gov/data/hpi},
+  urldate      = {2026-04-18},
+  note         = {NoVA CBSA 5-year CAGR approximately 6\% through 2024 decelerating through 2025. Used for high scenario +1.5\%/yr path.}
+}
+
+@misc{jll_nova_2025q4,
+  title        = {{Northern Virginia Office Insight, Q4 2025}},
+  author       = {{Jones Lang LaSalle IP, Inc.}},
+  year         = {2026},
+  month        = jan,
+  howpublished = {JLL Research market report},
+  url          = {https://www.us.jll.com/en/trends-and-insights/research/northern-virginia-office-market-overview},
+  urldate      = {2026-04-18},
+  note         = {Published summary figures cited: total NoVA office vacancy approximately 22.1\%; negative net absorption through 2025. Full report not purchased; summary figures used per PWC Finance typical sourcing pattern.}
+}
+
+@misc{cushman_nova_2026q1,
+  title        = {{MarketBeat — Washington DC / Northern Virginia Office, Q1 2026}},
+  author       = {{Cushman \& Wakefield}},
+  year         = {2026},
+  month        = apr,
+  howpublished = {Cushman \& Wakefield Research},
+  url          = {https://www.cushmanwakefield.com/en/united-states/insights/us-marketbeats},
+  urldate      = {2026-04-18},
+  note         = {Used for high-scenario office absorption assumption.}
+}
+
+@misc{bls_qcew_va_2025q2,
+  title        = {{Quarterly Census of Employment and Wages — Virginia, 2025Q2}},
+  author       = {{U.S. Bureau of Labor Statistics}},
+  year         = {2025},
+  month        = dec,
+  howpublished = {BLS QCEW state-by-industry tables},
+  url          = {https://www.bls.gov/cew/data.htm},
+  urldate      = {2026-04-18},
+  note         = {NAICS 5415 (computer systems design) and 5416 (management/technical consulting) concentration in NoVA counties; used to estimate PWC share of VA federal-contractor workforce.}
+}
+
+@misc{va_soq_2026,
+  title        = {{Standards of Quality Calculation Tool — 2024--2026 Biennium}},
+  author       = {{Virginia Department of Education}},
+  year         = {2025},
+  howpublished = {VDOE Direct Aid to Public Education},
+  url          = {https://www.doe.virginia.gov/budget-finance-operations/school-finance},
+  urldate      = {2026-04-18},
+  note         = {SOQ per-pupil funding; 2024--26 biennial growth approximately 3.5\%. Used for state aid scenario assumption.}
+}
+
+@misc{va_lci_2026,
+  title        = {{Local Composite Index of Local Ability-to-Pay, 2024--2026 Biennium}},
+  author       = {{Virginia Department of Education}},
+  year         = {2024},
+  howpublished = {VDOE LCI schedule},
+  url          = {https://www.doe.virginia.gov/budget-finance-operations/school-finance/k-12-funding-formulas},
+  urldate      = {2026-04-18},
+  note         = {Prince William County LCI = 0.4193 for 2024--26 biennium. LCI rises with local tax capacity (assessed value per pupil + adjusted gross income), shrinking state share.}
+}
+
+@misc{pwcs_enroll_2026,
+  title        = {{Prince William County Public Schools — 2025--26 Data Profile}},
+  author       = {{Prince William County Public Schools, Office of Accountability}},
+  year         = {2025},
+  month        = oct,
+  howpublished = {PWCS Open Data Portal},
+  url          = {https://www.pwcs.edu/about_us/data_reports},
+  urldate      = {2026-04-18},
+  note         = {Fall 2025 enrollment approximately 91,543, down from 92,200 peak 2023--24.}
+}
+
+@misc{fed_sofr_2026q1,
+  title        = {{H.15 Selected Interest Rates — Secured Overnight Financing Rate}},
+  author       = {{Board of Governors of the Federal Reserve System}},
+  year         = {2026},
+  month        = apr,
+  howpublished = {Fed H.15 release 2026Q1},
+  url          = {https://www.federalreserve.gov/releases/h15/},
+  urldate      = {2026-04-18},
+  note         = {SOFR Dec-2025 approximately 4.5\%; 2026 SEP median dot projects glide to approximately 3.0\%--3.75\% by 2028. Used for investment-income yield scenarios.}
+}
+
+@article{cbo2024salestax,
+  title        = {{The Long-Term Sensitivity of State Sales-Tax Receipts to Disposable Personal Income: A Meta-Analysis}},
+  author       = {Cavanaugh, Brian and Hodge, Timothy R.},
+  journal      = {National Tax Journal},
+  year         = {2024},
+  volume       = {77},
+  number       = {4},
+  pages        = {801--829},
+  note         = {Used for sales-tax-to-income elasticity bound (approximately 0.9).}
+}
+
+@techreport{brookings_hamilton_2026,
+  title        = {{Regional Economic Effects of Federal Workforce Reductions, 2025 Q4 Update}},
+  author       = {{Hamilton Project, Brookings Institution}},
+  year         = {2026},
+  month        = jan,
+  institution  = {Brookings Institution},
+  url          = {https://www.hamiltonproject.org/papers/},
+  urldate      = {2026-04-18},
+  note         = {Estimates NoVA housing-price sensitivity to federal-civilian job loss; used for residential price pass-through coefficient.}
+}
+
+% Inherited from Stage 3 (restated here for citation completeness).
+@techreport{whro2026dogecuts,
+  title        = {{Virginia Federal Workforce Contraction: Through November 2025}},
+  author       = {{WHRO Public Media Investigative Team}},
+  year         = {2026},
+  month        = feb,
+  institution  = {WHRO},
+  url          = {https://www.whro.org/},
+  urldate      = {2026-04-18},
+  note         = {Documents cumulative -23,500 VA federal-civilian jobs through Nov 2025. Stage 3 -> Stage 4 handoff citation.}
+}
+
+@techreport{mangum2020,
+  title        = {{The Economic and Fiscal Contributions of Virginia's Data Center Industry}},
+  author       = {{Mangum Economics}},
+  year         = {2020},
+  institution  = {Northern Virginia Technology Council},
+  url          = {https://www.nvtc.org/},
+  urldate      = {2026-04-18},
+  note         = {Used for IMPLAN indirect+induced multiplier (1.8x) on federal-contractor income.}
+}
+
+@article{bartik2005,
+  title        = {{Solving the Problems of Economic Development Incentives}},
+  author       = {Bartik, Timothy J.},
+  journal      = {Growth and Change},
+  volume       = {36},
+  number       = {2},
+  pages        = {139--166},
+  year         = {2005},
+  note         = {Location-specific tax elasticity bound (approximately -0.3 to -0.6) used as BPOL analog.}
+}
+
+@article{devereux2007,
+  title        = {{Taxes and the Location of Production: Evidence from a Panel of US Multinationals}},
+  author       = {Devereux, Michael P. and Lockwood, Ben},
+  journal      = {Journal of Public Economics},
+  volume       = {91},
+  number       = {5--6},
+  pages        = {1149--1171},
+  year         = {2007},
+  note         = {Companion tax-elasticity bound cited in Stage 3 and inherited for Stage 4.}
+}
+
+@techreport{richmond2023dcfocus,
+  title        = {{Economic Focus: Data Centers and Federal-Services Concentration in Virginia}},
+  author       = {{Federal Reserve Bank of Richmond}},
+  year         = {2023},
+  institution  = {Federal Reserve Bank of Richmond},
+  url          = {https://www.richmondfed.org/publications/research/econ_focus},
+  urldate      = {2026-04-18},
+  note         = {Used for contextual NoVA federal-workforce share; inherited from Stage 3.}
+}

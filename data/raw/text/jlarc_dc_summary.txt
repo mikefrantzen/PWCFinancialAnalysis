@@ -1,0 +1,588 @@
+Summary of the
+December 2024 JLARC Report:
+Data Centers in Virginia
+Office of Sustainability
+December 2024
+
+Objective
+Provide background, purpose, and key
+recommendations of the JLARC Report in order to
+prepare for further in-depth discussions.
+
+2
+
+Agenda
+1. Background & Purpose
+2. Report Contents &
+Recommendations
+3. Ongoing Points of Discussion
+4. Sustainability's Key Takeaways
+
+3
+
+Background &
+Purpose
+
+Report Contents &
+Recommendations
+
+Ongoing Points of
+Discussion
+
+Sustainability's Key
+Takeaways
+
+4
+
+Background
+• Dec. 11, 2023: The Joint Legislative Audit and Review Commission (JLARC)
+directed its staff to review the impacts of the data center industry in Virginia.
+• Feb. 2024: Data center legislation shelved until this report was completed
+• SB191: Data Center Demand Cost Allocation
+• HB910: Data Center Energy Usage
+• SB284 / SB285: Siting of Data Centers
+
+• Dec. 9, 2024: Report Published
+• Report PDF: https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf
+• JLARC’s Presentation Summary:
+https://jlarc.virginia.gov/pdfs/presentations/Rpt598Pres-1.pdf
+• Report Webpage: https://jlarc.virginia.gov/landing-2024-data-centers-invirginia.asp
+
+5
+
+Purpose Set by the Study Resolution (Appendix A)
+• Assess the data center industry’s impact on:
+• State and local revenue
+• Virginia’s energy demand and supply
+• Natural, historic, and cultural resources
+• Residents
+
+• Forecast future growth of the industry in Virginia and determine
+• How any economic benefits could be more widely distributed
+• If Virginia’s data center tax exemption could be improved
+
+6
+
+Background &
+Purpose
+
+Report Contents &
+Recommendations
+
+Ongoing Points of
+Discussion
+
+Sustainability's Key
+Takeaways
+
+7
+
+Chapters
+1. Overview of the Data Center Industry
+2. Economic and Fiscal Impacts – Extending benefits to economically distressed areas in VA
+3. Energy Impacts – Infrastructure, Reliability, and Energy Efficiency
+4. Energy Costs – Cost Allocation/Protecting Non-Data Center Rate Payers and Retail Choice
+5. Natural and Historic Resource Impacts – Onsite generator emissions, water use, and viewshed
+6. Local Residential Impacts – Planning recommendations for localities and noise impacts
+7. Potential Changes to Data Center Sales Tax Exemption to Address Policy Concerns
+
+8
+
+1. Overview of the Data Center Industry
+• VA has > 63 Million sf of data
+center space on 7,200 acres
+Pocahontas State Park =
+7,600 acres
+• ~ 5,050 MW Power Use
+= 2 million VA households
+• Data center industry still growing
+in established markets, but
+development starting to spread
+into new areas, such as along I-95
+Figure 1-1 in Report
+9
+
+Chapter 2 – 7 Recommendation Framework
+• Identifies findings which are addressed by either recommendations or policy options
+• Recommendations
+•
+
+Evidence suggests these are the best proposed actions to address the finding
+
+•
+
+All recommendations can be implemented simultaneously
+
+•
+
+Some of the recommendations are legislative or executive actions
+
+•
+
+8 Recommendations
+
+• Policy Options
+•
+
+There are multiple ways in which a report finding could be addressed and there is insufficient evidence of
+a single best way to address the finding (some are mutually exclusive)
+
+•
+
+Addressing the relevant finding could be beneficial, but not necessarily needed
+
+•
+
+The action proposed is a policy judgment best made by the General Assembly or other elected officials
+
+•
+
+10 Policy Options
+10
+
+The sales tax exemption, which has attracted large-scale
+data centers to VA, is the main policy lever for
+addressing data center concerns
+• Established in 2010
+• Qualifying data centers and tenants can purchase computers and other equipment without
+paying sales tax
+•
+
+50 new jobs
+
+•
+
+Pay at least 150% of the locality’s prevailing annual average wage
+
+•
+
+$150 million in capital investment
+
+• Exemption considered valuable by the industry
+•
+
+Provided $928.6M savings in FY23 (by far Virginia’s largest economic development incentive)
+
+•
+
+Used by 90% of industry (as measured in MW of power)
+
+•
+
+Industry indicates exemption is a key factor in location and expansion decisions
+11
+
+2. Economic and Fiscal Impacts
+• Findings:
+• Data centers provide economic benefits, mostly during their initial construction.
+• Data centers can generate substantial local tax revenues for localities that have them.
+• Loudoun $733M (31%), Prince William $110M (7%)
+• Localities in economically distressed areas could have difficulty attracting the industry (need
+access to transmission lines, large/flat areas, close to customers [AI workloads are exception])
+•
+
+Localities are more attractive if they have “shovel-ready” industrial sites.
+
+•
+
+Virginia Business Ready Sites Program provides grants for site development.
+
+• Recommendation 1: The Virginia Economic Development Partnership should clarify in site
+characterization and development guidelines that potential data center sites are eligible for grants
+under the Virginia Business Ready Sites Program.
+
+12
+
+3. Energy Impacts
+
+13
+
+Two Build Out Rate
+Scenarios
+• Scenario 1: Unconstrained Demand
+•
+
+Shows what demand would be
+before accounting for constraints
+like the ability to build enough
+energy infrastructure to meet
+demand
+
+• Scenario 2: Half Unconstrained
+Demand
+• Compared to infrastructure needed
+if there was no new data center
+demand
+
+Slide 26 in JLARC’s Presentation Summary
+
+14
+
+Finding: Building enough infrastructure to meet growing
+data center demand will be difficult.
+
+Report isolates how much of
+build out is driven solely by data
+centers
+Table 3-1 in report
+
+Figure 3-1 in Report
+
+15
+
+Breakdown of generation and
+transmission capacity needed
+to be added (2025 to 2040)
+• Scenario 1: Unconstrained Demand
+•
+
+Solar added at 2x rate in 2024
+
+•
+
+Large natural gas plant added every ~1.5
+years
+
+•
+
+Wind capacity exceeding all secured
+offshore capabilities
+
+•
+
+New nuclear plants using technologies
+not yet proven viable
+
+• Scenario 2: Half Unconstrained Demand
+•
+
+Less new solar and natural gas, similar
+wind and nuclear
+
+• Both scenarios - many new transmission
+lines and new gas pipeline capacity
+
+Figure 3-4 in report (VCEA = Virginia Clean Economy Act)
+
+16
+
+3. Energy Impacts: Ensuring Reliability
+• Findings:
+• Demand growth raises concerns about system capacity and reliability, but existing utility
+requirements and processes limit risks.
+• Delaying addition of new data centers, as needed, would address risks
+• Recommendation 2: Amend the Code of Virginia to clarify that electric utilities have the
+authority to delay, but not deny, service to customers when the addition of customer load
+cannot be supported by the transmission system or available generation capacity.
+
+17
+
+3. Energy Impacts: Energy Efficiency
+• Findings:
+• State could encourage or require data centers to take actions to help address their energy impacts (e.g.,
+investing in renewables, improving PUE), but actions would have small effect on demand.
+• Energy saved from efficiency gains likely to be used to perform more computing activity.
+• “At the end of the day, a 200 MW data center is going to be a 200 MW data center.”
+• Recommendation 3: Amend the Code of Virginia to expand the Accelerated Renewable Buyers program,
+which allows large customers of energy utilities to claim credit for purchases of solar and wind energy to offset
+certain utility charges, to include credit from battery energy storage systems.
+• Recommendation 4: Amend the Code of Virginia to require that utilities establish a demand response program
+for large data center customers and to require that these customers participate in the program.
+• Policy Option 1: Amend the Code of Virginia to require that, as a condition of receiving the sales tax exemption,
+data center companies meet and certify to an energy management standard, such as the International
+Organization for Standardization’s 50001 standard for energy management.
+
+18
+
+4. Energy Costs: Cost Allocation
+• Findings:
+• Data centers are currently paying full cost of service (current rates appropriately allocate costs to the customers
+responsible for incurring them), but growing energy demand is likely to increase costs for other customers.
+• Generation and transmission costs are either passed through to individual data center customers or allocated
+to customer classes that largely consist of data centers. Distribution costs are directly charged to data center
+customers or collected through contractually obligated minimum payments
+• Example: As data center demand grows, some transmission lines could be upgraded to higher voltages to
+meet demand. For example, an existing 115kV transmission line could be upgraded to a 230kV line. This can
+require distribution-side upgrades to all existing substations connecting to the high voltage line, including
+those that serve and are paid for by non-data center customers.
+• Utilities would need to import more power and could be more susceptible to spikes in energy market prices
+• Recommendation for Utilities: Utilities could help insulate non-data center customers by
+• Creating a separate data center customer class
+• Adopting new cost allocation methods
+• Adjusting rates more frequently
+• SCC is in best position to address and has scheduled a technical conference on cost concerns 12/16/2024
+
+19
+
+4. Energy Costs: Risk of Stranded Assets
+• Findings:
+• Data center growth creates additional financial risks to utilities and their customers.
+• Data center demand could drive infrastructure to be overbuilt, stranding costs with
+existing customers
+• Recommendation 5: Amend the Code of Virginia to direct Dominion Energy to develop a plan
+for addressing the risk of generation and transmission infrastructure costs being stranded
+with existing customers and file that plan with the State Corporation Commission as part of its
+biennial rate review filing or as a separate filing.
+
+20
+
+4. Energy Costs: Protecting Non-Data Center Co-Op Customers
+• Findings:
+• Data centers pose particular risks to electric co-ops
+• Could account for 80% or more of energy sales for some co-ops by 2030
+• Delayed or disputed payments from a single large customer could create substantial
+financial liabilities
+• Creating a for-profit subsidiary company to serve data center customers would ensure
+business continuity for the co-op if a data center did not pay its bills, only the subsidiary
+company would be affected. SCC has previously rejected this type of request because it
+did not believe it had the legal authority to allow it.
+• Policy Option 2: Amend the Code of Virginia to allow electric cooperatives to create for-profit
+subsidiary companies that could fulfill their legal obligation to provide energy services (retail
+sales) to customers with load capacity of over 90 MW.
+21
+
+4. Energy Costs: Retail Choice
+• Findings:
+• Data center company participation in retail choice program could shift generation costs to other
+customers
+• Large load customers, including most data centers can participate in retail choice (purchase
+energy through a provider of their choice). Small number of data centers currently participate in
+retail choice.
+• Utilities are required to build or secure enough generation to meet all customer demands. If a
+customer leaves the utility for retail choice, the fixed cost of any recently built generation is divided
+among the remaining customers.
+• Utilities also indicated that, because they are legally obligated to serve any customer in their
+territory as a provider of last resort, they must plan for the capacity needs of current and future
+customers
+• Policy Option 3: The General Assembly could consider amending the Code of Virginia to require that electric
+utilities establish caps on participation in retail choice that protect ratepayers from undue costs, and that
+such caps be approved by the State Corporation Commission through a formal case process.
+22
+
+5. Natural and Historic Resource Impacts: Emergency Generators
+• Findings:
+• Data center backup generators emit pollutants, but their use is minimal, and existing
+regulations largely curb adverse impacts.
+• Regulated by DEQ using state and national standards
+• Backup generators rarely run for prolonged periods
+• Backup generators <4% of regional nitrogen oxides emissions and 0.1% of carbon
+monoxide and particulate matter
+• A “worst-case” prolonged, large-scale regional outage could contribute to temporary air
+quality issues
+• DEQ launched study to monitor data center generator emissions in Northern Virginia
+• Policy Option 4: Amend the Code of Virginia to require that, as a condition of receiving the data
+center sales and use tax exemption, all new data center developments in the Northern Virginia
+Ozone Nonattainment Area use only Tier 4 generators, Tier 2 generators with selective catalytic
+reduction systems, or generators with equivalent or lower emission rates.
+23
+
+5. Natural and Historic Resource Impacts: Water Use
+• Findings:
+• Data center water use is currently sustainable, and state ensures future sustainability
+through regulation.
+• State regulates sustainability of water withdrawals, but some localities should consider
+local impacts
+• Recommendation 6: Amend the Code of Virginia to expressly authorize local governments to
+(i) require proposed data center developments to submit water use estimates and (ii) consider
+water use when making rezoning and special use permit decisions related to data center
+development.
+• Policy Option 5: Amend the Code of Virginia to require that, as a condition of receiving the sales
+and use tax exemption, data center companies meet and certify to an environmental
+management standard, such as the International Organization for Standardization’s 14001
+standard for Environmental Management Systems.
+
+24
+
+5. Natural and Historic Resource Impacts: Historic Resources
+• Findings:
+• Data center impacts on historic resources are similar to other developments, but current
+protections could be strengthened
+• Policy Option 6: Amend the Code of Virginia to require that, as a condition for receiving the sales
+and use tax exemption, data center companies conduct a Phase I historic resource study of a
+proposed development site, as well as a viewshed analysis when a proposed site is located
+within a certain distance of a registered historic site and report the study findings to the
+appropriate locality prior to development.
+
+25
+
+6. Local Residential Impacts: Local Planning and Zoning
+• Findings:
+• Growing number of data centers are being built close to residential areas, impacting nearby residents, and
+some localities have taken steps to minimize impacts.
+• Data centers are industrial facilities that are largely incompatible with residential uses
+• Effectiveness of local efforts to minimize residential impacts ultimately depends on elected officials
+• Nature of data center impacts does not appear to merit state intervention, and localities appear to be taking
+needed actions
+• Recommendation for Localities: Localities should implement several practices to minimize residential impacts
+• Classify data centers as industrial use
+• Revise zoning maps to prevent by-right data centers next to residential
+• Ensure sufficient minimum requirements for data center developments are sufficient (setbacks, building
+heights)
+• Designate optimal locations for data center development (away from residential, close to transmission)
+• Require pre-development sound modeling and revise ordinances to better prevent and address noise conflicts
+
+26
+
+Data center planning and zoning changes since 2019 (Appendix L)
+
+27
+
+6. Local Residential Impacts: Noise
+• Findings:
+• In a few cases, noise from data centers has negatively affected nearby residents, and noise
+impacts can be difficult to resolve.
+• Recommendation 7: Amend the Code of Virginia to expressly authorize local governments to
+require sound modeling studies for data center development projects prior to project approval.
+• Policy Option 7: Amend the Code of Virginia to require that, as a condition for receiving the sales
+and use tax exemption, data center companies conduct a sound modeling study prior to
+development within a certain distance of a residential development/zone.
+• Recommendation 8: Amend the Code of Virginia to expressly authorize local governments to
+establish and enforce maximum allowable sound levels for data center facilities, including (i)
+using alternative low frequency noise metrics and (ii) setting noise rules and enforcement
+mechanisms in their zoning ordinances, separate from existing noise ordinances.
+
+28
+
+7. Potential Changes to Data Center Sales Tax Exemption to
+Address Policy Concerns
+• Findings:
+• Exemption could be (1) extended to maintain data center growth and economic benefits, (2)
+allowed to expire to slow growth and reduce energy impacts, or (3) modified to balance
+these priorities.
+• Exemption could be changed to address policy concerns related to energy efficiency, natural and
+historic resources, and local residential impacts, but changes could make the exemption a less
+effective economic development tool.
+
+• Policy Option 8: Amend the Code of Virginia to extend the expiration date for the state’s sales
+and use tax exemption for data centers from 2035 to 2050.
+• Policy Option 9: Allow the sales and use tax exemption for data centers to expire in 2035.
+• Policy Option 10: Amend the Code of Virginia to extend a partial sales and use tax exemption for
+data centers from 2035 to 2050.
+• See also Policy Option 5 (environmental management standards), Policy Option 4 (lower emission
+generators), Policy Option 6 (Phase 1 historic resource and viewshed studies), and Policy Option 7
+(sound modeling studies)
+
+29
+
+Background &
+Purpose
+
+Report Contents &
+Recommendations
+
+Ongoing Points of
+Discussion
+
+Sustainability's Key
+Takeaways
+
+30
+
+December 10th Board Meeting
+• Dominion - 60% data center growth is in cooperative territory
+•
+
+JLARC Agrees:
+•
+
+“a majority of projected data center growth (~60 percent) is expected to occur in co-op service territories.”
+
+•
+
+“Based on the half of unconstrained demand forecast, the industry could account for 80 percent or more of
+annual energy sales in three Virginia co-ops by 2030.”
+
+•
+
+NOVEC purchases generation from PJM and operates one power plant, owns their distribution, uses
+Dominion transmission
+
+•
+
+VCEA and Renewable Portfolio Standard (RPS) do not apply to co-ops; therefore, does not make as
+big of a difference as might be expected
+
+• Dominion confirmed small module reactors (SMRs) would be needed to meet energy
+demand, but would not be operational until 2035; JLARC Report agrees new nuclear is
+needed.
+• Dominion confirmed increasing operations at Possum Point (burning Natural Gas) instead of
+retiring the plant.
+• Dominion stated it would be difficult for data centers to source enough natural gas from
+existing distribution lines to develop onsite natural gas plants for electricity production.
+
+31
+
+December 10th Board Meeting
+•
+
+Changes to Dominion’s Rate Structure – Who pays for it?
+•
+
+Dominion and JLARC Disconnect: JLARC says data center pays for substation, whereas Dominion
+says it's socialized
+
+•
+
+JLARC
+
+•
+
+•
+
+“Establishing a separate data center customer class is a first step utilities could take to help
+insulate residential and other customers from the energy cost impacts of the industry.”
+
+•
+
+“Utilities could obtain contractual agreements from data centers customers to provide
+minimum payments that ensure the costs of major generation and transmission buildouts are
+not stranded with other customers”
+
+•
+
+“Utilities could directly assign some or all costs of smaller projects, such as transmission line
+extensions, to the customers or customer class for whom the line is primarily being built to
+serve.”
+
+Cost allocation addressed in 12/16/2024 SCC Technical Conference
+
+32
+
+Background &
+Purpose
+
+Report Contents &
+Recommendations
+
+Ongoing Points of
+Discussion
+
+Sustainability's Key
+Takeaways
+
+33
+
+Sustainability’s Key Takeaways
+• Gap in addressing environmental and climate impacts from indirect emissions (new fossil
+generation needed to meet demand):
+•
+
+“Large natural gas plants would also need to be added at an equal or faster rate than the busiest
+build period for these facilities (2012 to 2018), depending on VCEA compliance.”
+
+•
+
+Appendix F Energy Infrastructure Project Impacts and Regulation focuses on community
+opposition to solar and transmission projects as well as possible grid enhancing technologies.
+•
+
+Does not incorporate Dominion’s IRP projections for new natural gas plants and non-retirement of existing
+fossil fuels.
+
+• Deny vs. delay clarification
+• Recommendation for localities to consider water use and impacts on a project basis
+• Plan to track 2025/2026 legislation in response to JLARC Report
+
+34
+
+

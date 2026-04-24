@@ -1,0 +1,107 @@
+channel,parameter_name,point_estimate,low,high,unit,event_benchmark,n_observations,method,source_key,notes
+# Stage 3b — Non-DC CAPEX Spillover Parameters for Prince William County
+# Built 2026-04-18. These parameters are CONSUMED by Stage 6b's updated
+# revenue_drivers.py as multipliers applied to baseline non-DC revenue lines
+# under CAPEX Spillover. Each row traces to observed peer-county data.
+#
+# Channels:
+#   commercial_cre_non_dc  — office, mixed-use, retail
+#   industrial_flex        — warehouse, last-mile, light manufacturing
+#   residential_subdivision — new platting, permits, housing starts
+#   credit_spread          — PWC municipal cost of capital
+#
+# Methods:
+#   DiD                    — difference-in-differences (treated minus control)
+#   before_after           — single-group pre/post event study
+#   methodology_doc        — rating-agency methodology translation
+#   insufficient_evidence  — data gap; row flagged for null-effect modeling
+#
+# Year-1 effect = first 12 months post-event (May 2026 - Apr 2027). Year-5 =
+# 49-60 months post-event. Stage 6b should apply these as multipliers to the
+# CAPEX Spillover non-DC revenue line for each channel and year.
+#
+# POINT/LOW/HIGH semantics: For reduction parameters the point is the expected
+# reduction fraction (e.g., 0.05 = 5% reduction in residential permit-driven
+# assessed-value growth). LOW/HIGH are the 10th/90th percentile of plausible
+# outcomes given the peer-county evidence base, NOT statistical confidence
+# intervals (the n is too small for inferential stats).
+#
+# --- Channel 1: Residential Subdivision (the strongest peer signal) ---
+residential_subdivision,permit_units_reduction_year1,0.20,0.08,0.35,fraction,Loudoun_2024_2025_BPS_DiD,6,DiD,CENSUS_BPS_co2412y+CENSUS_BPS_co2512y,"Loudoun residential permits -53.0% 2024-2025 around by-right elimination. Adjusted to PWC: (a) PWC's non-appeal is narrower (one project rezoning vs. county-wide policy), (b) PWC 2024 was not grandfather-rush-inflated like Loudoun's. Take 20 pct of Loudoun raw magnitude as the PWC incremental residential deterrent. DiD vs. unweighted peer mean (Fauquier +45.8, Culpeper -13.9, Stafford +24.7) = -53 minus (+18.9) = -71.9 pct treated effect; PWC exposure ratio estimated 0.27; applied = -19.4 pct."
+residential_subdivision,permit_units_reduction_year2,0.12,0.04,0.25,fraction,Loudoun_trajectory_2025_2026_partial,3,before_after,CENSUS_BPS_co2601y,"Loudoun multifamily partial offset by Y2 (5+-unit bldgs rose 25->31). Applies recovery trajectory."
+residential_subdivision,permit_units_reduction_year3,0.07,0.02,0.18,fraction,Loudoun_partial_recovery_inference,3,before_after,CENSUS_BPS+hk2025loudoun,"Risk premium persists but developers re-enter with longer timelines per industry counsel."
+residential_subdivision,permit_units_reduction_year4,0.04,0.00,0.12,fraction,analog_inference,2,before_after,hk2025loudoun+potomaclocal2025stafford,"Tail effect; bounded wide due to small sample."
+residential_subdivision,permit_units_reduction_year5,0.03,0.00,0.10,fraction,analog_inference,2,before_after,hk2025loudoun,"Steady-state residual. Low/high bounded to avoid overfitting."
+residential_subdivision,residential_av_growth_drag_year1,0.015,0.005,0.030,fraction_of_AV,Loudoun_TY2025_av_change,2,DiD,LOUDOUNNOW_TY2025,"Loudoun TY2025 residential AV -3.2 pct post-event; vs. FY22-FY24 trend +5-7 pct. Partially assignable to regulatory-posture signal (confounded with NoVA-wide softening). Apply 30 pct of Loudoun drag to PWC ~ 1.5 pct of residential AV. Reassessment lag: hits FY28 real property tax."
+residential_subdivision,residential_av_growth_drag_year2,0.010,0.000,0.025,fraction_of_AV,Loudoun_TY2026_av_change,1,before_after,LOUDOUNTIMES_TY2026,"Loudoun TY2026 SF-with-utilities recovered to +1.22 pct; AV effect fades."
+residential_subdivision,residential_av_growth_drag_year3,0.005,0.000,0.015,fraction_of_AV,trend_extrapolation,1,before_after,LOUDOUNTIMES_TY2026,"Converges to zero. Retained as a numeric drag for model continuity."
+residential_subdivision,residential_av_growth_drag_year4,0.000,-0.005,0.010,fraction_of_AV,null_effect_boundary,0,insufficient_evidence,synth_stage3b,"Recommend null; range allows modest drag or rebound."
+residential_subdivision,residential_av_growth_drag_year5,0.000,-0.005,0.010,fraction_of_AV,null_effect_boundary,0,insufficient_evidence,synth_stage3b,"Recommend null."
+residential_subdivision,proffer_revenue_reduction_year1,0.25,0.10,0.45,fraction,permit_valuation_elasticity,4,DiD,CENSUS_BPS_valuation_series,"Proffer revenue scales with platted-unit count. Loudoun valuation -40.6 pct 2024-2025; residential permit valuation elasticity to proffer ~0.75; adj to PWC = 25 pct reduction."
+residential_subdivision,proffer_revenue_reduction_year2,0.15,0.05,0.30,fraction,permit_valuation_trajectory,3,before_after,CENSUS_BPS_valuation_series,"Recovery path per Loudoun multifamily."
+residential_subdivision,proffer_revenue_reduction_year3,0.08,0.00,0.20,fraction,permit_valuation_trajectory,3,before_after,CENSUS_BPS_valuation_series,
+residential_subdivision,proffer_revenue_reduction_year4,0.04,0.00,0.12,fraction,analog_inference,2,before_after,CENSUS_BPS_valuation_series,
+residential_subdivision,proffer_revenue_reduction_year5,0.03,0.00,0.10,fraction,analog_inference,2,before_after,CENSUS_BPS_valuation_series,
+#
+# --- Channel 2: Commercial CRE (Non-DC) ---
+commercial_cre_non_dc,commercial_av_growth_drag_year1,0.000,-0.010,0.015,fraction_of_AV,Loudoun_non_dc_commercial_inference,1,insufficient_evidence,LOUDOUNNOW_TY2025+synth_stage3b,"Loudoun TY2025 non-DC commercial 27 pct of commercial portfolio; growth numbers not separately published. Recommend null effect but track with wide range. NoVA office vacancy 10 pct regionally, 3 pct in PWC per Moody's — so baseline already soft. April 2026 non-appeal is an equity-operator signal (DC land + mixed-use master plans), not office. Primary exposure is master-planned mixed-use projects that bundle DC components."
+commercial_cre_non_dc,commercial_av_growth_drag_year2,0.000,-0.010,0.020,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,"Recommend null; documented gap."
+commercial_cre_non_dc,commercial_av_growth_drag_year3,0.000,-0.005,0.010,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,"Recommend null."
+commercial_cre_non_dc,commercial_av_growth_drag_year4,0.000,-0.005,0.010,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,"Recommend null."
+commercial_cre_non_dc,commercial_av_growth_drag_year5,0.000,-0.005,0.010,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,"Recommend null."
+commercial_cre_non_dc,bpol_new_registration_drag_year1,0.02,0.00,0.06,fraction,permit_privilege_fee_analog,2,DiD,VA_APA_FY24_permit_fees,"Loudoun permit/privilege fees +20 pct FY24 (grandfather rush); PWC +9.6 pct. No direct business-registration series by county. Use 2 pct as conservative drag on BPOL new-registration component (small share of BPOL total ~3 pct). Strong source of uncertainty."
+commercial_cre_non_dc,bpol_new_registration_drag_year2,0.01,0.00,0.04,fraction,trend_extrapolation,1,insufficient_evidence,synth_stage3b,
+commercial_cre_non_dc,bpol_new_registration_drag_year3,0.005,0.000,0.020,fraction,trend_extrapolation,0,insufficient_evidence,synth_stage3b,
+commercial_cre_non_dc,bpol_new_registration_drag_year4,0.000,-0.005,0.010,fraction,null_effect_boundary,0,insufficient_evidence,synth_stage3b,
+commercial_cre_non_dc,bpol_new_registration_drag_year5,0.000,-0.005,0.010,fraction,null_effect_boundary,0,insufficient_evidence,synth_stage3b,
+#
+# --- Channel 3: Industrial / Flex / Logistics ---
+industrial_flex,industrial_av_growth_drag_year1,0.000,-0.005,0.020,fraction_of_AV,analog_warrenton_pattern,1,insufficient_evidence,synth_stage3b+dcd2023warrenton,"Evidence insufficient for a non-null point. The Warrenton/Amazon pattern (42-acre site held 3+ years in litigation) suggests that industrial sites with litigation exposure face multi-year delays, but county-level industrial AV series aren't published. Recommend null with an upside bound that captures the possibility of industrial displacement from land-bank holders."
+industrial_flex,industrial_av_growth_drag_year2,0.000,-0.005,0.020,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,
+industrial_flex,industrial_av_growth_drag_year3,0.000,-0.005,0.015,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,
+industrial_flex,industrial_av_growth_drag_year4,0.000,-0.005,0.010,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,
+industrial_flex,industrial_av_growth_drag_year5,0.000,-0.005,0.010,fraction_of_AV,insufficient_evidence,0,insufficient_evidence,synth_stage3b,
+industrial_flex,business_tangible_growth_drag_year1,0.005,-0.005,0.020,fraction,analog_inference,1,insufficient_evidence,synth_stage3b,"Non-DC business-tangible is small (~$22M FY26 baseline). Signal is too small to measure separately. Recommend near-null with small downside bias."
+industrial_flex,business_tangible_growth_drag_year2,0.003,-0.005,0.015,fraction,analog_inference,0,insufficient_evidence,synth_stage3b,
+industrial_flex,business_tangible_growth_drag_year3,0.000,-0.005,0.010,fraction,null_effect_boundary,0,insufficient_evidence,synth_stage3b,
+industrial_flex,business_tangible_growth_drag_year4,0.000,-0.005,0.010,fraction,null_effect_boundary,0,insufficient_evidence,synth_stage3b,
+industrial_flex,business_tangible_growth_drag_year5,0.000,-0.005,0.010,fraction,null_effect_boundary,0,insufficient_evidence,synth_stage3b,
+#
+# --- Channel 4: Municipal Cost of Capital (Credit-Spread) ---
+# Derivation: Moody's Sept 2025 opinion scored PWC as Aa1 on the scorecard
+# but assigned Aaa (1-notch uplift). The uplift is supported by strong
+# management, formal policies, and ESG G-1 governance score. The April 2026
+# non-appeal puts the governance uplift under review: it can be read either as
+# (a) responsive governance (positive for rating) or (b) governance instability
+# that exposes CAPEX to reversal (negative). Under the CAPEX Spillover stressed path,
+# Moody's scorecard Economic Growth sub-factor will slip (5yr real GDP CAGR
+# compares to US) if the $24.7B Pageland investment is fully written off.
+# S&P and Fitch apply similar logic via their revised 2024 governments
+# methodology that increased institutional-framework weighting.
+credit_spread,expected_moodys_notch_change_year1,-1,-2,0,notches,PWC_moodys_opinion_sept2025_uplift,1,methodology_doc,PWC_MOODYS_OPINION_SEPT2025+MOODYS_METHODOLOGY_JUL2024,"PWC scorecard-indicated = Aa1; assigned = Aaa (one-notch qualitative uplift). Base case: uplift collapses under CAPEX Spillover, returning PWC to Aa1. Low (worst): additional Aa1->Aa2 notch on governance finding. High (best): uplift preserved (0 notches)."
+credit_spread,expected_moodys_notch_change_year2,-1,-2,0,notches,scenario_c_persistence,1,methodology_doc,MOODYS_METHODOLOGY_JUL2024,"Absent a clarifying governance action, Aa1 sticks year 2+."
+credit_spread,expected_moodys_notch_change_year3,-1,-2,0,notches,scenario_c_persistence,1,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,expected_moodys_notch_change_year4,-1,-2,0,notches,scenario_c_persistence,1,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,expected_moodys_notch_change_year5,-1,-2,0,notches,scenario_c_persistence,1,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,expected_bps_per_notch_aaa_to_aa1,10,5,20,basis_points,historical_moody_us_downgrade_2025+muni_ladder_spreads,3,methodology_doc,WESTERN_ASSET_2025+MMD_2025_2026,"US sovereign downgrade Aaa->Aa1 (May 2025) produced ~7-15 bps widening on 10-yr Treasury; muni Aaa->Aa1 spread on MMD scale typically 5-15 bps. Use 10 bps midpoint. High bound accommodates muni-specific governance-driven downgrades (Mt. Pleasant NY example, 15-25 bps)."
+credit_spread,expected_bps_per_notch_aa1_to_aa2,15,10,30,basis_points,muni_ladder_spreads,2,methodology_doc,BOND_BUYER_2024_2025,"Aa1->Aa2 widening runs ~10-20 bps typical; high bound captures governance-risk premium in current muni market."
+credit_spread,scenario_c_expected_widening_year1_bps,12,5,30,basis_points,combined_notch_and_spread,3,methodology_doc,WESTERN_ASSET_2025+PWC_MOODYS_OPINION_SEPT2025,"Weighted by notch probability. Applies to any PWC GO new-money issuance after Board decision becomes rating-action event."
+credit_spread,scenario_c_expected_widening_year2_bps,15,8,35,basis_points,signal_confirmation,2,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,scenario_c_expected_widening_year3_bps,15,8,35,basis_points,persistence,2,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,scenario_c_expected_widening_year4_bps,12,5,30,basis_points,gradual_reversion,1,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,scenario_c_expected_widening_year5_bps,10,5,25,basis_points,gradual_reversion,1,methodology_doc,MOODYS_METHODOLOGY_JUL2024,
+credit_spread,scenario_c_new_issuance_fy27_fy31,260000000,200000000,320000000,USD,PWC_CIP_FY26,1,methodology_doc,PWC_CIP_FY26,"PWC FY26 5-yr CIP ~$1.3B with ~$260M new-money GO issuance planned FY27-FY31 (ex refundings). Additional-revenue bond issuance not included."
+credit_spread,scenario_c_incremental_debt_service_year5_usd,390000,165000,1120000,USD_per_year,widening_times_par,1,methodology_doc,PWC_CIP_FY26+MMD_2025_2026,"At 12 bps widening on $260M average issuance over 20-yr: 12 bps x $260M = $312K/yr; grown for gradually larger portfolio, range reflects bps uncertainty. This is CAPEX Spillover INCREMENTAL, not total debt service."
+#
+# --- Reconciliation notes for Stage 6b ---
+# 1. Residential channel is the strongest-evidence row. Apply permit_units_reduction
+#    multiplicatively to new-construction AV assumption in revenue_drivers.py;
+#    apply residential_av_growth_drag additively to base residential AV growth.
+# 2. Commercial-CRE and Industrial channels are explicitly null-with-ranges.
+#    Stage 6b should pass the null point forward into CAPEX Spillover but retain
+#    ranges for sensitivity plots.
+# 3. Credit-spread channel ADDS a new expenditure line (incremental debt service)
+#    to Stage 5's schedule; does NOT modify revenue.
+# 4. The residential channel maps to Stage 4's project_residential_re() function
+#    via the price_cagr parameter (scale the drag) and the avg_unit_val*new_units
+#    term (scale permit_units_reduction).

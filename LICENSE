@@ -1,0 +1,60 @@
+# Dual License
+
+This repository contains two kinds of material under two different licenses.
+
+## Code — MIT License
+
+Applies to all source code in this repository, including but not limited to:
+- `model/*.py`
+- `figures/*.py`
+- Any future scripts or build tooling.
+
+```
+MIT License
+
+Copyright (c) 2026 Mike Frantzen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## Data, research notes, figures, citations — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Applies to all non-code artifacts, including:
+- `data/**` (CSV files, extracted datasets, raw source PDFs and text)
+- `research/**` (markdown research notes)
+- `figures/*.png` (rendered charts)
+- `citations/**` (bibliographies)
+- `README.md` and other documentation
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Source documents (`data/raw/`)
+
+The `data/raw/` directory contains source documents (Prince William County budgets, ACFRs, state reports, federal data) published by public agencies and authors. Those documents remain under their original licenses and copyright. This repository redistributes them under fair-use / public-record principles for analytical transparency. CC BY 4.0 applies to this repository's organization and indexing of those documents, not to the documents themselves.
+
+## Suggested citation
+
+Frantzen, M. (2026). *Prince William County Financial Analysis: Data, Models, and Extraction Pipelines*. https://github.com/mikefrantzen/PWCFinancialAnalysis

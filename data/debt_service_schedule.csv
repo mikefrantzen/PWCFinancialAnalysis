@@ -1,0 +1,172 @@
+fiscal_year,issuance_name,category,principal,interest,total,source,source_page,notes
+# PWC debt-service schedule FY26-FY31 by tranche.
+# Source: FY2026 Adopted Budget, Debt Service section (PWC-BUD-FY26-DEBT), pp. 416-425 (PDF pp. 1-10 of afy26_debt_service.pdf).
+# NOTE: The CIP/Debt Service book presents COMBINED principal+interest ("total") per project per fiscal year, not separately.
+# Principal and interest columns are left as 0 where the source does not disaggregate; total is authoritative.
+# Aggregate FY26 principal/interest split documented on p. 419: existing-debt principal $105.2M + interest $43.6M.
+# Categories: "county_existing" (amortizing pre-FY25 County GF debt), "schools_existing", "county_new_cip" (FY26-FY31 new issuances), "funding_offset" (transfer-in sources that reduce net GF debt service).
+#
+# --- FY26 NEW COUNTY CIP DEBT SERVICE ---
+FY2026,Countywide Space,county_new_cip,0,0,109407,PWC-BUD-FY26-DEBT,420,General Fund supported. Issuance FY26; TBD amount.
+FY2026,Fire and Rescue Station #27,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,FY26 no debt service yet; issues FY27.
+FY2026,Fire and Rescue Station #30,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,Issues FY28.
+FY2026,Fire and Rescue Station #3,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,Issues FY28.
+FY2026,Fire and Rescue Station #29,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,Issues FY29.
+FY2026,Fire and Rescue Station #2,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,Not yet issued by FY31 in plan.
+FY2026,Homeless Navigation Center-East,county_new_cip,0,0,268047,PWC-BUD-FY26-DEBT,420,$24.3M issuance FY26.
+FY2026,Homeless Navigation Center-West,county_new_cip,0,0,87750,PWC-BUD-FY26-DEBT,420,Multiple-year issuance; TBD amount.
+FY2026,Judicial Center Expansion,county_new_cip,0,0,1094068,PWC-BUD-FY26-DEBT,420,$200.0M multi-year issuance.
+FY2026,Juvenile Services Center,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,Issues FY28.
+FY2026,Mobility Bond Referendum,county_new_cip,0,0,7566,PWC-BUD-FY26-DEBT,420,"$241.9M multi-year; transportation-restricted revenues (NVTA 30%) support."
+FY2026,Parks & Recreation Bond Referendum,county_new_cip,0,0,466802,PWC-BUD-FY26-DEBT,420,$41.0M multi-year issuance.
+FY2026,Public Safety Training Center Expansion,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,Issues FY27.
+FY2026,Solid Waste Facility Infrastructure,county_new_cip,0,0,319988,PWC-BUD-FY26-DEBT,420,$15.7M; supported by Solid Waste enterprise fund.
+FY2026,SUBTOTAL_new_cip,county_new_cip,0,0,2353628,PWC-BUD-FY26-DEBT,420,FY26 Subtotal new CIP debt service.
+FY2026,SUBTOTAL_county_existing,county_existing,0,0,30365417,PWC-BUD-FY26-DEBT,421,"Total County existing debt service; see afy26_debt_service.txt lines 317-362 for 46-line detail."
+FY2026,SUBTOTAL_schools_existing,schools_existing,0,0,118462043,PWC-BUD-FY26-DEBT,422-424,"Schools existing debt service; see afy26_debt_service.txt lines 373-546 for 170-line detail."
+FY2026,SUBTOTAL_admin_expenses,debt_admin,0,0,200000,PWC-BUD-FY26-DEBT,420,Other debt costs $180K + investment fees $20K.
+FY2026,GRAND_TOTAL,total,105200000,43600000,151181088,PWC-BUD-FY26-DEBT,419,"FY26 existing principal $105.2M + interest $43.6M per page 419. Grand total = existing + new + admin."
+#
+# --- FY27 ---
+FY2027,Countywide Space,county_new_cip,0,0,1468875,PWC-BUD-FY26-DEBT,420,
+FY2027,Fire and Rescue Station #27,county_new_cip,0,0,434015,PWC-BUD-FY26-DEBT,420,$19.9M issuance.
+FY2027,Fire and Rescue Station #30,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2027,Fire and Rescue Station #3,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2027,Fire and Rescue Station #29,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2027,Fire and Rescue Station #2,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2027,Homeless Navigation Center-East,county_new_cip,0,0,1410792,PWC-BUD-FY26-DEBT,420,
+FY2027,Homeless Navigation Center-West,county_new_cip,0,0,370500,PWC-BUD-FY26-DEBT,420,
+FY2027,Judicial Center Expansion,county_new_cip,0,0,5780617,PWC-BUD-FY26-DEBT,420,
+FY2027,Juvenile Services Center,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2027,Mobility Bond Referendum,county_new_cip,0,0,323540,PWC-BUD-FY26-DEBT,420,
+FY2027,Parks & Recreation Bond Referendum,county_new_cip,0,0,1740307,PWC-BUD-FY26-DEBT,420,
+FY2027,Public Safety Training Center Expansion,county_new_cip,0,0,642015,PWC-BUD-FY26-DEBT,420,$29.4M issuance.
+FY2027,Solid Waste Facility Infrastructure,county_new_cip,0,0,1417500,PWC-BUD-FY26-DEBT,420,
+FY2027,SUBTOTAL_new_cip,county_new_cip,0,0,13588161,PWC-BUD-FY26-DEBT,420,
+FY2027,SUBTOTAL_county_existing,county_existing,0,0,27949357,PWC-BUD-FY26-DEBT,421,
+FY2027,SUBTOTAL_schools_existing,schools_existing,0,0,111655291,PWC-BUD-FY26-DEBT,422-424,
+FY2027,SUBTOTAL_admin_expenses,debt_admin,0,0,200000,PWC-BUD-FY26-DEBT,420,
+FY2027,GRAND_TOTAL,total,0,0,153192809,PWC-BUD-FY26-DEBT,420,
+#
+# --- FY28 ---
+FY2028,Countywide Space,county_new_cip,0,0,5456998,PWC-BUD-FY26-DEBT,420,Jump from partial FY27 to stabilized annual service.
+FY2028,Fire and Rescue Station #27,county_new_cip,0,0,1858989,PWC-BUD-FY26-DEBT,420,
+FY2028,Fire and Rescue Station #30,county_new_cip,0,0,731756,PWC-BUD-FY26-DEBT,420,$35.0M issuance FY28.
+FY2028,Fire and Rescue Station #3,county_new_cip,0,0,222058,PWC-BUD-FY26-DEBT,420,$30.0M issuance FY28.
+FY2028,Fire and Rescue Station #29,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2028,Fire and Rescue Station #2,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2028,Homeless Navigation Center-East,county_new_cip,0,0,2242054,PWC-BUD-FY26-DEBT,420,
+FY2028,Homeless Navigation Center-West,county_new_cip,0,0,4361725,PWC-BUD-FY26-DEBT,420,
+FY2028,Judicial Center Expansion,county_new_cip,0,0,10340017,PWC-BUD-FY26-DEBT,420,
+FY2028,Juvenile Services Center,county_new_cip,0,0,595716,PWC-BUD-FY26-DEBT,420,$27.2M issuance FY28.
+FY2028,Mobility Bond Referendum,county_new_cip,0,0,1592013,PWC-BUD-FY26-DEBT,420,
+FY2028,Parks & Recreation Bond Referendum,county_new_cip,0,0,3816008,PWC-BUD-FY26-DEBT,420,
+FY2028,Public Safety Training Center Expansion,county_new_cip,0,0,2749901,PWC-BUD-FY26-DEBT,420,
+FY2028,Solid Waste Facility Infrastructure,county_new_cip,0,0,1381500,PWC-BUD-FY26-DEBT,420,
+FY2028,SUBTOTAL_new_cip,county_new_cip,0,0,35348735,PWC-BUD-FY26-DEBT,420,
+FY2028,SUBTOTAL_county_existing,county_existing,0,0,22054907,PWC-BUD-FY26-DEBT,421,
+FY2028,SUBTOTAL_schools_existing,schools_existing,0,0,103960272,PWC-BUD-FY26-DEBT,422-424,
+FY2028,SUBTOTAL_admin_expenses,debt_admin,0,0,200000,PWC-BUD-FY26-DEBT,420,
+FY2028,GRAND_TOTAL,total,0,0,161363914,PWC-BUD-FY26-DEBT,420,
+#
+# --- FY29 ---
+FY2029,Countywide Space,county_new_cip,0,0,10445121,PWC-BUD-FY26-DEBT,420,
+FY2029,Fire and Rescue Station #27,county_new_cip,0,0,1811925,PWC-BUD-FY26-DEBT,420,
+FY2029,Fire and Rescue Station #30,county_new_cip,0,0,3135330,PWC-BUD-FY26-DEBT,420,
+FY2029,Fire and Rescue Station #3,county_new_cip,0,0,842265,PWC-BUD-FY26-DEBT,420,
+FY2029,Fire and Rescue Station #29,county_new_cip,0,0,109179,PWC-BUD-FY26-DEBT,420,$30.0M issuance FY29.
+FY2029,Fire and Rescue Station #2,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2029,Homeless Navigation Center-East,county_new_cip,0,0,2184538,PWC-BUD-FY26-DEBT,420,
+FY2029,Homeless Navigation Center-West,county_new_cip,0,0,4352950,PWC-BUD-FY26-DEBT,420,
+FY2029,Judicial Center Expansion,county_new_cip,0,0,14789726,PWC-BUD-FY26-DEBT,420,
+FY2029,Juvenile Services Center,county_new_cip,0,0,2552220,PWC-BUD-FY26-DEBT,420,
+FY2029,Mobility Bond Referendum,county_new_cip,0,0,5085146,PWC-BUD-FY26-DEBT,420,
+FY2029,Parks & Recreation Bond Referendum,county_new_cip,0,0,3718656,PWC-BUD-FY26-DEBT,420,
+FY2029,Public Safety Training Center Expansion,county_new_cip,0,0,2680281,PWC-BUD-FY26-DEBT,420,
+FY2029,Solid Waste Facility Infrastructure,county_new_cip,0,0,1340625,PWC-BUD-FY26-DEBT,420,
+FY2029,SUBTOTAL_new_cip,county_new_cip,0,0,53047962,PWC-BUD-FY26-DEBT,420,
+FY2029,SUBTOTAL_county_existing,county_existing,0,0,21316669,PWC-BUD-FY26-DEBT,421,
+FY2029,SUBTOTAL_schools_existing,schools_existing,0,0,97346645,PWC-BUD-FY26-DEBT,422-424,
+FY2029,SUBTOTAL_admin_expenses,debt_admin,0,0,200000,PWC-BUD-FY26-DEBT,420,
+FY2029,GRAND_TOTAL,total,0,0,171711276,PWC-BUD-FY26-DEBT,420,
+#
+# --- FY30 ---
+FY2030,Countywide Space,county_new_cip,0,0,10433243,PWC-BUD-FY26-DEBT,420,
+FY2030,Fire and Rescue Station #27,county_new_cip,0,0,1764861,PWC-BUD-FY26-DEBT,420,
+FY2030,Fire and Rescue Station #30,county_new_cip,0,0,3055925,PWC-BUD-FY26-DEBT,420,
+FY2030,Fire and Rescue Station #3,county_new_cip,0,0,820934,PWC-BUD-FY26-DEBT,420,
+FY2030,Fire and Rescue Station #29,county_new_cip,0,0,106414,PWC-BUD-FY26-DEBT,420,
+FY2030,Fire and Rescue Station #2,county_new_cip,0,0,0,PWC-BUD-FY26-DEBT,420,
+FY2030,Homeless Navigation Center-East,county_new_cip,0,0,2127023,PWC-BUD-FY26-DEBT,420,
+FY2030,Homeless Navigation Center-West,county_new_cip,0,0,4344175,PWC-BUD-FY26-DEBT,420,
+FY2030,Judicial Center Expansion,county_new_cip,0,0,18035372,PWC-BUD-FY26-DEBT,420,
+FY2030,Juvenile Services Center,county_new_cip,0,0,2487589,PWC-BUD-FY26-DEBT,420,
+FY2030,Mobility Bond Referendum,county_new_cip,0,0,15399816,PWC-BUD-FY26-DEBT,420,
+FY2030,Parks & Recreation Bond Referendum,county_new_cip,0,0,3621304,PWC-BUD-FY26-DEBT,420,
+FY2030,Public Safety Training Center Expansion,county_new_cip,0,0,2610662,PWC-BUD-FY26-DEBT,420,
+FY2030,Solid Waste Facility Infrastructure,county_new_cip,0,0,1304875,PWC-BUD-FY26-DEBT,420,
+FY2030,SUBTOTAL_new_cip,county_new_cip,0,0,66112193,PWC-BUD-FY26-DEBT,420,
+FY2030,SUBTOTAL_county_existing,county_existing,0,0,18081616,PWC-BUD-FY26-DEBT,421,
+FY2030,SUBTOTAL_schools_existing,schools_existing,0,0,91827262,PWC-BUD-FY26-DEBT,422-424,
+FY2030,SUBTOTAL_admin_expenses,debt_admin,0,0,200000,PWC-BUD-FY26-DEBT,420,
+FY2030,GRAND_TOTAL,total,0,0,176021071,PWC-BUD-FY26-DEBT,420,
+#
+# --- FY31 ---
+FY2031,Countywide Space,county_new_cip,0,0,10421366,PWC-BUD-FY26-DEBT,420,
+FY2031,Fire and Rescue Station #27,county_new_cip,0,0,1717797,PWC-BUD-FY26-DEBT,420,
+FY2031,Fire and Rescue Station #30,county_new_cip,0,0,3012694,PWC-BUD-FY26-DEBT,420,
+FY2031,Fire and Rescue Station #3,county_new_cip,0,0,1260349,PWC-BUD-FY26-DEBT,420,
+FY2031,Fire and Rescue Station #29,county_new_cip,0,0,692607,PWC-BUD-FY26-DEBT,420,
+FY2031,Fire and Rescue Station #2,county_new_cip,0,0,221598,PWC-BUD-FY26-DEBT,420,
+FY2031,Homeless Navigation Center-East,county_new_cip,0,0,2069507,PWC-BUD-FY26-DEBT,420,
+FY2031,Homeless Navigation Center-West,county_new_cip,0,0,4335400,PWC-BUD-FY26-DEBT,420,
+FY2031,Judicial Center Expansion,county_new_cip,0,0,17560579,PWC-BUD-FY26-DEBT,420,
+FY2031,Juvenile Services Center,county_new_cip,0,0,2422958,PWC-BUD-FY26-DEBT,420,
+FY2031,Mobility Bond Referendum,county_new_cip,0,0,22231536,PWC-BUD-FY26-DEBT,420,
+FY2031,Parks & Recreation Bond Referendum,county_new_cip,0,0,3523952,PWC-BUD-FY26-DEBT,420,
+FY2031,Public Safety Training Center Expansion,county_new_cip,0,0,2541042,PWC-BUD-FY26-DEBT,420,
+FY2031,Solid Waste Facility Infrastructure,county_new_cip,0,0,1269125,PWC-BUD-FY26-DEBT,420,
+FY2031,SUBTOTAL_new_cip,county_new_cip,0,0,73280510,PWC-BUD-FY26-DEBT,420,
+FY2031,SUBTOTAL_county_existing,county_existing,0,0,15885204,PWC-BUD-FY26-DEBT,421,
+FY2031,SUBTOTAL_schools_existing,schools_existing,0,0,86253422,PWC-BUD-FY26-DEBT,422-424,
+FY2031,SUBTOTAL_admin_expenses,debt_admin,0,0,200000,PWC-BUD-FY26-DEBT,420,
+FY2031,GRAND_TOTAL,total,0,0,175419137,PWC-BUD-FY26-DEBT,420,
+#
+# --- FUNDING OFFSETS (reduce net GF debt-service burden) ---
+# These are transfers IN to the debt service fund that reduce the net GF tax support required.
+FY2026,funding_offset_fire_levy,funding_offset,0,0,-1793449,PWC-BUD-FY26-DEBT,420,Transfer from Fire Levy (offsetting station debt).
+FY2026,funding_offset_stormwater,funding_offset,0,0,-83842,PWC-BUD-FY26-DEBT,420,Stormwater fund transfer.
+FY2026,funding_offset_recordation_tax,funding_offset,0,0,-2756039,PWC-BUD-FY26-DEBT,420,Recordation tax for transportation debt.
+FY2026,funding_offset_nvta30,funding_offset,0,0,-7566,PWC-BUD-FY26-DEBT,420,NVTA 30% for mobility bond.
+FY2026,funding_offset_solid_waste,funding_offset,0,0,-319988,PWC-BUD-FY26-DEBT,420,Solid Waste enterprise transfer.
+FY2026,funding_offset_school_federal_reimb,funding_offset,0,0,-884538,PWC-BUD-FY26-DEBT,420,BAB + QSCB federal reimbursement for school debt.
+FY2027,funding_offset_fire_levy,funding_offset,0,0,-2155480,PWC-BUD-FY26-DEBT,420,
+FY2027,funding_offset_stormwater,funding_offset,0,0,-81290,PWC-BUD-FY26-DEBT,420,
+FY2027,funding_offset_recordation_tax,funding_offset,0,0,-2642078,PWC-BUD-FY26-DEBT,420,
+FY2027,funding_offset_nvta30,funding_offset,0,0,-323540,PWC-BUD-FY26-DEBT,420,
+FY2027,funding_offset_solid_waste,funding_offset,0,0,-1417500,PWC-BUD-FY26-DEBT,420,
+FY2027,funding_offset_school_federal_reimb,funding_offset,0,0,-814878,PWC-BUD-FY26-DEBT,420,
+FY2028,funding_offset_fire_levy,funding_offset,0,0,-4004883,PWC-BUD-FY26-DEBT,420,
+FY2028,funding_offset_stormwater,funding_offset,0,0,-79346,PWC-BUD-FY26-DEBT,420,
+FY2028,funding_offset_recordation_tax,funding_offset,0,0,-1868581,PWC-BUD-FY26-DEBT,420,
+FY2028,funding_offset_nvta30,funding_offset,0,0,-1592013,PWC-BUD-FY26-DEBT,420,
+FY2028,funding_offset_solid_waste,funding_offset,0,0,-1381500,PWC-BUD-FY26-DEBT,420,
+FY2028,funding_offset_school_federal_reimb,funding_offset,0,0,-256603,PWC-BUD-FY26-DEBT,420,
+FY2029,funding_offset_fire_levy,funding_offset,0,0,-7047867,PWC-BUD-FY26-DEBT,420,
+FY2029,funding_offset_stormwater,funding_offset,0,0,-76139,PWC-BUD-FY26-DEBT,420,
+FY2029,funding_offset_recordation_tax,funding_offset,0,0,-1787629,PWC-BUD-FY26-DEBT,420,
+FY2029,funding_offset_nvta30,funding_offset,0,0,-5085146,PWC-BUD-FY26-DEBT,420,
+FY2029,funding_offset_solid_waste,funding_offset,0,0,-1340625,PWC-BUD-FY26-DEBT,420,
+FY2029,funding_offset_school_federal_reimb,funding_offset,0,0,-183288,PWC-BUD-FY26-DEBT,420,
+FY2030,funding_offset_fire_levy,funding_offset,0,0,-6649472,PWC-BUD-FY26-DEBT,420,
+FY2030,funding_offset_stormwater,funding_offset,0,0,-73717,PWC-BUD-FY26-DEBT,420,
+FY2030,funding_offset_recordation_tax,funding_offset,0,0,-720944,PWC-BUD-FY26-DEBT,420,
+FY2030,funding_offset_nvta30,funding_offset,0,0,-15399816,PWC-BUD-FY26-DEBT,420,
+FY2030,funding_offset_solid_waste,funding_offset,0,0,-1304875,PWC-BUD-FY26-DEBT,420,
+FY2030,funding_offset_school_federal_reimb,funding_offset,0,0,-109973,PWC-BUD-FY26-DEBT,420,
+FY2031,funding_offset_fire_levy,funding_offset,0,0,-7773633,PWC-BUD-FY26-DEBT,420,
+FY2031,funding_offset_stormwater,funding_offset,0,0,-75278,PWC-BUD-FY26-DEBT,420,
+FY2031,funding_offset_recordation_tax,funding_offset,0,0,-409734,PWC-BUD-FY26-DEBT,420,
+FY2031,funding_offset_nvta30,funding_offset,0,0,-22231536,PWC-BUD-FY26-DEBT,420,
+FY2031,funding_offset_solid_waste,funding_offset,0,0,-1269125,PWC-BUD-FY26-DEBT,420,
+FY2031,funding_offset_school_federal_reimb,funding_offset,0,0,-36658,PWC-BUD-FY26-DEBT,420,

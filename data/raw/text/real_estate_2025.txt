@@ -1,0 +1,1588 @@
+BOARD OF COUNTY SUPERVISORS (as of July 1st, 2025)
+ Chair-At-Large: Deshundra Jefferson
+ Brentsville District Supervisor: Tom Gordy
+ Coles District Supervisor, Chair Pro-Tem: Yesli Vega
+ Gainesville District Supervisor: Robert B. Weir
+ Neabsco District Supervisor: Victor S. Angry
+ Occoquan District Supervisor: Kenny A. Boddye
+ Potomac District Supervisor, Vice Chair: Andrea O. Bailey
+ Woodbridge District Supervisor: Margaret Angela Franklin
+
+COUNTY EXECUTIVE
+ Christopher Shorter
+
+CHIEF FINANCIAL OFFICER
+ Tim Leclerc (acting)
+This page intentionally left blank
+Real Estate Assessments Office                                                                                                                         2025 Annual Report
+
+
+                                           Real Estate Assessments Office Organizational Chart
+                                                                                                                                                        Fiscal Specialist
+      Real Estate Assessments Office
+                                                                                                                                                          Crystal Wilkins
+      Organizational Chart as of July 1st, 2025
+                                                                                                                                                       Administrative Technician
+
+        Finance Director/                                                                                       Senior Business                         Ysabel Guerrero
+              CFO                                                                                              Services Analyst
+       Tim Leclerc (acting)                                                                                    Brenda Wilson                           Administrative Technician
+
+                                                                                                                                                       Yulissa Rojas-Smith
+                                     Deputy Finance             Assistant Director of
+                                        Director                 Finance for REA                                    IT Analyst
+                                                                                                                                                        Title Researcher
+                                       Rocio Lamb                 Allison Lindner                            Debra Watson-Grady
+                                                                                                                                                        Candida Cortez
+
+                                                                                                                       Administrative                   Title Researcher
+                                                                            Real Estate                                  Specialist
+                                                                       Assessments Manager
+                                                                                                                                                          Tina Garland
+                                                                                                                        (Vacant)
+                                                                          Kerem Öner                                                                    Title Researcher
+       Quality Control           Residential                                                                                                              Nikki Holmes
+         Supervisor              Supervisor
+        Victor Molina          John Malone
+
+
+          Residential            Residential             Residential              Commercial          Commercial                  Commercial                 Quality Control
+           Appraiser              Appraiser              Supervisor                Supervisor          Supervisor                  Supervisor                  Supervisor
+        Laura Dearth          LaPointe Crismond       Cornell Tolbert            Leslie Stover       Laura Fallon          Isabel Salumbides-Calangi      Jessika Daymude
+
+
+          Residential            Residential             Residential               Commercial         Commercial                   Commercial                    Residential
+           Appraiser              Appraiser               Appraiser                 Appraiser          Appraiser                    Appraiser                     Appraiser
+      Shannon Brennan            Mick Majdi            Debra Vedder            Derek Bauckman        Bridget Affeldt         Jessica Agostini                 Darren Davis
+
+
+                                 Residential             Residential              Real Estate         Commercial                  Commercial                     Residential
+                                  Appraiser               Appraiser            Appraiser Associate     Appraiser                   Appraiser                      Appraiser
+                                John Oakes              Valerie Fazio           Yanci Marquez         John Duffy              Bobby Awosika                  Erika Hampton
+
+
+                                 Residential             Residential                                   Commercial                 Commercial                  Real Estate
+                                  Appraiser               Appraiser                                     Appraiser                  Appraiser               Appraiser Associate
+                                Simar Singh           Maryleen Johnson                               Jacob Millson               Keith Mastrion                  Eric Ray
+
+
+                                                                                                                                Real Estate
+                                                                                                                             Appraiser Associate
+
+       Rev20251002.01
+                                                                                                                                 Moeez Raza
+This page intentionally left blank
+TABLE OF CONTENTS
+ INTRODUCTION ...................................................................................................................... 3
+
+ MAINTAINING PROPERTY RECORDS...................................................................................... 4
+
+ ASSESSING REAL PROPERTY ................................................................................................... 6
+  Reassessing Existing Properties .......................................................................................... 6
+  Assessment Performance .................................................................................................. 8
+  Assessing New Construction .............................................................................................. 8
+  Assessment Notification ................................................................................................... 10
+  Appeal Procedures .......................................................................................................... 10
+
+ REAL ESTATE TAX RELIEF PROGRAMS................................................................................... 11
+  Tax Relief for the Elderly and Disabled ........................................................................... 12
+  Tax Relief for Disabled Veterans ..................................................................................... 12
+  Tax Relief for Surviving Spouses of Members of the Armed Forces Killed in Action .... 12
+  Tax Relief Based on Use Value Assessment .................................................................... 14
+  Partial Tax Exemption for Rehabilitated Real Estate ..................................................... 14
+  Tax Exemption for Certified Solar Energy Equipment, Facilities or Devices Program . 15
+
+ PROVIDING CUSTOMER SERVICE ........................................................................................ 16
+  Walk-in Customers............................................................................................................ 16
+  Telephone and Electronic Requests ............................................................................... 16
+  Internet Access ................................................................................................................ 16
+
+ REAL ESTATE VALUES ............................................................................................................ 18
+  Landbook Values: Growth and Appreciation ............................................................... 19
+  Residential ........................................................................................................................ 20
+  Apartments ....................................................................................................................... 23
+  Commercial and Industrial .............................................................................................. 23
+  Undeveloped Land .......................................................................................................... 25
+  Supplemental Assessments ............................................................................................. 26
+  Tax-Exempt Properties ..................................................................................................... 26
+
+ STATISTICAL APPENDIX ............................................................................................................
+   Table 1: History of Property Record Maintenance Activity ......................................... A-1
+   Table 2: History of Tax Relief .......................................................................................... A-1
+   Table 3: History of Appeals Activity............................................................................... A-2
+   Table 4: History of Adjustments...................................................................................... A-2
+   Table 5: Use Value Assessment Summary .................................................................... A-3
+   Table 6: Average Assessed Value History of Residential Property.............................. A-4
+   Table 7: Assessed Values and Estimated Market Values ............................................ A-5
+   Table 8: History of the Real Estate Tax Base ................................................................. A-6
+   Table 9: Tax Base Composition as a Percentage of the Total Tax Base .................... A-7
+  Table 10: Assessment Performance Statistics ............................................................... A-8
+  Table 11A: Growth and Appreciation .......................................................................... A-9
+  Table 11B: History of Growth Rates ..............................................................................A-10
+  Table 11C: History of Appreciation Rates....................................................................A-10
+  Table 12: Top Fifty Real Estate Taxpayers ....................................................................A-11
+  Table 13: Tax Rates ........................................................................................................A-12
+
+ADDENDA.................................................................................................................................
+ Addendum A: Sample Notice of Reassessment .......................................................... B-1
+ Addendum B: Tax Savings for Rehabilitated Properties............................................... B-3
+ Addendum C: Tax Relief Programs for Elderly and Disabled Persons......................... B-5
+ Addendum D: Tax Relief Programs for Disabled Veterans .......................................... B-7
+        Real Estate Assessments Office                                                    2025 Annual Report
+
+
+
+
+                              Introduction
+                               The Finance Department’s Real Estate Assessments Office is responsible for
+             The Finance
+                               annually assessing all real property in Prince William County, maintaining
+ Department promotes
+                               property ownership records, and administering the County’s tax relief
+   excellence, quality,
+                               programs. To perform these duties, the Real Estate Assessments Office
+       and efficiency by
+                               gathers and maintains data on every property in the County. The Real
+  maximizing available
+resources by providing         Estate Assessments Office also collects and analyzes data pertaining to real
+    innovative financial       estate market indicators such as sales and property income and expense
+      and risk mitigation      data. This information enables staff to assess property at fair market value
+     services to a broad       as required by law.
+  range of internal and        Real estate assessments and taxes are based on the “tax year,” which
+    external customers.        coincides with the calendar year. Assessments for 2025 were made
+     This responsibility is    effective on January 1, 2025, and were entered into the County’s 2025
+accomplished through
+                               landbook. Tax payments are divided into two equal installments. Payment
+         sound financial
+                               for the first installment is due July 15, 2025, and payment for the second
+           management
+                               installment is due December 5, 2025. The County accounts for the revenues
+     practices, effective
+       leadership, and a       from this tax during the fiscal year in which the due dates fall. That is, real
+    team of employees          estate assessments and taxes for tax year 2025 are recognized as fiscal year
+            committed to       2026 County revenues.
+       maintaining fiscal      Tax year 2024 (fiscal year 2025) information is presented in this report. Tax
+ integrity and financial       year 2025 (fiscal year 2026) information is also presented although
+         solvency of the       supplemental assessments and rollback taxes for tax year 2025 are not yet
+   County government           available and are estimated. All references regarding years are tax years
+                               (TY), rather than fiscal years (FY) unless otherwise noted.
+                               The Real Estate Assessments Office performs the following key functions:
+            July 15th and         • Maintains property records
+ December 5th are the             • Reassesses existing properties
+       first and second           • Assesses new construction
+installment due dates,            • Facilitates assessment notification and appeal
+        respectively, as          • Administers real estate tax relief programs
+    defined by County             • Provides quality customer service
+      ordinance unless
+     these dates fall on
+weekends or holidays.
+In such cases the due
+    dates will become
+  effective on the next
+           business day
+
+
+
+
+                                                                                                       Page 3
+    Real Estate Assessments Office                                                  2025 Annual Report
+
+
+
+
+                       Maintaining Property Records
+                         The Real Estate Assessments Office is responsible for determining taxable
+                         ownership of property. This requires interpreting all legal documents relating
+                         to real estate. The documents (deeds, plats, wills, court orders, etc.) are
+                         recorded by the Clerk of Circuit Court in Manassas, Virginia. The recorded
+     The Real Estate
+                         documents contain information regarding transfers, consolidations,
+        Assessments
+                         subdivisions, and other legal changes.
+    Office maintains
+property records for     After reading each document, a determination is made whether it affects
+    assessment and       the taxable ownership, size, or configuration of the property. If it does, the
+  taxation purposes      necessary changes are made to property records. In some cases,
+                         information contained in the deed is conflicting. The Real Estate
+                         Assessments Office may send correspondence to settlement attorneys and
+                         title companies documenting a title issue with a deed and requesting
+                         clarification. This process ensures up-to-date records with accurate legal
+                         descriptions.
+                         There are four types of documents and transactions handled by the Real
+                         Estate Assessments Office:
+                             • Wills – legal instruments recorded upon the death of an individual.
+                               They may or may not transfer real estate.
+                             • New Lots – parcels that are created from a subdivision or
+                               consolidation of existing land.
+                             • Deeds – recorded legal instruments that convey an estate or interest
+                               in real property. One deed may transfer no parcels or several hundred
+                               parcels.
+                             • Transfers – legal changes in ownership of property.
+
+
+
+
+                                                                                                Page 4
+      Real Estate Assessments Office                                                            2025 Annual Report
+
+
+
+                           Property Record Maintenance Activity
+
+
+
+
+       Property record
+maintenance activity
+   increased by 1,241
+transactions or 9.14%
+    from FY 2024 to FY
+                  2025
+
+
+
+
+                           Types of Property Maintenance Activity
+
+
+
+
+Sales transactions are
+  used as the basis for
+          valuing most
+ residential properties
+         in the County
+
+
+
+
+                           Note: New Lots numbers were corrected from the 2021 Annual Report.
+
+                           Property record maintenance activity for the most recent five fiscal years
+                           are shown above. A more detailed history of property record maintenance
+                           activity is shown in the Statistical Appendix, Table 1, page A-1.
+
+
+
+
+                                                                                                            Page 5
+       Real Estate Assessments Office                                                  2025 Annual Report
+
+
+
+
+                          Assessing Real Property
+Prince William County       The Real Estate Assessments Office provides services to all taxpayers in the
+has performed annual        form of accurate, equitable assessments. In this manner, the Real Estate
+       assessments of       Assessments Office supports the Finance Department’s mission in providing
+   property since 1979      quality customer service through sound financial management practices.
+                            Reassessing Existing Properties
+                            The Code of Virginia, §58.1-3252, requires counties to reassess real estate at
+                            least every four years, and §58.1-3253 authorizes annual and biennial
+                            assessments. Prince William County has performed annual assessments of
+                            property since 1979. Tax policy organizations recommend annual
+                            reassessment because assessments at longer intervals may result in large
+                            disparities and inequities between properties, especially during periods of
+                            rapid changes in the real estate market.
+                            Regular reassessment helps maintain equity between properties as market
+                            conditions change. The standard for all assessments in Virginia is established
+                            in the Virginia Constitution, Article X, Section 2, which requires assessment
+Maintaining equity is a
+                            at “fair market value.” The only exception to this requirement is for certain
+   primary goal when
+                            agricultural, forestal, horticultural, and open space property in the Use
+ assessing real estate
+                            Value Assessment Program (see page 14). The Code of Virginia §58.1-3253
+           for taxation
+                            further provides that annual assessments are to be made as of January 1 of
+                            each year. To perform equitable assessments, the Real Estate Assessments
+                            Office must gather accurate and consistent property information and
+                            perform proper analysis of sales and other market indicators.
+                            Data Collection
+                            The Real Estate Assessments Office collects information on property
+                            descriptions, sales, income and expenses, and other real estate market
+                            data. To ensure property descriptions are accurate, County appraisers
+                            periodically inspect properties and verify current data. Property
+                            characteristics are relatively stable, and physical inspections of each
+                            property are not necessary every year. However, physical characteristics
+                            such as condition do change slowly over time, and properties are physically
+                            reviewed periodically to ensure assessments are based on accurate
+                            information.
+                            Sales and income data are the primary data sources for establishing the
+                            value of real estate. Sales transactions are used as the basis for valuing most
+    Sales and income        residential properties in the County. Since inaccurate sales information can
+ data are the primary       lead to incorrect conclusions about property values, sales must be
+      data sources for      reviewed to verify the physical and financial circumstances that led to a
+establishing the value      particular sale price. Surveys are mailed monthly to verify information about
+         of real estate     the sale that was obtained from documents at the courthouse. Further
+                            review may include a physical inspection of the property to confirm its
+                            condition. The review may also include contact with the buyer, seller, or
+                            other parties involved in the transaction to verify the presence and amount
+                            of unusual financial terms that may have affected the sale price. To aid in
+                            valuing commercial and industrial property using the income approach,
+
+
+                                                                                                    Page 6
+      Real Estate Assessments Office                                                2025 Annual Report
+
+
+
+                           the Real Estate Assessments Office collects income and expense
+                           information from commercial property owners.
+                           Analysis of Data
+      Several standard     The Real Estate Assessments Office analyzes the information about market
+appraisal methods are      activity (sales, income, etc.) and values property based on the real estate
+used to value property     market. Properties are reassessed each year. Therefore, each year, sales,
+                           income information, and other market factors are studied, and properties
+                           are reassessed according to the current real estate market.
+                           Application of Results
+                           Appraisers use several approaches to value property for assessment
+                           purposes. These approaches are as follows:
+                           Cost Approach: The cost approach provides a value indication that is the
+                           sum of the land value plus the depreciated cost of the improvements. The
+                           land value is determined using the Sales Comparison approach following a
+                           highest and best use analysis. The improvement value is determined by
+                           estimating the cost to replace or reproduce the improvements and
+                           subtracting depreciation (decrease in value). Depreciation can be
+                           caused by physical deterioration, functional obsolescence (outdated
+                           design or inefficient technology), or economic obsolescence (effects of
+                           factors outside the property such as high traffic volume).
+                           Sales Comparison Approach: The sales comparison approach is based on
+                           the principle of substitution, which states that the value of real estate is
+                           determined by the cost of acquiring a similar property. Comparable
+                           properties that have recently sold are compared to a subject property.
+                           Adjustments are made to the sale prices of the comparable properties to
+                           account for the differences between the comparables and the subject.
+                           The adjusted sale prices of the comparables yield a range of probable
+                           values for the subject property.
+                           Income Capitalization Approach: The income approach produces a value
+                           indication by converting a property’s probable income stream into its value
+                           using a market-derived yield rate. In this approach, the effective gross
+                           income of a property is estimated by applying the appropriate rent, other
+                           income, and vacancy and collection loss to the subject based on market
+                           data/trends. Estimated normal operating expenses are deducted from the
+                           effective gross income to generate the net operating income. The net
+                           operating income is divided by a market capitalization rate to arrive at the
+                           subject property’s income value. Capitalization rates can be derived from
+                           sales of comparable properties by dividing the comparables’ income
+                           streams by their respective sale prices. There are also reliable published
+                           sources for national, regional, and local capitalization rates within each
+                           major commercial sector.
+
+
+
+
+                                                                                                Page 7
+      Real Estate Assessments Office                                                  2025 Annual Report
+
+
+
+                           Assessment Performance
+                           The assessment-to-sale ratio is used to measure the accuracy of
+                           assessments. This ratio is calculated by dividing the assessment by the selling
+                           price. For example, a single-family home assessed at $450,000 that sells for
+                           $475,000 has an assessment-to-sale ratio of 94.7%. This ratio is calculated for
+                           all valid sales in the County and is used to monitor the level and equity of
+                           assessments. The median assessment-to-sale ratio is called the level of
+                           assessment. The median (midpoint of arrayed ratios) is used to reduce the
+                           effect of outlying ratios.
+                           To measure performance, the Real Estate Assessments Office calculates an
+                           internal measure of assessment level based on sales that occurred prior to
+                           the assessment date of January 1 (including new construction). The
+                           Coefficient of Dispersion (CoD) is the average percentage each sale
+                           deviates from the median ratio or level of assessment. The CoD measures
+                           the degree of equity in the assessments. A small CoD indicates individual
+                           ratios are relatively close to the median ratio. A large CoD indicates ratios
+ To establish the 2025     vary greatly. The following table shows internal assessment levels and CoD’s
+assessments, the Real      for the most recent five years:
+   Estate Assessments
+Office reviewed sales
+  from calendar year
+                  2024
+
+                           The official median level of assessment is the performance statistic
+                           published annually in the Assessment/Sales Ratio Study by the Virginia
+                           Department of Taxation. The median level of assessment is an indicator of
+                           a locality’s existing assessment/sales ratio. The state calculates the 2025
+                           level of assessment by comparing January 1, 2025, assessed values to sales
+                           occurring during calendar year 2025. While parcels are assessed as of
+                           January 1, the Virginia Department of Taxation study does not adjust for
+                           inflation or deflation between the start of the year and the actual sale date
+                           of parcels. As a result, any appreciation in real estate values during the year
+                           acts to understate the assessment-to-sales ratio and any depreciation acts
+                           to overstate it. The greater the rate of appreciation, the greater the
+                           understatement of the ratio and conversely, the greater the rate of
+                           depreciation the greater the overstatement of the ratio. Equity of
+                           assessments is also published in the Assessment/Sales Ratio Study and
+                           indicates the uniformity in real property assessment by measuring average
+                           error. This information is reported in Table 10 of the Statistical Appendix.
+                           Assessing New Construction
+                           During the year, the Real Estate Assessments Office receives information on
+                           building permits issued by the County for new structures, additions, and
+                           remodeling of buildings. The Real Estate Assessments Office monitors the
+                           progress of activity indicated on the permits. New construction requires field
+                           inspections during the construction process for accurate measurements
+                           and descriptions. The following tables show the number and estimated
+                           dollar amount of building permits issued by the County from FY 2021 through
+
+
+
+                                                                                                   Page 8
+      Real Estate Assessments Office                                            2025 Annual Report
+
+
+
+                           FY 2025. The data comes from the Construction Activity Report produced
+                           by the Department of Development Services.
+
+
+                           Number of Permits Issued, Taxable Properties
+
+Building permit activity
+decreased 7.12% from
+                FY 2024
+
+
+
+
+                           Source: Department of Development Services
+
+
+
+
+                           Estimated Dollar Amount of Permits Issued for Structures and Additions,
+                           Taxable Properties
+The total value of new
+   residential permits
+   decreased 30.01%
+          from FY 2024
+
+
+
+
+                           Source: Department of Development Services
+
+
+
+
+                                                                                            Page 9
+      Real Estate Assessments Office                                               2025 Annual Report
+
+
+
+                           Assessment Notification
+       The Real Estate     The Code of Virginia §58.1-3330 requires the County to notify property
+  Assessments Office       owners whenever reassessment results in a change in assessed value. The
+mailed approximately       County has chosen to notify all property owners of reassessment, even if
+148,521 reassessment       there is no change in the value. This notification takes place in March of
+       notices in 2025     each year and informs the taxpayer of the previous two year’s assessments
+                           and the current assessment. (See Addendum A, page B-1 for a sample
+                           Notice of Reassessment).
+                           Appeal Procedures
+                           Taxpayers who are uncertain about the accuracy of their assessment on
+                           the basis of value or equity with other properties can request a review of
+                           their property value. The County appraiser considers market information
+                           relative to the property and information provided by the taxpayer. If this
+                           information shows the assessed value should be changed, the appraiser
+                           makes the necessary adjustment. If the evidence does not support a
+                           change, the appraiser explains the reasons for sustaining the assessment.
+                           Taxpayers may also appeal to the Board of Equalization (BOE) or Circuit
+                           Court. Taxpayers are not required to appeal to the Real Estate Assessments
+                           Office before appealing to the BOE or Circuit Court. The BOE is comprised
+                           of eight County taxpayers and is established by the Board of County
+                           Supervisors (BOCS) to render an independent third-party opinion in cases
+                           of disagreement between the taxpayer and the assessing official. Although
+                           the BOE is a quasi-judicial board, there is no application fee and an
+                           attorney is not required.
+                           Appeal Adjustments
+                           As a result of an appeal to the Real Estate Assessments Office, the BOE, or
+                           Circuit Court, an assessment may be revised. Developers may appeal
+                           many residential lots at the same time and each lot appealed is reviewed
+                           separately. Upon review, the Real Estate Assessments Office may change
+                           any or all of the lot values. Since each lot is reviewed separately, the
+                           number of appeals and the number changed by the assessor may be large
+                           and may fluctuate substantially from year to year. Some properties are
+                           appealed to both the Real Estate Assessments Office and to the BOE. In tax
+                           year 2024 there were two cases appealed in Circuit Court and as of June
+                           30, 2025, there were five court cases pending.
+                           The following table shows appeal activity for tax years 2020 to 2024. A
+                           history of appeals and the resulting adjustments can be found in Table 3 of
+                           the Statistical Appendix, page A-2.
+
+
+
+
+                                                                                              Page 10
+      Real Estate Assessments Office                                                  2025 Annual Report
+
+
+
+
+                           Note: Previous years were updated.
+                           1. Includes all changes –increases and decreases.
+
+
+
+                          Real Estate Tax Relief Programs
+                           Prince William County provides relief from real estate taxes and personal
+                           property taxes for those who are elderly or disabled and meet specified
+                           income and net worth requirements. Tax relief is also available to disabled
+                           veterans who meet specific disability requirements, their surviving spouses;
+                           surviving spouses of members of the armed forces killed in action; and
+                           surviving spouses of certain persons killed in the line of duty. Certain land
+                           uses may also qualify for tax relief to encourage preservation of agriculture,
+                           forestry, and open space. Properties that undergo certain energy
+                           efficiency improvements may also qualify for tax credits. Lastly, older
+                           properties that undergo substantial renovations can receive a partial tax
+                           exemption for the increase in taxes caused by the renovation.
+                           The Real Estate Assessments Office provides information to taxpayers
+                           regarding tax relief programs available in Prince William County in the
+                           following ways:
+                                • The notice of reassessment is sent to all property owners in March and
+       The Real Estate            contains the criteria for tax relief (see Addendum A, page B-2).
+   Assessments Office           • The real estate tax bills, personal property tax bills and personal
+          utilizes many           property verification forms briefly address the Tax Relief Program.
+      communication             • Advertisement in the Washington Post.
+     methods to reach           • A tax relief brochure (in both English and Spanish) containing specific
+citizens regarding tax            information regarding eligibility and the application form is available
+       relief programs            in the Real Estate Assessments Office and various other County
+    available in Prince           agencies (see Addendum C, page B-5), including the Finance
+       William County             Department’s tax payment counters and senior citizens' centers.
+                                • The County’s website: www.pwcgov.org/finance.
+                           The County sends renewal applications to those who received tax relief the
+                           preceding year.
+
+
+
+
+                                                                                                 Page 11
+Real Estate Assessments Office                                                   2025 Annual Report
+
+
+
+                     Tax Relief for the Elderly and Disabled
+                     Elderly or disabled persons are eligible for relief from all or part of the real
+                     estate taxes on their home and up to one acre of the land it occupies if
+                     they meet the following criteria:
+                        • Are 65 years of age or older on or before December 31, 2025; or are
+                           totally and permanently disabled.
+                        • Have less than $340,000 in total assets (residence and up to 25 acres
+                           excluded).
+                        • Do not exceed the maximum household income requirements set
+                           forth in local ordinances.
+                     The following table summarizes exemptions of 2025 taxes for different
+                     ranges of income. The income ranges are based on the Housing and Urban
+                     Development (HUD) low income limits and are adjusted annually.
+                     Income Limits for 2025 - Tax Relief Program
+
+
+
+
+                     Tax Relief for Disabled Veterans
+                     Disabled veterans are eligible for relief from all of the real estate taxes on
+                     their home and up to one acre of land it occupies and the solid waste fee
+                     if they meet the following criteria:
+                          • Have a disability that is 100%, service connected, permanent and
+                            total (or compensated at the 100% rate).
+                          • Own and occupy the home as his/her principal place of residence.
+                     Tax Relief for Surviving Spouses of Members of the Armed Forces
+                     Killed in Action
+                     Surviving spouses of members of the armed forces killed in action are
+                     eligible for relief from all of the real estate taxes on their home and up to
+                     one acre of land it occupies and the solid waste fee if they meet the
+                     following criteria:
+                          • The applicant must provide documentation from the U.S. Department
+                            of Defense indicating the spouse was a member of the Armed Forces
+                            killed in action.
+                          • The surviving spouse does not remarry.
+                          • The surviving spouse must occupy the property as his/her principal
+                            place of residence.
+                     A summary of real estate and personal property tax relief is shown in the
+                     following table. Additional historical information about tax relief is provided
+                     in the Statistical Appendix, Table 2, page A-1.
+
+
+
+                                                                                             Page 12
+Real Estate Assessments Office                                                                        2025 Annual Report
+
+
+
+                     Summary of Tax Relief
+
+
+
+
+                     Notes:
+                     • Applicants receiving tax relief for mobile homes are not included in this table.
+                     • Data as of July 2025.
+                     • Taxpayers may qualify for real estate tax relief, personal property, or both.
+                     • Exemption may be 100%, 75%, 50%, or 25%. If the applicant turned 65 or became totally and permanently
+                       disabled during calendar year 2025, the exemption is prorated based on the date the applicant turned 65 or
+                       became totally and permanently disabled.
+
+
+
+
+                                                                                                                      Page 13
+       Real Estate Assessments Office                                                 2025 Annual Report
+
+
+
+                            Tax Relief Based on Use Value Assessment
+                            The Prince William County Use Value Assessment Program provides tax relief
+                            to certain agricultural, forestal, horticultural, and open space property
+                            owners. The program allows qualifying land to be taxed according to its use
+                            value, rather than its market value. The State Land Evaluation Advisory
+                            Committee (SLEAC) suggests values for land in the program. These values
+                            range from $90 per acre to $1,440 per acre, depending on the type of land.
+                            Buildings do not have use value assessments and are therefore assessed at
+                            full market value.
+                            The tax difference is deferred, but not automatically forgiven. The deferred
+                            tax remains payable for six years. There are currently 669 parcels in the Use
+                            Value Assessment Program. The table below shows the market value, the
+                            use value, and the taxes deferred for tax years 2021 through 2025:
+                            Use Value Assessment Summary
+
+
+
+
+                            Notes:
+                            • Rollback taxes for previous years were updated.
+                            • Rollback taxes for TY 2025 are estimated.
+
+                            When landowners in the Use Value Assessment Program change the use to
+                            a non-qualifying use or re-zone their property to a more intensive zoning,
+                            they must pay a “rollback tax.” This tax is based on the difference between
+                            the property’s market value and its use value for the current year and the
+                            five most recent complete tax years (including interest). More detailed
+                            information about the Use Value Assessment Program can be found in
+                            Table 5 of the Statistical Appendix, page A-3.
+                            Partial Tax Exemption for Rehabilitated Real Estate
+                            An ordinance enacting a partial tax exemption for real estate that is
+   The Board of County      substantially repaired, rehabilitated, or replaced became effective on
+  Supervisors adopted       January 1, 1998. The program is intended to encourage owners of older
+ the Tax Rehabilitation     properties to improve the condition and appearance of their properties. All
+Program to encourage        improved property types are eligible for the exemption. The rehabilitation
+        owners of older     or replacement structure must increase the assessed value of the original
+ properties to improve      structure by at least 25% to qualify for the exemption. Minimum age and
+     the condition and      maximum size increase requirements depending on property type must
+   appearance of their      also be met. Applications and information are available on the County’s
+             properties     website.
+                            The amount of exemption is based on the increase in building value caused
+                            by rehabilitation and is applied over a 15-year period. The tax savings are
+                            equal to 100% of the exemption each year for the first ten years. Over the
+
+                                                                                                 Page 14
+Real Estate Assessments Office                                                  2025 Annual Report
+
+
+
+                     next five years the tax savings are reduced, and the exemption is phased
+                     out as follows: 80% in year 11, 60% in year 12, 40% in year 13, 20% in year 14,
+                     and 0% in year 15. The tax exemption is transferable to a new property
+                     owner during the program period.
+                     The following is an example of a rehabilitated property participating in the
+                     program:
+                     Before Rehabilitation
+
+
+
+
+                     After Rehabilitation
+
+
+
+
+                     Summary of Tax Exemption for Rehabilitated Real Estate
+
+
+
+
+                     Note: Full decimal precision not shown.
+
+
+
+
+                     Tax Exemption for Certified Solar Energy Equipment, Facilities or
+                     Devices Program
+                     The Prince William County Board of County Supervisors approved an
+                     ordinance allowing a tax exemption for installed certified solar energy
+                     equipment, facilities or devices. The purpose of this exemption is to
+                     encourage the use of solar energy for water heating, space heating, or
+
+                                                                                            Page 15
+       Real Estate Assessments Office                                                  2025 Annual Report
+
+
+
+                            cooling, or other applications that would otherwise require a conventional
+                            non-renewable source of energy.
+                            The amount of exemption is based on the certified cost of the purchase
+                            and installation of the solar energy equipment. The tax exemption is
+                            granted for a five-year period as long as the equipment, facilities, or
+                            devices are used during the tax year.
+                            Currently there are 118 qualifying properties enrolled in the program,
+                            receiving a combined credit of $49,109 for calendar year 2025.
+                            Summary of Tax Exemption for Certified Solar Energy Equipment
+
+
+
+
+                            Note: full decimal precision not shown.
+
+
+
+
+                          Providing Customer Service
+                            The Real Estate Assessments Office provides services to all taxpayers in the
+                            form of accurate, equitable assessments. In addition, each year the Real
+       The Real Estate
+                            Estate Assessments Office provides direct assistance to thousands of citizens
+   Assessments Office
+                            on an individual basis. One of the most direct forms of customer service is
+pledges to do the right
+          thing for the
+                            responding to appeals by taxpayers who are not certain their assessment is
+   community and the        correct. Taxpayer appeals are explained in the “Appeal Procedures”
+  customer every time       section, page 10. Several other direct customer services provided by the
+                            Real Estate Assessments Office are as follows:
+                            Walk-in Customers
+                            When taxpayers come to the Real Estate Assessments Office for assistance,
+                            the office staff works directly with them to help them understand
+                            assessments and taxes, and apply for tax relief if applicable. The Real Estate
+                            Assessments Office also has brochures about the different tax relief
+                            programs Prince William County offers to its residents, which can be found
+                            in the Addendum.
+                            Telephone and Electronic Requests
+                            Citizens frequently reach out to the Real Estate Assessments Office to
+                            inquire about property valuation methods, tax due dates, and other
+                            general assessment-related information. The office also serves real estate
+                            and tax professionals by providing access to ownership, tax, and property
+                            data. For assistance, individuals may contact the office by phone at 703-
+                            792-4750 or via email at realestate@pwcgov.org.
+                            Internet Access
+                            Real estate assessment information, including ownership, physical
+                            descriptions, sales history, and assessment history for each property in the
+                            County is available free-of-charge on the County’s website at
+
+                                                                                                  Page 16
+      Real Estate Assessments Office                                                           2025 Annual Report
+
+
+
+                           https://www.pwcva.gov/realestate. The County’s internet statistics reports
+                           consistently demonstrate that the Real Estate Assessments Office has one
+                           of the highest number of views (a count of hits to pages) and visitor sessions
+                           within the County’s website. A summary of customer service activity is
+                           shown in the following table:
+
+
+
+
+                           Note: Electronic communications were not tracked prior to FY2022.
+
+
+
+
+                           Real Property Assessments Internet System
+
+
+ “PublicAccessNow” is
+one of the most widely
+  used applications on
+  the County’s Website
+
+
+
+
+                                                                                                          Page 17
+        Real Estate Assessments Office                                                                          2025 Annual Report
+
+
+
+
+                            Real Estate Values
+                             For the purpose of comparing and analyzing real estate assessments,
+                             property in the County has been divided into several categories. The
+                             following table compares assessed values for each type of property for tax
+                             years 2024 and 2025.
+                             Assessed Values from TY 2024 to TY 2025
+
+
+     Taxable residential
+ values increased 7.88%
+from January 1, 2024, to
+         January 1, 2025
+
+
+
+
+        The total locally
+       assessed values
+ increased 14.31% from
+     January 1, 2024, to
+        January 1, 2025
+
+
+
+
+                             1. Public Service assessments are received by the County from the state in September of each year. 2025
+                                Public Service assessments are estimated.
+                             2. Supplements are taxes billed for construction completed during the year. Supplemental assessments include
+                                prorated assessments on newly completed construction, rezonings, and prorated assessments for properties
+                                which become taxable during the year. Supplements 1, 2, and 3 for 2025 are not currently available. The
+                                values shown are estimated.
+                             3. Rollbacks account for properties that were eliminated from the use value program due to re-zoning or
+                                development. Rollbacks for 2025 are estimated and are calculated using the base tax rate of $0.9060 per
+                                $100 of assessed value.
+                             4. Deferred use value is the difference between the market value and use value of properties in the Use Value
+                                Assessment Program.
+                             Notes:
+                             • 2024 Assessed Values were updated.
+                             • 2024 and 2025 Assessed Values form the basis for FY 2025 and FY 2026 revenues, respectively.
+
+
+
+
+                                                                                                                                Page 18
+      Real Estate Assessments Office                                                 2025 Annual Report
+
+
+
+                           Composition of Tax Base - 2025 Assessed Values
+
+
+
+
+                           Landbook Values: Growth and Appreciation
+                           The 2025 landbook contains assessed values for all properties in the County
+                           as of January 1, 2025. The following categories of assessments are not
+Each year, changes in
+                           included in the landbook:
+    the Landbook are
+                               • Assessments for state-valued public service properties (these are
+  attributed to growth
+                                 received from the state in September of each year)
+    and appreciation
+                               • Supplemental assessments (these are made after January 1, 2025)
+                           Each year, changes in landbook values for each category can be divided
+                           into two main influences: growth and appreciation. Changes in value due
+                           to growth result from the construction of new buildings and land
+                           subdivisions. As the table on the following page shows, the residential,
+                           apartments, commercial and industrial categories experienced positive
+                           growth from 2024. The value of undeveloped declined by 1.67%
+                           Changes in value due to appreciation or depreciation are the result of
+                           fluctuations in real estate market conditions, changes in property
+                           descriptions, physical deterioration, renovations and additions. For the 2025
+                           landbook, these factors caused residential, apartment, commercial and
+                           industrial properties to increase in value. Overall, the landbook value
+                           increased 13.98%, of which approximately 8.68% was due to appreciation
+                           and 5.30% to growth. The following table shows the 2024 to 2025 landbook
+                           changes attributable to growth and appreciation. Detailed and historical
+                           data are shown in tables 11B and 11C, page A-10, in the Statistical
+                           Appendix.
+
+
+
+
+                                                                                                Page 19
+     Real Estate Assessments Office                                                                           2025 Annual Report
+
+
+
+
+                          Notes:
+                          • Net change is not necessarily indicative of the change to a particular property. Individual assessment
+                            changes may vary considerably.
+                          • Full decimal precision is not shown.
+                          • Public Service changes are estimated.
+
+                          Residential
+                          The residential category includes improved and unimproved parcels zoned
+                          for residential use except multifamily rental apartment units. Improved
+                          parcels in this category are single-family homes, townhouses, and
+ Landbook values of       condominiums. The 2025 total residential assessments increased 8.02%
+     new and existing     overall. The average assessment of all single-family, townhouse, and
+residential properties    condominium properties increased from $531,400 to $570,600, or 7.38%
+  increased by 8.02%      overall, from 2024 to 2025. This includes 694 new homes that were
+    from 2024 to 2025     completed during calendar year 2024, but excludes partially built homes.
+                          The average assessment of existing single-family, townhouse, and
+                          condominium properties increased from $530,400 to $569,600, or 7.39%
+                          overall from 2024 to 2025. The table below shows the landbook value of
+                          residential properties for the last five years and the following page shows
+                          the composition of the residential category, the composition of new
+                          construction, and the average assessed values of residential properties.
+
+
+
+
+                                                                                                                               Page 20
+Real Estate Assessments Office                                                                            2025 Annual Report
+
+
+
+                     Types of Residential Property as a Percent of Total Residential Value
+
+
+
+
+                     Notes:
+                     This table is not a count of dwelling units in the County. Some parcels in the Single-Family category may have
+                     more than one dwelling unit. New homes that were partially built as of January 1, 2025, are counted as if they
+                     were complete, although their value is discounted depending on the level of completion. Tax-exempt
+                     properties and apartment units are not included in this table.
+
+                     There were 694 new homes built in the County during calendar year 2024,
+                     adding $522.69 million to the residential tax base. Of those, 74.64% were
+                     single-family homes, townhouses and condominiums assessed above the
+                     overall residential assessment average for new and existing residential
+                     properties of $570,600 for tax year 2025. The average assessment of all
+                     residential new construction increased from $665,200 in 2024 to $753,200 in
+                     2025, or 13.20%. New single-family sale prices ranged from $608,000 to
+                     $1,794,964. New townhouse sale prices ranged from $499,990 to $873,999.
+                     New condominium sale prices ranged from $399,414 to $668,340. The
+                     following table shows the breakdown of new homes by type and value:
+
+
+
+
+                     Notes:
+                     • This table includes residential homes completed during 2024. Homes partially built as of January 1, 2025, have
+                       been excluded.
+                     • The average assessment of all residential properties (rounded to the nearest $100 of assessed value) was
+                       $570,600 for 2025.
+
+
+
+
+                                                                                                                          Page 21
+       Real Estate Assessments Office                                                                            2025 Annual Report
+
+
+
+                            All residential home types experienced an increase in average assessed
+                            value from 2024 to 2025. Listed below are the average assessments of
+ From January 1, 2024,      residential dwelling types for the last five years.
+to January 1, 2025, the
+    average residential     Average Residential Assessments by Type
+ assessment increased
+         by 7.38% from
+  $531,400 to $570,600
+
+
+
+                            Note: These averages do not include tax-exempt properties, vacant lots, residences on commercial or
+                            agricultural land, parcels with more than one residence, or houses that were partially complete as of January 1,
+                            2025.
+
+
+
+
+                            Comparison of Average Residential Assessments by Type
+
+
+
+
+  The average single-
+family dwelling value
+increased 7.28% from
+   $602,800 in 2024 to
+     $646,700 in 2025
+
+
+
+
+                            Note: Previous years were updated.
+
+                            New houses can influence the average assessed value of all homes
+                            positively or negatively, depending on the size, quality, and type of new
+                            construction. In general, new houses are more expensive than typical
+                            existing houses in the County, and therefore cause an increase in the
+                            overall average assessed value. As a result, even if market factors or
+                            physical deterioration cause a decline in the value of existing properties,
+                            construction of new units may cause the overall average value to increase.
+                            A ten-year history of average values is included in the Statistical Appendix,
+                            Table 6, page A-4.
+
+
+
+
+                                                                                                                                Page 22
+      Real Estate Assessments Office                                                                           2025 Annual Report
+
+
+
+                           Apartments
+                           Apartments include residential, rental and vacant land zoned for
+                           apartments. The unit count for 2025 is 24,670 and the average assessment
+ The assessed value of     per unit is $215,200.
+residential apartments
+                           Apartment values increased 5.85% from 2024 to 2025, compared to a 1.82%
+   increased by 5.85%
+     from 2024 to 2025
+                           gain from 2023 to 2024. The increase due to market activity was 2.76%,
+                           while growth added $154.4 million, or 3.04% to the tax base. The following
+                           table is a summary of apartment unit information for the last five years,
+                           excluding vacant land:
+
+
+
+
+                           Note: Tax-exempt properties are not included in this table.
+
+
+
+                           Commercial and Industrial
+                           Locally-Valued Properties
+                           Locally-valued commercial and industrial properties consist of all non-
+                           residential uses such as retail, office, hotel, industrial, warehouse, and
+                           vacant parcels with commercial or industrial zoning. Properties owned by
+                           public service companies such as utility companies and railroads are
+The assessed value of      valued by the state, but taxed locally.
+      commercial and
+   industrial properties   Locally assessed commercial and industrial property values increased by
+ increased by 34.44%       34.44% in 2024. Excluding data centers, the commercial sector added
+     from 2024 to 2025     approximately 836,500 square feet of taxable commercial space, with an
+                           estimated valuation of over $330 million. Of this amount, roughly 67% of the
+                           new commercial square footage was built within the industrial sector.
+                           Data centers contributed $4.55 billion in growth to the commercial tax base
+                           and now account for approximately 56% of its total value. The total
+                           valuation of data centers exceeds $21.7 billion, of which roughly $16.6
+                           billion reflects developed data center facilities. The remaining portion
+                           represents land parcels designated for future data center development.
+                           Appreciation of locally assessed commercial and industrial properties
+                           accounted for an increase in value of over $3.7 billion during 2024, of which
+                           data center appreciation accounted for $3.2 billion.
+
+
+
+
+                           Note: State-valued public service properties are not included in this category. Supplements are not included.
+
+
+
+
+                                                                                                                              Page 23
+Real Estate Assessments Office                                                                         2025 Annual Report
+
+
+
+                     State-Valued Public Service Properties
+                     State-valued public service properties are assessed by the State
+                     Corporation Commission (SCC) and the Virginia Department of Taxation.
+                     The SCC assesses all telecommunications companies, water corporations,
+                     intrastate gas pipeline distribution companies, and electric light and power
+                     corporations. The Virginia Department of Taxation assesses railroads and
+                     interstate pipeline transmission companies. The County receives these
+                     assessed values in September of each year, then bills and collects taxes.
+                     Since the assessments are not available when first half tax bills are due, the
+                     first half taxes are based on the prior year assessment and adjusted on the
+                     second half tax bill. The table below shows the total assessed values for
+                     Public Service properties. A more detailed history of values for Public Service
+                     properties can be found in Table 9 (page A-7) and Table 11A (page A-9) of
+                     the Statistical Appendix.
+
+
+
+
+                     Note: 2024 figure was updated from the 2024 Annual Report. Public Service assessments are received by the
+                     County from the state in September of each year. 2025 Public Service assessments are estimated.
+
+                     The table and chart on the following page compare 2025 landbook values
+                     of different types of locally-assessed and state-valued properties.
+
+
+
+
+                                                                                                                      Page 24
+Real Estate Assessments Office                                                                          2025 Annual Report
+
+
+
+                     Comparison of Types of Commercial/Industrial Property
+
+
+
+
+                     Note: State-Valued Public Service property assessments are received by the County from the state in
+                     September of each year. 2025 Public Service assessments are estimated.
+
+                     Undeveloped Land
+                     Undeveloped land consists of large acreage tracts of farm land and other
+                     undeveloped properties greater than twenty acres. From 2024 to 2025,
+                     there was a 1.67% reduction in value compared to a 39.46% increase from
+                     2023 to 2024, and a 5.43% increase from 2022 to 2023. The current loss in
+                     value is attributed to a 0.47% appreciation and a 2.14% growth reduction
+                     due to properties being reclassified, consolidated or subdivided and
+                     additional properties qualifying for use value assessments. The following
+                     table reflects the landbook values of this category for 2021 to 2025.
+
+
+
+
+                                                                                                                       Page 25
+      Real Estate Assessments Office                                                2025 Annual Report
+
+
+
+
+                           Some undeveloped parcels qualify for the Use Value Assessment Program
+                           and are not taxed at market value. These values typically range from $90
+                           to $1,440 per acre (see “Tax Relief Based on Use Value Assessment” on
+                           page 14, for more information).
+                           Supplemental Assessments
+                           Supplemental assessments include prorated assessments on newly
+                           completed construction, rezonings, and prorated assessments for
+                           properties which become taxable during the year. When construction is
+                           completed during the year, the increase in assessed value between the
+                           January 1 assessment and the complete value is prorated based on the
+                           number of months the property is substantially completed or fit for use and
+                           occupancy. The owner of the property receives a supplemental tax bill for
+                           the prorated increased value.
+
+
+
+
+                           Tax-Exempt Properties
+
+Tax exempt properties
+                           For 2025, there were 2,373 tax-exempt parcels consisting of federal, state,
+comprise 5.53% of the      and County-owned properties, as well as properties owned by churches,
+  aggregate assessed       schools, and other tax-exempt organizations. They comprise 5.53% of the
+      value of all real    total County assessed value.
+             property      The total assessed value of exempt properties for 2025 is $7,053,672,400 and
+                           the total amount of taxes exempted is $63,906,272. A chart showing the
+                           relative proportion of each category of tax-exempt properties for 2025 and
+                           a summary of the assessed values of tax-exempt properties by category for
+                           2021 through 2025 follows.
+
+
+
+
+                                                                                              Page 26
+Real Estate Assessments Office   2025 Annual Report
+
+
+
+
+                                           Page 27
+This page intentionally left blank
+Statistical Appendix
+This page intentionally left blank
+                                                   Table 1: History of Property Record Maintenance Activity
+
+
+
+
+Note: Previous years were updated.
+
+
+
+
+                                                                                Table 2: History of Tax Relief
+
+
+
+
+Notes:
+• Personal Property Tax Relief for Disabled Veterans not available prior to TY2021.
+• Data as of July 2025. Previous years were updated.
+
+
+
+
+                                                                                                                 A-1
+                                                                        Table 3 History of Appeals Activity
+
+
+
+
+Notes:
+• Previous years were updated.
+• Changes by the Assessments Office and BOE may have been decreases or increases.
+
+
+
+
+                                                                           Table 4: History of Adjustments
+
+
+Note: These numbers include all adjustments made as a result of real estate assessment appeals, taxpayer inquiries, fire damage, state code changes, etc., to the Real Estate Assessments Office.
+
+
+
+
+                                                                                                                                                                                                    A-2
+                                                                Table 5: Use Value Assessment Summary
+
+
+
+
+1. 2025 rollback taxes are estimated. Previous years were updated.
+2. Net Annual Deferral = Tax Reduction – Rollback Taxes.
+
+
+
+
+                                                                                                        A-3
+                     Table 6: Average Assessed Value History of Residential Property
+
+
+
+
+* The units included in this table are all residential properties in the Single-Family Detached, Duplex, Townhouse and Condominium categories. Houses on
+commercially zoned or agricultural parcels and houses that were partially complete as of January 1, 2025, are not included. Tax exempt properties and parcels
+owned by homeowner’s associations are also not included. The difference between the unit counts in successive years does not always equal the number of new
+houses added since during reassessment some properties are reclassified to or from a non-residential type.
+
+
+
+                                  Average Assessed Value—All Residential (2016-2025)
+
+              $600
+
+
+
+
+                                                                                                  12.49%
+              $575                                                                                                                                   14%
+              $550           Average Overall Assessment     Percent Change
+              $525                                                                                                                                   12%
+              $500
+              $475
+                                                                                                                                                     10%
+
+                                                                                     7.80%
+              $450
+
+
+
+
+                                                                                                                                            7.38%
+                                                                                                               6.73%
+  Thousands
+
+
+
+
+              $425
+                                                                                                                                                     8%
+
+
+
+
+                                                                                                                              5.73%
+              $400
+              $375
+                                                                             4.30%
+
+
+
+
+                                                                                                                                                     6%
+              $350
+                                                                 3.70%
+                                                    3.58%
+
+
+
+
+              $325
+                     2.29%
+
+
+
+
+              $300                                                                                                                                   4%
+                                      1.88%
+
+
+
+
+              $275
+              $250                                                                                                                                   2%
+                                                                                                  $471
+                     $340
+
+
+
+
+                                      $347
+
+
+
+
+                                                    $359
+
+
+
+
+                                                                 $372
+
+
+
+
+                                                                             $388
+
+
+
+
+                                                                                       $419
+
+
+
+
+                                                                                                                 $503
+
+
+
+
+                                                                                                                              $531
+
+
+
+
+                                                                                                                                            $571
+              $225
+              $200                                                                                                                                   0%
+                     2016
+
+
+
+
+                                       2017
+
+
+
+
+                                                     2018
+
+
+
+
+                                                                 2019
+
+
+
+
+                                                                             2020
+
+
+
+
+                                                                                        2021
+
+
+
+
+                                                                                                   2022
+
+
+
+
+                                                                                                                  2023
+
+
+
+
+                                                                                                                              2024
+
+
+
+
+                                                                                                                                            2025
+                                                                                                                                                                A-4
+                                                 Table 7: Assessed Values and Estimated Market Values
+
+
+
+
+                                          Table 7: Assessed Values and Estimated Market Values (cont.)
+
+
+
+
+(1) Ratios are from the Department of Taxation Sales Ratio Study. Since the ratios for the two most current years (2024 and 2025) are not available, estimates from the Real Estate Assessments Office are reported.
+(2) Certain agricultural and forestal land is granted special use value assessment.
+(3) Figures do not include rollbacks.
+Notes:
+• Assessed values include landbook values plus all supplements.
+• Supplements for calendar year 2025 are estimated.
+• All ratios were updated. Where no ratio is calculated because of insufficient sales, the overall County average is used.
+
+
+
+
+                                                                                                                                                                                                              A-5
+                                                     Table 8: History of the Real Estate Tax Base
+
+
+
+
+    Notes:
+•   All amounts are in millions.
+•   Supplements are estimated for 2025.
+•   2025 Public Service assessments are estimated.
+•   Assessments include original landbook plus supplements.
+
+
+
+
+                                                                                                    A-6
+                         Table 9: Tax Base Composition as a Percentage of the Total Tax Base
+
+
+
+
+Notes:
+• Supplements are included.
+• Supplements for 2025 are estimated.
+• 2025 Public Service assessments are estimated.
+
+
+
+
+                                                                                               A-7
+                                                            Table 10: Assessment Performance Statistics
+
+Level of Assessments
+
+
+
+
+Equity of Assessments
+
+
+
+
+* Insufficient sales.
+Notes:
+• Where no ratio is calculated because of insufficient sales, the overall County average is used.
+• “Level of Assessment” refers to the median ratio of assessment to selling price as reported by the Virginia Department of Taxation.
+• “Equity of Assessments” is the average percentage sales deviation from the median ratio.
+• 2023 figures were updated. 2024 and 2025 figures are estimates by the Real Estate Assessment Office.
+
+
+
+
+                                                                                                                                        A-8
+                                           Table 11A: Growth and Appreciation
+TY 2024 to TY 2025
+
+
+
+
+   * All changes in Public Service are attributed to growth. 2025 Public Service assessed value is estimated. ** Supplements and Rollbacks are estimated for 2025.
+   Note: Full decimal precision is not shown.
+TY 2023 to TY 2024
+
+
+
+
+   Note: Full decimal precision is not shown.
+
+
+
+                                                                                                                                                                     A-9
+                                        Table 11B: History of Growth Rates
+
+
+
+
+                                  Table 11C: History of Appreciation Rates
+
+
+
+
+Notes:
+• These tables include Public Service properties in addition to the landbook categories.
+• Public service figure for previous year was updated. Public Service for 2025 is estimated.
+• These tables do not include supplements.
+• These rates represent the effects of growth and appreciation from the prior year on the landbook for the year shown.
+• Full decimal precision is not shown.
+
+
+
+
+                                                                                                                         A-10
+                                                         Table 12: Top Fifty Real Estate Taxpayers – FY 2025
+
+
+
+
+Note: Supplements and Rollbacks for 2023 are excluded.
+
+
+                                                             Top 50 as a % of Total Landbook: 17.04%
+                                                             Total January 1, 2024, Landbook plus Public Service Assessments: $105,037,346,100
+
+
+
+
+                                                                                                                                         A-11
+                                           Table 13: Tax Rates
+
+
+
+
+* Not levied in that year.
+Note: Tax rates per $100 assessed value.
+
+
+
+
+                                                                 A-12
+This page intentionally left blank
+This page intentionally left blank
+Addenda
+This page intentionally left blank
+Addendum A: Sample Notice of Reassessment
+
+
+
+
+                                            B-1
+Addendum A: Sample Notice of Reassessment (cont.)
+
+
+
+
+                                                    B-2
+Addendum B: Tax Savings for Rehabilitated Properties
+
+
+
+
+                                                       B-3
+Addendum B: Tax Savings for Rehabilitated Properties (cont.)
+
+
+
+
+                                                               B-4
+Addendum C: Tax Relief Programs for Elderly and Disabled Persons
+
+
+
+
+                                                                   B-5
+Addendum C: Tax Relief Programs for Elderly and Disabled Persons (cont.)
+
+
+
+
+                                                                           B-6
+Addendum D: Tax Relief Programs for Disabled Veterans
+
+
+
+
+                                                        B-7
+Addendum D: Tax Relief Programs for Disabled Veterans (cont.)
+
+
+
+
+                                                                B-8
+

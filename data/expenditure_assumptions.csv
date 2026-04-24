@@ -1,0 +1,104 @@
+block,parameter,scenario,value,unit,source_key,notes
+# Prince William County expenditure-side assumptions for FY27-FY31 committed trajectory.
+# Scenario labels: base = County-adopted Five-Year Plan assumptions; low = stress-conservative (lower growth, smaller merit); high = stress-adverse (higher inflation, higher health).
+# Where the County Adopted FY26-30 Five-Year Plan publishes a number, the base column carries that number verbatim.
+# FY31 is an extrapolation because the County plan only extends to FY30; methodology documented in expenditure_notes.md.
+# All USD values are raw dollars. Rates stored as percent * 10000 to preserve integer precision.
+#
+# === BLOCK 1: SCHOOLS TRANSFER (revenue-linked formula) ===
+schools_transfer,revenue_share_pct,base,5723,basis_points,PWC-ACFR-FY25,PWC-Schools 2013 Revenue Sharing Agreement: 57.23% of General Revenues to Schools. Stored as basis points (pct*100).
+schools_transfer,revenue_share_pct,low,5723,basis_points,PWC-ACFR-FY25,Contractual; does not vary across stress scenarios unless the Agreement is reopened.
+schools_transfer,revenue_share_pct,high,5723,basis_points,PWC-ACFR-FY25,Contractual.
+schools_transfer,floor_fy26_published,base,991609044,usd,PWC-BUD-FY26-REV,"FY26 Adopted Schools transfer = 57.23% x $1,732,673,500 general revenue base."
+schools_transfer,eligible_revenue_base_definition,base,0,text,PWC-BUD-FY26-REV,"'Total General Revenues' per Adopted Budget Revenues book: real estate taxes (net of exonerations and relief) + public service real estate + real-estate penalties and interest + personal property taxes (vehicles + business tangible incl. data-center CE&P + penalties + prior year) + motor vehicle license + local sales tax + consumer utility tax + communications sales tax + BPOL + food and beverage tax + tax on deeds (general fund share) + transient occupancy + cigarette + bank franchise + daily rental equipment + consumption + rolling stock + passenger car rental + manufactured home titling + PILT + investment income (general fund share) + interest on taxes. EXCLUDES: Agency Revenue ($240.3M FY26), federal/state categorical aid, PPTRA fixed reimbursement, fire levy, stormwater, solid waste fees, CSA state pass-through, transfers in, use of fund balance, bond proceeds, and all capital/enterprise fund revenue."
+#
+# === BLOCK 2: PUBLIC SAFETY (headcount x salary + non-personnel) ===
+public_safety,fy26_adopted_general_fund,base,420396976,usd,PWC-BUD-FY26-EXP,"FY26 Adopted Safe & Secure Community subtotal (GF only; excludes Fire Levy): Adult Detention transfer $39.16M + Circuit Court Judges $2.10M + Circuit Court Clerk $7.08M + Commonwealth Attorney $15.06M + Criminal Justice Services $8.48M + Fire & Rescue (GF portion) $147.66M + General District Court $2.37M + J&DR Court $0.79M + Magistrates $0.12M + Police $160.67M + PSC $17.31M + Sheriff $19.60M."
+public_safety,fire_levy_fy26_adopted,base,93448379,usd,PWC-BUD-FY26-EXP,"FY26 Fire & Rescue Levy (special revenue fund -- not in GF total, but required operating spend; included in committed-expenditure envelope because stations must operate)."
+public_safety,personnel_share_of_gf_ps,base,7500,basis_points,PWC-BUD-FY26-EXP,"~75% of public-safety budget is salaries+benefits (derived from Police/F&R agency pages: Police personnel $141M of $160.7M = 88%; F&R personnel $120M of $147.7M = 81%; Sheriff personnel $16.4M of $19.6M = 84%; courts lower share). Weighted aggregate ~75%. Stored as basis points (pct*100)."
+public_safety,personnel_growth_rate,base,400,basis_points,PWC-BUD-FY26-COMP,"4.0% annual -- combines 3.0% step/merit (per PWC Adopted Five-Year Plan p.41) + ~0.5% market drift + 0.5% approved headcount additions (77 SSC FTEs in FY26; pipeline per CBA F&R 30 FTE to FY28)."
+public_safety,personnel_growth_rate,low,350,basis_points,PWC-BUD-FY26-COMP,"3.5% -- assumes merit/step held at 3%, headcount frozen after FY26 approved class."
+public_safety,personnel_growth_rate,high,500,basis_points,PWC-BUD-FY26-COMP,"5.0% -- assumes collective bargaining retain raises + incremental market adjustments to stem NoVA retention losses."
+public_safety,nonpersonnel_growth_rate,base,350,basis_points,BLS-CPI,"3.5% annual -- proxy: BLS state-and-local-government services price index 5-year trailing (2020-25 avg 3.6%); applied to 25% non-personnel portion."
+public_safety,nonpersonnel_growth_rate,low,250,basis_points,BLS-CPI,"2.5% low-inflation scenario (CBO Feb 2025 long-run projection)."
+public_safety,nonpersonnel_growth_rate,high,500,basis_points,BLS-CPI,"5.0% -- elevated utility/equipment/fleet costs; tariff-driven consumer inflation pass-through."
+public_safety,cba_firerescue_50hr_workweek_fy28,base,5712410,usd,PWC-BUD-FY26-COMP,"Cumulative 5-yr cost of F&R CBA provisions including 30 FTE for 56->50 hour workweek by FY28."
+public_safety,fire_levy_growth_rate,base,600,basis_points,PWC-BUD-FY26-EXP,"FY25->FY26 Fire Levy increased 20.67% ($77.4M->$93.4M); 5-year programmed growth per CIP station build-out approximately 6% annually including new Stations 27/29/30."
+#
+# === BLOCK 3: GENERAL GOVERNMENT + COMMUNITY SERVICES ===
+general_government,fy26_adopted_gf,base,146107051,usd,PWC-BUD-FY26-EXP,"FY26 GOPI subtotal $120.98M + MEGR $24.98M (Development Services/Planning/Public Works/Economic Dev/Transportation general-fund portions). Excludes Non-Departmental contingency."
+general_government,nondept_fy26_gf,base,48084874,usd,PWC-BUD-FY26-EXP,"FY26 Non-Departmental: admin support $33.73M + contingency $1.63M + countywide insurance $12.56M + unemployment $0.17M. Includes self-insurance premium growth."
+community_services,fy26_adopted_gf,base,293243623,usd,PWC-BUD-FY26-EXP,"FY26 HWES subtotal: Area Agency on Aging $10.75M + Housing $0.65M + Juvenile Court $0.78M + Library $26.29M + Parks & Rec $49.80M + Public Health $5.66M + Social Services $91.48M + VCE $1.35M + Community Services $93.78M + Youth Services $12.71M."
+general_government,operating_growth_rate,base,350,basis_points,BLS-CPI,"3.5% annual -- blends 3% merit/step (per Five-Year Plan p.41) with 3.5% non-personnel proxy (BLS state-local services index). Matches the County's published total operating growth from FY26 $956.86M to FY30 $1,042.13M = 2.17% CAGR, but that headline masks (a) CIP taking the marginal growth and (b) $500K/yr programmed utility/fuel/lease escalators. This assumption holds ops growth at 3.5% to account for full inflation pass-through."
+general_government,operating_growth_rate,low,200,basis_points,CBO-projection,"2.0% annual -- approximate replication of Adopted Five-Year Plan operating line (2.17% CAGR) which the Plan uses for aggregate county-side operating excluding merit."
+general_government,operating_growth_rate,high,500,basis_points,BLS-CPI,"5.0% annual -- adverse inflation + Social Services caseload-driven growth (CSA +33% in FY26 already)."
+#
+# === BLOCK 4: DEBT SERVICE (populated from debt_service_schedule.csv; this row documents the totals) ===
+debt_service,fy26_total_county_plus_schools,base,151181088,usd,PWC-BUD-FY26-DEBT,"FY26 Grand Total debt service (existing + new CIP): $148.83M existing + $2.35M new = $151.18M."
+debt_service,fy27_total_county_plus_schools,base,153192809,usd,PWC-BUD-FY26-DEBT,FY27 programmed.
+debt_service,fy28_total_county_plus_schools,base,161363914,usd,PWC-BUD-FY26-DEBT,FY28 programmed; jump driven by 5 new CIP issuances hitting first-year debt service.
+debt_service,fy29_total_county_plus_schools,base,171711276,usd,PWC-BUD-FY26-DEBT,FY29 programmed.
+debt_service,fy30_total_county_plus_schools,base,176021071,usd,PWC-BUD-FY26-DEBT,FY30 programmed.
+debt_service,fy31_total_county_plus_schools,base,175419137,usd,PWC-BUD-FY26-DEBT,FY31 programmed (CIP book extends to FY31 even though Five-Year Plan stops at FY30).
+debt_service,fy26_county_existing,base,30365417,usd,PWC-BUD-FY26-DEBT,Existing County bonds only.
+debt_service,fy26_schools_existing,base,118462043,usd,PWC-BUD-FY26-DEBT,"Schools existing debt service paid through County GF ($118.5M; 78% of total debt service)."
+debt_service,debt_cap_service_to_revenues_pct,base,1000,basis_points,PWC-PSFM-24,"PSFM Policy V 5.02(d): debt service shall not exceed 10% of annual revenues OR 13% of GF + Fire Levy expenditures."
+debt_service,debt_cap_to_assessed_value_pct,base,300,basis_points,PWC-PSFM-24,"PSFM 5.02(e): total bonded debt not to exceed 3% of net assessed valuation of taxable property."
+#
+# === BLOCK 5: PENSION (VRS) AND OPEB ===
+pension_opeb,vrs_employer_rate_pct,base,1589,basis_points,PWC-BUD-FY26-COMP,"15.89% VRS employer contribution rate held flat FY26-FY30 per Adopted Five-Year Plan Assumptions p.41. VRS Board sets rates biennially; FY27-28 rate not yet published as of April 2026 so adopted rate used as base."
+pension_opeb,supplemental_plan_rate_pct,base,144,basis_points,PWC-BUD-FY26-COMP,"1.44% Police/F&R/Sheriff/ADC sworn supplemental pension rate held flat per Five-Year Plan."
+pension_opeb,money_purchase_401a_rate_pct,base,50,basis_points,PWC-BUD-FY26-COMP,"0.50% 401(a) Money Purchase Program rate held flat FY26-FY30."
+pension_opeb,retiree_health_credit_growth_pct,base,500,basis_points,PWC-BUD-FY26-COMP,"5.0% annual retiree health credit growth FY27-30 per Adopted Five-Year Plan Assumptions."
+pension_opeb,health_insurance_growth_pct,base,1000,basis_points,PWC-BUD-FY26-COMP,"10.0% annual health & dental insurance rate growth FY27-30 per Adopted Five-Year Plan. Rising 5-year cumulative health cost is $74.36M (p.77)."
+pension_opeb,health_insurance_growth_pct,low,600,basis_points,CMS-NHE,"6.0% annual -- CMS National Health Expenditure projections for group employer premiums 2025-2033."
+pension_opeb,health_insurance_growth_pct,high,1400,basis_points,PWC-BUD-FY26-COMP,"14.0% annual -- adverse medical trend scenario; AON/Mercer 2025 forecasts."
+pension_opeb,npl_fy25_current_rate,base,189682000,usd,PWC-ACFR-FY25,"VRS county NPL at 6.75% discount rate (measurement 6/30/2024)."
+pension_opeb,npl_fy25_minus_100bp_stress,base,438825000,usd,PWC-ACFR-FY25,"NPL if discount rate to 5.75%; for Stage 6 stress test only."
+pension_opeb,opeb_net_asset_fy25,base,-7888000,usd,PWC-ACFR-FY25,"OPEB trust fund overfunded -- net asset $7.9M (negative liability); no contribution drift assumed."
+#
+# === BLOCK 6: OPERATING INFLATION (CPI and proxies) ===
+inflation,cpi_ua_base,base,300,basis_points,CBO-2025,"3.0% base annual CPI assumption -- midpoint CBO Feb 2025 Long-Term Budget Outlook 2026-2030 average 2.4%, with BLS recent 2.9% Dec 2024 trailing."
+inflation,cpi_ua_low,low,200,basis_points,CBO-2025,"2.0% low -- CBO baseline 2028-2030 assumption."
+inflation,cpi_ua_high,high,450,basis_points,BLS-CPI,"4.5% high -- adverse tariff-driven reacceleration; April 2025 Fed flagged stagflation risk (Adopted Revenue FY26-30 p.2)."
+inflation,state_local_services_index,base,360,basis_points,BLS-QCEW,"BLS state-and-local government services price index 2020-2025 5-yr trailing CAGR 3.6% (proxy where CPI-UA insufficient)."
+#
+# === BLOCK 7: CAPITAL (PAYGO) ===
+capital_paygo,fy26_adopted,base,33091285,usd,PWC-BUD-FY26-SUMM,"FY26 County CIP Expenditures (cash-financed; excludes debt-financed). Five-Year Plan Summary p.42."
+capital_paygo,fy27_adopted,base,36974594,usd,PWC-BUD-FY26-SUMM,FY27 County CIP Expenditures per Adopted Five-Year Plan.
+capital_paygo,fy28_adopted,base,58968718,usd,PWC-BUD-FY26-SUMM,FY28 County CIP Expenditures per Adopted Five-Year Plan.
+capital_paygo,fy29_adopted,base,86140722,usd,PWC-BUD-FY26-SUMM,FY29 County CIP Expenditures per Adopted Five-Year Plan.
+capital_paygo,fy30_adopted,base,101639730,usd,PWC-BUD-FY26-SUMM,FY30 County CIP Expenditures per Adopted Five-Year Plan.
+capital_paygo,fy31_extrapolated,base,115000000,usd,derived,"FY31 extrapolated at approximately 13% growth (trailing 3-yr growth rate from FY28-30 was 14-46%; using conservative 13% YoY over FY30)."
+#
+# === BLOCK 8: FY31 EXTRAPOLATION PARAMETERS (County plan stops at FY30) ===
+fy31_extrapolation,total_gf_growth_rate,base,420,basis_points,derived,"4.2% applied to total GF expenditure FY30->FY31. Matches the 4.19% CAGR of the Adopted Five-Year Plan Total GF Expenditures FY26-FY30."
+fy31_extrapolation,total_gf_growth_rate,low,280,basis_points,derived,"2.8% = published Five-Year Plan trailing growth."
+fy31_extrapolation,total_gf_growth_rate,high,550,basis_points,derived,"5.5% adverse with inflation + CBA uplift."
+#
+# === BLOCK 9: COUNTY ADOPTED FIVE-YEAR PLAN ANCHOR VALUES (verbatim from PWC-BUD-FY26-SUMM p.40) ===
+anchor,gf_total_fy26,base,1981562829,usd,PWC-BUD-FY26-SUMM,Total General Fund Expenditure including County transfer to Schools.
+anchor,gf_total_fy27,base,2048163328,usd,PWC-BUD-FY26-SUMM,Total GF Expenditure Adopted plan.
+anchor,gf_total_fy28,base,2134836826,usd,PWC-BUD-FY26-SUMM,Total GF Expenditure Adopted plan.
+anchor,gf_total_fy29,base,2231427095,usd,PWC-BUD-FY26-SUMM,Total GF Expenditure Adopted plan.
+anchor,gf_total_fy30,base,2324920850,usd,PWC-BUD-FY26-SUMM,Total GF Expenditure Adopted plan.
+anchor,county_op_fy26,base,956862500,usd,PWC-BUD-FY26-SUMM,County Operating Expenditures Adopted plan (excl. CIP + excl. school transfer).
+anchor,county_op_fy27,base,976524302,usd,PWC-BUD-FY26-SUMM,
+anchor,county_op_fy28,base,994373333,usd,PWC-BUD-FY26-SUMM,
+anchor,county_op_fy29,base,1015136145,usd,PWC-BUD-FY26-SUMM,
+anchor,county_op_fy30,base,1042126096,usd,PWC-BUD-FY26-SUMM,
+anchor,cip_fy26,base,33091285,usd,PWC-BUD-FY26-SUMM,
+anchor,cip_fy27,base,36974594,usd,PWC-BUD-FY26-SUMM,
+anchor,cip_fy28,base,58968718,usd,PWC-BUD-FY26-SUMM,
+anchor,cip_fy29,base,86140722,usd,PWC-BUD-FY26-SUMM,
+anchor,cip_fy30,base,101639730,usd,PWC-BUD-FY26-SUMM,
+anchor,schools_fy26,base,991609044,usd,PWC-BUD-FY26-SUMM,
+anchor,schools_fy27,base,1034664432,usd,PWC-BUD-FY26-SUMM,
+anchor,schools_fy28,base,1081494776,usd,PWC-BUD-FY26-SUMM,
+anchor,schools_fy29,base,1130150228,usd,PWC-BUD-FY26-SUMM,
+anchor,schools_fy30,base,1181155024,usd,PWC-BUD-FY26-SUMM,
+anchor,gr_base_fy26,base,1732673500,usd,PWC-BUD-FY26-REV,General Revenue base subject to 57.23/42.77 split.
+anchor,gr_base_fy27,base,1807905700,usd,PWC-REV-FY26-30,
+anchor,gr_base_fy28,base,1889734014,usd,PWC-REV-FY26-30,
+anchor,gr_base_fy29,base,1974751404,usd,PWC-REV-FY26-30,
+anchor,gr_base_fy30,base,2063873884,usd,PWC-REV-FY26-30,

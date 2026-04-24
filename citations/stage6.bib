@@ -1,0 +1,47 @@
+% Stage 6 integrated model bibliography.  The Stage 6 model is an integration
+% task: it synthesizes upstream stages without introducing new primary sources.
+% All substantive citations are already captured in stages 1-5 bibs.  This
+% file exists so that stage6 artifacts can carry a self-contained reference
+% file and so that the stage's methodology comments in model/pwc_5yr.py
+% resolve to a keyed entry.
+%
+% Access date for all URLs: 2026-04-18.
+
+@techreport{Stage6-PWC-model,
+  title        = {{PWC Fiscal Risk Model -- Integrated 5-Year Scenarios FY27-FY31}},
+  author       = {Frantzen, Michael and {Claude Opus 4.7}},
+  institution  = {mikefrantzen/PWCDataCenters (private repository)},
+  year         = {2026},
+  month        = apr,
+  note         = {Stage 6 deliverable: model/pwc_5yr.py integrates Stage 1 baseline, Stage 2 canceled-project inventory, Stage 3 spillover elasticities, Stage 4 non-DC revenue drivers, and Stage 5 expenditure trajectory into three scenarios (A pre-ruling, C full spillover, D partial recovery).  All upstream citations inherited from stages 1-5.}
+}
+
+% Inherited keys used in Stage 6 model comments (copies so stage6.bib is
+% self-contained for grep/lookup):
+
+@techreport{PWC-REV-FY26-30-stage6,
+  title        = {{Adopted Estimate of General Revenue, Fiscal Year 2026--2030}},
+  author       = {{Prince William County, Department of Finance}},
+  institution  = {County of Prince William, Virginia},
+  year         = {2025},
+  url          = {https://www.pwcva.gov/assets/2025-07/Adopted\%20Revenue\%20FY26-FY30_Final\%20Draft_V2_6.30.2025.pdf},
+  note         = {Published FY26-FY30 forecast used as Pre-Cancellation Digital Gateway anchor.  Same key as stage1.bib/PWC-REV-FY26-30.}
+}
+
+@techreport{PWC-ACFR-FY25-stage6,
+  title        = {{Annual Comprehensive Financial Report, FY Ended June 30, 2025}},
+  author       = {{Prince William County, Department of Finance}},
+  institution  = {County of Prince William, Virginia},
+  year         = {2025},
+  url          = {https://www.pwcva.gov/assets/2025-12/FY25\%20ACFR\%20Final\%2012152025_4.pdf},
+  note         = {Starting FY26 Unassigned GF balance \$134.7M; 57.23\% split language p.9; debt and AV table p.309; VRS NPL p.118.  Same key as stage1.bib/PWC-ACFR-FY25.}
+}
+
+@techreport{PWC-PSFM-24-stage6,
+  title        = {{Principles of Sound Financial Management}},
+  author       = {{Prince William County}},
+  institution  = {County of Prince William, Virginia},
+  year         = {2024},
+  url          = {https://www.pwcva.gov/assets/2024-07/PSFM\%20Update\%202024\%20-\%20final.pdf},
+  note         = {Policy 1.02 (7.5\% unassigned-GF floor); 5.02(d) 10\% debt-service cap; 2.04 Five-Year Plan schools share rigidity.  Same key as stage1.bib/PWC-PSFM-24.}
+}

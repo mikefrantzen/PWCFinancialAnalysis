@@ -1,0 +1,234 @@
+fiscal_year,category_type,category,subcategory,amount_usd,source_doc,source_page,notes
+# Prince William County baseline fiscal picture: FY23 actual, FY24 actual, FY25 actual (audited), FY26 adopted.
+# All dollar values in raw USD (not thousands).
+# Schools Transfer: PWC-Schools Revenue Sharing Agreement (2013 amendment) splits County General Revenues 57.23% to Schools / 42.77% to County.
+# Sources: FY25 ACFR (PWC-ACFR-FY25), FY24 ACFR (PWC-ACFR-FY24), FY26 Adopted Revenues book (PWC-BUD-FY26-REV),
+# Adopted Estimate of General Revenue FY26-FY30 (PWC-REV-FY26-30), FY25-FY29 (PWC-REV-FY25-29),
+# TY2023 Data Center Industry Tax Revenue Report (PWC-DCR-TY23), TY2024 Data Center Revenue Report preliminary (PWC-DCR-TY24),
+# 2025 Real Estate Assessments Annual Report (PWC-RE-2025), Principles of Sound Financial Management 2024 (PWC-PSFM-24),
+# 2024 Fiscal Health Outlook Report (PWC-FHO-2024).
+#
+# --- REVENUES: General Fund / General Governmental (accrual basis from ACFR Table 2) ---
+FY2023,revenue,general_property_tax,real_property,868571000,PWC-ACFR-FY25,287,ACFR Table 2 Changes in Net Position (accrual). Thousands converted to dollars.
+FY2024,revenue,general_property_tax,real_property,941486000,PWC-ACFR-FY25,287,ACFR Table 2 (accrual). Represents RE tax collected in FY24 on TY2023 assessments.
+FY2025,revenue,general_property_tax,real_property,1002132000,PWC-ACFR-FY25,287,ACFR Table 2 (accrual); audited FY25.
+FY2026,revenue,general_property_tax,real_property,1025922000,PWC-BUD-FY26-REV,60,FY26 Adopted: Total All Real Estate Taxes (gross minus relief/exonerations/deferrals + public service + penalties).
+FY2023,revenue,general_property_tax,personal_property_total,228713000,PWC-ACFR-FY25,287,"ACFR accrual basis; includes vehicles and business tangible (furniture & fixtures + computer equipment). Excludes PPTRA reimbursement."
+FY2024,revenue,general_property_tax,personal_property_total,291398000,PWC-ACFR-FY25,287,ACFR accrual. Surge due to C&P rate increase from $2.15 to $3.70 (TY2024).
+FY2025,revenue,general_property_tax,personal_property_total,354389000,PWC-ACFR-FY25,287,ACFR accrual. Continued data-center-driven growth.
+FY2026,revenue,general_property_tax,personal_property_total,436245500,PWC-BUD-FY26-REV,60,"FY26 Adopted: $217.995M business tangible + $214.9M vehicles + prior-year $50K - deferral $1M + penalties $4.3M."
+FY2026,revenue,general_property_tax,business_tangible_current,217995500,PWC-REV-FY26-30,3,"Includes data center C&P at $4.15 rate (up from $3.70). ~72% of BTP = computer equipment."
+FY2026,revenue,general_property_tax,vehicles_current,214900000,PWC-REV-FY26-30,3,"First vehicle rate reduction since 1990: $3.70 to $3.50 per $100."
+FY2023,revenue,other_local_tax,local_sales_tax,93246000,PWC-ACFR-FY25,287,ACFR Table 2 accrual.
+FY2024,revenue,other_local_tax,local_sales_tax,95687000,PWC-ACFR-FY25,287,ACFR Table 2 accrual.
+FY2025,revenue,other_local_tax,local_sales_tax,99421000,PWC-ACFR-FY25,287,ACFR Table 2 accrual.
+FY2026,revenue,other_local_tax,local_sales_tax,102500000,PWC-BUD-FY26-REV,60,FY26 Adopted; 2.5% growth rate assumed.
+FY2023,revenue,other_local_tax,food_and_beverage_tax,41127000,PWC-ACFR-FY25,287,Meals tax levy began July 1 2022; first partial-year revenue FY23.
+FY2024,revenue,other_local_tax,food_and_beverage_tax,45096000,PWC-ACFR-FY25,287,Full-year actual.
+FY2025,revenue,other_local_tax,food_and_beverage_tax,46438000,PWC-ACFR-FY25,287,Audited FY25 (4% rate still in effect).
+FY2026,revenue,other_local_tax,food_and_beverage_tax,40250000,PWC-REV-FY26-30,20,"BOCS reducing rate from 4% to 3% effective 2026-01-01; structural revenue drop."
+FY2023,revenue,other_local_tax,bpol_tax,34636000,PWC-ACFR-FY25,287,ACFR Table 2 accrual.
+FY2024,revenue,other_local_tax,bpol_tax,38921579,PWC-REV-FY26-30,23,"Adopted FY26-30 revenue estimate cites FY24 actual $38,921,579."
+FY2025,revenue,other_local_tax,bpol_tax,39572000,PWC-REV-FY26-30,23,FY25 Q3 revised estimate. Adopted revenue book FY26-30.
+FY2026,revenue,other_local_tax,bpol_tax,37167000,PWC-REV-FY26-30,23,FY26 adopted.
+FY2023,revenue,other_local_tax,consumer_utility_tax,15408000,PWC-ACFR-FY25,287,ACFR.
+FY2024,revenue,other_local_tax,consumer_utility_tax,14658000,PWC-ACFR-FY25,287,ACFR.
+FY2025,revenue,other_local_tax,consumer_utility_tax,14722000,PWC-ACFR-FY25,287,ACFR.
+FY2026,revenue,other_local_tax,consumer_utility_tax,15500000,PWC-REV-FY26-30,21,FY26 adopted (cap-limited).
+FY2023,revenue,other_local_tax,communications_sales_tax,12434177,PWC-REV-FY26-30,22,Adopted revenue book historical table.
+FY2024,revenue,other_local_tax,communications_sales_tax,11272071,PWC-REV-FY26-30,22,Declining source (cord-cutting).
+FY2025,revenue,other_local_tax,communications_sales_tax,12100000,PWC-REV-FY26-30,22,FY25 Q3 revised.
+FY2026,revenue,other_local_tax,communications_sales_tax,11500000,PWC-REV-FY26-30,22,FY26 adopted.
+FY2023,revenue,other_local_tax,recordation_tax,11138000,PWC-ACFR-FY25,287,Deed of conveyance and tax on deeds. ACFR accrual.
+FY2024,revenue,other_local_tax,recordation_tax,11460000,PWC-ACFR-FY25,287,ACFR.
+FY2025,revenue,other_local_tax,recordation_tax,13163000,PWC-ACFR-FY25,287,ACFR.
+FY2026,revenue,other_local_tax,recordation_tax,2800000,PWC-REV-FY26-30,3,"Note: revenue estimate line 'Tax on Deeds' $2.8M; remainder flows to transportation-dedicated fund. FY26 adopted general fund share."
+FY2023,revenue,other_local_tax,motor_vehicle_license,12947000,PWC-ACFR-FY25,287,ACFR.
+FY2024,revenue,other_local_tax,motor_vehicle_license,12610447,PWC-REV-FY26-30,15,Adopted revenue book historical table.
+FY2025,revenue,other_local_tax,motor_vehicle_license,13000000,PWC-REV-FY26-30,15,FY25 adopted/estimate.
+FY2026,revenue,other_local_tax,motor_vehicle_license,13390000,PWC-REV-FY26-30,15,FY26 adopted.
+FY2023,revenue,other_local_tax,transient_occupancy_tax,2927000,PWC-ACFR-FY25,287,"Included in 'other local taxes' ACFR line but reported separately; est. from FY26 adopted line $2.6M-$2.8M outyears."
+FY2024,revenue,other_local_tax,transient_occupancy_tax,2541000,PWC-ACFR-FY25,287,Derived from FY24 ACFR Schedule 5 and FY26 adopted revenue trend. Labeled 'derived'.
+FY2025,revenue,other_local_tax,transient_occupancy_tax,2600000,PWC-REV-FY26-30,3,FY26 adopted; close to estimate.
+FY2026,revenue,other_local_tax,transient_occupancy_tax,2600000,PWC-REV-FY26-30,3,FY26 adopted.
+FY2023,revenue,other_local_tax,cigarette_tax,3800000,PWC-ACFR-FY25,287,Derived from FY24 ACFR Schedule 2A and FY26 adopted history. Declining.
+FY2024,revenue,other_local_tax,cigarette_tax,4003000,PWC-ACFR-FY25,287,Derived.
+FY2025,revenue,other_local_tax,cigarette_tax,3575000,PWC-ACFR-FY25,191,"General fund actual FY25, from budget variance table."
+FY2026,revenue,other_local_tax,cigarette_tax,3800000,PWC-REV-FY26-30,3,FY26 adopted; outyears decline to $3.0M.
+FY2023,revenue,intergovernmental,state_revenue,199213000,PWC-ACFR-FY25,288,"ACFR governmental funds intergovernmental state (includes schools component unit state aid)."
+FY2024,revenue,intergovernmental,state_revenue,211549000,PWC-ACFR-FY25,288,ACFR governmental funds.
+FY2025,revenue,intergovernmental,state_revenue,173524000,PWC-ACFR-FY25,50,"ACFR Exhibit 5 for FY25 governmental funds: General $158.5M + special revenue $4.5M + capital $10.5M."
+FY2026,revenue,intergovernmental,state_revenue,13095000,PWC-BUD-FY26-REV,61,"General Fund direct state revenue only (non-PPTRA non-categorical). Adopted. Does not include schools state aid."
+FY2023,revenue,intergovernmental,federal_revenue,146744000,PWC-ACFR-FY25,288,ACFR governmental funds; ARPA tail.
+FY2024,revenue,intergovernmental,federal_revenue,123633000,PWC-ACFR-FY25,288,ACFR governmental funds.
+FY2025,revenue,intergovernmental,federal_revenue,103466000,PWC-ACFR-FY25,50,"ACFR governmental funds FY25: General $34.4M + special revenue $19.1M + capital $49.9M."
+FY2026,revenue,intergovernmental,federal_revenue,80000,PWC-BUD-FY26-REV,61,"General Fund adopted (federal PILT $80K). Does not include pass-through grants recognized elsewhere."
+FY2023,revenue,intergovernmental,pptra_fixed_reimbursement,54288000,PWC-PSFM-24,0,"Fixed Commonwealth PPTRA reimbursement has been $54.288M since 2006 per Va Code 58.1-3524."
+FY2024,revenue,intergovernmental,pptra_fixed_reimbursement,54288000,PWC-ACFR-FY25,191,ACFR Schedule 2A/F.
+FY2025,revenue,intergovernmental,pptra_fixed_reimbursement,54288000,PWC-ACFR-FY25,191,ACFR Schedule.
+FY2026,revenue,intergovernmental,pptra_fixed_reimbursement,54288000,PWC-REV-FY26-30,13,"$54.3M fixed (the revenue book rounds to $54.3M)."
+FY2023,revenue,other,investment_income,5419000,PWC-ACFR-FY25,288,"ACFR 'from use of money and property' FY23; includes rising rates."
+FY2024,revenue,other,investment_income,48548000,PWC-ACFR-FY25,288,ACFR accrual basis; includes market gains.
+FY2025,revenue,other,investment_income,60798000,PWC-ACFR-FY25,50,ACFR governmental funds FY25.
+FY2026,revenue,other,investment_income,29400000,PWC-REV-FY26-30,3,"FY26 adopted - general-fund share; general pool portfolio average $2.2B."
+FY2023,revenue,total,total_general_fund_revenue_actuals,1530458480,PWC-BUD-FY26-REV,55,"FY26 Adopted Revenues section, FY23 actual total General Fund revenue."
+FY2024,revenue,total,total_general_fund_revenue_actuals,1689880176,PWC-BUD-FY26-REV,55,FY24 actual total General Fund revenue.
+FY2025,revenue,total,total_general_fund_revenue_audited,1796321000,PWC-ACFR-FY25,50,"ACFR Exhibit 5 General Fund total revenues FY25 (thousands: $1,796,321)."
+FY2025,revenue,total,total_general_fund_revenue_adopted,1815841264,PWC-BUD-FY26-REV,55,FY25 Adopted Budget total General Fund revenue.
+FY2026,revenue,total,total_general_fund_revenue_adopted,1978688390,PWC-BUD-FY26-REV,55,FY26 Adopted total General Fund revenue.
+FY2025,revenue,total,total_general_revenues_split_base_adopted,1591879000,PWC-BUD-FY26-REV,63,"FY25 Adopted - base subject to 57.23/42.77 County-Schools split."
+FY2026,revenue,total,total_general_revenues_split_base_adopted,1732673500,PWC-REV-FY26-30,2,"FY26 Adopted - base subject to 57.23/42.77 split (same number in both docs)."
+FY2027,revenue,total,total_general_revenues_split_base_forecast,1807905700,PWC-REV-FY26-30,3,Forecast.
+FY2028,revenue,total,total_general_revenues_split_base_forecast,1889734014,PWC-REV-FY26-30,3,Forecast.
+FY2029,revenue,total,total_general_revenues_split_base_forecast,1974751404,PWC-REV-FY26-30,3,Forecast.
+FY2030,revenue,total,total_general_revenues_split_base_forecast,2063873884,PWC-REV-FY26-30,3,Forecast.
+FY2025,revenue,total,school_share_57_23_adopted,911032352,PWC-BUD-FY26-REV,63,"FY25 Adopted Schools transfer = 57.23% * $1,591,879,000."
+FY2026,revenue,total,school_share_57_23_adopted,991609044,PWC-BUD-FY26-REV,63,"FY26 Adopted Schools transfer = 57.23% * $1,732,673,500."
+FY2027,revenue,total,school_share_57_23_forecast,1034664433,PWC-REV-FY26-30,2,"57.23% * forecast; Adopted 5-yr forecast Schools share."
+FY2028,revenue,total,school_share_57_23_forecast,1081495744,PWC-REV-FY26-30,2,Forecast.
+FY2029,revenue,total,school_share_57_23_forecast,1130149628,PWC-REV-FY26-30,2,Forecast.
+FY2030,revenue,total,school_share_57_23_forecast,1181155021,PWC-REV-FY26-30,2,Forecast.
+FY2025,revenue,total,county_share_42_77_adopted,680846648,PWC-BUD-FY26-REV,63,FY25 County share.
+FY2026,revenue,total,county_share_42_77_adopted,741064456,PWC-BUD-FY26-REV,63,FY26 County share.
+#
+# --- DATA CENTER REVENUE (by tax year; tax year N = fiscal year N+1 revenue recognition) ---
+FY2023,revenue,data_center_industry,dc_total_tax_revenue_ty,166400000,PWC-DCR-TY23,18,"TY2023 total DC tax revenue = FY2024 revenue recognition: real property $75.4M + C&P $66.4M + F&F $23.3M + fees $1.3M."
+FY2024,revenue,data_center_industry,dc_real_property,75400000,PWC-DCR-TY23,18,TY2023 real property tax paid in FY2024.
+FY2024,revenue,data_center_industry,dc_computer_equipment_peripherals,66400000,PWC-DCR-TY23,18,TY2023 CE&P tax paid in FY2024; 96% of total CE&P category revenue.
+FY2024,revenue,data_center_industry,dc_furniture_fixtures,23300000,PWC-DCR-TY23,18,TY2023 F&F tax paid in FY2024; 52.7% of total F&F category.
+FY2024,revenue,data_center_industry,dc_fees_licensing,1280000,PWC-DCR-TY23,18,TY2023 fees & licensing paid in FY2024.
+FY2024,revenue,data_center_industry,dc_total_tax_revenue,166350000,PWC-DCR-TY23,18,"Total DC tax revenue recognized in FY24 (from TY2023 billing)."
+FY2025,revenue,data_center_industry,dc_real_property,144200000,PWC-DCR-TY24,23,TY2024 preliminary real property tax paid in FY2025; up 91% YoY.
+FY2025,revenue,data_center_industry,dc_computer_equipment_peripherals,123900000,PWC-DCR-TY24,23,"TY2024 preliminary C&P tax in FY2025; C&P rate raised from $2.15 to $3.70; +$51.9M from rate alone."
+FY2025,revenue,data_center_industry,dc_furniture_fixtures,23200000,PWC-DCR-TY24,23,TY2024 preliminary F&F.
+FY2025,revenue,data_center_industry,dc_fees_licensing,2500000,PWC-DCR-TY24,23,TY2024 fees & licensing.
+FY2025,revenue,data_center_industry,dc_total_tax_revenue,293700000,PWC-DCR-TY24,1,"TY2024 preliminary total = $293.7M in FY25 collections (executive summary); +77% YoY. Media reports $280.2M used different rounding."
+FY2026,revenue,data_center_industry,dc_total_tax_revenue_projection,350000000,PWC-DCR-TY24,26,"Derived from FY25 baseline; includes effect of C&P rate increase to $4.15 (from $3.70) plus continued build-out. Labeled 'derived' -- not published point estimate; FY26 BTP budget of $217.995M up from $179M Q3 revised FY25 is consistent with continued growth."
+FY2024,revenue,data_center_industry,dc_turnkey_mw_capacity,622,PWC-DCR-TY23,7,TY2023 MW turnkey capacity (not dollars - row for reference).
+FY2025,revenue,data_center_industry,dc_turnkey_mw_capacity,862,PWC-DCR-TY24,10,TY2024 MW turnkey capacity; +240 MW YoY.
+FY2025,revenue,data_center_industry,dc_total_assessed_value_rp,21700000000,PWC-RE-2025,23,"2025 Real Estate Assessments Annual Report: total DC valuation exceeds $21.7B; $16.6B developed + land."
+FY2025,revenue,data_center_industry,dc_share_commercial_real_estate_growth_pct,92,PWC-DCR-TY24,1,"Data Centers contributed 92.4% of all commercial real estate growth and appreciation in TY2024 (non-dollar metric; percentage*100)."
+FY2025,revenue,data_center_industry,dc_share_commercial_ind_assessed_value_pct,56,PWC-RE-2025,23,"Data centers now ~56% of total commercial-industrial assessed value."
+#
+# --- EXPENDITURES: General Fund (modified accrual) + Governmental Funds total ---
+FY2023,expenditure,operating,general_government_administration,105555000,PWC-ACFR-FY25,292,ACFR Table 4 10-year governmental funds.
+FY2024,expenditure,operating,general_government_administration,104024000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,general_government_administration,117747000,PWC-ACFR-FY25,50,ACFR Exhibit 5 governmental funds FY25.
+FY2023,expenditure,operating,judicial_administration,34035000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,operating,judicial_administration,38647000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,judicial_administration,43472000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,operating,public_safety,356425000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,operating,public_safety,403677000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,public_safety,442394000,PWC-ACFR-FY25,50,ACFR Exhibit 5; +9.6% YoY. Includes ratified F&R/police CBAs.
+FY2023,expenditure,operating,public_works,7575000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,operating,public_works,9375000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,public_works,10062000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,operating,health_and_welfare,157364000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,operating,health_and_welfare,167507000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,health_and_welfare,184872000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,operating,education_transfer,677245000,PWC-ACFR-FY25,292,"ACFR Table 4: education line = General Fund transfer to Schools + pass-through grants."
+FY2024,expenditure,operating,education_transfer,703395000,PWC-ACFR-FY25,292,"FY24 general-fund support to School Board was $703.4M per FY25 ACFR MD&A."
+FY2025,expenditure,operating,education_transfer,799458000,PWC-ACFR-FY25,50,"FY25 General Fund support to Schools = $799.5M per ACFR MD&A; +13.7% YoY to reduce class sizes."
+FY2026,expenditure,operating,education_transfer,991609044,PWC-BUD-FY26-REV,63,"FY26 Adopted Schools transfer (57.23% of $1.733B general revenue base)."
+FY2023,expenditure,operating,parks_recreational_cultural,64325000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,operating,parks_recreational_cultural,68565000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,parks_recreational_cultural,71961000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,operating,community_development,68338000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,operating,community_development,80490000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,operating,community_development,90513000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,debt_service,principal_retirement_bonds,102575000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,debt_service,principal_retirement_bonds,100045000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,debt_service,principal_retirement_bonds,104110000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,debt_service,interest_and_other_debt_costs,41340000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,debt_service,interest_and_other_debt_costs,41798000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,debt_service,interest_and_other_debt_costs,45107000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2025,expenditure,debt_service,leases_sbitas_principal,8973000,PWC-ACFR-FY25,50,New separate line per GASB 87/96.
+FY2025,expenditure,debt_service,leases_sbitas_interest,561000,PWC-ACFR-FY25,50,ACFR Exhibit 5.
+FY2023,expenditure,capital,capital_outlay_governmental_funds,272557000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,capital,capital_outlay_governmental_funds,224092000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,capital,capital_outlay_governmental_funds,311223000,PWC-ACFR-FY25,50,Includes $94.2M capitalized + $217.0M capital outlay per exhibit reconciliation.
+FY2023,expenditure,total,total_governmental_funds_expenditures,1887334000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2024,expenditure,total,total_governmental_funds_expenditures,2056156000,PWC-ACFR-FY25,292,ACFR Table 4.
+FY2025,expenditure,total,total_governmental_funds_expenditures,2230453000,PWC-ACFR-FY25,50,ACFR Exhibit 5; +8.5% YoY.
+FY2023,expenditure,total,total_government_expenditures_excl_capital,2394583000,PWC-ACFR-FY25,309,"ACFR Table 14 Debt Ratios: total governmental expenditures excluding capital projects (basis for debt ratio)."
+FY2024,expenditure,total,total_government_expenditures_excl_capital,2578589000,PWC-ACFR-FY25,309,ACFR Table 14.
+FY2025,expenditure,total,total_government_expenditures_excl_capital,2897891000,PWC-ACFR-FY25,309,ACFR Table 14.
+FY2026,expenditure,total,total_general_fund_revenue_plus_resources,1978688390,PWC-BUD-FY26-REV,55,FY26 Adopted total GF revenue/resources (used to size expenditure framework).
+#
+# --- DEBT ---
+FY2023,debt,outstanding,net_tax_supported_debt,1010660000,PWC-ACFR-FY25,309,ACFR Table 14.
+FY2024,debt,outstanding,net_tax_supported_debt,1143598000,PWC-ACFR-FY25,309,ACFR Table 14.
+FY2025,debt,outstanding,net_tax_supported_debt,1275609000,PWC-ACFR-FY25,309,"ACFR Table 14; +$132M YoY driven by school bond issuances. 0.9% of assessed value."
+FY2025,debt,outstanding,total_bonded_debt_governmental,1122480000,PWC-ACFR-FY25,97,"ACFR Illus 9-1: $175.8M Gen Govt + $946.7M School Board bonds."
+FY2025,debt,outstanding,school_board_bonds,946653000,PWC-ACFR-FY25,97,"91.1% of outstanding debt is school-related (per MD&A)."
+FY2025,debt,outstanding,general_govt_bonds,175827000,PWC-ACFR-FY25,97,ACFR debt service schedule.
+FY2023,debt,ratio,debt_service_to_revenues_pct,6000,PWC-ACFR-FY25,309,"6.0% - value * 1000 for integer representation. See notes."
+FY2024,debt,ratio,debt_service_to_revenues_pct,4900,PWC-ACFR-FY25,309,"4.9% - stored as basis-points*10."
+FY2025,debt,ratio,debt_service_to_revenues_pct,5000,PWC-ACFR-FY25,309,"5.0% - self-imposed limit 10%. Well within policy."
+FY2023,debt,ratio,debt_to_assessed_value_pct,1100,PWC-ACFR-FY25,309,1.1% - stored as basis-points*10. Self-imposed 3% cap.
+FY2024,debt,ratio,debt_to_assessed_value_pct,1100,PWC-ACFR-FY25,309,1.1%.
+FY2025,debt,ratio,debt_to_assessed_value_pct,900,PWC-ACFR-FY25,309,0.9% - driven by large assessed value increase (+29% YoY).
+FY2026,debt,schedule,principal_due_gen_govt,16080000,PWC-ACFR-FY25,97,FY26 general govt principal due.
+FY2026,debt,schedule,interest_due_gen_govt,6425000,PWC-ACFR-FY25,97,FY26 general govt interest due.
+FY2026,debt,schedule,principal_due_schools,82015000,PWC-ACFR-FY25,97,FY26 school board principal due.
+FY2026,debt,schedule,interest_due_schools,36319000,PWC-ACFR-FY25,97,FY26 school board interest due.
+FY2027,debt,schedule,principal_due_gen_govt,16055000,PWC-ACFR-FY25,97,
+FY2027,debt,schedule,interest_due_gen_govt,5727000,PWC-ACFR-FY25,97,
+FY2027,debt,schedule,principal_due_schools,78945000,PWC-ACFR-FY25,97,
+FY2027,debt,schedule,interest_due_schools,32589000,PWC-ACFR-FY25,97,
+FY2028,debt,schedule,principal_due_gen_govt,26990000,PWC-ACFR-FY25,97,
+FY2028,debt,schedule,interest_due_gen_govt,4782000,PWC-ACFR-FY25,97,
+FY2028,debt,schedule,principal_due_schools,75305000,PWC-ACFR-FY25,97,
+FY2028,debt,schedule,interest_due_schools,28541000,PWC-ACFR-FY25,97,
+FY2029,debt,schedule,principal_due_gen_govt,13550000,PWC-ACFR-FY25,97,
+FY2029,debt,schedule,interest_due_gen_govt,3923000,PWC-ACFR-FY25,97,
+FY2029,debt,schedule,principal_due_schools,72060000,PWC-ACFR-FY25,97,
+FY2029,debt,schedule,interest_due_schools,25179000,PWC-ACFR-FY25,97,
+FY2030,debt,schedule,principal_due_gen_govt,11415000,PWC-ACFR-FY25,97,
+FY2030,debt,schedule,interest_due_gen_govt,3477000,PWC-ACFR-FY25,97,
+FY2030,debt,schedule,principal_due_schools,69770000,PWC-ACFR-FY25,97,
+FY2030,debt,schedule,interest_due_schools,21957000,PWC-ACFR-FY25,97,
+FY2031,debt,schedule,principal_due_2031_2035_bundled,353710000,PWC-ACFR-FY25,97,"FY31-FY35 bundled: $51.99M gen govt + $301.72M schools principal."
+FY2031,debt,schedule,interest_due_2031_2035_bundled,85008000,PWC-ACFR-FY25,97,"FY31-FY35 bundled interest: $11.54M gen govt + $73.47M schools."
+#
+# --- RESERVES / FUND BALANCE ---
+FY2025,reserve,committed,capital_reserve,94159000,PWC-ACFR-FY25,101,"Committed fund balance; target 2% of CIP appropriations per PSFM 1.21."
+FY2025,reserve,committed,revenue_stabilization_reserve,35926000,PWC-ACFR-FY25,101,"Target 2% of General Fund revenues per PSFM 1.12; floor $35.9M."
+FY2025,reserve,committed,data_center_revenue_stabilization_reserve,12073000,PWC-ACFR-FY25,101,"Established by Board in 2024; target 10% of prior-year audited DC computer equipment tax per PSFM 1.41. Target would be ~$12.4M at FY25 level."
+FY2025,reserve,committed,economic_development_opportunity_fund,5905000,PWC-ACFR-FY25,101,"EDOF; $3M floor per PSFM 1.31; surplus above floor retained."
+FY2025,reserve,unassigned,unassigned_general_fund_balance,134724000,PWC-ACFR-FY25,35,"7.5% of GF revenue policy per PSFM 1.02; policy floor maintained since 2006."
+FY2024,reserve,unassigned,unassigned_general_fund_balance,124173000,PWC-ACFR-FY25,35,ACFR Figure A-3 historical.
+FY2023,reserve,unassigned,unassigned_general_fund_balance,110788000,PWC-ACFR-FY25,35,ACFR Figure A-3.
+FY2025,reserve,all_gov_funds,total_fund_balance,646386000,PWC-ACFR-FY25,101,"All governmental funds; +$49.3M YoY."
+FY2024,reserve,all_gov_funds,total_fund_balance,597175000,PWC-ACFR-FY25,101,Prior year.
+FY2025,reserve,general_fund,total_general_fund_balance,354532000,PWC-ACFR-FY25,101,"GF fund balance +$35.3M YoY (+11.1%)."
+#
+# --- PENSION / OPEB ---
+FY2025,pension,liability,vrs_county_net_pension_liability,189682000,PWC-ACFR-FY25,118,"Virginia Retirement System (VRS) pension plan; measurement date 6/30/2024; discount rate 6.75%."
+FY2025,pension,liability,vrs_county_npl_1pct_lower_sensitivity,438825000,PWC-ACFR-FY25,118,"NPL if discount rate lowered to 5.75% - stress scenario."
+FY2025,pension,liability,schools_nonprofessional_net_pension_liability,7079000,PWC-ACFR-FY25,136,ACFR Schedule; Schools Non-Professional Group. 'Professional' group figure held by Schools separately.
+FY2025,pension,liability,schools_professional_proportionate_share,678952000,PWC-ACFR-FY25,133,"Schools professional (teachers) proportionate share of statewide VRS teacher pool liability."
+FY2025,pension,deferred_outflows,related_to_pensions_primary_govt,145857000,PWC-ACFR-FY25,38,"Deferred outflows related to pensions; primary government."
+FY2025,pension,net_position_assets_total,net_pension_assets,1632000,PWC-ACFR-FY25,38,"Net pension assets (supplemental plans fully funded)."
+FY2025,opeb,net_position_assets_total,net_opeb_assets,7888000,PWC-ACFR-FY25,38,"Net OPEB assets - OPEB trust fund overfunded."
+FY2025,opeb,liability,component_units_opeb_assets,33710000,PWC-ACFR-FY25,38,Component units - OPEB assets.
+FY2025,pension_opeb,combined,total_net_pension_and_opeb_liabilities_primary,229000000,PWC-ACFR-FY25,37,"Total reporting entity net pension + OPEB liabilities increased to $229M in FY25 from $205M FY24."
+FY2024,pension_opeb,combined,total_net_pension_and_opeb_liabilities_primary,205000000,PWC-ACFR-FY25,37,ACFR comparative.
+#
+# --- TAX RATES (non-dollar, stored as rate*10000 to preserve as integer) ---
+FY2025,revenue,tax_rate,real_estate_tax_per_100,9200,PWC-REV-FY26-30,2,"TY2024 / FY25 real estate tax rate $0.920 per $100 assessed value. Stored as rate*10000."
+FY2026,revenue,tax_rate,real_estate_tax_per_100,9060,PWC-REV-FY26-30,2,"TY2025 / FY26 rate $0.906 per $100."
+FY2025,revenue,tax_rate,personal_property_vehicles_per_100,37000,PWC-REV-FY26-30,16,"FY25 vehicle rate $3.70 per $100."
+FY2026,revenue,tax_rate,personal_property_vehicles_per_100,35000,PWC-REV-FY26-30,16,"FY26 vehicle rate $3.50 per $100; first cut since 1990."
+FY2024,revenue,tax_rate,computer_equipment_peripherals_dc_per_100,21500,PWC-DCR-TY24,14,"TY2023 / FY24 C&P rate $2.15 per $100."
+FY2025,revenue,tax_rate,computer_equipment_peripherals_dc_per_100,37000,PWC-DCR-TY24,14,"TY2024 / FY25 C&P rate $3.70 per $100."
+FY2026,revenue,tax_rate,computer_equipment_peripherals_dc_per_100,41500,PWC-REV-FY26-30,16,"TY2025 / FY26 C&P rate $4.15 per $100 (also general classification increase)."
+FY2025,revenue,tax_rate,food_and_beverage_tax_pct,40000,PWC-REV-FY26-30,20,"Meals tax 4% (stored as pct*10000)."
+FY2026,revenue,tax_rate,food_and_beverage_tax_pct,30000,PWC-REV-FY26-30,20,"Effective 2026-01-01 rate drops to 3%; half-year in FY26."
+#
+# --- ASSESSED VALUES (real estate tax base) ---
+FY2023,revenue,assessed_value,total_assessed_value_taxable_property,94269475000,PWC-ACFR-FY25,309,ACFR Table 14.
+FY2024,revenue,assessed_value,total_assessed_value_taxable_property,106421652000,PWC-ACFR-FY25,309,ACFR Table 14.
+FY2025,revenue,assessed_value,total_assessed_value_taxable_property,137561804000,PWC-ACFR-FY25,309,"ACFR Table 14; +29.3% YoY; data-center-driven."
+FY2025,revenue,assessed_value,data_center_total_assessed_value,21700000000,PWC-RE-2025,23,"2025 Real Estate Annual Report: $21.7B = $16.6B developed + $5.1B DC land."
+FY2025,revenue,assessed_value,data_center_share_commercial_industrial_pct,56,PWC-RE-2025,23,"DC = 56% of total commercial-industrial assessed value."

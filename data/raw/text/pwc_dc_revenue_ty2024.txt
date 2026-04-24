@@ -1,0 +1,2127 @@
+2024
+DATA CENTER INDUSTRY
+
+TAX REVENUE REPORT
+
+2024 Data Center Revenue Report
+
+1
+
+BOARD OF COUNTY SUPERVISORS
+
+PROJECT LEADERSHIP TEAM
+
+Deshundra Jefferson
+Chair-At-Large
+
+Rocío Lamb
+Deputy Finance Director
+
+Andrea O. Bailey
+Vice-Chair, Potomac District
+
+Lillie Jo Krest
+Assistant Director of Finance
+Treasury Management
+
+Victor S. Angry
+Neabsco District
+Kenny A. Boddye
+Occoquan District
+Margaret Angela Franklin
+Woodbridge District
+Tom Gordy
+Brentsville District
+Yesli Vega
+Coles District
+Bob Weir
+Gainesville District
+
+COUNTY LEADERSHIP
+Christopher J. Shorter
+County Executive
+Michelle L. Attreed
+Chief Financial OfÏcer/Deputy County Executive - Acting
+Timothy M. Leclerc
+Director of Finance/Chief Financial OfÏcer - Acting
+
+Charles Hunter
+Assistant Director of Finance
+Tax Administration
+Allison Lindner
+Assistant Director of Finance
+Real Estate Assessments
+
+PROJECT MANAGER
+Endora Matei
+Principal Fiscal Analyst
+
+FINANCE DEPARTMENT PROJECT TEAM
+Bart Cecil
+Brandon Christian
+Ariel Diaz
+Mina Habibi
+Cassandra Johnson
+Victor Molina
+Brad Norris
+Kerem Oner
+Isabel Salumbides-Calangi
+Debra Watson-Grady
+
+TABLE OF CONTENTS
+Executive Summary ...................................................................................................................................................................1
+Introduction ................................................................................................................................................................................3
+Data Center Map ........................................................................................................................................................................4
+Real Property ..............................................................................................................................................................................6
+Assessing Data Center Real Property ......................................................................................................................................7
+Data Center Real Property Assessed Value ............................................................................................................................8
+Data Center Capacity .................................................................................................................................................................8
+Data Center Vacant Land ....................................................................................................................................................... 12
+Business Tangible Property ................................................................................................................................................... 14
+Classification, Reporting and Tax Rates ............................................................................................................................... 15
+Average Assessed value of Depreciated Equipment .......................................................................................................... 17
+Revenue Contributions from Data Centers vs. Non-Data Centers
+
+17
+
+Historical Revenue Trends ..................................................................................................................................................... 20
+Fees and Licensing .................................................................................................................................................................. 23
+Analysis of Data Center Industry Tax Revenue ................................................................................................................... 24
+Category Contributions .......................................................................................................................................................... 25
+Conclusion ............................................................................................................................................................................... 28
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+	�����������������������������������������������������������������������������������
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Table of Figures ....................................................................................................................................................................... 29
+
+EXECUTIVE SUMMARY
+Prince William County continues to have a prominent
+footprint in the North American data center market, o ering
+world-class connectivity, strategic zoning, and a skilled
+technology workforce. Its infrastructure supports industries
+related to artificial intelligence, cloud computing, cyber
+security, and beyond.
+As of January 1, 2024, there were 44 completed data center
+buildings and over four million square feet of additional
+space under construction in Prince William County,
+enhancing the scale of the regional digital economy.
+This report presents a thorough, yet preliminary, analysis of
+Tax Year (TY) 2024 revenues generated by data centers. TY
+2024 revenues are realized in Fiscal Year (FY) 2025 as part
+of the county’s general revenues and as such won’t be final
+until the FY 2025 external audit is completed.
+
+2024 Data Center Revenue Report
+
+1
+
+Contribution to Tax Revenues
+Data centers are a cornerstone of Prince William County’s commercial tax base, generating $293.7 million in total
+tax revenue in TY 2024, an increase of 77% over the prior year.
+n Data Centers contributed 92.4% of all commercial real estate growth and appreciation.
+n Real property tax revenue from data centers reached $144.2 million.
+n Business tangible property tax revenue, driven largely by investments in computing equipment, totaled $147.1
+million, including $123.9 million from computer equipment & peripherals.
+n Fees and licensing revenues rose to $2.5 million, re ecting expanding operations.
+
+Growth Trends
+Since TY 2012, data center tax revenues have multiplied more than 45 times, re ecting their rapid and sustained
+expansion in the County. TY 2024 witnessed:
+n The completion of four (4) new data center buildings, raising the total count of Turnkey data centers to 29.
+n 240 megawatts (MW) of new capacity added, increasing the Turnkey Data Centers’ total power capacity to 862
+MW.
+n More than one million square feet of new Turnkey Data Center space added.
+n An increase in land acquisitions and rezonings.
+
+Tax Categories
+Data center tax revenues fall under three categories: Real Property, Business Tangible Property, Fees and Licensing.
+n Real Property: High-value buildings and land holdings, acquired at accelerating prices, make this a sizable tax
+revenue contributor. In TY 2024, total assessed values were driven primarily by new construction and power
+expansion projects.
+n Business Tangible Property (BTP): Data centers continue to invest in advanced computing equipment,
+contributing significant revenue to this category. The 72.1 percent tax rate increase, per $100 of assessed value,
+from $2.15 in TY 2023 to $3.70 in TY 2024, further amplified revenue collections. BTP is the largest source of
+tax revenue, a trend that is expected to remain intact based on forecasts of future investments, the pace of
+development, and the recent tax policy decision made by the Board of County Supervisors to increase the tax rate
+on computer equipment & peripherals to $4.15 from $3.70.
+n Fees and Licensing: Business activity and real property development drove corresponding increases in Business
+Professional and Occupational License tax revenues and service-related fees, which saw consistent growth yearover-year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prince William County’s targeted economic strategy, infrastructure readiness, and commitment to maintaining a
+balanced tax structure have positioned it for sustained growth in the evolving digital economy.
+
+2
+
+2024 Data Center Revenue Report
+
+INTRODUCTION
+This report provides a rigorous compilation of tax revenues
+generated by data centers located in Prince William County
+in 2024.
+It aims to enhance transparency and support strategic
+planning by highlighting revenue contributions from real
+property taxes, business tangible property taxes, as well as
+fees and licensing.
+Data centers specialize in storing, managing, processing, and
+distributing digital data for clients across sectors such as
+finance, healthcare, government, and technology, including
+artificial intelligence, digital currency mining, and self-driving
+vehicles.
+This report starts with an overview of the geographical
+positioning of data center buildings, followed by an overview
+of real and business tangible property assessments.
+Prince William County has become a key hub for data
+centers due to its strategic location, robust fiber-optic
+infrastructure, reliable power supply, proximity to the
+Metropolitan Area Exchange (MAE) East, moderate climate
+and business-friendly environment.
+In 2016, the Board adopted the Data Center Opportunity
+Zone Overlay District to encourage data center development
+in specified areas of the County. This action aligns with the
+County’s strategic plan to create a resilient economy by
+diversifying, supporting, and expanding the local economy
+to ensure equitable economic growth through innovative
+business and talent attraction, promotion, and investments.
+The findings presented in this report cover tax years 2012
+through 2024, o ering historical context and quantitative
+insights into the County’s evolving revenue landscape.
+
+2024 Data Center Revenue Report
+
+3
+
+DATA CENTER MAP
+The map below provides a geographic representation
+of the data center landscape in Prince William County at
+the beginning of tax year 2024. Highlights include current
+locations, category, and construction status.
+The Data Center Opportunity Zone Overlay District presents
+dedicated areas for potential data center development. The
+Data Center Opportunity Zone Overlay District was created
+for the purpose of promoting development of data centers
+within areas of the County where there is existing power
+infrastructure that will support the proposed use.
+
+MAP 1: IMPROVED DATA CENTERS AS OF JANUARY 1, 2024
+(excludes those with incidental structures and substations)
+
+4
+
+2024 Data Center Revenue Report
+
+For assessment purposes, data centers are classified into three categories:
+n Turnkey Data Center
+n Powered Shell Data Center
+n Under-Construction Data Center
+
+Turnkey Data Center
+A Turnkey Data Center is a fully developed facility - owner-occupied, single tenant, or multi-tenant - that is fully
+designed, built, and equipped to operate. The term “turnkey” implies that the end-user can “turn-the-key” and
+begin operations immediately. Typically, a single entity owns the land, building and fixtures, and also operates the
+building. When leased, these turnkey facilities may be referred to as “wholesale” or “retail” colocation data centers.
+For valuation purposes, both gross building area (square feet) and power capacity (megawatts) are used. When
+power capacity is not available from permits or other direct sources, the wattage per square foot is inferred from
+market data. Rentable (leased) power capacity, measured in megawatts or kilowatts, is the ultimate determining
+factor of a turnkey facility’s assessed value.
+
+Powered Shell Data Center
+A Powered Shell Data Center is a facility where the developer constructs the building exterior shell, with power
+and connectivity available, then the tenant completes the interior build-out/real estate fixtures. However, there is a
+di erence. When the fixtures that a tenant paid for are to remain with the property throughout their economic life/
+usefulness, the tenant build-out is assessed as real estate. This is determined as follows:
+n If the lease does not specify that the tenant retains ownership of installed equipment and fixtures, the facility is
+valued as a turnkey data center.
+n If the lease clearly states that the tenant may or must remove the fixtures at the end of the term, the facility is
+assessed as a powered shell. In this category, power capacity is not a factor in valuation.
+
+Under–Construction Data Center
+An Under-Construction Data Center is a partially complete building or one that is actively being developed.
+
+
+
+
+
+
+
+
+
+
+
+These properties are assessed similarly to turnkey facilities unless the lease says otherwise. Power capacity is
+gauged using permits, owner disclosures, or other credible public sources.
+
+2024 Data Center Revenue Report
+
+5
+
+REAL PROPERTY
+Real property includes land and all improvements
+permanently a xed to it. In Prince William County, real
+estate assessments are based on the tax year (TY), which
+aligns with the calendar year (CY). Assessments for TY 2024
+are e ective on January 1, 2024, and were entered into
+the County’s 2024 o cial assessment record or land book,
+typically in May each year. Real estate taxes are billed in two
+annual installments, and revenues are recognized in the
+fiscal year (FY) in which the due dates fall. Accordingly, TY
+2024 assessments and collections are recognized as FY 2025
+revenues.
+In TY 2024, real estate taxes generated 59% of the
+County’s general revenue. Data centers accounted for
+49% of all commercial assessments, driven by the high
+capital investment in data center facilities and the rapidly
+increasing prices developers were willing to pay for vacant
+land.
+
+6
+
+2024 Data Center Revenue Report
+
+ASSESSING DATA CENTER REAL PROPERTY
+Data center valuation considers the three traditional approaches to value: sales comparison approach, cost
+approach, and income approach.
+
+Sales Comparison Approach
+The sales comparison approach relies on the principle of substitution, which states that the value of real estate is
+determined by the cost of acquiring a similar property. Recently sold comparable properties are analyzed in relation
+to the subject property. Adjustments are made to the sale prices of the comparable properties to account for the
+di erences between them and the subject. The adjusted sale prices yield a range of probable values for the subject
+property. This is the primary approach used to value vacant data center land.
+
+Cost Approach
+The cost approach provides a value indication equal to the sum of the land value and the depreciated cost of the
+improvements. Land value is determined using the sales comparison approach, following a highest and best use
+analysis. Improvement value is determined by estimating the cost to replace or reproduce the improvements and
+subtracting depreciation (decrease in value). Consistent with the Appraisal Institute’s definition of the cost approach,
+the cost estimate should include direct or hard costs, indirect or soft costs, and entrepreneurial incentive or profit.
+Depreciation may result from physical deterioration, functional obsolescence (such as outdated design or ine cient
+technology), or economic obsolescence (e ects of external factors such as high tra c volume).
+
+Income Approach
+The income approach produces a value indication by converting a property’s probable income stream into its
+value using a market-derived yield rate. In this approach, the e ective gross income of a property is estimated by
+applying appropriate gross rent, other income, and vacancy and collection loss to the subject property, based on
+market data and trends. Normal operating expenses are then deducted from the e ective gross income to generate
+the net operating income. The net operating income is divided by a market capitalization rate to determine the
+subject property’s income value. A capitalization rate is the expected return on investment on an income-producing
+property Capitalization rates can be derived from sales of comparable properties by dividing each comparable’ s
+income stream by its sale price. Reliable published sources also provide national, regional, and local capitalization
+rates for each major commercial sector.
+In 2022, the Virginia legislature enacted § 58.1-3295.3 of the Code of Virginia, requiring data center fixtures to
+be assessed using the cost approach. This necessitated the County’s use of a combination of approaches, as
+cost manuals alone are insu cient to address the complexities of a data center. The County adopted a “hybrid”
+approach, using the income approach to establish the fair market value of the land and shell building, and the
+cost approach to establish the fair market value of the real estate fixtures. For the fixture component, a mass
+appraisal model was developed utilizing data from industry publications: the average cost to build a data center, the
+entrepreneurial profit margin, and the fixtures’ percentage share of the total cost. The fixtures’ replacement cost is
+then depreciated according to their estimated wear and tear.
+
+2024 Data Center Revenue Report
+
+7
+
+DATA CENTER REAL PROPERTY ASSESSED VALUE
+The following graph displays data center assessments in relation to all commercial assessments (excluding
+supplements).
+
+GRAPH 1: COMPOSITION OF REAL PROPERTY COMMERCIAL ASSESSMENTS
+EXCLUDING APARTMENTS
+($ in billions)
+
+100%
+90%
+80%
+70%
+60%
+
+81.4%
+$10.3
+
+76.8%
+$11.5
+
+64%
+$13.1
+
+51%
+$13.5
+
+50%
+40%
+30%
+20%
+10%
+
+18.6%
+$2.4
+
+23.2%
+$3.5
+
+36%
+$7.3
+
+49%
+13.1
+
+0%
+TY 2021
+
+TY 2022
+
+TY 2023
+
+Data Centers
+
+Other
+
+TY 2024
+
+Data center assessed value changes year-over-year are primarily driven by growth, i.e., new buildings, land
+rezonings, and vacant land sales for data center use. The demand for data centers tends to o set the depreciation
+of older buildings, resulting in overall appreciation. Data center values increased 78.8% from TY 2023 to TY 2024,
+with growth accounting for 44.7% of this increase.
+
+DATA CENTER CAPACITY
+The summaries of the current state of the three categories of data centers for assessment purposes – Turnkey,
+Powered Shell, and Under-Construction – are provided in Tables 1-3. The data o ers insight into key metrics such
+as megawatt (MW) capacity, square footage (SqFt), and assessed value for each data center type. Megawatt capacity
+for Powered Shell facilities is not tracked for real estate assessment purposes.
+Turnkey Data Center assessments include the value for real property fixtures (fixtures) and exclude the value for
+personal property such as computer equipment and peripherals, and o ce furniture and furnishings.
+The Code of Virginia §58.1-3295.3 states that “fixtures” means all fixtures and equipment used in a data center
+except computer equipment and peripherals, equipment used for external surveillance and security, and fire and
+burglar alarm systems. “Fixtures” includes generators, radiators, exhaust fans, and fuel storage tanks; electrical
+substations, power distribution equipment, cogeneration equipment, and batteries; chillers, computer room air
+conditioners, and cooling towers; heating, ventilating, and air conditioning systems; water storage tanks, water
+pumps, and piping; monitoring systems; and transmission and distribution equipment.
+
+8
+
+2024 Data Center Revenue Report
+
+The megawatt (MW) capacity can be reported by owners or estimated from building plans (either denoted on the
+plans or by counting the back-up generators), online publications, Virginia’s Department of Environmental Quality,
+and market data.
+In Powered Shell Data Centers, equipment and fixtures are owned, installed, maintained, and, according to the
+lease, shall or can be removed by the lessee or tenant at the end of the term. Real estate assessments do not
+include value for these fixtures. The tenant reports the original cost to the Tax Administration Division. They are
+depreciated according to the County’s depreciation schedule based on age and usefulness that approximates
+resale value and assessed as business tangible property.
+Under-Construction Data Centers are partially complete buildings with or without fixtures installed.
+
+TABLE 1: TURNKEY DATA CENTERS
+Turnkey
+
+TY 2024
+
+TY 2023
+
+Change
+
+862
+
+622
+
+240
+
+5,844,023
+
+4,753,863
+
+1,090,160
+
+Building Count
+
+29
+
+25
+
+4
+
+Assessed Value
+
+$8,178,801,700
+
+$4,717,740,900
+
+$3,461,060,800
+
+Actual & Imputed MW
+Square Feet (SqFt)
+
+MW Capacity
+n The total capacity increased by 240 MW, rising from 622 MW in TY 2023 to 862 MW in TY 2024.
+n No facilities were reclassi ed from the Turnkey and Powered Shell categories or vice versa.
+n Of the 240 MW increase, approximately 173 MW was attributed to new construction, while the remaining
+67 MW resulted from power expansions in existing Turnkey facilities.
+
+Square Footage
+n Construction completion in calendar year (CY) 2023 added 1,090,160 SqFt to Turnkey Data Center buildings,
+including a 90,470 SqFt addition to an existing structure.
+
+Building Count
+n The number of completed Turnkey Data Center buildings reached 29, including four new buildings
+constructed in CY 2023 and added to the assessment roll in TY 2024.
+
+Assessed Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+n The total assessed value for Turnkey Data Centers in TY 2024 was $8,178,801,700. This figure includes
+the assessed value of a facility owned by a public utility company, which is assessed by the Virginia State
+Corporation Commission (SCC).
+
+2024 Data Center Revenue Report
+
+9
+
+TABLE 2: POWERED SHELL DATA CENTERS
+Powered Shell
+
+TY 2024
+
+TY 2023
+
+Change
+
+400
+
+400
+
+-
+
+2,287,847
+
+2,287,847
+
+-
+
+Building Count
+
+15
+
+15
+
+-
+
+Assessed Value
+
+$603,844,700
+
+$540,256,300
+
+$63,588,200
+
+Estimated MW
+Square Feet (SqFt)
+
+MW Capacity
+n MW Capacity is not tracked for Powered Shell Data Centers.
+n However, using an estimated 175 watts/SqFt power density observed in the market, Powered Shell Data
+Centers’ power capacity calculates to 400 MW.
+
+Square Footage
+n Powered Shell Data Centers account for 2,287,847 SqFt.
+n No data center was added to the Powered Shell category in TY 2024.
+
+Building Count
+n The number of completed Powered Shell Data Center buildings remained 15 in TY 2024.
+
+Assessed Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+n The total assessed value for Powered Shell Data Centers in TY 2024 was $603,844,700.
+
+10
+
+2024 Data Center Revenue Report
+
+TABLE 3: UNDER-CONSTRUCTION DATA CENTERS
+Under-Construction
+
+TY 2024
+
+TY 2023
+
+Change
+
+Estimated & Imputed MW
+
+660
+
+372
+
+288
+
+Planned Square Feet (SqFt)
+
+4,015,330
+
+2,040,205
+
+1,975,125
+
+15
+
+N/A
+
+N/A
+
+$1,261,770,600
+
+$739,311,000
+
+$522,459,600
+
+Planned Building Count
+Assessed Value
+
+MW Capacity
+n The power platforms (often referred to as data halls) in Under-Construction facilities are sometimes built in
+phases. Other times, the completion of data halls are in-step/integrated with the building shell construction.
+n The projected capacity is determined in the same manner as Turnkey facilities - from owner declaration/
+financial statements, press releases or building plans.
+n When the data is unavailable, the power capacity is calculated using the market derived 175 watts per SqFt.
+n In TY 2024, the Under-Construction Data Centers’ potential power capacity is believed to be 660 MW.
+
+Square Footage
+n Under-Construction Data Centers account for a total of 4,015,330 SqFt.
+
+Building Count
+n There were 15 buildings considered construction-in-progress in TY 2024.
+
+Assessed Value
+n The total assessed value for Under-Construction Data Centers in TY 2024 was $1,261,770,600.
+
+Completed New Construction (Supplemental Assessments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Properties are assessed and billed based on their status as of January 1 of each year (vacant land, partially
+complete building, complete building, etc.). When new construction is completed after January 1, the increase in
+assessed value between the January 1 building assessment and the completed building value is prorated based
+on the number of months that the property is “substantially complete or fit for use and occupancy”. The property
+owner receives a supplemental assessment and a corresponding tax bill re ecting this increase in value. The new
+construction supplemental assessments in TY 2024 totaled $1,418,344,800.
+
+2024 Data Center Revenue Report
+
+11
+
+DATA CENTER VACANT LAND
+The following map highlights vacant parcels zoned and/or planned for data centers, signifying that Prince William
+County will continue to be a critical hub for future data center development.
+Data center land is comprised of raw parcels and those with incidental structures such as depreciated houses and
+o ces, paving, sheds, and other structures which confer minimal value contribution to a commercial parcel.
+The map contains parcels with substations and private roads primarily for data center use; however, it does not
+include public right-of-way, homeowners’ association parcels, cemetery sites, and improved lots that may have
+additional land to be developed.
+
+MAP 2: PRINCE WILLIAM COUNTY DATA CENTER LAND
+
+12
+
+2024 Data Center Revenue Report
+
+Data Center Vacant Land Acreage and Land Book Assessed Value
+TABLE 4: DATA CENTER LAND ACREAGE AND ASSESSED VALUES
+Acreage
+
+Real Property Type
+
+Land Book
+
+TY 2024
+
+TY 2023
+
+Change
+
+TY 2024
+
+Vacant Land
+
+4,126
+
+1,426
+
+2,700
+
+$2,896,045,900
+
+Substations
+
+117
+
+76
+
+41
+
+$125,780,500
+
+Total
+
+4,243
+
+1,502
+
+2,741
+
+$3,021,826,400
+
+Total Acreage
+n Vacant land as well as land with incidental structures and substations that are categorized as data center land
+in TY 2024 totaled 4,243 acres.
+
+Rezonings and Acquisitions
+n 2,049 acres were added to data center land inventory due to rezonings, acquisitions by data center operators,
+and changing of boundary lines.
+
+Existing Inventory
+n Considering that the existing land inventory had ongoing construction in TY 2024, reclassifying vacant land to
+improved parcels, the larger overall change in land inventory means that 651 acres previously identified for
+other commercial uses were reclassified for data center use in TY 2024.
+
+Total Vacant Land Assessment
+n TY 2024 data centers’ total vacant land assessment was $2,896,045,900.
+n Data center land sold for as much as $3,091,200 per acre in TY 2023 and $3,818,900 per acre in
+TY 2024.
+
+Rezoning after January 1
+n When a property is rezoned after January 1, it is revalued based on the approved zoning/pro ers and
+assessed for the increase in value between January 1 assessment and the rezoned assessment. This amount
+is prorated based on the number of days that the property was rezoned.
+n The property owner receives a supplemental assessment and corresponding tax bill re ecting this increase in
+value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n During TY 2024, approximately 210 acres of land were rezoned for data center use. The increase in the
+assessed value for land rezoned to permit data center development in TY 2024 totaled $83,651,300.
+
+2024 Data Center Revenue Report
+
+13
+
+BUSINESS TANGIBLE
+PROPERTY
+The business tangible property category encompasses
+assets such as business equipment, furniture, fixtures,
+computer equipment & peripherals, and machinery & tools
+used by businesses within the County on January 1 of each
+year.
+Every business owning business tangible property subject
+to taxation by the County shall file an annual return with the
+County on or before April 15 of each year. The tax liability is
+due October 5 of the same year.
+Tax revenue generated by business tangible property
+provides a material contribution to the County’s general
+fund revenues.
+
+14
+
+2024 Data Center Revenue Report
+
+CLASSIFICATION, REPORTING AND TAX RATES
+The Code of Virginia § 58.1-3506 identifies classifications for taxation, including computer equipment & peripherals
+used in a data center and tangible personal property employed in a trade or business. Prince William County taxes
+computer equipment & peripherals at the same rate regardless of their use in a data center or non-data center.
+The County maintained a business tangible property tax rate of $1.25 per $100 of assessed value for computer
+equipment & peripherals from TY 2012 to TY 2019. Since TY 2020, the tax rate has increased, rising to $3.70 in TY
+2024. Meanwhile, the tax rate for business tangible property employed in a trade or business (including business
+equipment, furniture & fixtures) remained steady at $3.70 per $100 of assessed value throughout the period
+spanning TY 2012 to TY 2024.
+
+TABLE 5: HISTORICAL TAX RATES FOR BUSINESS TANGIBLE PROPERTY
+Tax Year
+
+Computer Equipment & Peripherals
+
+2012
+
+Furniture & Fixtures
+$3.70
+
+2013
+
+$1.25
+
+$3.70
+
+2014
+
+$1.25
+
+$3.70
+
+2015
+
+$1.25
+
+$3.70
+
+2016
+
+$1.25
+
+$3.70
+
+2017
+
+$1.25
+
+$3.70
+
+2018
+
+$1.25
+
+$3.70
+
+2019
+
+$1.25
+
+$3.70
+
+2020
+
+$1.35
+
+$3.70
+
+2021
+
+$1.50
+
+$3.70
+
+2022
+
+$1.65
+
+$3.70
+
+2023
+
+$2.15
+
+$3.70
+
+2024
+
+$3.70
+
+$3.70
+
+Business owners must report on business tangible property annually, including detailed listings, original cost,
+and year of purchase. Prince William County applies assessment factors, which decrease over time to re ect
+depreciation.
+
+Business Equipment Furniture & Fixtures
+n Assessed from 85% of original cost for recent purchases to a minimum of 10% for items nine or more years old.
+
+Computer Equipment & Peripherals
+n Assessed from 50% of original cost for recent purchases to a minimum of 5% for items five or more years old.
+
+Heavy Equipment & Machinery
+
+
+
+
+
+
+
+n Assessed from 80% of original cost for recent purchases to a minimum of 10% for items six or more years old.
+
+2024 Data Center Revenue Report
+
+15
+
+Data Center Industry Equipment Refresh Rates and Fiscal Implications
+In recent years, data center equipment refresh cycles have lengthened considerably, according to industry sources.
+Server and other equipment replacement, once common every 3 to 4 years, has moved to 5 to 6+ years. Many
+operators have adjusted their internal depreciation schedules accordingly, re ecting the extended useful life of
+equipment. As equipment refresh cycles lengthened, assets remain on the books longer before being replaced.
+While these assets continue to depreciate over time, the slower turnover can lead to a more predictable taxable
+value baseline across high-density operations, as large-scale uctuations from frequent replacements are reduced.
+The vast proliferation of data centers in Northern Virginia, and in recent years throughout the Commonwealth and
+across the country and around the world, will hopefully lead to a robust secondary market which can be analyzed to
+help inform future equipment depreciation schedules.
+According to Loudoun County’s 2020 analysis, the average assessed value of depreciated equipment was
+approximately $573 per square foot. By comparison, newly constructed data centers frequently exceed $1,000 per
+square foot before depreciation. High-density modern facilities often sustain equipment values ranging from $750
+to over $2,500 per square foot, depending on the scale and hardware composition.
+
+Emerging Processing Technologies and Industry Evolution
+Compounding this shift in refresh cycles is the increasingly complex hardware landscape within the data center
+industry. Beyond traditional central processing units (CPUs), facilities are now deploying a wider range of specialized
+processors, including graphics processing units (GPUs) for artificial intelligence and parallel workloads, and data
+processing units (DPUs) to optimize networking and storage functions. These components vary significantly in
+cost, power usage, e ciency, and expected lifecycle. The impact of these newer technologies on business tangible
+property reporting and assessment practices remains uncertain, however, their presence underscores the fastpaced, ever-evolving nature of data center infrastructure.
+As the industry continues to prioritize e ciency, density, and specialization, jurisdictions will need to monitor these
+trends closely. While equipment becomes more powerful and durable, assessment and/or depreciation models will
+need to adapt to re ect shifting norms in replacement behavior, hybrid deployments, and the long-term fiscal value
+of emerging hardware assets.
+Future technological breakthroughs that are anticipated to materialize may disrupt the data center industry in the
+medium to long-term by shattering boundaries of what computers can currently achieve. Quantum computing,
+according to Microsoft, is a revolutionary technology that leverages the principles of quantum mechanics to process
+information in ways that classical computers and servers today simply cannot. Unlike traditional computers that
+use bits as the smallest unit of data (represented as 0s and 1s), quantum computers use qubits, which can exist in
+multiple states simultaneously, allowing for unprecedented processing power.
+
+16
+
+2024 Data Center Revenue Report
+
+AVERAGE ASSESSED VALUE OF DEPRECIATED EQUIPMENT
+To illustrate the fiscal impact of extended hardware lifecycles, high-density deployments, and the increasing
+diversity of processing technologies, the following table presents the assessed values of data center equipment
+reported in Prince William County for TY 2023 and TY 2024. It includes square footage data for both Turnkey and
+Powered Shell facilities, o ering a comparison against observed industry benchmarks. These values provide insight
+into how local assessments align with or diverge from broader patterns in the rapidly evolving data center sector.
+
+TABLE 6: EQUIPMENT AVERAGE ASSESSED VALUE PER SQUARE FOOT AS OF MAY 2025
+TY 2024
+
+TY 2023
+
+Return Book Cost
+(Gross Purchase Price)
+
+$15,675,743,000
+
+$13,966,704,000
+
+Return Depreciated Value
+
+$3,974,017,000
+
+$3,718,645,000
+
+8,131,870
+
+7,041,710
+
+Average Book Value
+
+$1,928
+
+$1,983
+
+Average Depreciated Value
+
+$489
+
+$528
+
+Square Footage
+
+REVENUE CONTRIBUTIONS FROM DATA CENTERS VS. NON-DATA CENTERS
+The following section provides a comparison of contributions to business tangible property tax revenues from Data
+Centers versus Non-Data Centers during TY 2024. The analysis highlights the significant role data centers play in the
+County’s revenue hierarchy, specifically within the property classification types of Business Equipment, Furniture &
+Fixtures and Computer Equipment & Peripherals.
+The Heavy Equipment & Machinery classification includes contributions solely from Non-Data Centers. This is an
+expected outcome given such assets (e.g., earth-moving equipment) are typically a liated with industries such as
+manufacturing, construction, and transportation. In comparison, Data Centers primarily rely on advanced computer
+systems and related equipment.
+
+2024 Data Center Revenue Report
+
+17
+
+The following chart highlights the realized revenues across the three categories of business tangible property. The
+revenue from Heavy Equipment & Machinery is included in the Total Business Tangible column, within the other
+strata amount.
+
+GRAPH 2: TY 2024 BUSINESS TANGIBLE PROPERTY TAX REVENUES
+($ in millions)
+$200
+$180
+17%
+$30.6
+
+$160
+4%
+$4.8
+
+$140
+$120
+$100
+$80
+$60
+$40
+$20
+$0
+
+83%
+$147.0
+
+96%
+$123.9
+49%
+$22.5
+51%
+$23.2
+
+COMPUTER EQUIPMENT
+TOTAL
+& PERIPHERALS
+BUSINESS TANGIBLE
+
+FURNITURE
+& FIXTURES
+
+Data Centers
+
+Other
+
+Furniture & Fixtures
+In TY 2024, Data Centers were responsible for 51% of all Business Equipment, Furniture & Fixtures
+revenue, amounting to $23.2 million. The nearly even split underscores that both sectors are significant
+owners of assets within this category.
+n Total Revenue (TY 2024): $45.7 million
+n Data Centers: $23.19 million or 51%
+n Non-Data Centers: $22.51 million or 49%
+
+
+
+
+
+
+
+
+
+
+
+n Tax Rate: $3.70 per $100 of assessed taxable value
+
+18
+
+2024 Data Center Revenue Report
+
+Computer Equipment & Peripherals
+Data center industry dominance was more distinct in the Computer Equipment & Peripherals category,
+generating just over 96% of the total revenue, or $123.9 million.
+n Total Revenue (TY 2024): $128.7 million
+n Data Centers: $123.9 million or 96%
+n Non-Data Centers: $4.8 million or 4%
+n Tax Rate: $3.70 per $100 of assessed taxable value
+The overwhelming contribution by data centers re ects their core operational dependency on high-density
+computing infrastructure. These assets make up the backbone of data center operations, explaining the vast
+disparity compared to non-data center businesses.
+
+Heavy Equipment & Machinery
+As anticipated, this classification does not include any revenue from data centers, given the nature of the assets
+involved.
+n Total Revenue (TY 2024): $3.3 million
+n Contributions: 100% from Non-Data Centers
+
+Total Business Tangible Revenues
+n Combined, Data Centers contributed $147 million in tangible property tax revenue, representing 83% of
+all realized revenue in this category.
+n Non-Data Center businesses, by comparison, generated $22.5 million from Business Equipment and
+Furniture & Fixtures, $4.8 million from Computer Equipment & Peripherals, and a total of $30.6 million
+across all business tangible property classi cations.
+n It is important to note that a large portion of the increase in revenue from Computer Equipment & Peripherals
+was driven not by growth in assessed value, but by an increase in the tax rate. In TY2023, the rate for this
+classi cation was $2.15 per $100 of taxable value; in TY 2024, it rose to $3.70.
+n Based on constant assessed value assumptions, approximately $51.9 million of the TY 2024 is attributable
+solely to this rate increase. This underscores the fiscal impact of policy shifts on revenue generation,
+particularly sectors with concentrated and high-value assets like data centers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n During FY 2026 budget adoption the Board again increased the Computer Equipment & Peripherals tax
+rate to $4.15 per $100 of assessed value.
+
+2024 Data Center Revenue Report
+
+19
+
+HISTORICAL REVENUE TRENDS
+The County’s Business Tangible Property tax revenue has experienced substantial growth since TY 2012, particularly
+within the classifications of Business Equipment, Furniture & Fixtures, and Computer Equipment & Peripherals.
+This growth has been heavily in uenced by the increasing footprint and asset value concentration of data centers.
+Recent moderation or attening in the growth rate is most likely attributable to the mix of Turnkey verses Powered
+Shell data centers.
+
+Business Equipment, Furniture & Fixtures
+Total revenue from this classification increased from $15 million in TY 2012 to $46 million in TY 2024, more than
+tripling over the twelve-year span. The most pronounced surges occurred during the 2013 – 2016 window and again
+in TY 2020 – 2021, corresponding with periods of rapid commercial and data center development.
+
+TABLE 7: BUSINESS EQUIPMENT, FURNITURE & FIXTURES TAX REVENUE CONTRIBUTIONS
+FROM DATA CENTERS
+($ in millions)
+
+Data Centers
+
+Non-Data Centers
+
+Total Revenues
+
+% Data Centers
+
+Data Center
+% Y-O-Y
+Growth
+
+2012
+
+$0.4
+
+$14.6
+
+$15.0
+
+2.8%
+
+-
+
+2013
+
+$0.8
+
+$15.0
+
+$15.8
+
+5.3%
+
+98%
+
+2014
+
+$3.3
+
+$15.4
+
+$18.7
+
+17.7%
+
+296%
+
+2015
+
+$5.6
+
+$16.0
+
+$21.6
+
+25.9%
+
+70%
+
+2016
+
+$7.4
+
+$16.2
+
+$23.5
+
+31.2%
+
+31%
+
+2017
+
+$8.5
+
+$17.5
+
+$26.0
+
+32.6%
+
+15%
+
+2018
+
+$10.1
+
+$17.7
+
+$27.8
+
+36.2%
+
+19%
+
+2019
+
+$11.1
+
+$18.9
+
+$30.0
+
+37.0%
+
+10%
+
+2020
+
+$16.5
+
+$19.2
+
+$35.7
+
+46.2%
+
+48%
+
+2021
+
+$20.3
+
+$19.5
+
+$39.7
+
+51.0%
+
+23%
+
+2022
+
+$22.0
+
+$20.0
+
+$42.0
+
+52.4%
+
+9%
+
+2023
+
+$23.3
+
+$20.9
+
+$44.2
+
+52.7%
+
+6%
+
+2024
+
+$23.2
+
+$22.5
+
+$45.7
+
+50.8%
+
+-1%
+
+Tax Year
+
+n Data Center revenue grew from $0.4 million in TY 2012 to $23.2 million in TY 2024, an increase of more
+than fty-fold.
+n Non-data center revenue also grew, but at a more moderate pace, rising from $14.6 million to $22.5
+million over the same period.
+This shift re ects the growing share of equipment reported by data centers under this category, likely driven by the
+inclusion of high-density equipment racks, and other business equipment, despite limited o ce furnishing needs.
+
+
+
+
+
+By TY 2024, data centers contributed over half of the revenue in this classification, compared to just 2.8% in TY 2012,
+signaling a fundamental shift in the tax base composition.
+
+20
+
+2024 Data Center Revenue Report
+
+Computer Equipment & Peripherals
+This classification saw the largest expansion, with total revenue rising from $3.4 million in TY 2012 to $128.7 million
+in TY 2024, an increase of nearly thirty-eight times the original amount.
+
+TABLE 8: COMPUTER EQUIPMENT & PERIPHERALS TAX REVENUE CONTRIBUTIONS
+FROM DATA CENTERS
+($ in millions)
+
+Data Centers
+
+Non-Data Centers
+
+Total Revenues
+
+% Data Centers
+
+Data Center
+% Y-O-Y
+Growth
+
+2012
+
+$2.2
+
+$1.2
+
+$3.4
+
+65.2%
+
+-
+
+2013
+
+$2.8
+
+$1.2
+
+$3.9
+
+70.4%
+
+25%
+
+2014
+
+$4.0
+
+$1.0
+
+$5.0
+
+79.6%
+
+44%
+
+2015
+
+$6.7
+
+$0.8
+
+$7.6
+
+88.9%
+
+70%
+
+2016
+
+$9.1
+
+$1.1
+
+$10.2
+
+89.4%
+
+35%
+
+2017
+
+$10.5
+
+$0.8
+
+$11.3
+
+92.8%
+
+15%
+
+2018
+
+$15.4
+
+$0.7
+
+$16.0
+
+95.9%
+
+47%
+
+2019
+
+$20.3
+
+$0.6
+
+$20.9
+
+97.1%
+
+32%
+
+2020
+
+$24.6
+
+$1.0
+
+$25.6
+
+96.0%
+
+21%
+
+2021
+
+$34.1
+
+$1.2
+
+$35.4
+
+96.6%
+
+39%
+
+2022
+
+$40.4
+
+$1.2
+
+$41.6
+
+97.2%
+
+18%
+
+2023
+
+$66.4
+
+$2.7
+
+$69.1
+
+96.1%
+
+64%
+
+2024
+
+$123.9
+
+$4.8
+
+$128.7
+
+96.3%
+
+86%
+
+Tax Year
+
+n Data center revenues rose from $2.2 million to $123.9 million re ecting a more than fty- ve-fold
+increase.
+n Non-data center revenues climbed from $1.2 million to $4.8 million, a modest but steady rise over time.
+The dominance of data centers in this category became firmly established beginning in TY 2019, with their share of
+total revenue exceeding 96% through TY 2024.
+While non-data center revenues grew incrementally, they remained relatively small and variable in comparison.
+Year-over-year growth trends in both categories have been primarily driven by the continued expansion and
+equipment investment by data centers.
+
+
+
+
+
+While revenue from Business Equipment, Furniture & Fixtures appeared to stabilize slightly in TY 2024, this is
+likely a short-term uctuation rather than a true plateau given there are 15 data centers under construction
+that are expected to be completed in TY 2025 and beyond, depending on the type of data center they become.
+These upcoming facilities are expected to reinforce and potentially accelerate growth trends across both asset
+categories, further shifting the County’s business tangible property tax base toward high value, technology-centric
+infrastructure.
+
+2024 Data Center Revenue Report
+
+21
+
+GRAPH 3: BUSINESS TANGIBLE PROPERTY TAX REVENUE, YEAR-OVER-YEAR GROWTH
+($ in millions)
+
+$200
+
+52.7%
+
+$180
+
+34.6%
+
+$160
+
+20.0%
+
+22.8%
+15.7%
+
+7.8%
+
+$140
+
+16.3%
+
+20.0%
+
+21.3%
+
+16.1%
+
+10.3%
+
+10.7%
+
+$147.0
+
+$120
+$100
+
+$89.7
+
+$80
+
+$62.4
+$54.4
+
+$60
+
+$41.0
+
+$40
+$20
+$0
+
+$25.4
+$2.6
+
+$3.6
+
+$7.3
+
+$12.4
+
+$16.5
+
+22
+
+$18.9
+
+$17.0
+
+$17.5
+
+$18.1
+
+$18.8
+
+$19.6
+
+$20.9
+
+$21.0
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+Non-Data Centers
+
+$31.4
+
+Data Centers
+
+$22.5
+
+$23.6
+
+$24.0
+
+$24.1
+
+$26.6
+
+2019
+
+2020
+
+2021
+
+2023
+
+2023
+
+Y-O-Y BTP Growth
+
+2024 Data Center Revenue Report
+
+$30.6
+
+2024
+
+FEES AND LICENSING
+In Prince William County, businesses must remit a Business,
+Professional, and Occupational License (BPOL) application
+and remit the corresponding tax revenue when their annual
+gross receipts are $500,000 or greater. Tax rates vary by
+business classification, with data centers’ activities typically
+classified under Business, Personal, Repair and Other
+Services.
+Real property fees, which support services like waste
+management and stormwater management, vary by bill.
+There are no specific fees for business tangible property,
+but administrative, late filing fees, and late or delinquent
+tax payments generate revenue in the form of penalties and
+interest.
+Late filings incur a 10% penalty and 10% interest from the
+due date’s first day, with a $30 collection fee for accounts
+delinquent over 30 days, ensuring e cient revenue
+collection and compliance with tax regulations.
+Revenues from fees and licensing increased from $0.3
+million in TY 2012 to $2.5 million in TY 2024, driven by a
+rising presence of data centers in the County.
+
+2024 Data Center Revenue Report
+
+23
+
+ANALYSIS OF DATA CENTER
+INDUSTRY TAX REVENUE
+As demonstrated in the preceding historical analysis, data
+centers have rapidly evolved from a modest to a significant
+contributor for Prince William County’s tax base.
+By analyzing revenue generated across real property,
+business tangible property, and fees and licensing, the
+County gains a comprehensive view of the data center
+industry fiscal footprint and its expanding role in local
+revenue performance.
+
+24
+
+2024 Data Center Revenue Report
+
+TABLE 9: TAX REVENUE CONTRIBUTIONS FROM DATA CENTERS BY PROPERTY TYPE
+($ in millions)
+
+Real Property
+
+Computer Equipment
+& Peripherals
+
+Furniture
+& Fixtures
+
+Fees
+& Licensing
+
+Total
+Revenues
+
+% Y-O-Y
+Growth
+
+2012
+
+$3.5
+
+$2.2
+
+$0.4
+
+$0.3
+
+$6.5
+
+-
+
+2013
+
+$3.9
+
+$2.8
+
+$0.8
+
+$0.3
+
+$7.8
+
+21%
+
+2014
+
+$4.2
+
+$4.0
+
+$3.3
+
+$0.3
+
+$11.7
+
+50%
+
+2015
+
+$4.6
+
+$6.7
+
+$5.6
+
+$0.4
+
+$17.4
+
+48%
+
+2016
+
+$6.1
+
+$9.1
+
+$7.3
+
+$0.3
+
+$22.9
+
+32%
+
+2017
+
+$8.3
+
+$10.5
+
+$8.5
+
+32.6%
+
+$27.9
+
+22%
+
+2018
+
+$10.8
+
+$15.4
+
+$10.1
+
+36.2%
+
+$36.7
+
+31%
+
+2019
+
+$20.8
+
+$20.3
+
+$11.1
+
+37.0%
+
+$53.2
+
+45%
+
+2020
+
+$23.5
+
+$24.6
+
+$16.5
+
+46.2%
+
+$65.4
+
+23%
+
+2021
+
+$30.3
+
+$34.1
+
+$20.3
+
+51.0%
+
+$85.9
+
+31%
+
+2022
+
+$47.3
+
+$40.4
+
+$22.0
+
+52.4%
+
+$110.8
+
+29%
+
+2023
+
+$75.4
+
+$66.4
+
+$23.3
+
+52.7%
+
+$166.4
+
+50%
+
+2024*
+
+$144.2
+
+$123.9
+
+$23.2
+
+50.8%
+
+$293.7
+
+77%
+
+Tax Year
+
+*preliminary
+
+The County’s total tax revenue from data centers has grown dramatically, from $6.5 million in TY 2012 to
+$293.7 million in TY 2024, a factor of over 45 times or 4,518%. This growth re ects both the scale and strategic
+concentration of data center development within the County.
+In TY 2024 alone, revenue increased by 77% year-over-year, a re ection of both policy changes and continued
+industry investment.
+
+CATEGORY CONTRIBUTIONS
+Real Property
+Revenues have climbed significantly since TY 2018, peaking at $144.2 million in TY 2024, driven by the ongoing
+development and expansion of data center campuses.
+
+Computer Equipment & Peripherals
+This category continues its upward trajectory, reaching $123.9 million in TY 2024 and solidifying its role as a core
+revenue stream within the business tangible property classification.
+
+Business Equipment, Furniture & Fixtures
+Revenue remained steady, with $23.2 million realized in TY 2024, re ecting both the embedded asset value of
+equipment and the long-term footprint of mature facilities.
+
+Fees and Licensing
+Revenues from licensing and related fees reached $2.5 million, continuing a pattern of consistent year-over-year
+growth as development activity remains strong.
+
+2024 Data Center Revenue Report
+
+25
+
+Factors Driving Revenue Growth
+Expansion of Data Centers
+Growth in both the number and scale of facilities has led to increased tax obligations for both personal property
+and real estate.
+
+Physical Footprint
+Continued development, increased power consumption, and rising sales prices for vacant land as well as data
+center facilities have translated directly into higher real property assessments, particularly as new builds come
+online.
+
+Tax Policy
+The increase in Computer Equipment and Peripherals tax rate, from $2.15 in TY 2023 to $3.70 in TY 2024, had
+a substantial impact on realized revenue, accounting for over $51.9 million in additional collections from that
+category alone. The Board adopted TY 2025 / FY 2026 tax rate increase for computer equipment & peripherals
+will again substantially increase tax revenues from this source.
+
+Near-Term Considerations
+Revenue Concentration
+A growing share of Business Tangible Property revenue is now attributed to data centers, particularly within
+the Computer Equipment & Peripherals category. As this trend continues, it may be useful to monitor industry
+developments – such as hardware refresh cycles, emerging technologies, and evolving operational models – that
+could further in uence future revenue dynamics.
+
+Tax Policy and Regional Context
+The current tax environment, including rate structures and classification frameworks, has coincided with
+sustained investment in the County. As other jurisdictions also compete for data center development, regional
+tax policy comparisons and long-term competitiveness may become increasingly relevant factors to track.
+
+Depreciation Schedule Alignment
+Given the shift toward longer hardware refresh cycles and the growing complexity of data center infrastructure
+(e.g., the inclusion of GPUs, DPUs, and high-e ciency systems), periodic evaluation of the County’s depreciation
+schedule may o er insight into how well it aligns with current industry practices and asset life cycles.
+
+Revenue Base Composition
+While data centers represent a significant and growing source of revenue, other sectors continue to contribute
+meaningfully to the County’s overall tax base. Observing the distribution of revenue sources over time may
+provide context for assessing stability and exposure to sector-specific uctuation.
+
+26
+
+2024 Data Center Revenue Report
+
+2024 Data Center Revenue Report
+
+27
+
+CONCLUSION
+Prince William County’s data center industry continues to
+play a central role in driving tax revenue growth across
+multiple classifications. In TY 2024, total tax revenue
+from data centers reached $293.7 million, representing
+a 77% increase over the prior year. This growth re ects
+a combination of factors, including market demand,
+expansion of physical infrastructure, and tax policy changes
+– most notably, the increase in Computer Equipment
+& Peripherals tax rate from $2.15 to $3.70 per $100 of
+assessed value.
+The County’s strategic zoning designations, including the
+classification of data centers as a targeted industry, have
+supported sustained development over the past decade.
+With over 4,000 acres designated for data center use and
+multiple projects currently under construction, revenue
+contributions from this sector are expected to continue to
+expand across real property, business tangible property,
+and fees and licensing categories.
+At the same time, broader considerations may in uence
+future growth patterns. Statewide power and water
+availability constraints and noise ordinance deliberations
+have become increasingly relevant to data center operations
+across Virginia. As development continues, factors including
+access to reliable utility infrastructure and unfavorable
+zoning decisions could impact the pace and scale of new
+investment activity.
+This report focuses on realized revenues and historical
+patterns. As the industry continues to evolve, factors such
+as asset composition, hardware refresh cycles, and tax
+classification frameworks may warrant further observation
+in future reporting cycles.
+
+28
+
+2024 Data Center Revenue Report
+
+TABLE OF FIGURES
+Map 1
+Improved Data Centers as of January 1, 2024....................................................................................................................4
+Graph 1
+Composition of Real Property Commercial Assessments excluding apartments .........................................................8
+Table 1
+Turnkey Data Centers..........................................................................................................................................................10
+Table 2
+Powered Shell Data Centers ...............................................................................................................................................10
+Table 3
+Under-Construction Data Centers .....................................................................................................................................11
+Map 2
+Prince William County Data Center Land ..........................................................................................................................12
+Table 4
+Data Center Land Acreage and Assessed Values .............................................................................................................13
+Table 5
+Historical Tax Rates for Business Tangible Property .......................................................................................................14
+Table 6
+Equipment Average Assessed Value per Square Foot as of May 2025 .........................................................................16
+Graph 2
+TY 2024 Business Tangible Property Tax Revenues ........................................................................................................17
+Table 7
+Business Equipment Furniture & Fixtures tax revenue contributions from Data Centers ........................................19
+Table 8
+Computer Equipment and Peripherals tax revenue contributions from Data Centers .............................................20
+Graph 3
+Business Tangible Property Tax Revenue, % Year-Over-Year Growth .........................................................................21
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Table 9
+Tax Revenue Contributions from Data Centers by Property Type *preliminary .........................................................23
+
+2024 Data Center Revenue Report
+
+29
+
+Finance
+
+Prince William County, Virginia
+Department of Finance
+1 County Complex Court
+Prince William, VA 22192
+703-792-6700
+
+pwcva.gov/ nance
+
+

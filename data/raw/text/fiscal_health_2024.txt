@@ -1,0 +1,1815 @@
+2024
+
+
+
+
+ Fiscal Health Outlook Report
+                      Published June 2025
+     Table Of Contents
+     Introduction.............................................................3
+     Economy..................................................................4
+     Executive Summary.................................................5
+     Fiscal Stability...........................................................8
+     Financial Position.....................................................9
+           Cash..........................................9
+           Liquidity.....................................9
+           Fund Balance............................11
+
+     Budgetary Practices...............................................14
+          Revenues..................................14
+          Budget Strength Measurement ...16
+
+     Liabilities.................................................................18
+             Debt and Pensions.....................18
+
+     Economic Environment..........................................23
+          Wealth......................................26
+          Assessed Value..........................31
+
+     Rating Agency Scorecards.....................................34
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                   |2|
+ Introduction
+ This report provides a framework for monitoring Prince William County’s financial condition for fiscal
+ year 2024. The continuous monitoring process utilized herein is a management tool that pulls together
+ information from the County’s budgetary and financial reports and combines it with economic and
+ demographic data.
+ The use of ratio analysis, as well as trend analysis, help gauge the fiscal health of Prince William County.
+ Local trends are compared to both regional and national results to provide a more comprehensive
+ understanding of the County’s financial status. The County utilized the services of PFM Financial
+ Advisors, LLC, the County’s financial advisor, to prepare this report. Trend data is taken from the
+ County’s Annual Comprehensive Financial Report (ACFR) and other financial and accounting records.
+ The sources of trend data for the comparison jurisdictions included in this report are Moody’s Financial
+ Ratio Analysis database, Standard & Poor’s (S&P’s) ratings reports, and financial information from
+ the peer group’s respective Annual Comprehensive Financial Reports. The ‘triple triple-A’ comparison
+ group includes the Virginia counties of Arlington, Chesterfield, Fairfax, Hanover, Henrico, and Loudoun,
+ as well as Anne Arundel and Howard County, Maryland and Wake County, North Carolina.
+ Most states take a wide variety of approaches to monitor localities’ fiscal health as well. In 2017,
+ the Virginia Acts of Assembly directed the Auditor of Public Accounts (APA) Office to establish a
+ system to monitor financial data to identify potential fiscal distress among local governments in the
+ Commonwealth. The three-step process currently consists of the 12 financial ratio analysis, ranking
+ each locality’s results in the model determining an overall composite score that serves as a preliminary
+ determination of potential fiscal distress. If a locality scores above a determined point threshold,
+ which is reassessed each year, it will be subject to additional qualitative in-depth analysis that includes
+ demographics, unemployment, and other external factors. The ratio and qualitative analyses could
+ lead to a follow-up review, the final step of the process in determining if a locality is experiencing a
+ fiscal distress situation and requires further intervention from the Commonwealth. The County’s total
+ score remains significantly below the threshold and classified as “does not require further follow-up”
+ and has not shown any distress warning signs.1
+ Given its location in the Greater DC Metro region, federal employment and spending reductions
+ could have a negative impact on the County’s local economy and therefore, its financial health. The
+ County, as well as the rating agencies, will monitor the evolving situation as they pose a potential
+ credit risk. Additionally, state and local governments nationwide are grappling with tighter economic
+ conditions. Despite these economic headwinds, the County persists in showcasing responsible fiscal
+ management. With an emphasis on forward-thinking planning and judicious decision-making, the
+ County’s leadership has upheld financial flexibility and resilience. This dedication to sound fiscal
+ policies has been acknowledged through reaffirmation of the County’s credit ratings, underscoring
+ the efficacy of management amid economic uncertainties.
+
+
+
+
+ 1
+  Monitoring for Local Government Fiscal Distress Reports from the Commonwealth of Virginia Auditor
+ of Public Accounts are available at https://www.apa.virginia.gov/local-government/reports?type=fiscal-
+ distress-monitoring
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                      |3|
+ Economy
+ With no shortage of challenges confronting domestic and international agendas these days, one
+ could be excused for losing sight of the fact that 2025 marks five years since the COVID-19 pandemic
+ wreaked havoc on the global economy. Beginning with a precipitous decline in economic activity to
+ a subsequent rebound in growth and surge in inflation, the pandemic and its reverberations have
+ shaped the economic landscape over the past five years. But as many countries have toiled to recover
+ from the fallout, the U.S. economy’s vitality has secured an enviable position on the world stage,
+ leading some economists to introduce the notion of U.S. exceptionalism. Despite the accolade, the
+ nation’s recovery has proven to be uneven, often referred to as a K-shaped recovery. The hardship
+ faced by lower income households to keep pace with cost-of-living demands is a glaring reminder that
+ millions of Americans have not captured that coveted slice of exceptionalism.
+ Since assuming office on January 20, the Trump White House has issued a flurry of executive orders
+ and policy initiatives that have gripped markets and the future of the U.S economy with a palpable
+ level of uncertainty. Crucial to the economic outlook for the nation and global partners will be the
+ extent to which President Trump pursues tariffs, immigration and the reconfiguration of the Federal
+ Government. Given the fluctuating nature of developments over the early days of the Trump
+ presidency, quantifying the potential economic impact amounts to little more than guesswork. William
+ Dudley, former president of the New York Federal Reserve (Fed), suggests if at least a ten percent
+ tariff is imposed on aggregate imports, inflation could increase 0.25% - 0.50% over the next year as
+ importers pass on costs. When assessing the fallout from the Biden administration’s clampdown on
+ border crossings, baby boomer retirements and a high labor participation rate among prime-age
+ workers, “modest deportations could hold the annual increase in the labor supply to less than 0.5%.”
+ The implication points to a “maximum real GDP growth rate of just 1.5% to 2.5%.” Dudley intimates the
+ various factors in play may portend a challenging economic climate for 2025. “Expect higher inflation,
+ elevated interest rates, slower growth and more volatility as markets and the Fed struggle to adjust to
+ Trump’s pronouncements and actions. In short, prepare for turbulence ahead.”
+ While the scale of fiscal plans remains uncertain, the Federal Reserve has appropriately maintained
+ a neutral stance amid mixed signals from the President’s administration. Recent data suggests that
+ although the economy is slowing, it remains relatively stable. As expected, the Fed kept the Federal
+ Funds rate unchanged at 4.25%–4.50%, citing concerns over the uncertain balance between inflation
+ and growth.
+ In a notable shift, the Federal Open Market Committee (FOMC) stated that “the risks of higher
+ unemployment and higher inflation have risen,” hinting at a potential stagflation scenario. During
+ the post-meeting press conference on May 7, 2025, Chairman Powell described the U.S. economy as
+ “solid,” emphasizing that the hard data does not support the weakness seen in consumer sentiment
+ surveys.
+ Bloomberg Economics commented that markets may be overestimating the likelihood of rate cuts
+ this year, especially in light of the Fed’s warning on stagflation. Powell’s remarks could temper those
+ expectations, particularly given Bloomberg’s view that most FOMC members now foresee a sharp rise
+ in inflation.
+ The County’s leaders closely monitor economic activity across all sectors of the community and assess
+ its impact on the local economy and operations. Identifying County’s strengths, weaknesses and
+ vulnerabilities, careful planning of robust scenarios, evaluating the structural balance of the County’s
+ budget, maintaining financial agility, and not deviating from practices that have led to the triple-A
+ ratings remain the County’s key considerations during the economic period of federal employment
+ and policy changes, slower global growth, inflation, expected slowdown of consumer spending and
+ potential financial market instability.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                  |4|
+ Executive Summary
+ A credit rating is an assessment of the general creditworthiness of an entity or the creditworthiness
+ of an entity with respect to a specific debt security or other financial obligation, based on relevant
+ risk factors. Credit rating criteria and methodology have grown in complexity over time, with both
+ quantitative and qualitative analysis involved.
+ In general rating agencies look at the following primary credit factors – financial/budgetary
+ performance, economy and tax base, debt and pension obligations and governance management.
+ Rating agencies use a quantitative scorecard approach to provide a composite score of a local
+ government’s credit profile based on the weighted factors deemed most important, measurable, and
+ prevalent. The scorecard contains calculated ratios using historical results which provide a basis for
+ the credit rating. Note that each rating agency has a unique weight breakdown among credit factors
+ when compiling their scorecard. The rating agency scorecards are summarized in the tables provided
+ at the end of this report.
+ Next, the rating agencies make qualitative adjustments when events or certain characteristics of the
+ local government may be more significant determinants of a rating than the pure scorecard weighting
+ might imply.
+ The adjustments allow for a final rating based on future expectations. Examples of qualitative
+ adjustments include, but are not limited to, the following:
+
+
+              Key:
+                    = Upward adjustment
+                    = Downward adjustment
+
+              Financial/Budgetary Performance
+                    Additional borrowable liquidity
+                    Reliance on uncertain federal or state aid
+                    Limited revenue raising ability or restrictive tax caps
+                    Heavy fixed costs
+                    Volatile revenue sources
+                    Large structural imbalance
+
+              Economy and Tax Base
+                Presence or proximity of a university, state capital or nation’s capital
+                Exceptionally high household wealth levels
+                Expected future development
+               Median home value and real estate values trend
+               Population trends
+               Composition of the workforce and employment opportunities
+                Expected decline in tax base due to corporate closures or tax appeals
+                High poverty rate
+                Revenue diversification
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                 |5|
+                   Debt and Pension Obligations
+                    Unusually rapid or slow amortization of debt principal
+                     Established pension or other post-employment benefit (OPEB) reserve
+                     Heavy capital needs implying future debt increases
+
+                   Governance/Management
+                      Formal financial policies
+                      History of conservative budgeting
+                      Active monitoring of budget performance
+                      Well-defined plan for restoring structural operating balance and/or replen-
+                       ishing reserves
+                      Ability and willingness to adjust in response to economic and financial pres-
+                       sures
+                      Reliance on cash flow borrowing
+                      Weaknesses in best practices
+                      Political polarization that makes budgeting and decision-making difficult
+
+ The following chart provides a summary of the overall credit strengths and weaknesses of the County
+ as last reported in September 2024 by the three major credit rating agencies, Moody’s Investors
+ Service (Moody’s), S&P Global Ratings (S&P) and Fitch Ratings (Fitch).
+                                                                 Prince William County
+                                                        Credit Strengths and Weaknesses
+
+
+  Positives                                                                        Negatives
+  Economy & Demographics                                                           Economy & Demographics
+  • Sizeable & growing tax base                                                    • County’s real gross domestic product (GDP) per capita as percent-
+  • Diversifying local economy                                                       age of U.S. real GDP lags the nation
+  • Affordable cost of living compared to other localities in D.C. metro
+    area
+  • Unemployment rate below national and state averages
+
+  Financial Condition                                                              Financial Condition
+  • Stable reserve and liquidity position                                          • Fund balance levels below similarly rated counties nationwide
+  • Very strong budgetary flexibility, general fund available reserves at          • Population growth and rising debt may lead to some expenditure
+    17.4% of general fund operating revenues                                         pressure in future years
+  • Predictable general fund operating performance, highlighted by a
+    history of general fund surpluses
+  • Maintenance of capital reserve fund for pay-go capital
+
+  Debt and Pension                                                                 Debt and Pension
+  • Long-term liabilities remain manageable                                        • Debt and pension burdens slightly above Aaa median
+  • Conservative debt management practices
+
+  Management                                                                       Management
+  • Strong management team supported by formal fiscal policies and                 • None
+    very strong financial practices
+  • Use of multi-year forecasting tools and frequent budget monitoring
+ Source: Moody’s report dated September 11, 2024, S&P’s report dated September 20, 2024, and Fitch’s report dated September 20, 2024.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                                |6|
+In 2024 Fitch and S&P released new methodologies for rating local government credits. In September
+2024, the County was rated under these new methodologies for the first time. Under Fitch’s new criteria,
+the County scored particularly well on demographic and economic metrics. Under S&P’s new criteria, the
+County scored exceptionally well in the reserves and liquidity and management categories. And after
+making all qualitative adjustments to their rating metrics, either upward or downward, the County’s
+triple-A ratings were affirmed by all three rating agencies. Triple-A is the highest rating from each
+agency and signals that the County has an “extremely strong capacity to meet financial commitments.”
+
+The rating agencies also review and report on environmental, social and governance (ESG) factors.
+Moody’s and Fitch report explicit ESG scores. From Moody’s, the County maintains a credit positive
+score “reflecting strong social and governance risks, and neutral-to-low exposure to environmental
+risks”. From Fitch, the County maintains credit-neutral ESG score.
+
+The ability for the County to receive and maintain a triple-A rating is important as it reflects the County’s
+ability and willingness to pay its obligations, thereby increasing demand for the County’s bonds and
+reducing overall borrowing costs. Furthermore, the triple-A rating signals fiscal stability and good gov-
+ernance to businesses looking to locate within Prince William County.
+
+In this report, the County uses 2024 fiscal year-end results to calculate several of the key factors used
+in the credit rating evaluation. Additionally, as a result of the new methodologies some reporting el-
+ements have changed, providing a more condensed report yet still maintains essential content. The
+charts depicting the County as compared to its peer group show County data as either “green” or “yel-
+low”. A green bar reflects the achievement of triple-A status for that particular metric, while a yellow bar
+indicates a rating of double-A or A.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                      |7|
+Fiscal Stability      
+According to the Government Finance Officers Association (GFOA) a financially sustainable community
+provides services to citizens within its available means while proactively taking measures to build and
+preserve its ability to provide services in the future. The Financial Health Model below depicts a three-
+legged stool comprised of sound financial position and parameters, flexible budget practices and
+manageable liabilities. The stool sits on a foundation made up of the political and economic environment.
+
+
+
+
+ Source: Government Finance Officers Association
+
+
+These are the same factors the rating agencies assess when assigning a bond rating to a municipality.
+While the County is a ‘triple triple-A’ jurisdiction, as affirmed in September 2024, there are some areas
+that are not as strong as others. As previously noted, each rating agency also looks at qualitative factors -
+namely the political environment, governance, and additional economic, financial and debt factors - and
+can make adjustments to a score based on that assessment. Moody’s, for example, noted a contributing
+factor to the County’s ‘Aaa’ rating was “steady tax base growth and economic stability,” as well as its
+“stable financial position supported by strong management”. Similarly, S&P highlighted a “growing tax
+base,” along with “well-embedded and conservative management practices and planning culture”.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                     |8|
+ Financial Position   
+ Cash
+ One of the areas assessed related to financial position is cash balance or liquidity. Increases in portfolio
+ size typically come from additions to fund balance/year-end savings as well as a portion of annual
+ revenue growth. The County’s General Pool Portfolio has seen average growth of approximately 11.4%
+ since 2020. The staggered receipt of federal stimulus funds and budget surpluses played key roles in
+ maintaining a higher-than-normal average portfolio balance throughout fiscal years 2020 and 2021.
+ During fiscal years 2022 - 2024, average portfolio growth was driven by unspent federal stimulus
+ payments, higher than anticipated budget surpluses and a rising interest rate environment triggered
+ by the Federal Reserve’s monetary response to inflationary pressure.
+                                  Prince William County - General Pool Portfolio
+                                              Average Monthly Value
+                                                FY 2020 - FY 2024
+             $2,400
+
+
+
+             $2,200
+
+
+
+             $2,000
+
+
+
+             $1,800
+  Millions
+
+
+
+
+             $1,600
+
+
+
+             $1,400
+
+
+
+             $1,200
+
+
+
+             $1,000
+                      JUL   AUG    SEP         OCT     NOV     DEC       JAN        FEB    MAR      APR   MAY   JUN
+                                     FY 2020         FY 2021   FY 2022         FY 2023    FY 2024
+
+
+
+  Source: Prince William County, Department of Finance – Treasury Management
+
+  Liquidity  
+  Liquidity ratios analyze the ability of an organization to pay off both its current liabilities as they
+  become due, as well as its long-term liabilities as they become current. In other words, these ratios
+  show the cash balance levels of the County and the ability to turn other assets into cash to pay off
+  liabilities and other current obligations. Cash basis liquidity measures assess the County’s relative
+  degree of financial cushion. A good indicator of liquidity level is the cash cushion available to an entity
+  at the end of the fiscal year.
+  Moody’s examines the historical cash balance as a percentage of revenues to determine whether
+  an entity has a strong or weak cash margin. A history of weak year-end liquidity signifies a tight
+  cash position with little buffer available if revenues unexpectedly decline. Moody’s ‘Aaa’ target for
+  this liquidity metric is greater than 40%. The liquidity ratio looks at entities’ unrestricted cash in total
+  governmental activities, total business type activities and the internal services funds, net of short-
+  term debt from operating funds. The County is currently at 50.5% and rates ‘Aaa’ in this category, with
+  unrestricted cash balances exceeding $1.032 billion on June 30, 2024.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                   |9|
+                       Prince William County Unrestricted Cash Balance as a Percentage of Revenues
+                                                     (Liquidity Ratio)
+   0.7
+               64.2%
+                                                                                         60.0%
+   0.6
+                                       54.7%                      55.5%
+                                                                                                                          AAA target > 40%
+                                                                                                            50.5%
+   0.5
+
+
+
+   0.4
+
+
+
+   0.3
+
+
+
+   0.2
+
+
+
+   0.1
+
+
+
+    0
+                2020                   2021                       2022                   2023                2024
+                                                 Peer Median         Aaa County Median
+
+ Source: Moody’s Financial Ratio Analysis database
+
+ The chart below compares Prince William County to the peer group median and the median of all ‘Aaa’
+ rated counties in the nation for historical cash balance as a percentage of revenues. The County is
+ below both the peer median and the ‘Aaa’ county median of 64.8%.
+
+
+                          Comparable Unrestricted Cash Balance as a Percentage of Revenues
+                                                  (Liquidity Ratio)
+   140%
+
+                                                                                                              125.8%
+
+   120%
+
+
+
+   100%
+                                                                                                    86.3%
+
+    80%                                                                          75.7%      77.9%
+
+
+                                                                         60.1%
+    60%
+                       48.6%      49.7%        50.0%      50.5%
+            47.7%
+
+    40%
+
+
+
+    20%
+
+
+
+     0%
+            Fairfax    Howard    Arlington      Anne      Prince   Wake      Loudoun    Hanover    Henrico Chesterfield
+          County, VA County, MD County, VA     Arundel   William County, NC County, VA County, VA County, VA County, VA
+                                             County, MD County, VA
+                                                Peer Median        Aaa County Median
+
+
+
+ Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                    | 10 |
+ Fund Balance
+ Fund balance is another factor the rating agencies assess to measure financial position. Typically, a
+ proprietary reporting unit reports all related assets and liabilities with the difference between the two
+ reported as net assets, or a measure of net worth. Because Governmental Funds (i.e., general fund,
+ special revenue funds and capital projects funds) report only a subset of related assets and liabilities,
+ the difference between the two is closer to a measure of liquidity, rather than net worth, and could be
+ compared to the term “working capital” in the private sector.
+ Fund balance ratios generally reflect an entity’s revenue and expenditure policies under Generally
+ Accepted Accounting Principles (GAAP), and therefore, show the effects a locality may have taken
+ to balance its budget. Valuable information about both the past and the future is communicated
+ through these ratios. Existing levels of fund balance depict the cumulative effects of an organization’s
+ financial history and identify the liquid resources available to fund future liabilities and unforeseen
+ contingencies.
+ Moody’s measures total fund balance as a percentage of revenues, a measurement of “available
+ balances.” Moody’s ‘Aaa’ target is greater than 35%. This ratio includes available fund balance plus net
+ current assets to revenue to assess the ability to meet current and short-term financial obligations.
+ This calculation includes revenue from total governmental funds and business-type activities. The
+ County does not score ‘Aaa’, but rather with 27.0%, scores in the ‘Aa’ category on a pure quantitative
+ scorecard basis.
+             Prince William County Available Fund Balance as a Percentage of Revenues
+                                     (Moody's Methodology)
+
+
+   60%
+
+
+
+   50%
+                                                                                               AAA target > 35%
+   40%
+
+
+
+   30%        28%                28%                 28%                                27%
+                                                                         23%
+
+   20%
+
+
+   10%
+
+
+
+   0%
+              2020               2021               2022                 2023           2024
+
+
+
+                                 Peer Median               Aaa County Median
+
+
+ Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                          | 11 |
+                             Comparable Available Fund Balance as a Percentage of Revenues
+                                               (Moody's Methodology)
+   100%
+
+                                                                                                           90%
+   90%
+
+   80%
+                                                                                                75%
+                                                                                                                     AAA target > 35%
+   70%
+                                                                                      61%
+   60%
+
+                                                                 48%        49%
+   50%
+
+   40%                                                  38%
+
+                                  30%       32%
+                       30%
+   30%      27%
+
+
+   20%
+
+   10%
+
+    0%
+            Prince   Howard     Fairfax   Arlington    Anne    Wake     Loudoun    Hanover    Henrico Chesterfield
+           William County, MD County, VA County, VA Arundel County, NC County, VA County, VA County, VA County, VA
+          County, VA                                County, MD
+
+                                          Peer Median         Aaa County Median
+ Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                 | 12 |
+New to the 2024 report, S&P measures available fund balance relative to General Fund revenues. This
+ratio includes available General Fund balance which is comprised of unassigned, assigned, and a portion
+of committed fund balance. S&P’s ‘AAA’ target is greater than 15%. The County scores in the ‘AAA’ (the
+strongest) category for this metric, with a ratio of 17.0%.
+                    Prince William County Available Fund Balance as a Percentage of Revenues
+                                               (S&P Methodology)
+ 25.0%
+
+
+
+
+ 20.0%                                                            19.1%                                                             AAA target > 15%
+                                                                                         17.4%
+                                                                                                                 17.0%
+                                          15.7%
+                   14.8%
+ 15.0%
+
+
+
+
+ 10.0%
+
+
+
+
+  5.0%
+
+
+
+
+  0.0%
+                   2020                   2021                    2022                   2023                    2024
+                                                             Peer Median
+
+Source: County’s S&P report, dated September 20, 2024 for FY 2021 – FY 2023. FY 2020 & FY 2024 is estimated by PFM.*General Fund Balance includes assigned, unassigned,
+committed capital reserve, and committed revenue stabilization reserve
+
+
+The next chart illustrates the same fund balance metric as compared to the County’s peers. The County
+scores below the median for its peer group.
+                           Comparable Available Fund Balance as Percentage of Revenues
+                                               (S&P Methodology)
+ 60%
+
+
+                                                                                                                     51.3%
+ 50%
+
+
+
+ 40%
+                                                                                             34.2%       34.8%
+                                                                                 33.6%
+
+ 30%
+                                                                     24.4%
+                                                          22.9%
+
+ 20%
+                                  16.0%       17.0%
+                      13.9%
+           11.9%
+ 10%
+
+
+
+  0%
+          Loudoun    Arlington   Fairfax       Prince   Wake       Anne    Howard    Hanover    Henrico Chesterfield
+         County, VA County, VA County, VA*    William County, NC Arundel County, MD County, VA County, VA County, VA
+                                             County, VA         County, MD
+
+                                                           Peer Median
+Source: Reflects PFM’s estimate of FY 2024 credit ratios unless denoted by *
+
+* Reflected S&P report for FY 2024
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                                            | 13 |
+ Budgetary Practices  
+ Revenues
+ A financially sustainable position includes flexible budget practices. This includes adjusting predictions
+ in forecasting revenues and expenditures to meet obligations or raising revenues. The last five years
+ General Fund revenues and transfers in are depicted below. Various categories of revenue are shown,
+ including general property taxes, which remains the largest source of revenue for the County with a
+ steady year-over-year increase. The General Fund revenues are used in S&P’s General Fund Operating
+ Result ratio on page 16.
+
+                                        Prince William County Revenue - General Fund
+                                                        (in thousands)
+   $1,800,000
+
+                                                                                                                 $1,632,555
+   $1,600,000
+                                                                                            $1,477,168
+                                                                   $1,374,836
+   $1,400,000                             $1,325,490
+                $1,270,920
+
+   $1,200,000
+
+
+   $1,000,000
+
+
+    $800,000
+
+
+    $600,000
+
+
+    $400,000
+
+
+    $200,000
+
+
+          $0
+                  2020                       2021                    2022                      2023                2024
+                    General property taxes                                      Other local taxes
+                    Permits, Fees, Licenses, Fines & Forfeitures                From use of money and property
+                    Charges for services                                        Intergovernmental revenues
+                    Miscellaneous, incl. Transfers In
+
+
+ Source: Prince William County Annual Comprehensive Financial Report FY 2020-2024, Exhibit 5.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                           | 14 |
+ The following chart shows Governmental Funds revenues that, in addition to General Fund revenue,
+ include Special Revenue Funds, and Capital Projects Funds revenues.
+
+                                    Prince William County Revenue - Governmental Funds
+                                                       (in thousands)
+   $2,500,000
+
+
+
+
+                                                                                                                      $1,997,650
+   $2,000,000
+                                                                                              $1,839,200
+
+
+                                            $1,565,043                  $1,557,969
+   $1,500,000   $1,417,607
+
+
+
+
+   $1,000,000
+
+
+
+
+    $500,000
+
+
+
+
+          $0
+                  2020                         2021                       2022                  2023                    2024
+                         General property taxes                                      Other local taxes
+                         Permits, Fees, Licenses, Fines & Forfeitures                From use of money and property
+                         Charges for services                                        Intergovernmental revenues
+                         Miscellaneous
+
+
+ Source: Prince William County Annual Comprehensive Financial Report FY 2020-2024, Exhibit 5.
+
+ Several Moody’s ratios, such as Liquidity ratios and Fund Balance are reported in the Financial Position
+ section that starts on page 9 and Long-term Liabilities and Fixed Cost ratios reported in the Liabilities
+ section on page 20, use total Governmental and Enterprise Funds revenues that are presented in the
+ following chart.
+                           Prince William County Revenue - Governmental and Enterprise Funds
+                                                     (in thousands)
+   $2,200,000
+                                                                                                                      $2,039,881
+   $2,000,000
+                                                                                             $1,871,060
+
+   $1,800,000
+
+                                            $1,594,754                  $1,584,827
+   $1,600,000
+                $1,445,019
+   $1,400,000
+
+   $1,200,000
+
+   $1,000,000
+
+    $800,000
+
+    $600,000
+
+    $400,000
+
+    $200,000
+
+          $0
+                   2020                       2021                        2022                    2023                  2024
+                  General property taxes                                             Other local taxes
+                  Intergovernmental revenues                                         Charges for services
+                  Permits, Fees, Licenses, Fines & Forfeitures                       From use of money and property
+                  Miscellaneous, incl. Transfers In                                  Business-type activities
+
+
+
+ Source: Prince William County Annual Comprehensive Financial Report FY 2020-2024, Exhibits 5 and 8.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                | 15 |
+                                                                                                       AAA target > 3%
+Budget Strength Measurement
+The rating agencies measure the magnitude of revenues that exceed expenditures at year end. Thus,
+S&P measures the County’s historical general fund operating balance* (excluding School Division and,
+beginning with fiscal year 2020, Fire and Rescue Levy funds), surplus or deficit, as a percentage of general
+fund operating revenues. Prior to 2024, the S&P metric was a percentage of general fund expenditure.
+The 3-year average of this metric is what is used in the scorecard. The ‘AAA’ target is greater than 3%.
+The County’s metric for fiscal year 2024 is 2.8% with a 3-year average of 1.2%, above the peer median
+of 1.8%.
+
+              Historical General Fund Operating Balances / General Fund Operating Revenues
+  3.5%
+
+
+  3.0%        2.8%                                                                           2.8%
+                                  2.7%
+
+  2.5%
+
+                                                      2.0%
+                                                                                                      AAA target > 3%
+  2.0%
+
+
+  1.5%
+
+
+  1.0%
+
+
+  0.5%
+
+
+  0.0%
+
+
+  -0.5%
+
+
+  -1.0%
+
+
+  -1.5%                                                                    -1.3%
+
+
+  -2.0%
+              2020                2021                2022                 2023              2024
+
+
+Source: County’s S&P report, dated September 20, 2024, for FY 2021 – FY 2023. FY 2020 & FY 2024 are estimated by PFM. *General
+Fund Balance includes assigned, unassigned, committed capital reserve, and committed revenue stabilization reserve
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                     | 16 |
+                    Comparable General Fund Operating Balances / General Fund Operating Revenues
+  7.0%
+
+
+  6.0%                                                                                                            5.8%
+
+
+  5.0%                                                                                                 4.8%
+
+
+  4.0%
+
+                                                                                            3.0%
+  3.0%                                                                           2.8%
+
+                                                                     2.0%
+  2.0%                                                   1.6%
+                                              1.5%
+
+  1.0%                             0.7%
+                        0.6%
+
+  0.0%
+
+
+  -1.0%
+
+            -1.4%
+  -2.0%
+            Howard    Arlington Chesterfield Fairfax     Wake      Henrico       Prince      Anne    Hanover    Loudoun
+          County, MD County, VA County, VA County, VA* County, NC County, VA    William     Arundel County, VA County, VA
+                                                                               County, VA County, MD
+                                                           Peer Median
+Source: Reflects PFM’s estimate of FY 2024 credit ratios unless denoted by *
+* Reflected S&P report for FY 2024
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                         | 17 |
+LIABILITIES  
+Debt and Pensions
+The last component of a financially sustainable community are manageable liabilities. Rating analysts
+seek to assess an entity’s debt burden and debt affordability, taking into account the debt structure.
+Within the Principles of Sound Financial Management (PSFM), the County established guidelines for                                   A
+debt management, including self-imposed debt limits, which is a credit strength. The first self-imposed
+limit measures total debt service as a percentage of total revenues and may not exceed 10%. For fiscal
+year 2024, the County debt service measured 4.9% of total revenues.
+
+
+                    Prince William County Tax Supported Debt Service as a Percent of Total Revenues
+ 12.0%
+
+
+
+
+ 10.0%                                                                                                       PSFM target < 10%
+
+
+  8.0%
+
+                                                              6.9%
+             6.6%
+                                     6.4%
+                                                                                   6.0%
+  6.0%
+
+                                                                                                      4.9%
+
+
+  4.0%
+
+
+
+
+  2.0%
+
+
+
+
+  0.0%
+             2020                    2021                     2022                 2023               2024
+
+                                              % of Total Revenues    10% Limit
+
+
+
+Source: Prince William County Annual Comprehensive Financial Report FY 2024, Table 14.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                        | 18 |
+ The second self-imposed limit states that total tax supported debt will not exceed 3% of net assessed
+ values of taxable real and personal property. At 1.1% for fiscal year 2024, the County continues to
+ maintain debt below this limit.
+
+
+
+                                   Prince William County Tax Supported Debt as a Percent of Assessed Values
+
+
+            3.5%
+
+
+            3.0%                                                                                                                                                       PSFM target < 3%
+
+            2.5%
+
+
+            2.0%
+
+                               1.5%                       1.5%
+            1.5%
+                                                                                       1.3%
+                                                                                                                1.1%                        1.1%
+            1.0%
+
+
+            0.5%
+
+
+            0.0%
+                              2020                        2021                         2022                     2023                        2024
+
+
+
+                                                                 % of Assessed Value          3% Limit
+
+
+ Source: Prince William County Annual Comprehensive Financial Report FY 2024, Table 14.
+
+ Prince William County’s debt capacity forecast represents County management’s commitment to
+ maintaining debt service at less than 10% of total revenue. The calculations are based on current existing
+ debt, as of June 30, 2024, plus debt for projects included in County’s Adopted Capital Improvement
+ Program (CIP) for fiscal years 2025-2030, and the County’s projected revenue, as detailed in the table
+ below.
+                                                          Prince William County Debt Capacity Forecast
+                                                                       FY 2025            FY 2026           FY 2027           FY 2028              FY 2029           FY 2030
+
+
+   Total existing and CIP debt service, incl. Schools 1              $144,820,810       $154,317,238     $170,410,262       $201,280,685       $211,188,496        $222,792,318
+
+
+
+   Percent change from prior year                                             2.10%            6.56%             10.43%            18.12%               4.92%             5.49%
+
+
+   General Revenue (in thousands) 2                                     $1,591,879        $1,732,674        $1,807,906        $1,889,734           $1,974,751        $2,063,874
+
+
+
+   Growth                                                                     7.78%            8.84%              4.34%                4.53%           4.50%              4.51%
+
+
+   Total Revenue (in thousands) 3                                       $3,103,896        $3,378,423        $3,525,112        $3,684,663           $3,850,432        $4,024,207
+
+
+
+   Debt service as a percentage of Total Revenue                              4.67%            4.57%              4.83%                5.46%            5.48%             5.54%
+
+
+
+   PSFM imposed limit                                                           10%               10%                 10%               10%               10%              10%
+
+
+        Source: 1 Adopted FY 2026 Budget, April 2025 including Schools CIP estimate.
+
+               2 FY 2025 Quarterly Revenue and Expenditure Updates for FY 2025 Forecast; Projections of General County Revenue report for FY 2026-2030 Forecast.
+
+               3 Total Revenue estimates are calculated based on the most recent revenue numbers as shown in FY 2024 ACFR, Table 14.
+
+                   They include General Fund, Special Revenue Funds, School Board and ADC component units revenues.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                                                                  | 19 |
+  In addition to debt, rating agencies assess pension liability. Unfunded pension liabilities represent
+  a long-term liability that can present future budgetary pressures if not reduced. One of Moody’s
+  financial performance metrics in debt and pension obligations expresses the potential budgetary
+  impact of long-term liabilities, including pension and other post-employment benefit (OPEB) liabilities,
+  in addition to outstanding debt, and speaks to the relative affordability of debt obligations based on
+  current revenue sources. The ‘Aaa’ target is less than 100%. The County’s ratio of 98.7% scores in the
+  ‘Aaa’ range and better than the peer group and Aaa medians of 138.7% and 152.2%, respectively.
+
+                                     Historical Long-Term Liabilities as a Percentage of Revenues
+   180.0%
+                                              165.8%
+                                                                    158.1%
+   160.0%          155.3%
+
+
+   140.0%
+                                                                                                                                  AAA target < 100%
+   120.0%
+                                                                                             108.6%
+                                                                                                                  98.7%
+   100.0%
+
+
+    80.0%
+
+
+    60.0%
+
+
+    40.0%
+
+
+    20.0%
+
+
+     0.0%
+                      2020                     2021                  2022                    2023                 2024
+                                                      Peer Median        Aaa County Median
+
+
+  Source: Moody’s Financial Ratio Analysis database
+
+
+                                 Comparable Long-Term Liabilities as a Percentage of Revenues
+   250.0%
+
+
+                                                                                                                         212.6%
+
+   200.0%
+                                                                                                             177.1%
+                                                                                                    168.1%
+                                                                                       163.8%
+
+   150.0%                                                                   141.7%
+                                                      134.7%    135.6%
+
+
+
+                                        103.0%
+                             98.7%
+   100.0%
+
+              71.6%
+
+
+    50.0%
+
+
+
+
+     0.0%
+             Hanover       Prince   Loudoun Chesterfield Henrico    Arlington   Fairfax    Howard     Wake       Anne
+            County, VA    William County, VA County, VA County, VA County, VA County, VA County, MD County, NC Arundel
+                         County, VA                                                                           County, MD
+                                                      Peer Median        Aaa County Median
+
+
+  Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                              | 20 |
+Another sub-factor in Moody’s Leverage category is the fixed-costs ratio. It measures estimated annual
+fixed costs associated with outstanding debt, pensions, OPEB, and other long-term liabilities relative to
+total governmental and business-type revenues. Debt and other long-term liabilities fixed costs in this
+ratio are calculated by Moody’s through their implied debt service calculation using the 10-Average of
+Bond Buyer 20-Bond GO Index as of December 31, 2024. The 10-Average of Bond Buyer 20-Bond GO
+Index tracks the average yields of 20-year general obligation municipal bonds with Aa2/AA credit ratings
+over a 10-year period. Pension fixed costs are calculated by Moody’s through their tread water indicator
+calculation. The tread water indicator is an estimate of the annual pension contribution necessary to
+prevent growth in unfunded liabilities. The County rates ‘Aaa’ in this category at 6.8% and scores better
+than the peer group and Aaa medians of 9.4% and 8.6% respectively.
+
+
+                           Historical Fixed Costs as a Percentage of Revenues
+ 10.0%
+
+                               9.0%
+  9.0%        8.8%
+                                                     8.6%                               AAA target < 10%
+  8.0%
+
+                                                                          7.1%
+  7.0%                                                                           6.8%
+
+
+  6.0%
+
+
+  5.0%
+
+
+  4.0%
+
+
+  3.0%
+
+
+  2.0%
+
+
+  1.0%
+
+
+  0.0%
+              2020             2021                  2022                 2023   2024
+                                      Peer Median     Aaa County Median
+
+
+
+Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                 | 21 |
+                                    Comparable Fixed Costs as a Percentage of Revenues
+   16.0%
+
+                                                                                                               14.0%
+   14.0%
+
+
+   12.0%
+                                                                                                    11.9%                 AAA Target < 10%
+                                                                               10.7%      10.9%
+                                                                    10.1%
+   10.0%
+                                                          8.6%
+                                               8.3%
+    8.0%
+                          6.8%       7.0%
+
+    6.0%
+             4.9%
+
+    4.0%
+
+
+    2.0%
+
+
+    0.0%
+            Hanover       Prince   Loudoun Chesterfield Henrico     Fairfax   Arlington   Howard     Wake       Anne
+           County, VA    William County, VA County, VA County, VA County, VA County, VA County, MD County, NC Arundel
+                        County, VA                                                                           County, MD
+                                                Peer Median      Aaa County Median
+
+
+
+
+ Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                     | 22 |
+ ECONOMIC ENVIRONMENT  
+ The political and economic environment begins with the governing body. The rating agencies look
+ at the stability of the Board of County Supervisors, adherence to the Principles of Sound Financial
+ Management and consistency in operations. Governance factors capture an organization’s willingness
+ to make proactive policy decisions to ensure the maintenance of a strong financial position and
+ reliable financial cushion. Rating agencies report that entities that attempt to increase expenditures
+ for popular services and programs and simultaneously pledge not to raise taxes or cut other programs
+ will generally experience negative impacts such as a deterioration in their balance sheets as reserves
+ are extinguished and the debt load grows. Historically, the County has scored very well in this area,
+ with the institutional framework and management assessment at ‘very strong’.
+ The County is continuing to experience a growing population. The County demographer estimates the
+ population at 499,809 as of the fourth quarter of 2024. The chart below illustrates periods of major
+ growth during the 1960s and 1970s followed by even larger gains through 2020. The County is forecast
+ to maintain population growth in the coming decades but at a decreasing pace as time passes. The
+ COVID-19 pandemic began in the United States in March 2020 and lasted through 2022. Between
+ 2022 and 2023, the population in Northern Virginia counties began to recover from pandemic-
+ induced domestic out-migration. According to the Census Bureau, Prince William County maintained
+ population growth through the pandemic years, rising from 482,200 in 2020 to an estimated 499,809,
+ as of Q4 2024.
+
+
+      PWC Historical Population Data
+    Year Count Gain/Loss % Change
+    1900 11,112         1,307     13.33%
+    1910 12,026           914      8.23%
+    1920 13,660         1,634     13.59%
+    1930 13,951           291      2.13%
+    1940 17,738         3,787     27.15%
+    1950 22,612         4,874     27.48%
+    1960 50,164        27,552    121.85%
+    1970 111,102       60,938    121.48%
+    1980 144,703       33,601     30.24%
+    1990 215,686       70,983     49.05%
+    2000 280,813       65,127     30.20%
+    2010 402,002      121,189     43.16%
+    2020 482,204       80,202     19.95%
+    2030 536,600       54,396     11.28%
+    2040 565,000       28,400      5.29%
+    2050 579,600       14,600      2.58%
+
+
+ Sources: Prince William County Demographer – Historical population retrieved from University of Minnesota Population Center’s
+ NHGIS;2019-2023 American Community Survey (ACS) 5-Year Estimates. Population projections from Metropolitan Washington
+ Council of Governments Round 10.0 Cooperative Forecasts.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                      | 23 |
+ Sources: Prince William County Demographer – Historical population retrieved from University of Minnesota Population Center’s
+ NHGIS; 2019-2023 American Community Survey (ACS) 5-Year Estimates.Population projections from Metropolitan Washington
+ Council of Governments Round 10.0 Cooperative Forecasts; Weldon Cooper Center for Public Service, Demographics Research
+ Group, at UVA; U.S. Census Population Estimates Program.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                      | 24 |
+Demographic factors drive demands for programs and services, impacting the expenditures of a local
+government. The largest sector of the County population is the 18- to 64-year-old age group, but the
+fastest rate of growth continues to be in the 65 and over category. In 2019-2023, the U.S. Census Bureau
+estimated that the County’s 65 and over category stood at 52,703 people, nearly double that of the 2010
+value of 27,220.
+                                                             Prince William County
+                                                             Age Group Distribution
+                                                                   1980-2023
+        0%              10%                    20%                   30%                   40%               50%                60%                   70%
+
+
+                                                                                        36.3%
+ 1980                                                                                                                                 61.3%
+             2.4%
+
+
+                                                                           30.5%
+ 1990                                                                                                                                           66.4%
+             3.0%
+
+
+                                                                           30.4%
+ 2000                                                                                                                                         64.8%
+                4.8%
+
+
+                                                                     28.9%
+ 2010                                                                                                                                     64.3%
+                      6.8%
+
+
+                                                                26.6%
+ 2023                                                                                                                                  62.5%
+                               10.9%
+
+
+                                                       % Under 18          % 18 to 64      % 65 and Over
+
+
+
+Sources: PWC Demographer: Historical population retrieved from University of Minnesota Population Center’s NHGIS; 2019-2023
+American Community Survey (ACS) 5-Year Estimates.
+
+                                                           Prince William County
+                                                         Age Group Percent Change
+                                                                 1980-2023
+        0%                    20%                     40%                      60%                     80%                100%                    120%
+
+
+               6.9%
+ 1980                                                                49.8%
+                                        27.3%
+
+
+                                       25.4%
+ 1990                                                                                61.6%
+                                                                                                                85.4%
+
+
+                                           29.7%
+ 2000                                   26.9%
+                                                                                                                                      106.2%
+
+
+                                                     36.0%
+ 2010                                                        42.2%
+                                                                                                                                 102.0%
+
+
+                      11.1%
+ 2023                         17.1%
+                                                                                                                        93.6%
+
+
+                                        % Change Under 18            % Change 18 to 64           % Change 65 and Over
+
+
+Sources: PWC Demographer: Historical population retrieved from University of Minnesota Population Center’s NHGIS; 2019-2023
+American Community Survey (ACS) 5-Year Estimates.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                                         | 25 |
+Wealth
+A high median household income is a positive economic indicator and a measure of the strength and
+resilience of a tax base. A jurisdiction with high wealth levels may have greater flexibility to increase
+property tax rates to meet financial needs. Wealthier communities also have greater spending power
+and drive demand to support growth in the commercial sector. For example, even during the Great
+Recession, the retail industry in Prince William County remained relatively strong. The 2019-2023
+median household income as reported by the U.S. Census American Community Survey increased to
+$128,873, up from $103,445 just five years earlier.
+                                             Prince William County
+                                      Median Household Income 1980-2023
+             $0   $20,000         $40,000       $60,000        $80,000    $100,000        $120,000      $140,000
+
+
+
+     1980                   $25,435
+
+
+
+
+     1990                                    $49,370
+
+
+
+
+     2000                                                 $65,960
+
+
+
+
+     2010                                                                 $92,655
+
+
+
+
+ 2014-2018                                                                          $103,445
+
+
+
+
+ 2019-2023                                                                                           $128,873
+
+
+
+
+Sources: PWC Demographer: Data for 1980-2000 retrieved from University of Minnesota Population Center’s NHGIS; U.S. Census
+American Community Survey (ACS) 2014-2018 5-Year Estimates and 2019-2023 5-Year Estimates.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                 | 26 |
+Moody’s analyzes median household income as opposed to median family income. Household income
+includes the income of all people who occupy a housing unit regardless of relationship, whereas family
+income measures the income of two or more people related by birth, marriage, or adoption. Under
+Moody’s methodology, median household income is adjusted for regional differences in the cost of living
+using Regional Price Parities. On the adjusted median household income metric, the County scores very
+strongly as a ‘Aaa’ at $118,623 (151.0% of U.S. Median). This exceeds the ‘Aaa’ target of 120% of the U.S.
+median of $78,538, which is $94,245.
+                                  Comparable Median Household Income (Adjusted)
+
+ $180,000
+                                                                                                                  $164,493
+ $160,000
+                                                                                                       $143,118
+                                                                                            $138,173
+ $140,000
+                                                                                 $129,012
+                                                                                                                             AAA target > 120%
+                                                           $117,161   $118,623                                                 U.S. Median
+ $120,000                                     $111,739
+                       $100,929    $103,840
+ $100,000
+             $88,160
+
+  $80,000
+
+
+  $60,000
+
+
+  $40,000
+
+
+  $20,000
+
+
+      $0
+             Henrico Chesterfield Wake        Hanover        Anne      Prince   Arlington  Fairfax    Howard    Loudoun
+            County, VA County, VA County, NC County, VA     Arundel   William County, VA County, VA County, MD County, VA
+                                                          County, MD County, VA
+
+                                      Peer Median         US Median       Virginia Median
+
+
+
+
+Source: Moody’s Financial Ratio Analysis database. American Community Services and Bureau of Economic Analysis, as of 2023;
+2024 data unavailable
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                         | 27 |
+Under their new rating criteria, S&P evaluates two economic metrics: Gross County Domestic Product
+(GCP) as a percent of U.S. Gross Domestic Product (GDP) and Per Capita Personal Income (PCPI) as a
+percent of U.S. PCPI. On GCP as a percent of GDP, the County’s ratio is 64% which lags the peer median
+of 127% and is below the ‘AAA’ target of 110%.
+
+                   Historical County Gross Domestic Product as Percentage of U.S. Gross Domestic Product
+  100.0%
+
+
+   90.0%
+
+
+   80.0%
+                                                                                                                       AAA target > 110%
+   70.0%
+                        65%                       64%                       64%                       64%
+
+   60.0%
+
+
+   50.0%
+
+
+   40.0%
+
+
+   30.0%
+
+
+   20.0%
+
+
+   10.0%
+
+
+    0.0%
+                        2020                      2021                     2022                       2023
+
+
+Source: County’s S&P report, dated September 20, 2024, for FY 2021 – FY 2023. FY 2020 & FY 2024 are estimated by PFM. FY 2023
+is most recent data available.
+
+               Comparable County Gross Domestic Product as Percentage of U.S. Gross Domestice Product
+  250%
+                                                                                                             228%
+
+
+
+  200%
+                                                                                                  179%
+
+
+
+  150%
+                                                                   130%      131%      132%
+                                                         124%
+                                              118%
+
+
+  100%
+                                    88%
+
+                         69%
+             64%
+
+   50%
+
+
+
+
+   0%
+             Prince   Chesterfield Hanover Loudoun     Wake      Henrico     Anne    Howard     Fairfax    Arlington
+            William County, VA County, VA County, VA County, NC County, VA Arundel County, MD County, VA* County, VA
+           County, VA                                                     County, MD
+                                                          Peer Median
+
+Source: Reflects PFM’s estimate of FY 2024 credit ratios unless denoted by *
+* Reflected S&P report for FY 2024
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                  | 28 |
+On County PCPI as a percent of U.S. PCPI, the County’s ratio is 98%, slightly below the AAA target of 100%
+and lags the peer median of 118%.
+
+                                 Historical County Per Capita Personal Income as Percentage of
+                                                U.S. Per Capita Personal Income
+ 140.0%
+
+
+
+ 120.0%
+
+
+                          99%                                                  97%                       98%              AAA target > 100%
+ 100.0%                                                96%
+
+
+
+  80.0%
+
+
+
+  60.0%
+
+
+
+  40.0%
+
+
+
+  20.0%
+
+
+
+   0.0%
+                          2020                      2021                       2022                      2023
+                                                              Peer Median
+
+Source: County’s S&P report, dated September 20, 2024, for FY 2021 – FY 2023. FY 2020 & FY 2024 are estimated by PFM. FY 2023
+is most recent data available.
+
+                Comparable Per Capita Personal Income as Percentage of U.S. Per Capita Personal Income
+
+ 200%                                                                                                           191%
+                                                                                                     190%
+
+ 180%
+
+ 160%                                                                                     155%
+
+
+ 140%                                                                           137%
+
+                                                                       120%
+ 120%                                                        116%
+                                     110%       111%
+
+             96%           98%
+ 100%
+
+  80%
+
+  60%
+
+  40%
+
+  20%
+
+   0%
+          Chesterfield     Prince   Hanover   Henrico     Wake       Anne    Howard     Fairfax    Arlington  Loudoun
+          County, VA      William County, VA County, VA County, NC Arundel County, MD County, VA* County, VA County, VA
+                         County, VA                               County, MD
+                                                              Peer Median
+
+Source: Reflects PFM’s estimate of FY 2024 credit ratios unless denoted by *.
+* Reflects S&P report for FY 2024. FY 2023 is most recent data available.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                      | 29 |
+An area where the County has experienced consistent year-over-year growth is reflected in at-place
+employment. This is important as increases in employment boosts a local economy, creating a larger
+tax base. The rating agencies have positively noted the County’s diverse economy and economic
+development efforts to grow and expand a high-end employment base. Despite the COVID-19 pandemic,
+many existing businesses have sustained their operations with the support of a variety of business
+relief loan and grant programs and similar funding resources available through federal, state, and local
+governments.
+
+                       Prince William County At-Place Employment and Establishments
+  160,000                                                                                          11,000
+
+                                                                                      144,362
+                                                                     140,608                       10,800
+  140,000                                          134,435                                10,637
+                                130,346
+                                                                                                   10,600
+  120,000    117,203
+
+                                                                                                   10,400
+
+  100,000
+                                                                                                   10,200
+
+
+   80,000                                                                                          10,000
+
+
+                                                                                                   9,800
+   60,000
+              9,614
+                                                                                                   9,600
+   40,000
+                                                                                                   9,400
+
+   20,000
+                                                                                                   9,200
+
+
+       -                                                                                           9,000
+              2020               2021                2022             2023             2024
+                                 Average At-Place Employment    Establishments
+
+
+
+Source: Virginia Employment Commission, Quarterly Census of Employment and Wages, 2nd Quarter 2024
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                         | 30 |
+Assessed Value
+The tax base is the primary source from which a local government derives its revenues. A large, robust,
+diverse tax base typically offers a local government more flexibility, as well as protection from unexpected
+shocks, such as the loss of a significant employer or industry. A smaller, more concentrated tax base,
+on the other hand, is more prone to feel the impacts of such loss due to the dependency on a fewer
+number of properties. The County’s tax base has continued to grow with total assessed values in the
+2024 Land Book exceeding $100 billion. The County remains more heavily concentrated on residential
+properties as compared to some of its Northern Virginia peers. Over the last three years, peers have
+seen growth in their commercial sector.
+
+                               Prince William County Real Estate Assessment Values
+                                                   (in billions)
+ $120,000
+
+
+                                                                                                           $105
+
+ $100,000
+                                                                                                    $94
+
+
+                                                                                              $83
+  $80,000
+                                                                                 $73
+                                                                   $68
+                                                     $64
+                                          $61
+  $60,000                       $58
+            $54     $56
+
+
+
+
+  $40,000
+
+
+
+
+  $20,000
+
+
+
+
+      $0
+            2015   2016         2017      2018       2019          2020          2021        2022   2023   2024
+
+                          Residential   Apartments    Commercial          Land     Public Service
+
+
+Source: Prince William County Real Estate Assessments Office 2024 Annual Report.
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                               | 31 |
+Moody’s regards historical assessed value per capita of greater than $180,000 as a ‘Aaa’ target. This
+metric converts the taxable property available (real estate and personal property) to generate revenues
+to a per resident metric, depicting the availability of tax-generating resources to fund programs and
+services relative to the users. The County achieves a ‘Aaa’ for this factor with a ratio of $219,596. The
+County’s score is above the nationwide ‘Aaa’ median of $169,428 and the peer median of $211,447. Of
+the 118 counties that Moody’s rates ‘Aaa’, as of the most recent data published by Moody’s, 57 counties
+met the ‘Aaa’ target for this metric.
+                                         Prince William County Assessed Value per Capita
+  $250,000
+
+
+                                                                                                                       $219,596
+
+
+  $200,000                                                                                     $194,520
+
+
+                                                                        $172,171
+                                                                                                                                  AAA target > $180,000
+                                                $156,288
+                    $151,685
+  $150,000
+
+
+
+
+  $100,000
+
+
+
+
+   $50,000
+
+
+
+
+       $0
+                         2020                    2021                    2022                    2023                    2024
+                                                      Peer Median        Aaa County Median
+
+Source: Moody’s Financial Ratio Analysis database
+
+
+                                           Comparable Assessed Value per Capita
+ $450,000
+
+                                                                                                          $404,807   $406,299
+ $400,000
+
+
+ $350,000
+
+
+ $300,000
+                                                                                              $276,686
+
+ $250,000                                                                          $236,318
+                                                                        $219,596
+                                                             $203,297
+ $200,000                            $188,999     $191,734
+              $178,516    $183,814
+
+
+ $150,000
+
+
+ $100,000
+
+
+  $50,000
+
+
+       $0
+                Anne     Wake Chesterfield Howard        Henrico    Prince   Hanover    Fairfax   Arlington Loudoun
+               Arundel County, NC County, VA County, MD County, VA William County, VA County, VA County, VA County, VA
+             County, MD                                           County, VA
+                                                  Peer Median       Aaa County Median
+
+
+Source: Moody’s Financial Ratio Analysis database
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                                                | 32 |
+Sources:
+PFM Financial Advisors, LLC.
+Moody’s Investors Service Rating Methodology
+Standard & Poor’s Ratings Services Ratings Direct
+Prince William County Annual Comprehensive Financial Report For The Year Ended June 30, 2024
+2024 Annual Report Prince William County Real Estate Assessments Office
+Prince William County Demographer
+Virginia Employment Commission, Quarterly Census of Employment and Wages
+American Community Services and Bureau of Economic Analysis
+Nielsen’s Claritas Database
+Virginia Auditor of Public Accounts, Local Government Fiscal Distress Monitoring 2022 and 2023 Report,
+dated June 2024
+Prince William County 2024 - 2029 Capital Improvement Plan
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                              | 33 |
+           Moody’s Scorecard Summary
+
+
+
+
+           S&P’s Scorecard Summary (implemented September 2024)
+
+
+
+
+          Fitch’s Scorecard Summary (implemented April 2024)
+
+
+
+
+           The ratios from this scorecard are not utilized in any of the metrics featured in this Fiscal Health Outlook Report
+
+
+
+
+Fiscal Health Outlook Report - 2024                                                                                              | 34 |
+Department of Finance
+1 County Complex Court
+Prince William, VA 22192
+www.pwcva.gov
+
