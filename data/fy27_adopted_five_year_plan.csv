@@ -1,0 +1,32 @@
+fiscal_year,metric,value,unit,source,note
+2027,general_revenue_split_base,1955227500,USD,FY27-Item-7-J,"Adopted FY27 general revenue subject to 57.23/42.77 split. Proposed figure; post-markup adopted is ~$1,922.7M after net $32.558M reduction."
+2028,general_revenue_split_base,2044099938,USD,FY27-Item-7-J,"Adopted FY27-31 Five-Year Plan."
+2029,general_revenue_split_base,2120820936,USD,FY27-Item-7-J,"Adopted FY27-31 Five-Year Plan."
+2030,general_revenue_split_base,2206491134,USD,FY27-Item-7-J,"Adopted FY27-31 Five-Year Plan; +$143M vs. prior PWC-REV-FY26-30 FY30 forecast of $2,063.9M."
+2031,general_revenue_split_base,2295304188,USD,FY27-Item-7-J,"Adopted FY27-31 Five-Year Plan; implicit CAGR ~4.1%."
+2027,schools_share_57_23,1118976698,USD,FY27-Item-7-J,"Proposed. Adopted post-markup: $1,087,989,229 per Adoption memo p.2."
+2028,schools_share_57_23,1169838394,USD,FY27-Item-7-J,"57.23% of general revenue base excluding carve-outs."
+2029,schools_share_57_23,1213745822,USD,FY27-Item-7-J,
+2030,schools_share_57_23,1262774876,USD,FY27-Item-7-J,
+2031,schools_share_57_23,1313602587,USD,FY27-Item-7-J,
+2027,county_share_42_77,836250802,USD,FY27-Item-7-J,
+2028,county_share_42_77,874261543,USD,FY27-Item-7-J,
+2029,county_share_42_77,907075114,USD,FY27-Item-7-J,
+2030,county_share_42_77,943716258,USD,FY27-Item-7-J,
+2031,county_share_42_77,981701601,USD,FY27-Item-7-J,
+2027,total_gf_expenditure,2222357743,USD,FY27-Item-7-J,
+2028,total_gf_expenditure,2307014294,USD,FY27-Item-7-J,
+2029,total_gf_expenditure,2387900999,USD,FY27-Item-7-J,
+2030,total_gf_expenditure,2475511591,USD,FY27-Item-7-J,
+2031,total_gf_expenditure,2567647808,USD,FY27-Item-7-J,
+2027,re_tax_rate_per_100,0.850,USD_per_100_AV,FY27-Item-7-A,"Adopted 2026-04-21. Item 7-A line 31. Down from FY26 $0.906."
+2027,cp_tax_rate_per_100,4.500,USD_per_100_AV,FY27-Item-7-A,"Adopted 2026-04-21. Item 7-A line 74. Up from FY26 $4.15; $0.35 increment carved out of Schools 57.23% share per Item 7-C."
+2027,meals_tax_rate,0.025,fraction,FY27-Adoption-Memo,"Blended 3% H1 + 2% H2 effective 2027-01-01. FY28+ full 2%."
+2028,meals_tax_rate,0.020,fraction,FY27-Adoption-Memo,
+2029,meals_tax_rate,0.020,fraction,FY27-Adoption-Memo,
+2030,meals_tax_rate,0.020,fraction,FY27-Adoption-Memo,
+2031,meals_tax_rate,0.020,fraction,FY27-Adoption-Memo,
+2027,gf_debt_service,53493011,USD,FY27-Item-7-D,
+2027,total_debt_service,154999957,USD,FY27-DebtService,"County $33.9M + Schools $121.0M."
+2027,dc_revenue_stabilization_fund_contribution,0,USD,FY27-BudgetSummary,"$0 contribution in FY27; down from $1M in FY26."
+2027,residential_avg_assessed_value,590571,USD,FY27-Introduction,"Average residential assessed value FY27; +3.5% vs FY26 $570,600."

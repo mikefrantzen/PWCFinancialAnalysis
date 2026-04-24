@@ -174,6 +174,10 @@ SCENARIOS: Tuple[str, ...] = (SCENARIO_PRE_DG, SCENARIO_SPILLOVER, SCENARIO_PART
 
 # FY26 baseline anchors -- extracted from pwc_baseline.csv.
 FY26_RE_TAX_RATE_PER_100: float = 0.906  # $/ $100 of AV (PWC-REV-FY26-30 p.2).
+FY27_RE_TAX_RATE_PER_100: float = 0.850  # $/ $100 of AV (FY27 Adopted Item 7-A).
+# Rate applied to FY27+ real-property revenue in this model. Historical FY26
+# residual calculations still use FY26_RE_TAX_RATE_PER_100.
+CURRENT_RE_TAX_RATE_PER_100: float = FY27_RE_TAX_RATE_PER_100
 FY26_TOTAL_ASSESSED_VALUE: float = 137_561_804_000.0  # FY25 ACFR p.309 Table 14.
 FY26_DC_TOTAL_ASSESSED_VALUE: float = 21_700_000_000.0  # PWC-RE-2025 p.23.
 FY26_UNASSIGNED_GF_BALANCE: float = 134_724_000.0  # FY25 audited, PWC-ACFR-FY25 p.35.
@@ -454,7 +458,7 @@ def _spillover_dc_revenue(
     # Lost RE tax revenue at the current FY26 rate.  Applied from FY27+
     # because re-assessment following the Apr 2026 non-appeal lands on
     # the TY2026 landbook (for FY27 revenue recognition).
-    writedown_revenue_loss = expected_markdown_av * (FY26_RE_TAX_RATE_PER_100 / 100.0)
+    writedown_revenue_loss = expected_markdown_av * (CURRENT_RE_TAX_RATE_PER_100 / 100.0)
 
     dc_total = (
         pre_dg_dc
@@ -516,7 +520,7 @@ def _partial_recovery_dc_revenue(
     expected_markdown_av = (
         VACANT_DC_ZONED_AV_FY26 * ASSESSED_VALUE_HAIRCUT_CONTINGENT_OVERLAY * partial_prob
     )
-    writedown_revenue_loss = expected_markdown_av * (FY26_RE_TAX_RATE_PER_100 / 100.0)
+    writedown_revenue_loss = expected_markdown_av * (CURRENT_RE_TAX_RATE_PER_100 / 100.0)
 
     dc_total = (
         pre_dg_dc
@@ -1051,6 +1055,12 @@ def build_scenario_results(
                     required_rate_nominal - FY26_RE_TAX_RATE_PER_100, "USD_per_100_AV"
                 )
             )
+            rows.append(
+                ScenarioRow(
+                    scenario, fy, "required_re_rate_delta_vs_fy27_nominal",
+                    required_rate_nominal - FY27_RE_TAX_RATE_PER_100, "USD_per_100_AV"
+                )
+            )
 
             # Debt-service metrics.
             ds = debt_totals[fy]
@@ -1109,7 +1119,7 @@ def impairment_sensitivity_results(
     extra_haircut = VACANT_DC_ZONED_AV_FY26 * ASSESSED_VALUE_HAIRCUT_CONTINGENT_OVERLAY * (
         1.0 - IMPAIRMENT_DISCLOSURE_PROBABILITY_24MO
     )
-    extra_re_loss = extra_haircut * (FY26_RE_TAX_RATE_PER_100 / 100.0)
+    extra_re_loss = extra_haircut * (CURRENT_RE_TAX_RATE_PER_100 / 100.0)
 
     rows: List[ScenarioRow] = []
     reserves_triggered = FY26_UNASSIGNED_GF_BALANCE
@@ -1458,7 +1468,7 @@ def main() -> int:
             print(f"    FY{fy}: ${v/1e6:+,.1f}M")
 
     print("\n=== Required RE tax rate per $100 (CAPEX Spillover) ===")
-    print("  (Nominal rate; current FY26 nominal = $0.906; effective = ~$0.746)")
+    print("  (Nominal rate; FY27 adopted nominal = $0.850; FY26 was $0.906)")
     for fy in FISCAL_YEARS:
         v = float(
             scenario_results[
@@ -1467,7 +1477,7 @@ def main() -> int:
                 & (scenario_results["metric"] == "required_re_tax_rate_nominal_per_100")
             ]["value"].iloc[0]
         )
-        print(f"  FY{fy}: ${v:.4f}/$100 (current FY26 ${FY26_RE_TAX_RATE_PER_100:.3f})")
+        print(f"  FY{fy}: ${v:.4f}/$100 (FY27 adopted ${FY27_RE_TAX_RATE_PER_100:.3f}; FY26 ${FY26_RE_TAX_RATE_PER_100:.3f})")
 
     print("\n=== Debt-service cap breaches ===")
     for scenario in SCENARIOS:

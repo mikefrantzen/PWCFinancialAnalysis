@@ -98,7 +98,7 @@ smaller_lines,sales_tax_base_growth,high,0.040,fraction_per_year,PWC-REV-FY26-30
 smaller_lines,personal_property_vehicles_base_growth,low,-0.025,fraction_per_year,PWC-REV-FY26-30,"Low: vehicle-fleet contraction + fewer new-car purchases."
 smaller_lines,personal_property_vehicles_base_growth,base,0.010,fraction_per_year,PWC-REV-FY26-30,"Base: modest fleet growth."
 smaller_lines,personal_property_vehicles_base_growth,high,0.025,fraction_per_year,PWC-REV-FY26-30,"High."
-smaller_lines,meals_tax_rate_fy26_fy27,base,0.035,fraction,PWC-REV-FY26-30,"Meals rate: 4% through 2025-12-31; 3% from 2026-01-01. FY26 is half-half, FY27+ is 3% full-year. Effective FY27 rate is 3%."
+smaller_lines,meals_tax_rate_fy26_fy27,base,0.025,fraction,FY27-ADOPTED,"Meals-rate schedule: 4% through 2025-12-31; 3% from 2026-01-01 (FY26 blended 3.5%); 2% from 2027-01-01 per FY27 adopted (Adoption memo p.2). FY27 is 3% H1 + 2% H2 = blended 2.5%; FY28+ are full 2%. Year-specific rates encoded in model.revenue_drivers.MEALS_RATE_BY_FY."
 smaller_lines,meals_tax_base_growth_pre_rate,low,-0.020,fraction_per_year,PWC-REV-FY26-30,"Low: federal daytime-pop loss hits meals spending."
 smaller_lines,meals_tax_base_growth_pre_rate,base,0.020,fraction_per_year,PWC-REV-FY26-30,"Base."
 smaller_lines,meals_tax_base_growth_pre_rate,high,0.035,fraction_per_year,PWC-REV-FY26-30,"High."

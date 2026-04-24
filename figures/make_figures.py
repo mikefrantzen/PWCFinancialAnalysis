@@ -228,12 +228,66 @@ def fig_scenario_deficit(data):
     plt.close(fig)
 
 
+# ---------- fig 2b: FY27 adopted Five-Year Plan vs. scenarios ----------
+def fig_fy27_adopted_vs_scenarios(data):
+    """Compare PWC's own adopted FY27-FY31 Five-Year Plan general revenue to the
+    three scenarios in this model. The plan is the county's forward revenue
+    baseline as of 2026-04-21 adoption (Item 7-J)."""
+    fys = [2027, 2028, 2029, 2030, 2031]
+    adopted_plan = {
+        2027: 1_955_227_500,
+        2028: 2_044_099_938,
+        2029: 2_120_820_936,
+        2030: 2_206_491_134,
+        2031: 2_295_304_188,
+    }
+    fig, ax = plt.subplots(figsize=(7.4, 4.3))
+    # Scenario lines
+    for scen in SCENARIOS:
+        vals = [data[scen][fy]["total_revenue"] / 1e9 for fy in fys]
+        ax.plot(
+            fys, vals, marker="o",
+            color=SCENARIO_COLOR[scen], label=SCENARIO_LABEL[scen], linewidth=1.8,
+        )
+    # FY27 adopted plan overlay
+    adopted_vals = [adopted_plan[fy] / 1e9 for fy in fys]
+    ax.plot(
+        fys, adopted_vals, marker="s", color="#b8860b", linewidth=2.2,
+        linestyle="--", label="FY27 Adopted Five-Year Plan (Item 7-J)",
+    )
+    for fy, v in zip(fys, adopted_vals):
+        ax.annotate(f"${v:.2f}B", (fy, v), textcoords="offset points",
+                    xytext=(0, 8), ha="center", fontsize=7, color="#8B6508")
+    ax.set_xticks(fys)
+    ax.set_xticklabels([f"FY{fy-2000}" for fy in fys])
+    ax.set_ylabel("Total General Fund Revenue, USD billions")
+    ax.set_title("PWC Adopted FY27-FY31 Five-Year Plan vs. Three Scenarios")
+    ax.legend(loc="upper left", fontsize=8)
+    ax.text(
+        0.0,
+        -0.22,
+        "Sources: Adopted plan from /data/fy27_adopted_five_year_plan.csv (Item 7-J, adopted 2026-04-21); "
+        "scenario totals from /data/scenario_results.csv metric total_revenue. "
+        "Adopted plan figures are proposed-budget values; adopted post-markup general revenue is ~$32.6M lower "
+        "(Adoption memo p.2). Non-Pageland DC CAPEX is not discounted in the adopted plan.",
+        transform=ax.transAxes,
+        fontsize=6.5,
+        ha="left",
+        color="#444",
+    )
+    fig.tight_layout()
+    fig.savefig(OUT / "fig_fy27_adopted_vs_scenarios.png", bbox_inches="tight")
+    plt.close(fig)
+
+
 # ---------- fig 3: required nominal tax rate ----------
 def fig_required_tax_rate(data):
     fys = [2027, 2028, 2029, 2030, 2031]
     fig, ax = plt.subplots(figsize=(7.2, 4.1))
+    fy27_rate = 0.850
     fy26_rate = 0.906
-    ax.axhline(fy26_rate, color="#444", linestyle="--", linewidth=0.9, label="FY26 adopted nominal rate $0.906")
+    ax.axhline(fy27_rate, color="#1f7a1f", linestyle="-", linewidth=1.2, label="FY27 adopted nominal rate $0.850")
+    ax.axhline(fy26_rate, color="#888", linestyle="--", linewidth=0.8, label="FY26 adopted nominal rate $0.906")
     ax.axhline(1.000, color="#888", linestyle=":", linewidth=0.8)
     ax.text(fys[0] - 0.05, 1.003, "$1.00 threshold", fontsize=7, color="#666")
 
@@ -246,14 +300,15 @@ def fig_required_tax_rate(data):
     ax.set_xticks(fys)
     ax.set_xticklabels([f"FY{fy-2000}" for fy in fys])
     ax.set_ylabel("Nominal real-estate tax rate, $ per $100 AV")
-    ax.set_ylim(0.86, 1.06)
+    ax.set_ylim(0.80, 1.10)
     ax.set_title("Required Nominal RE Tax Rate to Close the Gap, by Scenario")
     ax.legend(loc="upper left", fontsize=8)
     ax.text(
         0.0,
         -0.2,
-        "Source: /data/scenario_results.csv metric required_re_tax_rate_nominal_per_100. Rate reported at the adopted nominal level "
-        "using the FY26 $0.906/$0.746 nominal-to-effective ratio (PWC-BUD-FY26-REV p.63; model/pwc_5yr.py §NOMINAL_TO_EFFECTIVE_RATIO).",
+        "Source: /data/scenario_results.csv metric required_re_tax_rate_nominal_per_100. Nominal rate converted from the modeled "
+        "effective rate using the FY26 $0.906/$0.746 = 1.214 ratio (PWC-BUD-FY26-REV p.63; model/pwc_5yr.py §NOMINAL_TO_EFFECTIVE_RATIO). "
+        "FY27 adopted rate $0.850 (Item 7-A) shown as the current-policy reference; FY26 $0.906 shown for historical comparison.",
         transform=ax.transAxes,
         fontsize=6.5,
         ha="left",
@@ -1262,6 +1317,7 @@ def main():
     data = load_scenario_results()
     fig_revenue_mix_fy26()
     fig_scenario_deficit(data)
+    fig_fy27_adopted_vs_scenarios(data)
     fig_required_tax_rate(data)
     fig_reserve_trajectory(data)
     fig_debt_service_ratio(data)

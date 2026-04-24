@@ -158,9 +158,14 @@ RESIDENTIAL_SHARE_OF_TOTAL_AV = 0.677
 DC_SHARE_OF_TOTAL_AV = 0.158
 NON_DC_COMMERCIAL_SHARE_OF_TOTAL_AV = 1.0 - RESIDENTIAL_SHARE_OF_TOTAL_AV - DC_SHARE_OF_TOTAL_AV
 
-# FY26 adopted RE tax rate = $0.906/$100. Held constant across scenarios here
-# (rate policy is a Stage 6 lever). Source: PWC-REV-FY26-30 p.2.
-RE_TAX_RATE = 0.00906
+# FY26 adopted RE tax rate = $0.906/$100 (PWC-REV-FY26-30 p.2).
+# FY27 adopted RE tax rate = $0.850/$100 (Item 7-A line 31, adopted 2026-04-21).
+# The FY26 rate is used to back out FY26 residential AV from FY26 revenue; the
+# FY27 rate is used to project FY27-FY31 residential RE revenue. Rate policy
+# remains a Stage 6 lever (see required_re_tax_rate() in pwc_5yr.py).
+RE_TAX_RATE_FY26 = 0.00906
+RE_TAX_RATE_FY27 = 0.00850
+RE_TAX_RATE = RE_TAX_RATE_FY27  # default used for forward projections
 
 # Personal property on business-tangible (non-DC portion only). The baseline
 # business_tangible_current line is $217.995M and is ~90% DC-equipment; the
@@ -168,10 +173,20 @@ RE_TAX_RATE = 0.00906
 # Source: PWC-DCR-TY24 (DCs = 96.1% of C&P category; ~50% of F&F).
 NON_DC_BTP_FY26_EST = 22_000_000
 
-# Meals tax rate blend: FY26 is 6 mo at 4% + 6 mo at 3% = effective 3.5%;
-# FY27+ are full 3%. Source: PWC-REV-FY26-30 p.20.
-MEALS_RATE_FY26_BLEND = 0.035
-MEALS_RATE_FY27_PLUS = 0.030
+# Meals-tax rate by fiscal year. The FY27 adopted budget (Adoption_Resolution_
+# Memo_FY2027 p.2) cut the meals tax from 3% to 2% effective 2027-01-01, so
+# FY27 is six months at 3% plus six months at 2% = effective 2.5%; FY28+ is
+# full 2%. FY26 is six months at 4% plus six months at 3% = effective 3.5%
+# (PWC-REV-FY26-30 p.20).
+MEALS_RATE_BY_FY = {
+    2026: 0.035,
+    2027: 0.025,
+    2028: 0.020,
+    2029: 0.020,
+    2030: 0.020,
+    2031: 0.020,
+}
+MEALS_RATE_FY26_BLEND = MEALS_RATE_BY_FY[2026]  # retained name for back-compat
 
 # PWC Schools projected enrollment (FY26 baseline) — PWCS Fall 2025
 # enrollment ~91,543 (Source: PWCS 2025-26 Data Profile, cited as
@@ -305,8 +320,9 @@ def project_residential_re(
     # New construction AV added per year (baseline).
     new_construction_av_baseline = new_units * avg_unit_val
 
-    # Total assessed value of residential base in FY26 terms, backed out of tax.
-    fy26_residential_av = fy26_residential_re / RE_TAX_RATE
+    # Total assessed value of residential base in FY26 terms, backed out of tax
+    # at the FY26 rate (since that is the rate that produced the FY26 revenue).
+    fy26_residential_av = fy26_residential_re / RE_TAX_RATE_FY26
 
     # Stage 3b spillover overlay — load parameter table if requested.
     if regulatory_spillover and spillover is None:
@@ -343,7 +359,8 @@ def project_residential_re(
         # Turnover has a marginal markup effect above re-price. In PWC's annual
         # 100%-reassessment regime, turnover is implicitly in the price path.
         _ = turnover  # retained for explicit audit; not applied double-count.
-        projection[yr] = av * RE_TAX_RATE
+        # FY27-FY31 revenue projected at the FY27 adopted rate ($0.850/$100).
+        projection[yr] = av * RE_TAX_RATE_FY27
 
     return projection
 
@@ -363,7 +380,7 @@ def project_non_dc_commercial_re(
     # Innovation Park absorption: sqft at ~$250/sqft assessed value approx.
     sqft_yr = _get_param(assump, "commercial_re", "innovation_park_absorption_sqft_yr", scenario)
     innovation_park_av_add = sqft_yr * 250.0  # $250/sqft commercial assessed value
-    innovation_park_re_add = innovation_park_av_add * RE_TAX_RATE
+    innovation_park_re_add = innovation_park_av_add * RE_TAX_RATE_FY27
 
     projection = {}
     val = fy26_commercial_re
@@ -463,8 +480,10 @@ def project_meals_tax(
     baseline: pd.DataFrame, assump: pd.DataFrame, scenario: str
 ) -> dict[int, float]:
     fy26 = _get_baseline(baseline, "FY2026", "food_and_beverage_tax")
-    # Rebase from FY26 blended 3.5% to FY27 3.0% full year.
-    fy26_base_at_3pct = fy26 * (MEALS_RATE_FY27_PLUS / MEALS_RATE_FY26_BLEND)
+    # Back out FY26 underlying meals spending from FY26 revenue at the FY26
+    # blended rate, then reprice each forward year at its fiscal-year rate
+    # (3% through 2026-12-31, 2% from 2027-01-01 per FY27 adopted).
+    fy26_underlying_spending = fy26 / MEALS_RATE_BY_FY[2026]
     base_growth = _get_param(
         assump, "smaller_lines", "meals_tax_base_growth_pre_rate", scenario
     )
@@ -476,10 +495,10 @@ def project_meals_tax(
     fed_effect_annual = elasticity * income_shock_annual
 
     projection = {}
-    val = fy26_base_at_3pct
+    underlying = fy26_underlying_spending
     for yr in FISCAL_YEARS:
-        val = val * (1 + base_growth + fed_effect_annual)
-        projection[yr] = val
+        underlying = underlying * (1 + base_growth + fed_effect_annual)
+        projection[yr] = underlying * MEALS_RATE_BY_FY[yr]
     return projection
 
 
