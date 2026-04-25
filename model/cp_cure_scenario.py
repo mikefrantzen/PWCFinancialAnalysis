@@ -401,6 +401,61 @@ def run_cliff_analysis(
 
 
 # ---------------------------------------------------------------------------
+# Held-rate trajectory: a single coherent FY27-FY36 path for visualization.
+# Used by figures/fig_cp_cure_cliff. The Board sets a high rate at FY27 and
+# holds it; operators respond with new-build elasticity from year 1 and an
+# accumulating refresh slowdown that converges to a partial halt by FY32.
+# ---------------------------------------------------------------------------
+def simulate_held_rate_trajectory(
+    held_rate: float,
+    refresh_halt_floor: float = 0.50,
+) -> dict[int, dict[str, float]]:
+    """Run FY27-FY36 with rate held at `held_rate` from FY27 onward.
+    New CAPEX is reduced by elasticity (new-build + refresh-slowdown). After
+    five years of sustained hike, refresh approaches the floor at
+    `refresh_halt_floor` (0.0 = full halt, 0.5 = half).
+    """
+    book = initial_book()
+    # FY26 happens before the rate hike: full baseline new CAPEX, no elasticity.
+    book.add(2026, BASELINE_NEW_CP_CAPEX[2026])
+    results: dict[int, dict[str, float]] = {}
+
+    rate_hike = held_rate - LOUDOUN_CP_RATE
+    long_run_factor = new_capex_factor(rate_hike, year_of_hike=10)  # asymptote
+
+    # Refresh slowdown converges from 1.0 in pre-hike years to refresh_halt_floor
+    # over five years of sustained hike (FY27 ramp through FY31).
+    refresh_floor = refresh_halt_floor
+    for i, year in enumerate((2027, 2028, 2029, 2030, 2031,
+                              2032, 2033, 2034, 2035, 2036)):
+        years_into_hike = i + 1
+        base_capex = BASELINE_NEW_CP_CAPEX[year]
+
+        # New-build elasticity ramps to long-run over years 1-2 (existing model).
+        ncf = new_capex_factor(rate_hike, years_into_hike)
+        # Refresh slowdown: linearly converge from 1.0 toward refresh_floor over
+        # 5 years; after FY31 the operator is on a fully suppressed refresh.
+        refresh_progress = min(1.0, years_into_hike / 5.0)
+        refresh_factor = 1.0 - (1.0 - refresh_floor) * refresh_progress
+        new_capex = base_capex * ncf * refresh_factor
+
+        book.add(year, new_capex)
+        cp_av = book.total_av(year)
+        cp_revenue = cp_av * held_rate / 100.0
+
+        results[year] = {
+            "cp_rate": held_rate,
+            "rate_hike_above_loudoun": rate_hike,
+            "new_capex_this_year": new_capex,
+            "ncf": ncf,
+            "refresh_factor": refresh_factor,
+            "cp_av": cp_av,
+            "cp_revenue": cp_revenue,
+        }
+    return results
+
+
+# ---------------------------------------------------------------------------
 # Output writers
 # ---------------------------------------------------------------------------
 def write_results_csv(results: dict, name: str, fieldnames: list[str]):
@@ -500,6 +555,35 @@ def main():
     write_results_csv(cliff_50, "cp_cure_cliff_rate7_halfrefresh.csv", cliff_fields)
     write_results_csv(cliff_full, "cp_cure_cliff_rate7_fullhalt.csv", cliff_fields)
     write_results_csv(cliff_10, "cp_cure_cliff_rate10_fullhalt.csv", cliff_fields)
+
+    # ----- Held-rate FY27-FY36 trajectories for the Reddit cliff figure -----
+    print("=== Held-rate trajectory: $7.00 from FY27, refresh floor 50% ===")
+    held7 = simulate_held_rate_trajectory(held_rate=7.00, refresh_halt_floor=0.50)
+    for y, r in held7.items():
+        print(f"  FY{y}: AV ${r['cp_av']/1e9:.2f}B, revenue ${r['cp_revenue']/1e6:>6,.1f}M, "
+              f"new CAPEX ${r['new_capex_this_year']/1e9:.2f}B "
+              f"(ncf={r['ncf']:.2%}, refresh={r['refresh_factor']:.2%})")
+    print()
+
+    print("=== Held-rate trajectory: $10.00 from FY27, refresh floor 25% ===")
+    held10 = simulate_held_rate_trajectory(held_rate=10.00, refresh_halt_floor=0.25)
+    for y, r in held10.items():
+        print(f"  FY{y}: AV ${r['cp_av']/1e9:.2f}B, revenue ${r['cp_revenue']/1e6:>6,.1f}M, "
+              f"new CAPEX ${r['new_capex_this_year']/1e9:.2f}B")
+    print()
+
+    print("=== Baseline (no hike) trajectory: $4.50 from FY27, no refresh halt ===")
+    baseline_traj = simulate_held_rate_trajectory(held_rate=PWC_FY27_CP_RATE,
+                                                  refresh_halt_floor=1.0)
+    for y, r in baseline_traj.items():
+        print(f"  FY{y}: AV ${r['cp_av']/1e9:.2f}B, revenue ${r['cp_revenue']/1e6:>6,.1f}M")
+    print()
+
+    held_fields = ["cp_rate", "rate_hike_above_loudoun", "new_capex_this_year",
+                   "ncf", "refresh_factor", "cp_av", "cp_revenue"]
+    write_results_csv(held7, "cp_cure_held_rate7_fy27_fy36.csv", held_fields)
+    write_results_csv(held10, "cp_cure_held_rate10_fy27_fy36.csv", held_fields)
+    write_results_csv(baseline_traj, "cp_cure_baseline_fy27_fy36.csv", held_fields)
 
 
 if __name__ == "__main__":

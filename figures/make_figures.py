@@ -1313,6 +1313,190 @@ def fig_electricity_vs_retax():
     plt.close(fig)
 
 
+# ---------- C&P Cure: rate wall (Reddit graphic 1 of 2) ----------
+def fig_cp_cure_rate_wall():
+    """Required C&P (data-center personal-property) tax rate by fiscal year if
+    the Board attempts to plug the CAPEX Spillover deficit on data-center
+    revenue alone. Bars sit against peer-county C&P rates and the +$5/$100
+    "leave-Virginia" tip-out threshold from research/va_tax_competitive_notes.md.
+
+    Source: /data/cp_cure_carveout_with_elasticity.csv,
+            /data/va_county_tax_stack.csv.
+    """
+    rows = []
+    with open(DATA / "cp_cure_carveout_with_elasticity.csv") as f:
+        for r in csv.DictReader(f):
+            rows.append(r)
+
+    years = [int(r["fiscal_year"]) for r in rows]
+    rates = []
+    feasible = []
+    for r in rows:
+        try:
+            rates.append(float(r["required_rate"]))
+            feasible.append(r["feasible"].strip().lower() == "true")
+        except ValueError:
+            rates.append(float("nan"))
+            feasible.append(False)
+
+    PWC_FY27 = 4.50
+    LOUDOUN = 4.15
+    LEAVE_VA = LOUDOUN + 5.00  # $9.15/$100
+    INFEASIBLE_DISPLAY = 26.0  # tall bar to communicate "off the chart"
+
+    plot_rates = [r if (f and r == r) else INFEASIBLE_DISPLAY for r, f in zip(rates, feasible)]
+    colors = []
+    for r, f in zip(rates, feasible):
+        if not f or r != r:
+            colors.append("#5a0000")  # infeasible: dark red
+        elif r > LEAVE_VA:
+            colors.append("#d62728")  # past leave-VA threshold
+        elif r > PWC_FY27 + 0.5:
+            colors.append("#ff7f0e")  # past tolerance band
+        else:
+            colors.append("#1f77b4")  # within tolerance
+
+    fig, ax = plt.subplots(figsize=(9.0, 5.6))
+    x = list(range(len(years)))
+    bars = ax.bar(x, plot_rates, color=colors, edgecolor="#222", linewidth=0.7, width=0.62)
+
+    # Reference lines with legend entries
+    ax.axhline(PWC_FY27, color="#1f77b4", linestyle="--", linewidth=1.0,
+               label=f"PWC FY27 adopted (\\${PWC_FY27:.2f})")
+    ax.axhline(LOUDOUN, color="#2ca02c", linestyle="--", linewidth=1.0,
+               label=f"Loudoun TY26 (\\${LOUDOUN:.2f})")
+    ax.axhline(LEAVE_VA, color="#d62728", linestyle=":", linewidth=1.4,
+               label=f"+\\$5 vs Loudoun: leave-Virginia threshold (\\${LEAVE_VA:.2f})")
+
+    # Bar labels
+    for xi, r, f, plotted in zip(x, rates, feasible, plot_rates):
+        if f and r == r:
+            ax.text(xi, plotted + 0.4, f"\\${r:.2f}", ha="center", va="bottom",
+                    fontsize=11, fontweight="bold", color="#222")
+        else:
+            ax.text(xi, INFEASIBLE_DISPLAY + 0.4, "INFEASIBLE\n(no rate ≤ \\$25\nfills the hole)",
+                    ha="center", va="bottom", fontsize=9, fontweight="bold", color="#5a0000")
+
+    ax.set_xticks(x)
+    ax.set_xticklabels([f"FY{y}" for y in years])
+    ax.set_ylabel("Required C&P tax rate, $ per $100 of assessed value")
+    ax.set_ylim(0, INFEASIBLE_DISPLAY + 4.0)
+    ax.set_title(
+        "Year 1 fits. Year 2 you're on Mars.\n"
+        "C&P rate PWC would have to set to plug the CAPEX-spillover deficit on data-center taxes alone"
+    )
+    # Legend below the plot, three columns, so the plot face stays clean.
+    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.10), ncol=3,
+              fontsize=8.5, frameon=False)
+
+    ax.text(
+        0.0, -0.22,
+        "Sources: /data/cp_cure_carveout_with_elasticity.csv (FY27-FY31 required-rate solve, Schools Item 7-C carve-out, "
+        "with new-build elasticity vs. Loudoun differential per research/location_elasticity_notes.md). "
+        "Peer rates from /data/va_county_tax_stack.csv. Bar color = orange past tolerance band, red past leave-VA threshold, "
+        "dark red where no rate ≤ \\$25/\\$100 closes the gap because the elasticity-induced AV erosion outpaces the rate.",
+        transform=ax.transAxes, fontsize=6.8, ha="left", color="#444",
+    )
+    fig.tight_layout()
+    fig.savefig(OUT / "fig_cp_cure_rate_wall.png", bbox_inches="tight")
+    plt.close(fig)
+
+
+# ---------- C&P Cure: depreciation cliff (Reddit graphic 2 of 2) ----------
+def fig_cp_cure_cliff():
+    """Data-center C&P revenue trajectory FY27-FY36 under three paths from the
+    held-rate simulator in model/cp_cure_scenario.py:
+       (a) FY27 adopted baseline at $4.50, normal refresh
+       (b) Board holds rate at $7.00 from FY27, refresh slows to 50% by FY31
+       (c) Board holds rate at $10.00 from FY27, refresh slows to 25% by FY31
+    All three series come from the same cohort-depreciation engine, so the
+    FY31->FY32 transition is continuous.
+
+    Source: /data/cp_cure_baseline_fy27_fy36.csv,
+            /data/cp_cure_held_rate7_fy27_fy36.csv,
+            /data/cp_cure_held_rate10_fy27_fy36.csv.
+    """
+    def read_traj(path):
+        out = {}
+        with open(path) as f:
+            for r in csv.DictReader(f):
+                out[int(r["fiscal_year"])] = float(r["cp_revenue"]) / 1e6
+        return out
+
+    baseline = read_traj(DATA / "cp_cure_baseline_fy27_fy36.csv")
+    rate7 = read_traj(DATA / "cp_cure_held_rate7_fy27_fy36.csv")
+    rate10 = read_traj(DATA / "cp_cure_held_rate10_fy27_fy36.csv")
+
+    years = sorted(baseline.keys())
+    base_y = [baseline[y] for y in years]
+    r7_y = [rate7[y] for y in years]
+    r10_y = [rate10[y] for y in years]
+
+    fig, ax = plt.subplots(figsize=(9.6, 5.8))
+    ax.plot(years, base_y, color="#1f77b4", lw=2.4, marker="o",
+            label="Baseline: rate held at \\$4.50, refresh normal")
+    ax.plot(years, r7_y, color="#ff7f0e", lw=2.4, marker="s",
+            label="Hike to \\$7.00, operators slow refresh in PWC (50% by FY31)")
+    ax.plot(years, r10_y, color="#d62728", lw=2.4, marker="^",
+            label="Hike to \\$10.00, operators slow refresh in PWC (25% by FY31)")
+
+    ax.axvspan(2031.5, 2036.5, color="#fde8e8", alpha=0.55,
+               label="Depreciation-cliff window (FY32-FY36)")
+
+    # Year-1 uplift annotation: $10 path gets the largest one-year revenue spike.
+    spike_y = rate10[2027]
+    ax.annotate(
+        f"Year-1 uplift:\n\\${spike_y:.0f}M at \\$10 rate\n(base still intact)",
+        xy=(2027, spike_y), xytext=(2027.1, 610),
+        fontsize=9, color="#444",
+        arrowprops=dict(arrowstyle="->", color="#444", lw=0.8),
+    )
+    # Cliff-floor annotation
+    floor_val = rate10[2033]
+    ax.annotate(
+        "Schedule C floor:\n5% of original cost\nafter 4 years",
+        xy=(2033, floor_val), xytext=(2033.4, 540),
+        fontsize=9, color="#444",
+        arrowprops=dict(arrowstyle="->", color="#444", lw=0.8),
+    )
+    # Crossover annotation: where does each hike path fall below baseline?
+    cross7 = next((y for y in years if rate7[y] < baseline[y]), None)
+    cross10 = next((y for y in years if rate10[y] < baseline[y]), None)
+    cross_text_lines = []
+    if cross7:
+        cross_text_lines.append(f"\\$7 hike falls below baseline by FY{cross7}")
+    if cross10:
+        cross_text_lines.append(f"\\$10 hike falls below baseline by FY{cross10}")
+    if cross_text_lines:
+        ax.text(0.98, 0.96, "\n".join(cross_text_lines),
+                transform=ax.transAxes, fontsize=9, ha="right", va="top",
+                bbox=dict(boxstyle="round,pad=0.35", facecolor="#fff3e0",
+                          edgecolor="#b8860b", linewidth=0.8))
+
+    ax.set_xticks(years)
+    ax.set_xticklabels([f"FY{y}" for y in years], rotation=0)
+    ax.set_ylabel("Data-center C&P tax revenue, \\$M / year (nominal)")
+    ax.set_xlabel("")
+    ax.set_ylim(0, 700)
+    ax.set_title(
+        "Punish the base, lose the base.\n"
+        "PWC data-center C&P revenue if a sustained rate hike triggers operators to slow refresh in PWC"
+    )
+    ax.legend(loc="lower left", fontsize=8.8)
+
+    ax.text(
+        0.0, -0.17,
+        "Sources: /data/cp_cure_baseline_fy27_fy36.csv, /data/cp_cure_held_rate7_fy27_fy36.csv, "
+        "/data/cp_cure_held_rate10_fy27_fy36.csv. All three trajectories produced by the same cohort-depreciation engine "
+        "in model/cp_cure_scenario.py (PWC Schedule C 50/35/20/10/5%, floor at year 4) with new-build elasticity vs. "
+        "Loudoun differential (research/location_elasticity_notes.md) and a refresh-slowdown that converges over five years.",
+        transform=ax.transAxes, fontsize=6.8, ha="left", color="#444",
+    )
+    fig.tight_layout()
+    fig.savefig(OUT / "fig_cp_cure_cliff.png", bbox_inches="tight")
+    plt.close(fig)
+
+
 def main():
     data = load_scenario_results()
     fig_revenue_mix_fy26()
@@ -1328,6 +1512,8 @@ def main():
     fig_options_menu()
     fig_electricity_drivers()
     fig_electricity_vs_retax()
+    fig_cp_cure_rate_wall()
+    fig_cp_cure_cliff()
     print("Wrote figures to", OUT)
 
 
