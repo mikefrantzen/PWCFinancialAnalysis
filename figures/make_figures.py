@@ -45,6 +45,7 @@ from __future__ import annotations
 
 import csv
 import os
+import textwrap
 from collections import defaultdict
 from pathlib import Path
 
@@ -1388,13 +1389,15 @@ def fig_cp_cure_rate_wall():
     ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.10), ncol=3,
               fontsize=8.5, frameon=False)
 
-    ax.text(
-        0.0, -0.22,
+    src = (
         "Sources: /data/cp_cure_carveout_with_elasticity.csv (FY27-FY31 required-rate solve, Schools Item 7-C carve-out, "
         "with new-build elasticity vs. Loudoun differential per research/location_elasticity_notes.md). "
         "Peer rates from /data/va_county_tax_stack.csv. Bar color = orange past tolerance band, red past leave-VA threshold, "
-        "dark red where no rate ≤ \\$25/\\$100 closes the gap because the elasticity-induced AV erosion outpaces the rate.",
-        transform=ax.transAxes, fontsize=6.8, ha="left", color="#444",
+        "dark red where no rate ≤ \\$25/\\$100 closes the gap because the elasticity-induced AV erosion outpaces the rate."
+    )
+    ax.text(
+        0.0, -0.22, "\n".join(textwrap.wrap(src, width=130)),
+        transform=ax.transAxes, fontsize=6.8, ha="left", va="top", color="#444",
     )
     fig.tight_layout()
     fig.savefig(OUT / "fig_cp_cure_rate_wall.png", bbox_inches="tight")
@@ -1482,13 +1485,15 @@ def fig_cp_cure_cliff():
     )
     ax.legend(loc="lower left", fontsize=8.8)
 
-    ax.text(
-        0.0, -0.17,
+    src = (
         "Sources: /data/cp_cure_baseline_fy27_fy36.csv, /data/cp_cure_held_rate7_fy27_fy36.csv, "
         "/data/cp_cure_held_rate10_fy27_fy36.csv. All three trajectories produced by the same cohort-depreciation engine "
         "in model/cp_cure_scenario.py (PWC Schedule C 50/35/20/10/5%, floor at year 4) with new-build elasticity vs. "
-        "Loudoun differential (research/location_elasticity_notes.md) and a refresh-slowdown that converges over five years.",
-        transform=ax.transAxes, fontsize=6.8, ha="left", color="#444",
+        "Loudoun differential (research/location_elasticity_notes.md) and a refresh-slowdown that converges over five years."
+    )
+    ax.text(
+        0.0, -0.17, "\n".join(textwrap.wrap(src, width=130)),
+        transform=ax.transAxes, fontsize=6.8, ha="left", va="top", color="#444",
     )
     fig.tight_layout()
     fig.savefig(OUT / "fig_cp_cure_cliff.png", bbox_inches="tight")
