@@ -1,0 +1,6 @@
+fiscal_year,required_rate,rate_hike_above_loudoun,rate_hike_above_pwc_fy27,feasible,cp_av,cp_revenue,incremental_revenue_M,deficit_closed_M,target_deficit_M,new_capex_factor,refresh_factor,effective_new_capex_B,note
+2027,4.732826,0.582826,0.232826,True,5705000000.000000,270007728.261700,84.157728,84.157728,84.157728,1.000000,1.000000,4.700000,
+2028,15.344357,11.194357,10.844357,True,2550391913.456545,391341236.202525,153.741236,153.741236,153.741236,0.276113,0.990000,1.339423,
+2029,24.663471,20.513471,20.163471,True,2094035000.000000,516461708.876526,238.136709,238.136709,238.136709,0.200000,0.985000,1.004700,
+2030,nan,,,False,,,,,307.142771,,,,INFEASIBLE: no rate <= $25.0/$100 closes the gap given elasticity
+2031,nan,,,False,,,,,368.238498,,,,INFEASIBLE: no rate <= $25.0/$100 closes the gap given elasticity

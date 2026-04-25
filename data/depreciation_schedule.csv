@@ -1,0 +1,37 @@
+schedule,asset_class,age_years,pct_of_original_cost,source,notes
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),0,0.50,PWC 2025 BTPP Return Form (Schedule C Formula for Assessment),Year purchased = current year (e.g. 2024 cost on 2024 form). Acquisition year on Jan 1 assessment.
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),1,0.35,PWC 2025 BTPP Return Form,
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),2,0.20,PWC 2025 BTPP Return Form,
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),3,0.10,PWC 2025 BTPP Return Form,
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),4,0.05,PWC 2025 BTPP Return Form,Floor: 5% applies to 2020 and prior on TY2024 form (>=4 years old).
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),5,0.05,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),6,0.05,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),7,0.05,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),8,0.05,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),9,0.05,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_C,Computer Equipment & Peripherals (incl. data center),10,0.05,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,0,0.85,PWC 2025 BTPP Return Form (Schedule A),
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,1,0.75,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,2,0.65,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,3,0.55,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,4,0.45,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,5,0.35,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,6,0.25,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,7,0.15,PWC 2025 BTPP Return Form,
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,8,0.10,PWC 2025 BTPP Return Form,Floor: 10% for items 9 or more years old (i.e., 2016 and prior on TY2024 form).
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,9,0.10,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_A,Furniture / Office Equipment / General BPP,10,0.10,PWC 2025 BTPP Return Form,Floor.
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,0,0.80,PWC 2025 BTPP Return Form (Schedule B),
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,1,0.65,PWC 2025 BTPP Return Form,
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,2,0.50,PWC 2025 BTPP Return Form,
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,3,0.35,PWC 2025 BTPP Return Form,
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,4,0.20,PWC 2025 BTPP Return Form,
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,5,0.10,PWC 2025 BTPP Return Form,Floor: 10% for items six or more years old (TY2024 form: 2019 and prior).
+PWC_Schedule_B,Earth Moving / Heavy Equipment & Machinery,6,0.10,PWC 2025 BTPP Return Form,Floor.
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),0,0.60,Loudoun County BPP Assessment Schedules effective 2026-01-01,For comparison only. Loudoun lengthened schedule effective TY2026 from prior 50/40/30/20/10 to 60/45/30/15/10/5.
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),1,0.45,Loudoun County BPP Assessment Schedules,
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),2,0.30,Loudoun County BPP Assessment Schedules,
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),3,0.15,Loudoun County BPP Assessment Schedules,
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),4,0.10,Loudoun County BPP Assessment Schedules,
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),5,0.05,Loudoun County BPP Assessment Schedules,Floor.
+Loudoun_DE_2026,Computer Equipment in Data Center (Loudoun County reference),6,0.05,Loudoun County BPP Assessment Schedules,Floor.
