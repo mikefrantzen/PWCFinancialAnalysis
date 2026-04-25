@@ -1382,7 +1382,6 @@ def fig_cp_cure_rate_wall():
     ax.set_ylabel("Required C&P tax rate, $ per $100 of assessed value")
     ax.set_ylim(0, INFEASIBLE_DISPLAY + 4.0)
     ax.set_title(
-        "Year 1 fits. Year 2 you're on Mars.\n"
         "C&P rate PWC would have to set to plug the CAPEX-spillover deficit on data-center taxes alone"
     )
     # Legend below the plot, three columns, so the plot face stays clean.
@@ -1479,7 +1478,6 @@ def fig_cp_cure_cliff():
     ax.set_xlabel("")
     ax.set_ylim(0, 700)
     ax.set_title(
-        "Punish the base, lose the base.\n"
         "PWC data-center C&P revenue if a sustained rate hike triggers operators to slow refresh in PWC"
     )
     ax.legend(loc="lower left", fontsize=8.8)
