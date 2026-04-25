@@ -1314,6 +1314,25 @@ def fig_electricity_vs_retax():
     plt.close(fig)
 
 
+def _add_wrapped_caption(fig, ax, text, *, fontsize=7.0, char_per_inch=14.5,
+                         y_axes_offset=-0.20, color="#444"):
+    """Place a source-attribution caption under the plot, hard-wrapped to the
+    actual rendered axes width. Call AFTER fig.tight_layout() so axes width
+    is final. char_per_inch is calibrated for matplotlib's default sans-serif
+    (DejaVu Sans) — at 7pt, ~14-15 characters fit per inch."""
+    fig.canvas.draw()
+    renderer = fig.canvas.get_renderer()
+    bbox = ax.get_window_extent(renderer=renderer)
+    axes_width_in = (bbox.x1 - bbox.x0) / fig.dpi
+    max_chars = max(40, int(axes_width_in * char_per_inch))
+    wrapped = "\n".join(textwrap.wrap(text, width=max_chars))
+    ax.text(
+        0.0, y_axes_offset, wrapped,
+        transform=ax.transAxes, fontsize=fontsize, ha="left", va="top",
+        color=color,
+    )
+
+
 # ---------- C&P Cure: rate wall (Reddit graphic 1 of 2) ----------
 def fig_cp_cure_rate_wall():
     """Required C&P (data-center personal-property) tax rate by fiscal year if
@@ -1395,11 +1414,9 @@ def fig_cp_cure_rate_wall():
         "Peer rates from /data/va_county_tax_stack.csv. Bar color = orange past tolerance band, red past leave-VA threshold, "
         "dark red where no rate ≤ \\$25/\\$100 closes the gap because the elasticity-induced AV erosion outpaces the rate."
     )
-    ax.text(
-        0.0, -0.22, "\n".join(textwrap.wrap(src, width=130)),
-        transform=ax.transAxes, fontsize=6.8, ha="left", va="top", color="#444",
-    )
     fig.tight_layout()
+    _add_wrapped_caption(fig, ax, src, fontsize=7.0, char_per_inch=14.5,
+                         y_axes_offset=-0.22)
     fig.savefig(OUT / "fig_cp_cure_rate_wall.png", bbox_inches="tight")
     plt.close(fig)
 
@@ -1491,11 +1508,9 @@ def fig_cp_cure_cliff():
         "in model/cp_cure_scenario.py (PWC Schedule C 50/35/20/10/5%, floor at year 4) with new-build elasticity vs. "
         "Loudoun differential (research/location_elasticity_notes.md) and a refresh-slowdown that converges over five years."
     )
-    ax.text(
-        0.0, -0.17, "\n".join(textwrap.wrap(src, width=130)),
-        transform=ax.transAxes, fontsize=6.8, ha="left", va="top", color="#444",
-    )
     fig.tight_layout()
+    _add_wrapped_caption(fig, ax, src, fontsize=7.0, char_per_inch=14.5,
+                         y_axes_offset=-0.17)
     fig.savefig(OUT / "fig_cp_cure_cliff.png", bbox_inches="tight")
     plt.close(fig)
 
