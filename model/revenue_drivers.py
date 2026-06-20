@@ -159,12 +159,13 @@ DC_SHARE_OF_TOTAL_AV = 0.158
 NON_DC_COMMERCIAL_SHARE_OF_TOTAL_AV = 1.0 - RESIDENTIAL_SHARE_OF_TOTAL_AV - DC_SHARE_OF_TOTAL_AV
 
 # FY26 adopted RE tax rate = $0.906/$100 (PWC-REV-FY26-30 p.2).
-# FY27 adopted RE tax rate = $0.850/$100 (Item 7-A line 31, adopted 2026-04-21).
+# FY27 adopted RE tax rate = $0.865/$100 (Item 7-A line 31, adopted 2026-04-21;
+# verified against the pwcva.gov FY27 budget adoption release).
 # The FY26 rate is used to back out FY26 residential AV from FY26 revenue; the
 # FY27 rate is used to project FY27-FY31 residential RE revenue. Rate policy
 # remains a Stage 6 lever (see required_re_tax_rate() in pwc_5yr.py).
 RE_TAX_RATE_FY26 = 0.00906
-RE_TAX_RATE_FY27 = 0.00850
+RE_TAX_RATE_FY27 = 0.00865
 RE_TAX_RATE = RE_TAX_RATE_FY27  # default used for forward projections
 
 # Personal property on business-tangible (non-DC portion only). The baseline
@@ -359,7 +360,7 @@ def project_residential_re(
         # Turnover has a marginal markup effect above re-price. In PWC's annual
         # 100%-reassessment regime, turnover is implicitly in the price path.
         _ = turnover  # retained for explicit audit; not applied double-count.
-        # FY27-FY31 revenue projected at the FY27 adopted rate ($0.850/$100).
+        # FY27-FY31 revenue projected at the FY27 adopted rate ($0.865/$100).
         projection[yr] = av * RE_TAX_RATE_FY27
 
     return projection

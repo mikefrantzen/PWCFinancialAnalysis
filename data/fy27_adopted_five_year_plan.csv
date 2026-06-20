@@ -19,7 +19,7 @@ fiscal_year,metric,value,unit,source,note
 2029,total_gf_expenditure,2387900999,USD,FY27-Item-7-J,
 2030,total_gf_expenditure,2475511591,USD,FY27-Item-7-J,
 2031,total_gf_expenditure,2567647808,USD,FY27-Item-7-J,
-2027,re_tax_rate_per_100,0.850,USD_per_100_AV,FY27-Item-7-A,"Adopted 2026-04-21. Item 7-A line 31. Down from FY26 $0.906."
+2027,re_tax_rate_per_100,0.865,USD_per_100_AV,FY27-Item-7-A,"Adopted 2026-04-21. Item 7-A line 31. Down from FY26 $0.906 (verified adoption release)."
 2027,cp_tax_rate_per_100,4.500,USD_per_100_AV,FY27-Item-7-A,"Adopted 2026-04-21. Item 7-A line 74. Up from FY26 $4.15; $0.35 increment carved out of Schools 57.23% share per Item 7-C."
 2027,meals_tax_rate,0.025,fraction,FY27-Adoption-Memo,"Blended 3% H1 + 2% H2 effective 2027-01-01. FY28+ full 2%."
 2028,meals_tax_rate,0.020,fraction,FY27-Adoption-Memo,

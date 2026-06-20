@@ -9,7 +9,7 @@ Pre-Cancellation Digital Gateway,2027,assessed_value_base,144439894200.0,USD
 Pre-Cancellation Digital Gateway,2027,required_re_tax_rate_effective_per_100,0.7337650198168038,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2027,required_re_tax_rate_nominal_per_100,0.8911408953807296,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2027,required_re_rate_delta_vs_fy26_nominal,-0.014859104619270425,USD_per_100_AV
-Pre-Cancellation Digital Gateway,2027,required_re_rate_delta_vs_fy27_nominal,0.041140895380729625,USD_per_100_AV
+Pre-Cancellation Digital Gateway,2027,required_re_rate_delta_vs_fy27_nominal,0.026140895380729612,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2027,debt_service_total,153192809.0,USD
 Pre-Cancellation Digital Gateway,2027,debt_service_to_revenue_ratio,0.06893362116747535,fraction
 Pre-Cancellation Digital Gateway,2027,debt_service_headroom_vs_10pct_cap,69039544.97399998,USD
@@ -27,7 +27,7 @@ Pre-Cancellation Digital Gateway,2028,assessed_value_base,151661888910.0,USD
 Pre-Cancellation Digital Gateway,2028,required_re_tax_rate_effective_per_100,0.736156362103825,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2028,required_re_tax_rate_nominal_per_100,0.8940451260939216,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2028,required_re_rate_delta_vs_fy26_nominal,-0.011954873906078411,USD_per_100_AV
-Pre-Cancellation Digital Gateway,2028,required_re_rate_delta_vs_fy27_nominal,0.04404512609392164,USD_per_100_AV
+Pre-Cancellation Digital Gateway,2028,required_re_rate_delta_vs_fy27_nominal,0.029045126093921625,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2028,debt_service_total,161363914.0,USD
 Pre-Cancellation Digital Gateway,2028,debt_service_to_revenue_ratio,0.06961574587658775,fraction
 Pre-Cancellation Digital Gateway,2028,debt_service_headroom_vs_10pct_cap,70428350.76444003,USD
@@ -45,7 +45,7 @@ Pre-Cancellation Digital Gateway,2029,assessed_value_base,159244983355.50003,USD
 Pre-Cancellation Digital Gateway,2029,required_re_tax_rate_effective_per_100,0.740380377467894,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2029,required_re_tax_rate_nominal_per_100,0.8991750964958606,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2029,required_re_rate_delta_vs_fy26_nominal,-0.006824903504139446,USD_per_100_AV
-Pre-Cancellation Digital Gateway,2029,required_re_rate_delta_vs_fy27_nominal,0.049175096495860604,USD_per_100_AV
+Pre-Cancellation Digital Gateway,2029,required_re_rate_delta_vs_fy27_nominal,0.03417509649586059,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2029,debt_service_total,171711276.0,USD
 Pre-Cancellation Digital Gateway,2029,debt_service_to_revenue_ratio,0.07103426170275604,fraction
 Pre-Cancellation Digital Gateway,2029,debt_service_headroom_vs_10pct_cap,70018942.46630642,USD
@@ -63,7 +63,7 @@ Pre-Cancellation Digital Gateway,2030,assessed_value_base,167207232523.27502,USD
 Pre-Cancellation Digital Gateway,2030,required_re_tax_rate_effective_per_100,0.7324959397512089,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2030,required_re_tax_rate_nominal_per_100,0.8895996265611197,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2030,required_re_rate_delta_vs_fy26_nominal,-0.016400373438880345,USD_per_100_AV
-Pre-Cancellation Digital Gateway,2030,required_re_rate_delta_vs_fy27_nominal,0.039599626561119705,USD_per_100_AV
+Pre-Cancellation Digital Gateway,2030,required_re_rate_delta_vs_fy27_nominal,0.024599626561119692,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2030,debt_service_total,176021071.0,USD
 Pre-Cancellation Digital Gateway,2030,debt_service_to_revenue_ratio,0.06981066479579355,fraction
 Pre-Cancellation Digital Gateway,2030,debt_service_headroom_vs_10pct_cap,76119589.04798481,USD
@@ -81,7 +81,7 @@ Pre-Cancellation Digital Gateway,2031,assessed_value_base,175567594149.4388,USD
 Pre-Cancellation Digital Gateway,2031,required_re_tax_rate_effective_per_100,0.7202213730203073,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2031,required_re_tax_rate_nominal_per_100,0.8746924449817675,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2031,required_re_rate_delta_vs_fy26_nominal,-0.03130755501823257,USD_per_100_AV
-Pre-Cancellation Digital Gateway,2031,required_re_rate_delta_vs_fy27_nominal,0.02469244498176748,USD_per_100_AV
+Pre-Cancellation Digital Gateway,2031,required_re_rate_delta_vs_fy27_nominal,0.009692444981767467,USD_per_100_AV
 Pre-Cancellation Digital Gateway,2031,debt_service_total,175419137.0,USD
 Pre-Cancellation Digital Gateway,2031,debt_service_to_revenue_ratio,0.06669465286956039,fraction
 Pre-Cancellation Digital Gateway,2031,debt_service_headroom_vs_10pct_cap,87599155.25062472,USD
@@ -89,243 +89,243 @@ Pre-Cancellation Digital Gateway,2031,debt_service_cap_breached,0.0,boolean
 Pre-Cancellation Digital Gateway,2031,unassigned_gf_balance_eoy,-277602739.83353853,USD
 Pre-Cancellation Digital Gateway,2031,unassigned_gf_balance_policy_floor_7_5pct,197263719.18796852,USD
 Pre-Cancellation Digital Gateway,2031,unassigned_gf_balance_floor_breached,1.0,boolean
-CAPEX Spillover,2027,total_revenue,2135607762.2649999,USD
-CAPEX Spillover,2027,split_base_eligible_for_schools_transfer,1728634029.0,USD
-CAPEX Spillover,2027,schools_transfer,989297254.7967,USD
-CAPEX Spillover,2027,total_committed_expenditure,2219765490.5267,USD
-CAPEX Spillover,2027,surplus_or_deficit,-84157728.26170015,USD
-CAPEX Spillover,2027,real_estate_tax_revenue,968566186.2,USD
+CAPEX Spillover,2027,total_revenue,2135583162.2649999,USD
+CAPEX Spillover,2027,split_base_eligible_for_schools_transfer,1728609429.0,USD
+CAPEX Spillover,2027,schools_transfer,989283176.2167001,USD
+CAPEX Spillover,2027,total_committed_expenditure,2219751411.9467,USD
+CAPEX Spillover,2027,surplus_or_deficit,-84168249.68170023,USD
+CAPEX Spillover,2027,real_estate_tax_revenue,968556346.2,USD
 CAPEX Spillover,2027,assessed_value_base,140145760080.0,USD
-CAPEX Spillover,2027,required_re_tax_rate_effective_per_100,0.751163584157501,USD_per_100_AV
-CAPEX Spillover,2027,required_re_tax_rate_nominal_per_100,0.9122710552904771,USD_per_100_AV
-CAPEX Spillover,2027,required_re_rate_delta_vs_fy26_nominal,0.006271055290477112,USD_per_100_AV
-CAPEX Spillover,2027,required_re_rate_delta_vs_fy27_nominal,0.06227105529047716,USD_per_100_AV
+CAPEX Spillover,2027,required_re_tax_rate_effective_per_100,0.7511640703798452,USD_per_100_AV
+CAPEX Spillover,2027,required_re_tax_rate_nominal_per_100,0.9122716457964342,USD_per_100_AV
+CAPEX Spillover,2027,required_re_rate_delta_vs_fy26_nominal,0.006271645796434133,USD_per_100_AV
+CAPEX Spillover,2027,required_re_rate_delta_vs_fy27_nominal,0.04727164579643417,USD_per_100_AV
 CAPEX Spillover,2027,debt_service_total,153192809.0,USD
-CAPEX Spillover,2027,debt_service_to_revenue_ratio,0.07173265227202844,fraction
-CAPEX Spillover,2027,debt_service_headroom_vs_10pct_cap,60367967.226500005,USD
+CAPEX Spillover,2027,debt_service_to_revenue_ratio,0.07173347856775743,fraction
+CAPEX Spillover,2027,debt_service_headroom_vs_10pct_cap,60365507.226500005,USD
 CAPEX Spillover,2027,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover,2027,unassigned_gf_balance_eoy,50566271.73829985,USD
-CAPEX Spillover,2027,unassigned_gf_balance_policy_floor_7_5pct,160170582.169875,USD
+CAPEX Spillover,2027,unassigned_gf_balance_eoy,50555750.31829977,USD
+CAPEX Spillover,2027,unassigned_gf_balance_policy_floor_7_5pct,160168737.169875,USD
 CAPEX Spillover,2027,unassigned_gf_balance_floor_breached,1.0,boolean
-CAPEX Spillover,2028,total_revenue,2130442907.794275,USD
-CAPEX Spillover,2028,split_base_eligible_for_schools_transfer,1717567716.0,USD
-CAPEX Spillover,2028,schools_transfer,982964003.8668001,USD
-CAPEX Spillover,2028,total_committed_expenditure,2284184143.9968,USD
-CAPEX Spillover,2028,surplus_or_deficit,-153741236.2025249,USD
-CAPEX Spillover,2028,real_estate_tax_revenue,952066232.4,USD
+CAPEX Spillover,2028,total_revenue,2130418307.794275,USD
+CAPEX Spillover,2028,split_base_eligible_for_schools_transfer,1717543116.0,USD
+CAPEX Spillover,2028,schools_transfer,982949925.2868,USD
+CAPEX Spillover,2028,total_committed_expenditure,2284170065.4168,USD
+CAPEX Spillover,2028,surplus_or_deficit,-153751757.62252498,USD
+CAPEX Spillover,2028,real_estate_tax_revenue,952056392.4,USD
 CAPEX Spillover,2028,assessed_value_base,142948675281.6,USD
-CAPEX Spillover,2028,required_re_tax_rate_effective_per_100,0.7735695811270393,USD_per_100_AV
-CAPEX Spillover,2028,required_re_tax_rate_nominal_per_100,0.9394826280175572,USD_per_100_AV
-CAPEX Spillover,2028,required_re_rate_delta_vs_fy26_nominal,0.03348262801755719,USD_per_100_AV
-CAPEX Spillover,2028,required_re_rate_delta_vs_fy27_nominal,0.08948262801755724,USD_per_100_AV
+CAPEX Spillover,2028,required_re_tax_rate_effective_per_100,0.7735700578156122,USD_per_100_AV
+CAPEX Spillover,2028,required_re_tax_rate_nominal_per_100,0.9394832069449661,USD_per_100_AV
+CAPEX Spillover,2028,required_re_rate_delta_vs_fy26_nominal,0.03348320694496609,USD_per_100_AV
+CAPEX Spillover,2028,required_re_rate_delta_vs_fy27_nominal,0.07448320694496613,USD_per_100_AV
 CAPEX Spillover,2028,debt_service_total,161363914.0,USD
-CAPEX Spillover,2028,debt_service_to_revenue_ratio,0.07574195647752228,fraction
-CAPEX Spillover,2028,debt_service_headroom_vs_10pct_cap,51680376.77942753,USD
+CAPEX Spillover,2028,debt_service_to_revenue_ratio,0.07574283107201978,fraction
+CAPEX Spillover,2028,debt_service_headroom_vs_10pct_cap,51677916.77942753,USD
 CAPEX Spillover,2028,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover,2028,unassigned_gf_balance_eoy,-103174964.46422505,USD
-CAPEX Spillover,2028,unassigned_gf_balance_policy_floor_7_5pct,159783218.08457062,USD
+CAPEX Spillover,2028,unassigned_gf_balance_eoy,-103196007.3042252,USD
+CAPEX Spillover,2028,unassigned_gf_balance_policy_floor_7_5pct,159781373.08457062,USD
 CAPEX Spillover,2028,unassigned_gf_balance_floor_breached,1.0,boolean
-CAPEX Spillover,2029,total_revenue,2111466138.4870746,USD
-CAPEX Spillover,2029,split_base_eligible_for_schools_transfer,1692546132.0,USD
-CAPEX Spillover,2029,schools_transfer,968644151.3436,USD
-CAPEX Spillover,2029,total_committed_expenditure,2349602847.3636003,USD
-CAPEX Spillover,2029,surplus_or_deficit,-238136708.87652564,USD
-CAPEX Spillover,2029,real_estate_tax_revenue,930332967.0,USD
+CAPEX Spillover,2029,total_revenue,2111441538.4870746,USD
+CAPEX Spillover,2029,split_base_eligible_for_schools_transfer,1692521532.0,USD
+CAPEX Spillover,2029,schools_transfer,968630072.7636001,USD
+CAPEX Spillover,2029,total_committed_expenditure,2349588768.7836003,USD
+CAPEX Spillover,2029,surplus_or_deficit,-238147230.29652572,USD
+CAPEX Spillover,2029,real_estate_tax_revenue,930323127.0,USD
 CAPEX Spillover,2029,assessed_value_base,145807648787.23203,USD
-CAPEX Spillover,2029,required_re_tax_rate_effective_per_100,0.8013774898610432,USD_per_100_AV
-CAPEX Spillover,2029,required_re_tax_rate_nominal_per_100,0.9732546994827147,USD_per_100_AV
-CAPEX Spillover,2029,required_re_rate_delta_vs_fy26_nominal,0.06725469948271467,USD_per_100_AV
-CAPEX Spillover,2029,required_re_rate_delta_vs_fy27_nominal,0.12325469948271472,USD_per_100_AV
+CAPEX Spillover,2029,required_re_tax_rate_effective_per_100,0.8013779572027812,USD_per_100_AV
+CAPEX Spillover,2029,required_re_tax_rate_nominal_per_100,0.9732552670586057,USD_per_100_AV
+CAPEX Spillover,2029,required_re_rate_delta_vs_fy26_nominal,0.06725526705860563,USD_per_100_AV
+CAPEX Spillover,2029,required_re_rate_delta_vs_fy27_nominal,0.10825526705860566,USD_per_100_AV
 CAPEX Spillover,2029,debt_service_total,171711276.0,USD
-CAPEX Spillover,2029,debt_service_to_revenue_ratio,0.08132324401045617,fraction
-CAPEX Spillover,2029,debt_service_headroom_vs_10pct_cap,39435337.84870747,USD
+CAPEX Spillover,2029,debt_service_to_revenue_ratio,0.0813241914919593,fraction
+CAPEX Spillover,2029,debt_service_headroom_vs_10pct_cap,39432877.84870747,USD
 CAPEX Spillover,2029,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover,2029,unassigned_gf_balance_eoy,-341311673.3407507,USD
-CAPEX Spillover,2029,unassigned_gf_balance_policy_floor_7_5pct,158359960.38653058,USD
+CAPEX Spillover,2029,unassigned_gf_balance_eoy,-341343237.6007509,USD
+CAPEX Spillover,2029,unassigned_gf_balance_policy_floor_7_5pct,158358115.38653058,USD
 CAPEX Spillover,2029,unassigned_gf_balance_floor_breached,1.0,boolean
-CAPEX Spillover,2030,total_revenue,2090842143.8766222,USD
-CAPEX Spillover,2030,split_base_eligible_for_schools_transfer,1665729574.0,USD
-CAPEX Spillover,2030,schools_transfer,953297035.2002001,USD
-CAPEX Spillover,2030,total_committed_expenditure,2397984914.8702,USD
-CAPEX Spillover,2030,surplus_or_deficit,-307142770.99357796,USD
-CAPEX Spillover,2030,real_estate_tax_revenue,910165140.2,USD
+CAPEX Spillover,2030,total_revenue,2090817543.8766222,USD
+CAPEX Spillover,2030,split_base_eligible_for_schools_transfer,1665704974.0,USD
+CAPEX Spillover,2030,schools_transfer,953282956.6202,USD
+CAPEX Spillover,2030,total_committed_expenditure,2397970836.2902,USD
+CAPEX Spillover,2030,surplus_or_deficit,-307153292.41357803,USD
+CAPEX Spillover,2030,real_estate_tax_revenue,910155300.2,USD
 CAPEX Spillover,2030,assessed_value_base,148723801762.97662,USD
-CAPEX Spillover,2030,required_re_tax_rate_effective_per_100,0.8185024164011219,USD_per_100_AV
-CAPEX Spillover,2030,required_re_tax_rate_nominal_per_100,0.994052532519325,USD_per_100_AV
-CAPEX Spillover,2030,required_re_rate_delta_vs_fy26_nominal,0.08805253251932499,USD_per_100_AV
-CAPEX Spillover,2030,required_re_rate_delta_vs_fy27_nominal,0.14405253251932504,USD_per_100_AV
+CAPEX Spillover,2030,required_re_tax_rate_effective_per_100,0.8185028745792965,USD_per_100_AV
+CAPEX Spillover,2030,required_re_tax_rate_nominal_per_100,0.9940530889662771,USD_per_100_AV
+CAPEX Spillover,2030,required_re_rate_delta_vs_fy26_nominal,0.08805308896627706,USD_per_100_AV
+CAPEX Spillover,2030,required_re_rate_delta_vs_fy27_nominal,0.1290530889662771,USD_per_100_AV
 CAPEX Spillover,2030,debt_service_total,176021071.0,USD
-CAPEX Spillover,2030,debt_service_to_revenue_ratio,0.08418668597986075,fraction
-CAPEX Spillover,2030,debt_service_headroom_vs_10pct_cap,33063143.387662232,USD
+CAPEX Spillover,2030,debt_service_to_revenue_ratio,0.08418767649789095,fraction
+CAPEX Spillover,2030,debt_service_headroom_vs_10pct_cap,33060683.387662232,USD
 CAPEX Spillover,2030,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover,2030,unassigned_gf_balance_eoy,-648454444.3343287,USD
-CAPEX Spillover,2030,unassigned_gf_balance_policy_floor_7_5pct,156813160.79074666,USD
+CAPEX Spillover,2030,unassigned_gf_balance_eoy,-648496530.014329,USD
+CAPEX Spillover,2030,unassigned_gf_balance_policy_floor_7_5pct,156811315.79074666,USD
 CAPEX Spillover,2030,unassigned_gf_balance_floor_breached,1.0,boolean
-CAPEX Spillover,2031,total_revenue,2076170037.5511274,USD
-CAPEX Spillover,2031,split_base_eligible_for_schools_transfer,1644712613.4888983,USD
-CAPEX Spillover,2031,schools_transfer,941269028.6996965,USD
-CAPEX Spillover,2031,total_committed_expenditure,2444408535.4996967,USD
-CAPEX Spillover,2031,surplus_or_deficit,-368238497.9485693,USD
-CAPEX Spillover,2031,real_estate_tax_revenue,892738047.9955593,USD
+CAPEX Spillover,2031,total_revenue,2076145437.5511274,USD
+CAPEX Spillover,2031,split_base_eligible_for_schools_transfer,1644688013.4888983,USD
+CAPEX Spillover,2031,schools_transfer,941254950.1196965,USD
+CAPEX Spillover,2031,total_committed_expenditure,2444394456.9196963,USD
+CAPEX Spillover,2031,surplus_or_deficit,-368249019.3685689,USD
+CAPEX Spillover,2031,real_estate_tax_revenue,892728207.9955593,USD
 CAPEX Spillover,2031,assessed_value_base,151698277798.23618,USD
-CAPEX Spillover,2031,required_re_tax_rate_effective_per_100,0.8312398560129138,USD_per_100_AV
-CAPEX Spillover,2031,required_re_tax_rate_nominal_per_100,1.0095218626644773,USD_per_100_AV
-CAPEX Spillover,2031,required_re_rate_delta_vs_fy26_nominal,0.10352186266447727,USD_per_100_AV
-CAPEX Spillover,2031,required_re_rate_delta_vs_fy27_nominal,0.15952186266447732,USD_per_100_AV
+CAPEX Spillover,2031,required_re_tax_rate_effective_per_100,0.8312403052072024,USD_per_100_AV
+CAPEX Spillover,2031,required_re_tax_rate_nominal_per_100,1.0095224082007044,USD_per_100_AV
+CAPEX Spillover,2031,required_re_rate_delta_vs_fy26_nominal,0.10352240820070435,USD_per_100_AV
+CAPEX Spillover,2031,required_re_rate_delta_vs_fy27_nominal,0.1445224082007044,USD_per_100_AV
 CAPEX Spillover,2031,debt_service_total,175419137.0,USD
-CAPEX Spillover,2031,debt_service_to_revenue_ratio,0.08449170050007533,fraction
-CAPEX Spillover,2031,debt_service_headroom_vs_10pct_cap,32197866.755112767,USD
+CAPEX Spillover,2031,debt_service_to_revenue_ratio,0.08449270163217075,fraction
+CAPEX Spillover,2031,debt_service_headroom_vs_10pct_cap,32195406.755112767,USD
 CAPEX Spillover,2031,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover,2031,unassigned_gf_balance_eoy,-1016692942.282898,USD
-CAPEX Spillover,2031,unassigned_gf_balance_policy_floor_7_5pct,155712752.81633455,USD
+CAPEX Spillover,2031,unassigned_gf_balance_eoy,-1016745549.3828979,USD
+CAPEX Spillover,2031,unassigned_gf_balance_policy_floor_7_5pct,155710907.81633455,USD
 CAPEX Spillover,2031,unassigned_gf_balance_floor_breached,1.0,boolean
-Partial Recovery,2027,total_revenue,2198488305.95,USD
-Partial Recovery,2027,split_base_eligible_for_schools_transfer,1787407950.0,USD
-Partial Recovery,2027,schools_transfer,1022933569.7850001,USD
-Partial Recovery,2027,total_committed_expenditure,2253370605.515,USD
-Partial Recovery,2027,surplus_or_deficit,-54882299.56500006,USD
-Partial Recovery,2027,real_estate_tax_revenue,1008903590.2,USD
+Partial Recovery,2027,total_revenue,2198479080.95,USD
+Partial Recovery,2027,split_base_eligible_for_schools_transfer,1787398725.0,USD
+Partial Recovery,2027,schools_transfer,1022928290.3175001,USD
+Partial Recovery,2027,total_committed_expenditure,2253365326.0475,USD
+Partial Recovery,2027,surplus_or_deficit,-54886245.097500324,USD
+Partial Recovery,2027,real_estate_tax_revenue,1008899900.2,USD
 Partial Recovery,2027,assessed_value_base,141519738120.0,USD
-Partial Recovery,2027,required_re_tax_rate_effective_per_100,0.7516872938691953,USD_per_100_AV
-Partial Recovery,2027,required_re_tax_rate_nominal_per_100,0.9129070888009263,USD_per_100_AV
-Partial Recovery,2027,required_re_rate_delta_vs_fy26_nominal,0.006907088800926275,USD_per_100_AV
-Partial Recovery,2027,required_re_rate_delta_vs_fy27_nominal,0.06290708880092633,USD_per_100_AV
+Partial Recovery,2027,required_re_tax_rate_effective_per_100,0.7516874744323476,USD_per_100_AV
+Partial Recovery,2027,required_re_tax_rate_nominal_per_100,0.91290730809076,USD_per_100_AV
+Partial Recovery,2027,required_re_rate_delta_vs_fy26_nominal,0.0069073080907600115,USD_per_100_AV
+Partial Recovery,2027,required_re_rate_delta_vs_fy27_nominal,0.04790730809076005,USD_per_100_AV
 Partial Recovery,2027,debt_service_total,153192809.0,USD
-Partial Recovery,2027,debt_service_to_revenue_ratio,0.06968097514341932,fraction
-Partial Recovery,2027,debt_service_headroom_vs_10pct_cap,66656021.595,USD
+Partial Recovery,2027,debt_service_to_revenue_ratio,0.06968126753055244,fraction
+Partial Recovery,2027,debt_service_headroom_vs_10pct_cap,66655099.095,USD
 Partial Recovery,2027,debt_service_cap_breached,0.0,boolean
-Partial Recovery,2027,unassigned_gf_balance_eoy,79841700.43499994,USD
-Partial Recovery,2027,unassigned_gf_balance_policy_floor_7_5pct,164886622.94625,USD
+Partial Recovery,2027,unassigned_gf_balance_eoy,79837754.90249968,USD
+Partial Recovery,2027,unassigned_gf_balance_policy_floor_7_5pct,164885931.07125,USD
 Partial Recovery,2027,unassigned_gf_balance_floor_breached,1.0,boolean
-Partial Recovery,2028,total_revenue,2249401986.8475,USD
-Partial Recovery,2028,split_base_eligible_for_schools_transfer,1828111264.0,USD
-Partial Recovery,2028,schools_transfer,1046228076.3872,USD
-Partial Recovery,2028,total_committed_expenditure,2347385816.5172,USD
-Partial Recovery,2028,surplus_or_deficit,-97983829.66970015,USD
-Partial Recovery,2028,real_estate_tax_revenue,1027152075.4,USD
+Partial Recovery,2028,total_revenue,2249392761.8475,USD
+Partial Recovery,2028,split_base_eligible_for_schools_transfer,1828102039.0,USD
+Partial Recovery,2028,schools_transfer,1046222796.9197,USD
+Partial Recovery,2028,total_committed_expenditure,2347380537.0497,USD
+Partial Recovery,2028,surplus_or_deficit,-97987775.20219994,USD
+Partial Recovery,2028,real_estate_tax_revenue,1027148385.4,USD
 Partial Recovery,2028,assessed_value_base,145765330263.6,USD
-Partial Recovery,2028,required_re_tax_rate_effective_per_100,0.7718816971326583,USD_per_100_AV
-Partial Recovery,2028,required_re_tax_rate_nominal_per_100,0.9374327313702259,USD_per_100_AV
-Partial Recovery,2028,required_re_rate_delta_vs_fy26_nominal,0.03143273137022584,USD_per_100_AV
-Partial Recovery,2028,required_re_rate_delta_vs_fy27_nominal,0.08743273137022589,USD_per_100_AV
+Partial Recovery,2028,required_re_tax_rate_effective_per_100,0.7718818724366894,USD_per_100_AV
+Partial Recovery,2028,required_re_tax_rate_nominal_per_100,0.9374329442729767,USD_per_100_AV
+Partial Recovery,2028,required_re_rate_delta_vs_fy26_nominal,0.031432944272976715,USD_per_100_AV
+Partial Recovery,2028,required_re_rate_delta_vs_fy27_nominal,0.07243294427297675,USD_per_100_AV
 Partial Recovery,2028,debt_service_total,161363914.0,USD
-Partial Recovery,2028,debt_service_to_revenue_ratio,0.07173636146118502,fraction
-Partial Recovery,2028,debt_service_headroom_vs_10pct_cap,63576284.68474999,USD
+Partial Recovery,2028,debt_service_to_revenue_ratio,0.07173665565966636,fraction
+Partial Recovery,2028,debt_service_headroom_vs_10pct_cap,63575362.18474999,USD
 Partial Recovery,2028,debt_service_cap_breached,0.0,boolean
-Partial Recovery,2028,unassigned_gf_balance_eoy,-18142129.234700203,USD
-Partial Recovery,2028,unassigned_gf_balance_policy_floor_7_5pct,168705149.01356247,USD
+Partial Recovery,2028,unassigned_gf_balance_eoy,-18150020.29970026,USD
+Partial Recovery,2028,unassigned_gf_balance_policy_floor_7_5pct,168704457.13856247,USD
 Partial Recovery,2028,unassigned_gf_balance_floor_breached,1.0,boolean
-Partial Recovery,2029,total_revenue,2288420584.139875,USD
-Partial Recovery,2029,split_base_eligible_for_schools_transfer,1856564154.0,USD
-Partial Recovery,2029,schools_transfer,1062511665.3342,USD
-Partial Recovery,2029,total_committed_expenditure,2443376761.3542,USD
-Partial Recovery,2029,surplus_or_deficit,-154956177.21432495,USD
-Partial Recovery,2029,real_estate_tax_revenue,1038124169.0,USD
+Partial Recovery,2029,total_revenue,2288411359.139875,USD
+Partial Recovery,2029,split_base_eligible_for_schools_transfer,1856554929.0,USD
+Partial Recovery,2029,schools_transfer,1062506385.8667,USD
+Partial Recovery,2029,total_committed_expenditure,2443371481.8867,USD
+Partial Recovery,2029,surplus_or_deficit,-154960122.74682522,USD
+Partial Recovery,2029,real_estate_tax_revenue,1038120479.0,USD
 Partial Recovery,2029,assessed_value_base,152426316146.29648,USD
-Partial Recovery,2029,required_re_tax_rate_effective_per_100,0.7827259599118203,USD_per_100_AV
-Partial Recovery,2029,required_re_tax_rate_nominal_per_100,0.9506028413942483,USD_per_100_AV
-Partial Recovery,2029,required_re_rate_delta_vs_fy26_nominal,0.044602841394248305,USD_per_100_AV
-Partial Recovery,2029,required_re_rate_delta_vs_fy27_nominal,0.10060284139424835,USD_per_100_AV
+Partial Recovery,2029,required_re_tax_rate_effective_per_100,0.7827261275551162,USD_per_100_AV
+Partial Recovery,2029,required_re_tax_rate_nominal_per_100,0.9506030449932109,USD_per_100_AV
+Partial Recovery,2029,required_re_rate_delta_vs_fy26_nominal,0.04460304499321088,USD_per_100_AV
+Partial Recovery,2029,required_re_rate_delta_vs_fy27_nominal,0.08560304499321092,USD_per_100_AV
 Partial Recovery,2029,debt_service_total,171711276.0,USD
-Partial Recovery,2029,debt_service_to_revenue_ratio,0.07503484158028553,fraction
-Partial Recovery,2029,debt_service_headroom_vs_10pct_cap,57130782.41398752,USD
+Partial Recovery,2029,debt_service_to_revenue_ratio,0.07503514405930042,fraction
+Partial Recovery,2029,debt_service_headroom_vs_10pct_cap,57129859.91398752,USD
 Partial Recovery,2029,debt_service_cap_breached,0.0,boolean
-Partial Recovery,2029,unassigned_gf_balance_eoy,-173098306.44902515,USD
-Partial Recovery,2029,unassigned_gf_balance_policy_floor_7_5pct,171631543.8104906,USD
+Partial Recovery,2029,unassigned_gf_balance_eoy,-173110143.04652548,USD
+Partial Recovery,2029,unassigned_gf_balance_policy_floor_7_5pct,171630851.9354906,USD
 Partial Recovery,2029,unassigned_gf_balance_floor_breached,1.0,boolean
-Partial Recovery,2030,total_revenue,2316145694.774869,USD
-Partial Recovery,2030,split_base_eligible_for_schools_transfer,1873353634.0,USD
-Partial Recovery,2030,schools_transfer,1072120284.7382001,USD
-Partial Recovery,2030,total_committed_expenditure,2516683364.4082003,USD
-Partial Recovery,2030,surplus_or_deficit,-200537669.6333313,USD
-Partial Recovery,2030,real_estate_tax_revenue,1044391386.2,USD
+Partial Recovery,2030,total_revenue,2316136469.774869,USD
+Partial Recovery,2030,split_base_eligible_for_schools_transfer,1873344409.0,USD
+Partial Recovery,2030,schools_transfer,1072115005.2707001,USD
+Partial Recovery,2030,total_committed_expenditure,2516678084.9407,USD
+Partial Recovery,2030,surplus_or_deficit,-200541615.1658311,USD
+Partial Recovery,2030,real_estate_tax_revenue,1044387696.2,USD
 Partial Recovery,2030,assessed_value_base,157761237211.41684,USD
-Partial Recovery,2030,required_re_tax_rate_effective_per_100,0.7891222697277621,USD_per_100_AV
-Partial Recovery,2030,required_re_tax_rate_nominal_per_100,0.9583710139052983,USD_per_100_AV
-Partial Recovery,2030,required_re_rate_delta_vs_fy26_nominal,0.0523710139052983,USD_per_100_AV
-Partial Recovery,2030,required_re_rate_delta_vs_fy27_nominal,0.10837101390529835,USD_per_100_AV
+Partial Recovery,2030,required_re_tax_rate_effective_per_100,0.7891224317019607,USD_per_100_AV
+Partial Recovery,2030,required_re_tax_rate_nominal_per_100,0.9583712106192714,USD_per_100_AV
+Partial Recovery,2030,required_re_rate_delta_vs_fy26_nominal,0.05237121061927141,USD_per_100_AV
+Partial Recovery,2030,required_re_rate_delta_vs_fy27_nominal,0.09337121061927145,USD_per_100_AV
 Partial Recovery,2030,debt_service_total,176021071.0,USD
-Partial Recovery,2030,debt_service_to_revenue_ratio,0.07599740871098758,fraction
-Partial Recovery,2030,debt_service_headroom_vs_10pct_cap,55593498.47748691,USD
+Partial Recovery,2030,debt_service_to_revenue_ratio,0.07599771140303725,fraction
+Partial Recovery,2030,debt_service_headroom_vs_10pct_cap,55592575.97748691,USD
 Partial Recovery,2030,debt_service_cap_breached,0.0,boolean
-Partial Recovery,2030,unassigned_gf_balance_eoy,-373635976.08235645,USD
-Partial Recovery,2030,unassigned_gf_balance_policy_floor_7_5pct,173710927.10811517,USD
+Partial Recovery,2030,unassigned_gf_balance_eoy,-373651758.21235657,USD
+Partial Recovery,2030,unassigned_gf_balance_policy_floor_7_5pct,173710235.23311517,USD
 Partial Recovery,2030,unassigned_gf_balance_floor_breached,1.0,boolean
-Partial Recovery,2031,total_revenue,2348583661.661071,USD
-Partial Recovery,2031,split_base_eligible_for_schools_transfer,1894470799.4888983,USD
-Partial Recovery,2031,schools_transfer,1084205638.5474966,USD
-Partial Recovery,2031,total_committed_expenditure,2587189145.3474965,USD
-Partial Recovery,2031,surplus_or_deficit,-238605483.6864257,USD
-Partial Recovery,2031,real_estate_tax_revenue,1052349936.9955593,USD
+Partial Recovery,2031,total_revenue,2348574436.661071,USD
+Partial Recovery,2031,split_base_eligible_for_schools_transfer,1894461574.4888983,USD
+Partial Recovery,2031,schools_transfer,1084200359.0799966,USD
+Partial Recovery,2031,total_committed_expenditure,2587183865.8799963,USD
+Partial Recovery,2031,surplus_or_deficit,-238609429.21892548,USD
+Partial Recovery,2031,real_estate_tax_revenue,1052346246.9955593,USD
 Partial Recovery,2031,assessed_value_base,163282880513.8164,USD
-Partial Recovery,2031,required_re_tax_rate_effective_per_100,0.7906250897948539,USD_per_100_AV
-Partial Recovery,2031,required_re_tax_rate_nominal_per_100,0.9601961546302115,USD_per_100_AV
-Partial Recovery,2031,required_re_rate_delta_vs_fy26_nominal,0.054196154630211435,USD_per_100_AV
-Partial Recovery,2031,required_re_rate_delta_vs_fy27_nominal,0.11019615463021148,USD_per_100_AV
+Partial Recovery,2031,required_re_tax_rate_effective_per_100,0.7906252462916642,USD_per_100_AV
+Partial Recovery,2031,required_re_tax_rate_nominal_per_100,0.9601963446920212,USD_per_100_AV
+Partial Recovery,2031,required_re_rate_delta_vs_fy26_nominal,0.05419634469202117,USD_per_100_AV
+Partial Recovery,2031,required_re_rate_delta_vs_fy27_nominal,0.0951963446920212,USD_per_100_AV
 Partial Recovery,2031,debt_service_total,175419137.0,USD
-Partial Recovery,2031,debt_service_to_revenue_ratio,0.07469145760638231,fraction
-Partial Recovery,2031,debt_service_headroom_vs_10pct_cap,59439229.16610709,USD
+Partial Recovery,2031,debt_service_to_revenue_ratio,0.07469175098805489,fraction
+Partial Recovery,2031,debt_service_headroom_vs_10pct_cap,59438306.66610709,USD
 Partial Recovery,2031,debt_service_cap_breached,0.0,boolean
-Partial Recovery,2031,unassigned_gf_balance_eoy,-612241459.7687821,USD
-Partial Recovery,2031,unassigned_gf_balance_policy_floor_7_5pct,176143774.6245803,USD
+Partial Recovery,2031,unassigned_gf_balance_eoy,-612261187.431282,USD
+Partial Recovery,2031,unassigned_gf_balance_policy_floor_7_5pct,176143082.7495803,USD
 Partial Recovery,2031,unassigned_gf_balance_floor_breached,1.0,boolean
-CAPEX Spillover (impairment triggered),2027,total_revenue,2135607762.2649999,USD
-CAPEX Spillover (impairment triggered),2027,split_base_eligible_for_schools_transfer,1728634029.0,USD
-CAPEX Spillover (impairment triggered),2027,schools_transfer,989297254.7967,USD
-CAPEX Spillover (impairment triggered),2027,total_committed_expenditure,2219765490.5267,USD
-CAPEX Spillover (impairment triggered),2027,surplus_or_deficit,-84157728.26170015,USD
-CAPEX Spillover (impairment triggered),2027,unassigned_gf_balance_eoy,50566271.73829985,USD
-CAPEX Spillover (impairment triggered),2027,unassigned_gf_balance_policy_floor_7_5pct,160170582.169875,USD
+CAPEX Spillover (impairment triggered),2027,total_revenue,2135583162.2649999,USD
+CAPEX Spillover (impairment triggered),2027,split_base_eligible_for_schools_transfer,1728609429.0,USD
+CAPEX Spillover (impairment triggered),2027,schools_transfer,989283176.2167001,USD
+CAPEX Spillover (impairment triggered),2027,total_committed_expenditure,2219751411.9467,USD
+CAPEX Spillover (impairment triggered),2027,surplus_or_deficit,-84168249.68170023,USD
+CAPEX Spillover (impairment triggered),2027,unassigned_gf_balance_eoy,50555750.31829977,USD
+CAPEX Spillover (impairment triggered),2027,unassigned_gf_balance_policy_floor_7_5pct,160168737.169875,USD
 CAPEX Spillover (impairment triggered),2027,unassigned_gf_balance_floor_breached,1.0,boolean
 CAPEX Spillover (impairment triggered),2027,debt_service_total,153192809.0,USD
-CAPEX Spillover (impairment triggered),2027,debt_service_to_revenue_ratio,0.07173265227202844,fraction
-CAPEX Spillover (impairment triggered),2027,debt_service_headroom_vs_10pct_cap,60367967.226500005,USD
+CAPEX Spillover (impairment triggered),2027,debt_service_to_revenue_ratio,0.07173347856775743,fraction
+CAPEX Spillover (impairment triggered),2027,debt_service_headroom_vs_10pct_cap,60365507.226500005,USD
 CAPEX Spillover (impairment triggered),2027,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover (impairment triggered),2028,total_revenue,2128351907.794275,USD
-CAPEX Spillover (impairment triggered),2028,split_base_eligible_for_schools_transfer,1715476716.0,USD
-CAPEX Spillover (impairment triggered),2028,schools_transfer,981767324.5668,USD
-CAPEX Spillover (impairment triggered),2028,total_committed_expenditure,2282987464.6967998,USD
-CAPEX Spillover (impairment triggered),2028,surplus_or_deficit,-154635556.9025247,USD
-CAPEX Spillover (impairment triggered),2028,unassigned_gf_balance_eoy,-104069285.16422486,USD
-CAPEX Spillover (impairment triggered),2028,unassigned_gf_balance_policy_floor_7_5pct,159626393.08457062,USD
+CAPEX Spillover (impairment triggered),2028,total_revenue,2128290407.794275,USD
+CAPEX Spillover (impairment triggered),2028,split_base_eligible_for_schools_transfer,1715415216.0,USD
+CAPEX Spillover (impairment triggered),2028,schools_transfer,981732128.1168001,USD
+CAPEX Spillover (impairment triggered),2028,total_committed_expenditure,2282952268.2468004,USD
+CAPEX Spillover (impairment triggered),2028,surplus_or_deficit,-154661860.45252538,USD
+CAPEX Spillover (impairment triggered),2028,unassigned_gf_balance_eoy,-104106110.1342256,USD
+CAPEX Spillover (impairment triggered),2028,unassigned_gf_balance_policy_floor_7_5pct,159621780.58457062,USD
 CAPEX Spillover (impairment triggered),2028,unassigned_gf_balance_floor_breached,1.0,boolean
 CAPEX Spillover (impairment triggered),2028,debt_service_total,161363914.0,USD
-CAPEX Spillover (impairment triggered),2028,debt_service_to_revenue_ratio,0.07581636918644251,fraction
-CAPEX Spillover (impairment triggered),2028,debt_service_headroom_vs_10pct_cap,51471276.77942753,USD
+CAPEX Spillover (impairment triggered),2028,debt_service_to_revenue_ratio,0.07581856000903321,fraction
+CAPEX Spillover (impairment triggered),2028,debt_service_headroom_vs_10pct_cap,51465126.77942753,USD
 CAPEX Spillover (impairment triggered),2028,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover (impairment triggered),2029,total_revenue,2109375138.4870746,USD
-CAPEX Spillover (impairment triggered),2029,split_base_eligible_for_schools_transfer,1690455132.0,USD
-CAPEX Spillover (impairment triggered),2029,schools_transfer,967447472.0436001,USD
-CAPEX Spillover (impairment triggered),2029,total_committed_expenditure,2348406168.0636005,USD
-CAPEX Spillover (impairment triggered),2029,surplus_or_deficit,-239031029.57652593,USD
-CAPEX Spillover (impairment triggered),2029,unassigned_gf_balance_eoy,-343100314.7407508,USD
-CAPEX Spillover (impairment triggered),2029,unassigned_gf_balance_policy_floor_7_5pct,158203135.38653058,USD
+CAPEX Spillover (impairment triggered),2029,total_revenue,2109313638.4870746,USD
+CAPEX Spillover (impairment triggered),2029,split_base_eligible_for_schools_transfer,1690393632.0,USD
+CAPEX Spillover (impairment triggered),2029,schools_transfer,967412275.5936,USD
+CAPEX Spillover (impairment triggered),2029,total_committed_expenditure,2348370971.6136003,USD
+CAPEX Spillover (impairment triggered),2029,surplus_or_deficit,-239057333.12652564,USD
+CAPEX Spillover (impairment triggered),2029,unassigned_gf_balance_eoy,-343163443.26075125,USD
+CAPEX Spillover (impairment triggered),2029,unassigned_gf_balance_policy_floor_7_5pct,158198522.88653058,USD
 CAPEX Spillover (impairment triggered),2029,unassigned_gf_balance_floor_breached,1.0,boolean
 CAPEX Spillover (impairment triggered),2029,debt_service_total,171711276.0,USD
-CAPEX Spillover (impairment triggered),2029,debt_service_to_revenue_ratio,0.08140385883335952,fraction
-CAPEX Spillover (impairment triggered),2029,debt_service_headroom_vs_10pct_cap,39226237.84870747,USD
+CAPEX Spillover (impairment triggered),2029,debt_service_to_revenue_ratio,0.08140623227713141,fraction
+CAPEX Spillover (impairment triggered),2029,debt_service_headroom_vs_10pct_cap,39220087.84870747,USD
 CAPEX Spillover (impairment triggered),2029,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover (impairment triggered),2030,total_revenue,2088751143.8766222,USD
-CAPEX Spillover (impairment triggered),2030,split_base_eligible_for_schools_transfer,1663638574.0,USD
-CAPEX Spillover (impairment triggered),2030,schools_transfer,952100355.9002,USD
-CAPEX Spillover (impairment triggered),2030,total_committed_expenditure,2396788235.5702,USD
-CAPEX Spillover (impairment triggered),2030,surplus_or_deficit,-308037091.69357777,USD
-CAPEX Spillover (impairment triggered),2030,unassigned_gf_balance_eoy,-651137406.4343286,USD
-CAPEX Spillover (impairment triggered),2030,unassigned_gf_balance_policy_floor_7_5pct,156656335.79074666,USD
+CAPEX Spillover (impairment triggered),2030,total_revenue,2088689643.8766222,USD
+CAPEX Spillover (impairment triggered),2030,split_base_eligible_for_schools_transfer,1663577074.0,USD
+CAPEX Spillover (impairment triggered),2030,schools_transfer,952065159.4502001,USD
+CAPEX Spillover (impairment triggered),2030,total_committed_expenditure,2396753039.1202,USD
+CAPEX Spillover (impairment triggered),2030,surplus_or_deficit,-308063395.24357796,USD
+CAPEX Spillover (impairment triggered),2030,unassigned_gf_balance_eoy,-651226838.5043292,USD
+CAPEX Spillover (impairment triggered),2030,unassigned_gf_balance_policy_floor_7_5pct,156651723.29074666,USD
 CAPEX Spillover (impairment triggered),2030,unassigned_gf_balance_floor_breached,1.0,boolean
 CAPEX Spillover (impairment triggered),2030,debt_service_total,176021071.0,USD
-CAPEX Spillover (impairment triggered),2030,debt_service_to_revenue_ratio,0.0842709633055249,fraction
-CAPEX Spillover (impairment triggered),2030,debt_service_headroom_vs_10pct_cap,32854043.387662232,USD
+CAPEX Spillover (impairment triggered),2030,debt_service_to_revenue_ratio,0.08427344460486896,fraction
+CAPEX Spillover (impairment triggered),2030,debt_service_headroom_vs_10pct_cap,32847893.387662232,USD
 CAPEX Spillover (impairment triggered),2030,debt_service_cap_breached,0.0,boolean
-CAPEX Spillover (impairment triggered),2031,total_revenue,2074079037.5511274,USD
-CAPEX Spillover (impairment triggered),2031,split_base_eligible_for_schools_transfer,1642621613.4888983,USD
-CAPEX Spillover (impairment triggered),2031,schools_transfer,940072349.3996966,USD
-CAPEX Spillover (impairment triggered),2031,total_committed_expenditure,2443211856.1996965,USD
-CAPEX Spillover (impairment triggered),2031,surplus_or_deficit,-369132818.6485691,USD
-CAPEX Spillover (impairment triggered),2031,unassigned_gf_balance_eoy,-1020270225.0828977,USD
-CAPEX Spillover (impairment triggered),2031,unassigned_gf_balance_policy_floor_7_5pct,155555927.81633455,USD
+CAPEX Spillover (impairment triggered),2031,total_revenue,2074017537.5511274,USD
+CAPEX Spillover (impairment triggered),2031,split_base_eligible_for_schools_transfer,1642560113.4888983,USD
+CAPEX Spillover (impairment triggered),2031,schools_transfer,940037152.9496965,USD
+CAPEX Spillover (impairment triggered),2031,total_committed_expenditure,2443176659.7496963,USD
+CAPEX Spillover (impairment triggered),2031,surplus_or_deficit,-369159122.1985688,USD
+CAPEX Spillover (impairment triggered),2031,unassigned_gf_balance_eoy,-1020385960.702898,USD
+CAPEX Spillover (impairment triggered),2031,unassigned_gf_balance_policy_floor_7_5pct,155551315.31633455,USD
 CAPEX Spillover (impairment triggered),2031,unassigned_gf_balance_floor_breached,1.0,boolean
 CAPEX Spillover (impairment triggered),2031,debt_service_total,175419137.0,USD
-CAPEX Spillover (impairment triggered),2031,debt_service_to_revenue_ratio,0.08457688150935559,fraction
-CAPEX Spillover (impairment triggered),2031,debt_service_headroom_vs_10pct_cap,31988766.755112767,USD
+CAPEX Spillover (impairment triggered),2031,debt_service_to_revenue_ratio,0.08457938943328519,fraction
+CAPEX Spillover (impairment triggered),2031,debt_service_headroom_vs_10pct_cap,31982616.755112767,USD
 CAPEX Spillover (impairment triggered),2031,debt_service_cap_breached,0.0,boolean

@@ -108,7 +108,8 @@ CAPEX between site selection and stabilization.
   **3% → 2%** (eff. 1/1/2027) (PWC FY27 adoption release).
 - FY27 projected DC tax revenue **$549.7M (~28% of GF tax revenue)**.
 
-> Note on the model's RE rate: the integrated five-year model and solvency report use
-> a modeled adopted RE rate of **$0.850**; the verified real adopted rate is
-> **$0.865**. The $0.015 difference (~$16.5M/yr) is immaterial to the qualitative
-> findings but should be reconciled in a dedicated re-baseline pass.
+> Note on the model's RE rate: the integrated five-year model and solvency report were
+> re-baselined (June 2026) to the verified FY27 adopted RE rate of **$0.865** (the
+> $0.906→$0.865 cut is $0.041, not the $0.056 used in earlier drafts). The cumulative
+> deficit ($1,150M) and residual ($494M) are unchanged; the residential-rate option (C1)
+> is correspondingly smaller — full restoration ~$235M (was $320M), half ~$117M (was $160M).

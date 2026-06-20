@@ -11,7 +11,7 @@ Purpose of this note: capture the FY27 figures the integrated model consumes, an
 
 | Item | FY26 adopted | FY27 adopted | Δ | Source |
 |---|---:|---:|---:|---|
-| Real-estate tax rate (per $100) | $0.906 | **$0.850** | −$0.056 | Item 7-A line 31 |
+| Real-estate tax rate (per $100) | $0.906 | **$0.865** | −$0.041 | Item 7-A line 31 |
 | Computer & Peripherals (C&P) rate | $4.15 | **$4.50** | +$0.35 | Item 7-A line 74 |
 | General tangible personal property rate | $4.15 | **$4.50** | +$0.35 | Item 7-A |
 | Vehicle rate | $3.50 | $3.50 | 0 | Item 7-A |
@@ -32,7 +32,7 @@ Two structural notes:
 | Real-estate tax — current year (pre-relief) | $1,064,760,000 | $1,184,360,000 | $1,184,360,000 | BudgetSummary p.237 |
 | Average residential assessed value | $570,600 | **$590,571** | $590,571 | Introduction p.12 |
 
-Budget markup (April 14, 2026) reduced proposed general revenue by $32.558M net, producing the adopted ~$1,922.7M figure (primarily the RE rate cut from the proposed $0.886 / recap to the adopted $0.850).
+Budget markup (April 14, 2026) reduced proposed general revenue by $32.558M net, producing the adopted ~$1,922.7M figure (primarily the RE rate cut from the proposed $0.886 / recap to the adopted $0.865).
 
 ## 3. Adopted FY27–FY31 Five-Year Plan
 
@@ -91,7 +91,7 @@ The Data Center Revenue Stabilization Fund line item — the reserve designated 
 
 | Input | Pre-Stage-8 model | FY27 adopted | Implication for integrated model |
 |---|---|---|---|
-| RE rate starting point | $0.906 (FY26) | $0.850 (FY27) | "Required rate to close gap" recomputed against the lower starting rate; nominal 5.6¢ of relief already granted. |
+| RE rate starting point | $0.906 (FY26) | $0.865 (FY27) | "Required rate to close gap" recomputed against the lower starting rate; nominal 4.1¢ of relief already granted. |
 | C&P rate | $4.15 | $4.50 | Higher FY27 DC-attributable revenue in the Pre-Cancellation Digital Gateway scenario (counterfactual). |
 | Meals tax | 3% (through FY31) | 2% from 1/1/2027 | −$6M FY27, ≈−$12.4M/yr FY28+ in non-DC revenue. |
 | Residential assessed-value growth FY27 | ~0% (model's base) | +3.5% (Introduction p.12) | Base-case residential AV growth raised to match adopted; scenario-low retains negative-price sensitivity. |
@@ -103,7 +103,7 @@ The Data Center Revenue Stabilization Fund line item — the reserve designated 
 
 Adopted packet (April 21, 2026):
 - `Adoption_Resolution_Memo_FY2027.pdf` — staff adoption memo with markup changes.
-- `Item_7-A.pdf` — FY27 tax-levy resolution (RE $0.850, C&P $4.50, vehicle $3.50, BPOL schedule).
+- `Item_7-A.pdf` — FY27 tax-levy resolution (RE $0.865, C&P $4.50, vehicle $3.50, BPOL schedule).
 - `Item_7-B.pdf` — fee schedule.
 - `Item_7-C.pdf` — C&P $0.35 rate-increment carve-out from Schools share.
 - `Item_7-D.pdf` — All-Funds appropriation ($2.908B); FY27–FY32 CIP with bond reimbursement intents.

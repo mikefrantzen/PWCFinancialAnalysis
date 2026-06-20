@@ -174,7 +174,7 @@ SCENARIOS: Tuple[str, ...] = (SCENARIO_PRE_DG, SCENARIO_SPILLOVER, SCENARIO_PART
 
 # FY26 baseline anchors -- extracted from pwc_baseline.csv.
 FY26_RE_TAX_RATE_PER_100: float = 0.906  # $/ $100 of AV (PWC-REV-FY26-30 p.2).
-FY27_RE_TAX_RATE_PER_100: float = 0.850  # $/ $100 of AV (FY27 Adopted Item 7-A).
+FY27_RE_TAX_RATE_PER_100: float = 0.865  # $/ $100 of AV (FY27 Adopted Item 7-A; verified adoption release).
 # Rate applied to FY27+ real-property revenue in this model. Historical FY26
 # residual calculations still use FY26_RE_TAX_RATE_PER_100.
 CURRENT_RE_TAX_RATE_PER_100: float = FY27_RE_TAX_RATE_PER_100
@@ -1468,7 +1468,7 @@ def main() -> int:
             print(f"    FY{fy}: ${v/1e6:+,.1f}M")
 
     print("\n=== Required RE tax rate per $100 (CAPEX Spillover) ===")
-    print("  (Nominal rate; FY27 adopted nominal = $0.850; FY26 was $0.906)")
+    print("  (Nominal rate; FY27 adopted nominal = $0.865; FY26 was $0.906)")
     for fy in FISCAL_YEARS:
         v = float(
             scenario_results[

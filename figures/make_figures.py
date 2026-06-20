@@ -285,9 +285,9 @@ def fig_fy27_adopted_vs_scenarios(data):
 def fig_required_tax_rate(data):
     fys = [2027, 2028, 2029, 2030, 2031]
     fig, ax = plt.subplots(figsize=(7.2, 4.1))
-    fy27_rate = 0.850
+    fy27_rate = 0.865
     fy26_rate = 0.906
-    ax.axhline(fy27_rate, color="#1f7a1f", linestyle="-", linewidth=1.2, label="FY27 adopted nominal rate $0.850")
+    ax.axhline(fy27_rate, color="#1f7a1f", linestyle="-", linewidth=1.2, label="FY27 adopted nominal rate $0.865")
     ax.axhline(fy26_rate, color="#888", linestyle="--", linewidth=0.8, label="FY26 adopted nominal rate $0.906")
     ax.axhline(1.000, color="#888", linestyle=":", linewidth=0.8)
     ax.text(fys[0] - 0.05, 1.003, "$1.00 threshold", fontsize=7, color="#666")
@@ -309,7 +309,7 @@ def fig_required_tax_rate(data):
         -0.2,
         "Source: /data/scenario_results.csv metric required_re_tax_rate_nominal_per_100. Nominal rate converted from the modeled "
         "effective rate using the FY26 $0.906/$0.746 = 1.214 ratio (PWC-BUD-FY26-REV p.63; model/pwc_5yr.py §NOMINAL_TO_EFFECTIVE_RATIO). "
-        "FY27 adopted rate $0.850 (Item 7-A) shown as the current-policy reference; FY26 $0.906 shown for historical comparison.",
+        "FY27 adopted rate $0.865 (Item 7-A) shown as the current-policy reference; FY26 $0.906 shown for historical comparison.",
         transform=ax.transAxes,
         fontsize=6.5,
         ha="left",
